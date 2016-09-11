@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+<head>
+    <title> Removing Determinism </title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/style.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+    </script>
+
+    <script type="text/javascript" async
+        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML">
+    </script>
+
+    <style>
+        a:link { text-decoration: none; }
+        a:visited { text-decoration: none; }
+        a:hover { text-decoration: none; }
+        a:active { text-decoration: none; }
+        .definition {
+            display: block;
+            margin: 0em 2em 1em;
+            font-style: normal;
+        }
+        .definition:before {
+            content: "Definition.";
+            font-weight: bold;
+        }
+        .example {
+            display: block;
+            margin: 0em 2em;
+            font-style: normal;
+        }
+        .example:before {
+            content: "Example.";
+            font-style: italic;
+        }
+        .theorem {
+            display: block;
+            margin: 0em 2em 1em;
+            font-style: normal;
+        }
+        .theorem:before {
+            content: "Theorem.";
+            font-weight: bold;
+            font-style: normal;
+        }
+    </style>
+</head>
+
+<body style="line-height:1.3">
+
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="../index.html">Jacob Denson</a>
+    </div>
+    
+    <ul class="nav navbar-nav">
+      <li><a href="../index.html">Home</a></li>
+      <li><a href="../cv_10.pdf">Resume</a></li>
+      <li class="active dropdown"><a href="../notes.html">Notes</a>
+        <ul class="dropdown-menu">
+          <li><a href="stochastic_toc.html">Stochastic Processes</a></li>
+        </ul>
+      </li>
+      <li><a href="https://github.com/jdjake">Github</a></li>
+    </ul>
+  </div>
+</nav>
+
+    <div style="margin:1em 1em">
+        <p align="left" style="margin-top: 0; margin-bottom: 0px"><b>
+            <font face="Arial" style="font-size:200%">X: Branching Processes</font></b>
+        </p>
+        <hr noshade>
+
+        <div style="margin:2em">
+            <h3 id="X-1"> X-1: Reproduction </h3>
+
+            <p>
+                We shall now apply our knowledge of markov chains to an analysis of population growth. At each time epoch $t$, we let $X_t$ denote the number of individuals surviving at time $t$. Each time epoch will represent a generation of a species, so that at each time interval, offspring are generated, and the current population dies off. We now make the assumption that
+
+                <ol>
+                    <li> Each member of the species has the same chance of producing offspring, given by a distribution over $\mathbf{N}$.</li>
+                    <li> The population reproduces asexually and statistically independantly of one another.</li>
+                </ol>
+                These assumptions guarentee that $X_t$ is a markov chain on $\mathbf{N}$.
+            </p>
+
+            <p>
+                Now if $X_t = k$, and $Y_1, \dots, Y_k$ are independent random variables with the distribution described above, then
+
+                \begin{equation} \mathbf{P}(X_{t+1} = k' | X_t = k) = \mathbf{P}\left(\sum_{i = 1}^k Y_i = k' \right) \end{equation}
+
+                Let $\mu$ denote the mean amount of offspring a single individual will possess. Then by (1),
+
+                \begin{equation} \mathbf{E}(X_{t+1}|X_t = k) = \mathbf{E}\left(\sum_{i = 1}^k Y_i \right) = \sum_{i = 1}^k \mathbf{E}(Y_i) = k\mu \end{equation}
+
+                (2) gives us the relatively easy computation that
+
+                \begin{equation} \mathbf{E}(X_{t+1}) = \mathbf{E}[\mathbf{E}(X_{t+1}|X_t)] = \sum_{k = 0}^\infty \mathbf{P}(X_t = k) k \mu = \mu \mathbf{E}(X_t) \end{equation}
+
+                And therefore $\mathbf{E}(X_n) = \mu^n \mathbf{E}(X_0)$.
+            </p>
+
+            <p>
+                This already tells us the intuitive fact that
+
+                <ol>
+                    <li> If $\mu < 1$, our expected population will tend to extinction.</li>
+                    <li> If $\mu = 1$, our population will on average remain the same.</li>
+                    <li> If $\mu > 1$, our expected population will become unbouned.</li>
+                </ol>
+
+                What's more, by Markov's inequality, if $\mu < 1$, then 
+
+                \[ \mathbf{P}(X_n = 0) = 1 - \mathbf{P}(X_n > 1/2) \geq 1 - 2\mathbf{E}(X_n) = 1 - 2 \mu^n \mathbf{E}(X_0) \to 1 \]
+
+                Since $\sum_{n = 1}^\infty \mathbf{P}(X_n = 0) = \lim_{n \to \infty} \mathbf{P}(X_n) = 1$, the population will almost surely become extinct.
+            </p>
+
+            <h3 id="X-2"> X-2 Reproduction Probabilities </h3>
+
+            <p>
+                Even if $\mu \geq 1$, there is a chance that the population will become extinct. The problem in this section will be in deriving this probability in terms of the reproduction probabilities. Let $a_n(k)$ denote the probability of extinction after $n$ generations given that we start with k individuals. Then, as we have derived above, the possibility of general extinction from $k$ individuals is $a(k) = \lim_{n \to \infty} a_n(k)$. Since all $k$ branches of the population act independantly, we have $a_n(k) = a_n(1)^k$, and it suffices to determine $a(1)$, which we shall denote $a$. Furthermore, for computation, denote the probability of $k$ offspring from a branch by $p_k$. If we look one generation ahead, then
+
+                \begin{equation} a = \mathbf{P}(\text{extinction}|X_0 = 1) = \sum_{k = 0}^\infty \mathbf{P}(X_1 = k | X_0 = 1) \mathbf{P}(\text{extinction} | X_1 = k) = \sum_{k = 0}^\infty p_k a^k
+                \end{equation}
+
+                Thus $a = \varphi_1(a)$, where $\varphi_1$ is the generating function of $X_1$, assuming $X_0 = 1$. If we let $\varphi_n$ be the generating function of $X_n$, then
+
+                \begin{align}
+                    \varphi_n(a) &= \sum_{k = 0}^\infty \mathbf{P}(X_n = k) a^k = \sum_{k = 0}^\infty \sum_{j = 0}^\infty \mathbf{P}(X_1 = j) \mathbf{P}(X_n = k | X_1 = j) a^k\\
+                    &= \sum_{j = 0}^\infty p_j \sum_{k = 0}^\infty \mathbf{P}(X_n = k | X_1 = j) a^k = \sum_{j = 0}^\infty p_j \sum_{k = 0}^\infty \mathbf{P}(X_{n-1} = k | X_0 = j) a^k
+                \end{align}
+
+                Now $\mathbf{P}(X_{n-1}| X_0 = j)$ is distributed the same as the sum of $j$ independent random variables $Y_1, \dots, Y_j$, each distributed the same as $\mathbf{P}(X_{n-1} | X_0 = 1)$, so that each has the generating function $\varphi_{n-1}$, and so, in tandem with (6),
+
+                \begin{align}
+                    \varphi_n(a) = \sum_{j = 0}^\infty p_j \mathbf{E}(a^{X_{n-1}}) = \sum_{j = 0}^\infty p_j \varphi_{n-1}(a)^j = \varphi(\varphi_{n-1}(a))
+                \end{align}
+
+                Using (7), we can recursively determine $a_n(1) = \mathbf{P}(X_n = 0 | X_0 = 1) = \varphi_n(0)$ by calculating $\varphi_n(a)$
+        </div>
+    </div>
+</body>
+
+</html>

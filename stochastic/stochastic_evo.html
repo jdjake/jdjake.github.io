@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+<head>
+    <title> Removing Determinism </title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/style.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+    </script>
+
+    <script type="text/javascript" async
+        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML">
+    </script>
+
+    <style>
+        a:link { text-decoration: none; }
+        a:visited { text-decoration: none; }
+        a:hover { text-decoration: none; }
+        a:active { text-decoration: none; }
+        .definition {
+            display: block;
+            margin: 0em 2em 1em;
+            font-style: normal;
+        }
+        .definition:before {
+            content: "Definition.";
+            font-weight: bold;
+        }
+        .example {
+            display: block;
+            margin: 0em 2em;
+            font-style: normal;
+        }
+        .example:before {
+            content: "Example.";
+            font-style: italic;
+        }
+        .theorem {
+            display: block;
+            margin: 0em 2em 1em;
+            font-style: normal;
+        }
+        .theorem:before {
+            content: "Theorem.";
+            font-weight: bold;
+            font-style: normal;
+        }
+    </style>
+</head>
+
+<body style="line-height:1.3">
+
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="../index.html">Jacob Denson</a>
+    </div>
+    
+    <ul class="nav navbar-nav">
+      <li><a href="../index.html">Home</a></li>
+      <li><a href="../cv_10.pdf">Resume</a></li>
+      <li class="active dropdown"><a href="../notes.html">Notes</a>
+        <ul class="dropdown-menu">
+          <li><a href="stochastic_toc.html">Stochastic Processes</a></li>
+        </ul>
+      </li>
+      <li><a href="https://github.com/jdjake">Github</a></li>
+    </ul>
+  </div>
+</nav>
+
+<div style="margin:1em 1em">
+    <p align="left" style="margin-top: 0; margin-bottom: 0px"><b>
+        <font face="Arial" style="font-size:200%">1: (Un)Determinism</font></b>
+    </p>
+    <hr noshade>
+
+    <div style="margin:2em">
+        <h3 id="1-1"> 1-1: What is a Stochastic Process? </h3>
+
+        <p>
+        The theory of dynamic systems allows us to determine the motions of objects under deterministic actions. Newton's development of analytical mechanics showed us that past and future can be predicted systematically from the positions and velocities of particles at any one point, in tandem with infinitisimal motions in any one direction. It is here that the theory of differential equations and dynamical systems takes over. In these notes, we take a different approach than Newton followed. In reality, one can never measure the data precisely enough to determine the state of a system. Inexactness thus shrouds the determinism of a system, which invalidates Newton's model when applied to real-life experiments. Stochastic processes models the uncertainty of observations in a physical system.
+        </p>
+
+        <div class="definition">
+            A <strong> Stochastic Process </strong> is a collection $\{X_t\}_{t \in T}$ of random variables defined over the same probability space $\Omega$, with range in the same <strong> state space </strong> $\mathcal{S}$, indexed over a linearly ordered set $T$, representing time.
+        </div>
+
+        <p>
+            We can think of a stochastic process as an experiment, which generates a range of data. For each particular experiment (or observation), we pick a particular $\omega \in \Omega$, and observe the resulting <strong>trajectory</strong> of data $\{ X_i(\omega) : i \in T \}$. The fact that stochastic processes can model <strong>any</strong> observation of this variety means they represent a great many phenomena, with many examples of applications.
+            </p>
+
+            <p>
+                As a naive model of the uncertainty of weather, we may take a stochastic process with state space $\mathcal{S} = \{ \textbf{sunny}, \textbf{rainy} \}$. For $i \in \mathbf{Z}$, we may model the weather on a certain day $i$ by a random variable $X_i : \Omega \to \mathcal{S}$. Then $\{ X_i : i \in \mathbf{Z} \}$ is a stochastic process. Of course, real models of the weather use much more complicated state spaces and time, but most if not all models will use a stochastic process, because weather is a chaotic system. Even if we use Newtonian mechanics as an approximation of the weather system, we cannot determine all physical variables which may effect the future, and even the smallest uncertainty will drastically effect the state of the future (you may know this as 'the butterfly effect').
+            </p>
+
+            <p>
+                In finance, we often want to model the stock market as an uncertain process, because as with weather it is impossible to measure every variable which will determine future stocks (and how would we model a person's internal decision to buy and sell stocks in the future?). We take $\mathcal{S} = \mathbf{R}$, and let $X_i$ be the value of a certain stock at time $i$, for $i \in \mathbf{R}$. This is a continuous time random process, into a continuous state space. We will treat continuous stochastic processes like this at a later time, and discover that modelling the stock market can be effectively generalized as the study of Brownian motion, which also describes the way that atoms move.
+            </p>
+
+            <p>
+                In non-parametric statistics, to estimate the CDF of an independant and identically distributed sample $X_1, \dots, X_n \sim F$ of a distribution over the real numbers, we take the estimate
+                \[ \hat{F}(t) = \sum_{i = 1}^n \frac{\mathbf{I}[X_i \leq t]}{n} \]
+                Then, for a fixed $t$, $\hat{F}(t)$ is a random variable, determining a stochastic process, ordered over $t$. Thus the study of this estimate reduces to a problem in stochastic processes, and in fact, most results about this distribution use the ideas of our current approach in disguise.
+            </p>
+
+            <p>
+                The examples above show both the boon and deficiency of our approach. On one hand, a vast number of problems can be covered by stochastic processes. On the other hand, this means that when we study stochastic processes in general we are studying far too many things to make meaniningful and deep statements. We will discover that the real fun of stochastic processes begins when we add additional assumptions about our data, and discover the resulting properties.
+            </p>
+
+            <h3 id="1-2"> 1-2: Constructing Processes </h3>
+
+            <p>
+                We have shown that using stochastic processes is a very general notion of repeatedly observing data. This relies on the fact that it is easy to specify some process by an observation of some data which may have some random component. Most constructions of stochastic processes rely on observing a finite portion of the data, and then extrapolating to form the entire process. It is fortunate that mathematics has an <strong> existence theorem </strong> showing that, provided your finite data is consistent, a stochastic process can always be built to satisfy your needs.
+            </p>
+
+            <p>
+                To describe the theorem elegantly, we shall introduce some temporary terminology. Fix some state space $\mathcal{S} \subset \mathbf{R}$, and index set $T$, in which our stochastic process will be generated. Suppose that each finite subset $A$ of $T$ determines a probability distribution $\mathbf{P}_A$ on the Borel $\sigma$-algebra of $\mathcal{S}^A$. If $B \subset A \subset T$, then we have an imbedding of the borel sigma algebras defined by
+
+                    $$ \pi_{B \to A}: \mathcal{B}(S^B) \to \mathcal{B}(S^A) $$
+
+                    $$ \pi_{B \to A} (X) = \{ x \in \mathcal{S}^A : \{ x_i : i \in B \} \in X\ \text{and}\ x_j = \mathcal{S}\ \text{for}\ j \not \in B \} $$
+
+                In other words, we just take $\mathcal{S}$ as the fiber on coordinates not in $B$. A family of finite dimensional distributions $\{ \mathbf{P}_S : S \subset T \}$ is <strong>consistant</strong> if $\mathbf{P}_A \circ \pi_{B \to A} = \mathbf{P}_B$, for any $B \subset A \subset T$. It was Kolmogorov's discovery that this is all we need to define a stochastic process.
+            </p>
+
+            <div class="theorem">
+                (Kolmogorov's Extension Theorem) A consistant family of distributions on an index set $T$ determines a stochastic process $\{ X_i : i \in T \}$ for which $\{ X_i : i \in S \} \sim \mathbf{P}_S$ for any finite $S \subset T$.
+            </div>
+
+            <p>
+            The proof uses the Hahn-Kolmogorov/Carath&eacuteodory extension theorem to construct a probability measure on $\mathcal{S}^T$, which can then be taken as the sample space of our random variables $X_i = \pi_i$. We leave the technical details to the reader. The proof given should (in principle) extend naturally to any Polish (separable and completely metrizable) space, but this is not needed here. The random variables specified are not unique, but we shall not worry about this until later on, when we analyze continuous time markov processes, when this has more important repurcussions.
+            </p>
+
+            <p>
+            Now that we have introduced the characters of study, we shall begin building our intuitions on the simplest stochastic processes for which interesting results can be obtained: markov chains.
+            </p>
+        </div>
+    </div>
+</body>
+
+</html>
