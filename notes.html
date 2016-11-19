@@ -14,6 +14,14 @@
 
   <script src="jquery.min.js"></script>
   <script src="bootstrap.min.js"></script>
+
+  <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+  </script>
+
+  <script type="text/javascript" async
+      src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML">
+  </script>
 </head>
 
 <body>
@@ -31,13 +39,34 @@
       <li class="active dropdown"><a href="notes.html">Notes</a>
         <ul class="dropdown-menu">
           <li><a href="stochastic/stochastic_toc.html">Stochastic Processes</a></li>
-          <li><a href="https://github.com/jdjake/Notes">Other Notes</a></li>
+            <li><a href="https://github.com/jdjake/Notes">Other Notes</a></li>
         </ul>
       </li>
       <li><a href="https://github.com/jdjake">Github</a></li>
     </ul>
   </div>
 </nav>
+
+<div class="container" style="margin-top:1em;">
+  <p> Gathered below are notes salvaged from the various talks I've given. </p>
+
+  <ul class="notes_list">
+    <li>
+      <p class="notes_title"> <a href="https://github.com/jdjake/Notes/raw/master/Talks/PontrayaginDuality.pdf"> Pontrayagin Duality </a> </p>
+      <p class="notes_subtitle"> characters, fourier inversion, and poisson summation </p>
+    </li>
+
+    <li>
+      <p class="notes_title"> <a href="https://github.com/jdjake/Notes/raw/master/Talks/FourierStieltjes.pdf"> The Fourier-Stieltjes Transform </a> </p>
+      <p class="notes_subtitle"> weak-$*$ density and physical measurement </p>
+    </li>
+
+    <li>
+      <p class="notes_title"> <a href="https://github.com/jdjake/Notes/raw/master/Talks/MolecularGasesAndTheNaturalNumbers.pdf"> On Molecular Gases and the Natural Numbers </a> </p>
+      <p class="notes_subtitle"> an introduction to ergodic theory </p>
+    </li>
+  </ul>
+</div>
 
 <div class="container" style="margin-top:1em;">
   The notes below are my attempt to translate some latex documents into html, using the MathJax package. As such, the notes are very incomplete, and a much better collection of my notes can be found on my github <a href="https://github.com/jdjake/Notes">page</a>.
