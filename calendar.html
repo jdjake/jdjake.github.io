@@ -9,38 +9,54 @@
 
   <title> Jacob Denson </title>
 
-  <link rel="stylesheet" href="bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
   <link rel="stylesheet" href="css/style.css">
 
   <script src="jquery.min.js"></script>
   <script src="bootstrap.min.js"></script>
+  <script src="https://kit.fontawesome.com/86a1f463d3.js" crossorigin="anonymous"></script>
 </head>
 
-<nav class="navbar navbar-default navbar-fixed-top">
+
+
+
+
+<nav class="navbar navbar-expand-sm fixed-top"> <!-- id="myTopnav"> -->
   <div class="container-fluid">
-    <div class="navbar-header">
       <a class="navbar-brand" href="index.html">Jacob Denson</a>
-    </div>
+
+      <button class="navbar-toggler fas fa-bars float-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+      </button>
     
-    <ul class="nav navbar-nav">
-      <li><a href="index.html">Home</a></li>
-      <li><a href="https://docs.google.com/viewer?url=https://github.com/jdjake/CV/raw/master/cv_11.pdf">Resume (Mathematics)</a></li>
-      <li class="dropdown"><a href="notes.html">Notes</a>
-        <ul class="dropdown-menu">
-          <li><a href="notes.html">Engaging Talk Notes</a></li>
-          <li><a href="https://github.com/jdjake/Notes">Topic Notes</a></li>
-          <li><a href="stochastic/stochastic_toc.html">MathJax Latex Notes Experiment</a></li>
-        </ul>
-      </li>
-<!--      <li class="active"><a href="cool_projects.html">Cool Projects</a></li> -->
-      <li class="active"><a href="calendar.html">Calendar</a></li>
-      <li><a href="https://github.com/jdjake">Github</a></li>
-    </ul>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent"> 
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item"><a href="index.html">Home</a></li>
+
+        <li class="nav-item"><a href="https://docs.google.com/viewer?url=https://github.com/jdjake/CV/raw/master/cv_11.pdf">Resume</a></li>
+
+        <li class="nav-item dropdown"><a href="notes.html">Notes</a>
+          <ul class="dropdown-menu">
+            <li><a href="notes.html">Engaging Talk Notes</a></li>
+            <li><a href="https://github.com/jdjake/Notes">Topic Notes</a></li>
+            <li><a href="stochastic/stochastic_toc.html">MathJax Latex Notes Experiment</a></li>
+          </ul>
+        </li>
+
+        <li class="active nav-item"><a href="calendar.html">Calendar</a></li>
+
+        <li class="nav-item"><a href="https://github.com/jdjake">Github</a></li>
+      </ul>
+    </div>
   </div>
 </nav>
 
-<div class="container" align="center">
-  <iframe src="https://calendar.google.com/calendar/b/2/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%236666cc&amp;src=denson%40ualberta.ca&amp;color=%2329527A&amp;ctz=America%2FVancouver" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<div class="responsive-iframe-big-container big-container">
+<iframe class="bigcal" src="https://calendar.google.com/calendar/embed?showTitle=0&showNav=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&height=700&wkst=1&bgcolor=%23db694f&src=denson%40ualberta.ca&ctz=America%2FVancouver" style="border-width:0" width="100%" height="650" frameborder="0" scrolling="no"></iframe>
+</div>
+
+<div class="responsive-iframe-small-container small-container">
+<iframe class="smallcal" src="https://calendar.google.com/calendar/embed?showTitle=0&showNav=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&mode=AGENDA&height=800&wkst=1&bgcolor=%23db694f&src=denson%40ualberta.ca&ctz=America%2FVancouver" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
 
 </body>
