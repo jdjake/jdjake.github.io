@@ -7,75 +7,178 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
 
-  <title> Notes </title>
+  <title> Jacob Denson </title>
 
-  <link rel="stylesheet" href="bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
   <link rel="stylesheet" href="css/style.css">
 
   <script src="jquery.min.js"></script>
   <script src="bootstrap.min.js"></script>
+  <script src="https://kit.fontawesome.com/86a1f463d3.js" crossorigin="anonymous"></script>
 
-  <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
-  </script>
-
-  <script type="text/javascript" async
-      src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML">
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script>
+    MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']]
+      }
+    };
   </script>
 </head>
 
+
+
+
+
+
+
 <body>
 
-<nav class="navbar navbar-fixed-top">
+<nav class="navbar navbar-expand-sm fixed-top"> <!-- id="myTopnav"> -->
   <div class="container-fluid">
-    <div class="navbar-header">
       <a class="navbar-brand" href="index.html">Jacob Denson</a>
-    </div>
+
+      <button class="navbar-toggler fas fa-bars float-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+      </button>
     
-    <ul class="nav navbar-nav">
-      <li><a href="index.html">Home</a></li>
-      <li><a href="https://docs.google.com/viewer?url=https://github.com/jdjake/CV/raw/master/cv_11.pdf">Resume (Mathematics)</a></li>
-      <li class="active dropdown"><a href="notes.html">Notes</a>
-        <ul class="dropdown-menu">
-          <li><a href="notes.html">Engaging Talk Notes</a></li>
-          <li><a href="https://github.com/jdjake/Notes">Topic Notes</a></li>
-          <li><a href="stochastic/stochastic_toc.html">MathJax Latex Notes Experiment</a></li>
-        </ul>
-      </li>
-<!--      <li class="active"><a href="cool_projects.html">Cool Projects</a></li> -->
-      <li><a href="calendar.html">Calendar</a></li>
-      <li><a href="https://github.com/jdjake">Github</a></li>
-    </ul>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent"> 
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item"><a href="index.html">Home</a></li>
+
+        <li class="nav-item"><a href="https://docs.google.com/viewer?url=https://github.com/jdjake/CV/raw/master/cv_11.pdf">Resume</a></li>
+
+        <li class="active nav-item"><a href="notes.html">Papers and Notes</a></li>
+
+        <li class="nav-item"><a href="calendar.html">Calendar</a></li>
+
+        <li class="nav-item"><a href="https://github.com/jdjake">Github</a></li>
+      </ul>
+    </div>
   </div>
 </nav>
 
-<div class="container" align="center" style="margin-top:4vw;">
-  <p style="margin-left:20vw;margin-right:20vw"> <font size="4vw"> Here are some notes salvaged from the various talks I've given, on a diverse set of topics ranging from Harmonic analysis to theoretical computing science. Enjoy! </font> </p>
+
+
+
+
+
+<div class="container" align="center" style="padding-bottom: 5vw">
+  <h1> Publications </h1>
+
+  <p style="margin-left:18vw;margin-right:18vw"> <font size="4vw"> Here are some preprints of my publications: </font> </p>
+
+  <ul style="margin-left:18vw;margin-right:18vw" class="notes_list">
+    <li>
+      <p class="notes_title"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/MscThesis/raw/master/diss.pdf"> Cartesian Products Avoiding Rough Patterns (2019) </a> </p>
+      <p class="notes_description"> In my thesis, I provide a more expository look at the work completed with Malabika Pramanik and Joshua Zahl described in the paper <em> Large Sets Avoiding Rough Patterns,</em> as well as new work which we plan to publish in a separate paper soon, on the topic of the Fourier decay of measures supported on sets avoiding rough configurations, and on the topic of low rank rough configurations. </p>
+    </li>
+
+    <li>
+      <p class="notes_title"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Research/HausdorffDimension/FinalFractalsAvoidingFractalSetsPaper.pdf"> Large Sets Avoiding Rough Patterns (2019) </a> </p>
+      <p class="notes_description"> In this paper, submitted for publication in April 2019, Malabika Pramanik, Joshua Zahl, and I used a novel dyadic discretization strategy combined with a simple application of the pidgeonhole principle to construct fractals avoiding a 'rough' family of patterns. This paper has been accepted for publication in the Springer series <em> Harmonic Analysis and Applications. </em> </p>
+    </li>
+
+    <li>
+      <p class="notes_title"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Talks/TalkNotes/NotesFromMarginEdits2.pdf"> Proofs in Three Bits or Less (2018) </a> </p>
+      <p class="notes_description"> In this expository article, published as the front-page article in the Spring 2018 edition of the Canadian Mathematical Society's student journal <em> Notes From the Margin</em>, I describe the fundamentals ideas behind the PCP theorem in computational complexity theory, geared towards a general mathematical audience. </p>
+    </li>
+  </ul>
+
+  <h1> Talk Notes </h1>
+
+  <p style="margin-left:15vw;margin-right:15vw"> <font size="4vw"> Here are some notes salvaged from the various talks I've given, on a diverse set of topics ranging from Harmonic analysis to theoretical computing science. Enjoy! </font> </p>
 
   <ul class="notes_list">
     <li>
-      <p class="notes_title"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Talks/PontrayaginDuality.pdf"> Pontrayagin Duality </a> </p>
+      <p class="notes_title"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Talks/TalkNotes/SzemerediTrotterin3D.pdf"> Incidence Theorems in Arbitrary Characteristic (2019) </a> </p>
+      <p class="notes_subtitle"> the polynomial method, flecnodes, and arithmetic genus </p>
+    </li>
+
+    <li>
+      <p class="notes_title"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Talks/TalkNotes/HodgeTheory.pdf"> Hodge Theory (2018) </a> </p>
+      <p class="notes_subtitle"> laplacians, riemannian manifolds, and cohomology </p>
+    </li>
+
+    <li>
+      <p class="notes_title"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Talks/TalkNotes/ThetaFunctions.pdf"> Theta Functions (2018) </a> </p>
+      <p class="notes_subtitle"> modular forms, sums of squares, and forbidden Eisenstein series </p>
+    </li>
+
+    <li>
+      <p class="notes_title"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Talks/TalkNotes/RadonTransformsAndExceptionalProjections.pdf"> Radon Transforms and Exceptional Projections (2018) </a> </p>
+      <p class="notes_subtitle"> singular directions, mixed norm estimates, and interpolation of besov spaces </p>
+    </li>
+
+    <li>
+      <p class="notes_title"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Talks/TalkNotes/PontrayaginDuality.pdf"> Pontrayagin Duality (2016) </a> </p>
       <p class="notes_subtitle"> characters, fourier inversion, and poisson summation </p>
     </li>
 
     <li>
-      <p class="notes_title"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Talks/FourierStieltjes.pdf"> The Fourier-Stieltjes Transform </a> </p>
+      <p class="notes_title"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Talks/TalkNotes/FourierStieltjes.pdf"> The Fourier-Stieltjes Transform (2016) </a> </p>
       <p class="notes_subtitle"> weak-$*$ density and physical measurement </p>
     </li>
 
     <li>
-      <p class="notes_title"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Talks/MolecularGasesAndTheNaturalNumbers.pdf"> On Molecular Gases and the Natural Numbers </a> </p>
+      <p class="notes_title"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/blob/master/Talks/TalkNotes/ConvolutionAlgebras.pdf"> Convolution Algebras (2016) </a> </p>
+      <p class="notes_subtitle"> operators, closed subspaces, and abstract harmonic analysis </p>
+    </li>
+
+    <li>
+      <p class="notes_title"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Talks/TalkNotes/LifeandProject.pdf"> Lift and Project Techniques (2016) </a> </p>
+      <p class="notes_subtitle"> combinatorial optimization, vertex cover, and non-linear linear programming </p>
+    </li>
+
+    <li>
+      <p class="notes_title"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Talks/TalkNotes/MolecularGasesAndTheNaturalNumbers.pdf"> On Molecular Gases and the Natural Numbers (2016) </a> </p>
       <p class="notes_subtitle"> an introduction to ergodic theory </p>
     </li>
 
     <li>
-      <p class="notes_title"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Talks/Brouwer.pdf"> The Brouwer Fixed Point Theorem </a> </p>
+      <p class="notes_title"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Talks/TalkNotes/Brouwer.pdf"> The Brouwer Fixed Point Theorem (2016) </a> </p>
       <p class="notes_subtitle"> homology, vector Fields, and hex </p>
     </li>
 
     <li>
-      <p class="notes_title"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Talks/CategoryTheoryCS.pdf"> Abstract Nonsense in Computing Science </a> </p>
+      <p class="notes_title"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Talks/TalkNotes/JordanCurveTheorem.pdf"> The Jordan Separation Theorem (2016) </a> </p>
+      <p class="notes_subtitle"> curves, intuition, and the van kampen theorem </p>
+    </li>
+
+    <li>
+      <p class="notes_title"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Talks/TalkNotes/CategoryTheoryCS.pdf"> Abstract Nonsense in Computing Science (2015) </a> </p>
       <p class="notes_subtitle"> categories, the curry howard isomorphism, and cartesian closure </p>
+    </li>
+  </ul>
+
+  <h1> Topic Notes </h1>
+
+  <p style="margin-left:15vw;margin-right:15vw"> <font size="4vw"> A complete and continuous updated set of the lecture and research notes I have taken on various mathematical topics can be found at my <a href="https://github.com/jdjake/Notes"> github page</a>. But here are a selection of notes I am particularly proud of: </font> </p>
+  <ul class="notes_list">
+    <li>
+      <p class="notes_title" style="padding-bottom: 1vw"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Math/Analysis/HarmonicAnalysis/HarmonicAnalysis.pdf"> Harmonic Analysis </a> </p>
+    </li>
+
+    <li>
+      <p class="notes_title" style="padding-bottom: 1vw"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Math/DiscreteComputingLogic/BooleanFunctions.pdf"> Harmonic Analysis of Boolean Functions </a> </p>
+    </li>
+
+    <li>
+      <p class="notes_title" style="padding-bottom: 1vw"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Math/Geometry/DifferentialGeometry.pdf"> Differential Geometry </a> </p>
+    </li>
+
+    <li>
+      <p class="notes_title" style="padding-bottom: 1vw"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Math/Statistics/HighDimensionalProbability.pdf"> High Dimensional Probability </a> </p>
+    </li>
+
+    <li>
+      <p class="notes_title" style="padding-bottom: 1vw"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Math/Analysis/StochasticProcesses.pdf"> Stochastic Processes </a> </p>
+    </li>
+
+    <li>
+      <p class="notes_title" style="padding-bottom: 1vw"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Math/Algebra/LieAlgebras.pdf"> Representation Theory of Lie Algebras </a> </p>
     </li>
   </ul>
 </div>

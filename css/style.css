@@ -34,7 +34,13 @@ a:hover { text-decoration: none; }
     margin-top: 0vw;
     margin-bottom: 1vw;
     font-variant: small-caps;
+    font-size: 1vw;
     text-align: center;
+}
+
+.notes_description {
+  margin-top: 0.4vw;
+  font-size: 0.9vw;
 }
 
 
