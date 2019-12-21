@@ -14,7 +14,6 @@
   <link rel="stylesheet" href="css/style.css">
 
   <script src="jquery.min.js"></script>
-  <script src="bootstrap.min.js"></script>
   <script src="https://kit.fontawesome.com/86a1f463d3.js" crossorigin="anonymous"></script>
 
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
@@ -36,41 +35,45 @@
 
 <body>
 
-<nav class="navbar navbar-expand-sm fixed-top"> <!-- id="myTopnav"> -->
-  <div class="container-fluid">
-      <a class="navbar-brand" href="index.html">Jacob Denson</a>
 
-      <button class="navbar-toggler fas fa-bars float-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-      </button>
-    
-    <div class="collapse navbar-collapse" id="navbarSupportedContent"> 
-      <ul class="navbar-nav mr-auto">
-        <li class="nav-item"><a href="index.html">Home</a></li>
 
-        <li class="nav-item"><a href="https://docs.google.com/viewer?url=https://github.com/jdjake/CV/raw/master/cv.pdf">Resume</a></li>
 
-        <li class="active nav-item"><a href="notes.html">Papers and Notes</a></li>
-
-        <li class="nav-item"><a href="calendar.html">Calendar</a></li>
-
-        <li class="nav-item"><a href="https://github.com/jdjake">Github</a></li>
-      </ul>
+  <nav class="navbar navbar-expand-sm fixed-top"> <!-- id="myTopnav"> -->
+    <div class="container-fluid">
+        <a class="navbar-brand" href="index.html">Jacob Denson</a>
+  
+        <button class="navbar-toggler fas fa-bars float-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+      
+      <div class="collapse navbar-collapse" id="navbarSupportedContent"> 
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item"><a href="index.html">Home</a></li>
+  
+          <li class="nav-item"><a href="https://docs.google.com/viewer?url=https://github.com/jdjake/CV/raw/master/cv.pdf">Resume</a></li>
+  
+          <li class="nav-item active"><a href="notes.html">Papers and Notes</a></li>
+  
+          <li class="nav-item"><a href="calendar.html">Calendar</a></li>
+  
+          <li class="nav-item"><a href="https://github.com/jdjake">Github</a></li>
+        </ul>
+      </div>
     </div>
+  </nav>
+  
+
+
+
+
+<div class="container" align="center">
+  <div class="notes-section">
+    <h1> Publications </h1>
+
+    <p>Here are some preprints of my publications:</p>
   </div>
-</nav>
 
-
-
-
-
-
-<div class="container" align="center" style="padding-bottom: 5vw">
-  <h1> Publications </h1>
-
-  <p style="margin-left:18vw;margin-right:18vw"> <font size="4vw"> Here are some preprints of my publications: </font> </p>
-
-  <ul style="margin-left:18vw;margin-right:18vw" class="notes_list">
+  <ul class="notes_list">
     <li>
       <p class="notes_title"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/MscThesis/raw/master/diss.pdf"> Cartesian Products Avoiding Rough Patterns (2019) </a> </p>
       <p class="notes_description"> In my thesis, I provide a more expository look at the work completed with Malabika Pramanik and Joshua Zahl described in the paper <em> Large Sets Avoiding Rough Patterns,</em> as well as new work which we plan to publish in a separate paper soon, on the topic of the Fourier decay of measures supported on sets avoiding rough configurations, and on the topic of low rank rough configurations. </p>
@@ -87,9 +90,11 @@
     </li>
   </ul>
 
-  <h1> Talk Notes </h1>
+  <div class="notes-section">
+    <h1> Talk Notes </h1>
 
-  <p style="margin-left:15vw;margin-right:15vw"> <font size="4vw"> Here are some notes salvaged from the various talks I've given, on a diverse set of topics ranging from Harmonic analysis to theoretical computing science. Enjoy! </font> </p>
+    <p> Here are some notes salvaged from the various talks I've given, on a diverse set of topics ranging from Harmonic analysis to theoretical computing science. Enjoy! </p>
+  </div>
 
   <ul class="notes_list">
     <li>
@@ -152,10 +157,11 @@
       <p class="notes_subtitle"> categories, the curry howard isomorphism, and cartesian closure </p>
     </li>
   </ul>
-
+  <div class="notes-section">
   <h1> Topic Notes </h1>
 
-  <p style="margin-left:15vw;margin-right:15vw"> <font size="4vw"> A complete and continuous updated set of the lecture and research notes I have taken on various mathematical topics can be found at my <a href="https://github.com/jdjake/Notes"> github page</a>. Note that, as a continuous work in process, the beginning of these notes tends to be more cohesive than the latter part of the notes. Here are a selection of notes I am particularly proud of: </font> </p>
+  <p> A complete and continuous updated set of the lecture and research notes I have taken on various mathematical topics can be found at my <a href="https://github.com/jdjake/Notes"> github page</a>. Note that, as a continuous work in process, the beginning of these notes tends to be more cohesive than the latter part of the notes. Here are a selection of notes I am particularly proud of: </p>
+  </div>
   <ul class="notes_list">
     <li>
       <p class="notes_title" style="padding-bottom: 1vw"> <a href="https://docs.google.com/viewer?url=https://github.com/jdjake/Notes/raw/master/Math/Analysis/HarmonicAnalysis/HarmonicAnalysis.pdf"> Harmonic Analysis </a> </p>
@@ -184,5 +190,9 @@
 </div>
 
 </body>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
 </html>
