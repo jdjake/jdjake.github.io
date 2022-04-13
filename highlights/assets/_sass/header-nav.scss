@@ -6,7 +6,7 @@
 .site-header,
 .site-nav {
   @include all-caps();
-  color: #999;
+  color: #636363;
   line-height: 1;
 
   a:link, a:visited {
@@ -14,7 +14,7 @@
   }
 
   a:hover {
-    color: #fff;
+    color: #000;
   }
 }
 
@@ -32,7 +32,7 @@
   left: 0;
   width: 100%;
   padding: 1em 2em;
-  background: #000;
+  background: #FFF;
   text-align: center;
   font-size: .825em;
 
@@ -52,7 +52,7 @@
     transform-origin: left top;
     padding-bottom: 10px;
     border-bottom: 1px solid $color-border;
-    background: #000;
+    background: #FFF;
     font-size: 1.25em;
   }
 

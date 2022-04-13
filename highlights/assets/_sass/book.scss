@@ -45,15 +45,17 @@
 }
 
 a.book__image {
-  opacity: .75;
-  transition: opacity 400ms;
+  transition: all .2s ease-in-out; 
+  opacity: 1;
+  transition: transform 1s
 
   svg {
-    opacity: 0;
+    opacity: 1;
   }
 
   &:hover {
     opacity: 1;
+    transform: scale(1.1);
   }
 }
 
@@ -67,7 +69,7 @@ a.book__image {
     &:hover,
     &:focus {
       svg {
-        opacity: 0;
+        opacity: 1;
       }
     }
   }
@@ -149,8 +151,8 @@ a.book__image {
     z-index: 1;
     vertical-align: middle;
     padding: .125em .25em;
-    background: #ebebeb;
-    color: #2b2b2b;
+    background: #1f1f1f;
+    color: #d4d4d4;
     line-height: 1.6;
   }
 }
@@ -174,7 +176,7 @@ a.book__image {
   }
 
   &:hover {
-    border-color: #fff;
+    border-color: #000;
   }
 
   &:active {

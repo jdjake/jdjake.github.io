@@ -17,23 +17,23 @@ body {
 }
 
 :focus {
-  outline: 1px dotted #fff;
+  outline: 1px dotted #000;
   outline-offset: 1px;
 }
 
 ::selection {
-	background: #fff;
-	color: #000;
+	background: #000;
+	color: #fff;
 }
 
 ::-moz-selection {
-	background: #fff;
-	color: #000;
+	background: #000;
+	color: #fff;
 }
 
 a:link, a:visited {
   text-decoration: none;
-  color: #fff;
+  color: #000;
 }
 
 a:hover {
