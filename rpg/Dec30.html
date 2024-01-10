@@ -1,679 +1,283 @@
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>December 30th</title><style>
-/* cspell:disable-file */
-/* webkit printing magic: print all background colors */
-html {
-	-webkit-print-color-adjust: exact;
-}
-* {
-	box-sizing: border-box;
-	-webkit-print-color-adjust: exact;
-}
-
-html,
-body {
-	margin: 0;
-	padding: 0;
-}
-@media only screen {
-	body {
-		margin: 2em auto;
-		max-width: 900px;
-		color: rgb(55, 53, 47);
-	}
-}
-
-body {
-	line-height: 1.5;
-	white-space: pre-wrap;
-}
-
-a,
-a.visited {
-	color: inherit;
-	text-decoration: underline;
-}
-
-.pdf-relative-link-path {
-	font-size: 80%;
-	color: #444;
-}
-
-h1,
-h2,
-h3 {
-	letter-spacing: -0.01em;
-	line-height: 1.2;
-	font-weight: 600;
-	margin-bottom: 0;
-}
-
-.page-title {
-	font-size: 2.5rem;
-	font-weight: 700;
-	margin-top: 0;
-	margin-bottom: 0.75em;
-}
-
-h1 {
-	font-size: 1.875rem;
-	margin-top: 1.875rem;
-}
-
-h2 {
-	font-size: 1.5rem;
-	margin-top: 1.5rem;
-}
-
-h3 {
-	font-size: 1.25rem;
-	margin-top: 1.25rem;
-}
-
-.source {
-	border: 1px solid #ddd;
-	border-radius: 3px;
-	padding: 1.5em;
-	word-break: break-all;
-}
-
-.callout {
-	border-radius: 3px;
-	padding: 1rem;
-}
-
-figure {
-	margin: 1.25em 0;
-	page-break-inside: avoid;
-}
-
-figcaption {
-	opacity: 0.5;
-	font-size: 85%;
-	margin-top: 0.5em;
-}
-
-mark {
-	background-color: transparent;
-}
-
-.indented {
-	padding-left: 1.5em;
-}
-
-hr {
-	background: transparent;
-	display: block;
-	width: 100%;
-	height: 1px;
-	visibility: visible;
-	border: none;
-	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
-}
-
-img {
-	max-width: 100%;
-	float: left;
-	margin: 20px 20px 20px 20px;
-}
-
-@media only print {
-	img {
-		max-height: 100vh;
-		object-fit: contain;
-	}
-}
-
-@page {
-	margin: 1in;
-}
-
-.collection-content {
-	font-size: 0.875rem;
-}
-
-.column-list {
-	display: flex;
-	justify-content: space-between;
-}
-
-.column {
-	padding: 0 1em;
-}
-
-.column:first-child {
-	padding-left: 0;
-}
-
-.column:last-child {
-	padding-right: 0;
-}
-
-.table_of_contents-item {
-	display: block;
-	font-size: 0.875rem;
-	line-height: 1.3;
-	padding: 0.125rem;
-}
-
-.table_of_contents-indent-1 {
-	margin-left: 1.5rem;
-}
-
-.table_of_contents-indent-2 {
-	margin-left: 3rem;
-}
-
-.table_of_contents-indent-3 {
-	margin-left: 4.5rem;
-}
-
-.table_of_contents-link {
-	text-decoration: none;
-	opacity: 0.7;
-	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
-}
-
-table,
-th,
-td {
-	border: 1px solid rgba(55, 53, 47, 0.09);
-	border-collapse: collapse;
-}
-
-table {
-	border-left: none;
-	border-right: none;
-}
-
-th,
-td {
-	font-weight: normal;
-	padding: 0.25em 0.5em;
-	line-height: 1.5;
-	min-height: 1.5em;
-	text-align: left;
-}
-
-th {
-	color: rgba(55, 53, 47, 0.6);
-}
-
-ol,
-ul {
-	margin: 0;
-	margin-block-start: 0.6em;
-	margin-block-end: 0.6em;
-}
-
-li > ol:first-child,
-li > ul:first-child {
-	margin-block-start: 0.6em;
-}
-
-ul > li {
-	list-style: disc;
-}
-
-ul.to-do-list {
-	padding-inline-start: 0;
-}
-
-ul.to-do-list > li {
-	list-style: none;
-}
-
-.to-do-children-checked {
-	text-decoration: line-through;
-	opacity: 0.375;
-}
-
-ul.toggle > li {
-	list-style: none;
-}
-
-ul {
-	padding-inline-start: 1.7em;
-}
-
-ul > li {
-	padding-left: 0.1em;
-}
-
-ol {
-	padding-inline-start: 1.6em;
-}
-
-ol > li {
-	padding-left: 0.2em;
-}
-
-.mono ol {
-	padding-inline-start: 2em;
-}
-
-.mono ol > li {
-	text-indent: -0.4em;
-}
-
-.toggle {
-	padding-inline-start: 0em;
-	list-style-type: none;
-}
-
-/* Indent toggle children */
-.toggle > li > details {
-	padding-left: 1.7em;
-}
-
-.toggle > li > details > summary {
-	margin-left: -1.1em;
-}
-
-.selected-value {
-	display: inline-block;
-	padding: 0 0.5em;
-	background: rgba(206, 205, 202, 0.5);
-	border-radius: 3px;
-	margin-right: 0.5em;
-	margin-top: 0.3em;
-	margin-bottom: 0.3em;
-	white-space: nowrap;
-}
-
-.collection-title {
-	display: inline-block;
-	margin-right: 1em;
-}
-
-.page-description {
-    margin-bottom: 2em;
-}
-
-.simple-table {
-	margin-top: 1em;
-	font-size: 0.875rem;
-	empty-cells: show;
-}
-.simple-table td {
-	height: 29px;
-	min-width: 120px;
-}
-
-.simple-table th {
-	height: 29px;
-	min-width: 120px;
-}
-
-.simple-table-header-color {
-	background: rgb(247, 246, 243);
-	color: black;
-}
-.simple-table-header {
-	font-weight: 500;
-}
-
-time {
-	opacity: 0.5;
-}
-
-.icon {
-	display: inline-block;
-	max-width: 1.2em;
-	max-height: 1.2em;
-	text-decoration: none;
-	vertical-align: text-bottom;
-	margin-right: 0.5em;
-}
-
-img.icon {
-	border-radius: 3px;
-}
-
-.user-icon {
-	width: 1.5em;
-	height: 1.5em;
-	border-radius: 100%;
-	margin-right: 0.5rem;
-}
-
-.user-icon-inner {
-	font-size: 0.8em;
-}
-
-.text-icon {
-	border: 1px solid #000;
-	text-align: center;
-}
-
-.page-cover-image {
-	display: block;
-	object-fit: cover;
-	width: 100%;
-	max-height: 30vh;
-}
-
-.page-header-icon {
-	font-size: 3rem;
-	margin-bottom: 1rem;
-}
-
-.page-header-icon-with-cover {
-	margin-top: -0.72em;
-	margin-left: 0.07em;
-}
-
-.page-header-icon img {
-	border-radius: 3px;
-}
-
-.link-to-page {
-	margin: 1em 0;
-	padding: 0;
-	border: none;
-	font-weight: 500;
-}
-
-p > .user {
-	opacity: 0.5;
-}
-
-td > .user,
-td > time {
-	white-space: nowrap;
-}
-
-input[type="checkbox"] {
-	transform: scale(1.5);
-	margin-right: 0.6em;
-	vertical-align: middle;
-}
-
-p {
-	margin-top: 0.5em;
-	margin-bottom: 0.5em;
-}
-
-.image {
-	border: none;
-	margin: 1.5em 0;
-	padding: 0;
-	border-radius: 0;
-	text-align: center;
-}
-
-.code,
-code {
-	background: rgba(135, 131, 120, 0.15);
-	border-radius: 3px;
-	padding: 0.2em 0.4em;
-	border-radius: 3px;
-	font-size: 85%;
-	tab-size: 2;
-}
-
-code {
-	color: #eb5757;
-}
-
-.code {
-	padding: 1.5em 1em;
-}
-
-.code-wrap {
-	white-space: pre-wrap;
-	word-break: break-all;
-}
-
-.code > code {
-	background: none;
-	padding: 0;
-	font-size: 100%;
-	color: inherit;
-}
-
-blockquote {
-	font-size: 1.25em;
-	margin: 1em 0;
-	padding-left: 1em;
-	border-left: 3px solid rgb(55, 53, 47);
-}
-
-.bookmark {
-	text-decoration: none;
-	max-height: 8em;
-	padding: 0;
-	display: flex;
-	width: 100%;
-	align-items: stretch;
-}
-
-.bookmark-title {
-	font-size: 0.85em;
-	overflow: hidden;
-	text-overflow: ellipsis;
-	height: 1.75em;
-	white-space: nowrap;
-}
-
-.bookmark-text {
-	display: flex;
-	flex-direction: column;
-}
-
-.bookmark-info {
-	flex: 4 1 180px;
-	padding: 12px 14px 14px;
-	display: flex;
-	flex-direction: column;
-	justify-content: space-between;
-}
-
-.bookmark-image {
-	width: 33%;
-	flex: 1 1 180px;
-	display: block;
-	position: relative;
-	object-fit: cover;
-	border-radius: 1px;
-}
-
-.bookmark-description {
-	color: rgba(55, 53, 47, 0.6);
-	font-size: 0.75em;
-	overflow: hidden;
-	max-height: 4.5em;
-	word-break: break-word;
-}
-
-.bookmark-href {
-	font-size: 0.75em;
-	margin-top: 0.25em;
-}
-
-.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
-.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
-.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
-.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
-.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
-.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
-.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
-.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
-.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
-.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
-.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
-.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
-.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
-.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
-.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
-.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
-.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
-.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
-.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
-.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
-.highlight-default {
-	color: rgba(55, 53, 47, 1);
-}
-.highlight-gray {
-	color: rgba(120, 119, 116, 1);
-	fill: rgba(120, 119, 116, 1);
-}
-.highlight-brown {
-	color: rgba(159, 107, 83, 1);
-	fill: rgba(159, 107, 83, 1);
-}
-.highlight-orange {
-	color: rgba(217, 115, 13, 1);
-	fill: rgba(217, 115, 13, 1);
-}
-.highlight-yellow {
-	color: rgba(203, 145, 47, 1);
-	fill: rgba(203, 145, 47, 1);
-}
-.highlight-teal {
-	color: rgba(68, 131, 97, 1);
-	fill: rgba(68, 131, 97, 1);
-}
-.highlight-blue {
-	color: rgba(51, 126, 169, 1);
-	fill: rgba(51, 126, 169, 1);
-}
-.highlight-purple {
-	color: rgba(144, 101, 176, 1);
-	fill: rgba(144, 101, 176, 1);
-}
-.highlight-pink {
-	color: rgba(193, 76, 138, 1);
-	fill: rgba(193, 76, 138, 1);
-}
-.highlight-red {
-	color: rgba(212, 76, 71, 1);
-	fill: rgba(212, 76, 71, 1);
-}
-.highlight-gray_background {
-	background: rgba(241, 241, 239, 1);
-}
-.highlight-brown_background {
-	background: rgba(244, 238, 238, 1);
-}
-.highlight-orange_background {
-	background: rgba(251, 236, 221, 1);
-}
-.highlight-yellow_background {
-	background: rgba(251, 243, 219, 1);
-}
-.highlight-teal_background {
-	background: rgba(237, 243, 236, 1);
-}
-.highlight-blue_background {
-	background: rgba(231, 243, 248, 1);
-}
-.highlight-purple_background {
-	background: rgba(244, 240, 247, 0.8);
-}
-.highlight-pink_background {
-	background: rgba(249, 238, 243, 0.8);
-}
-.highlight-red_background {
-	background: rgba(253, 235, 236, 1);
-}
-.block-color-default {
-	color: inherit;
-	fill: inherit;
-}
-.block-color-gray {
-	color: rgba(120, 119, 116, 1);
-	fill: rgba(120, 119, 116, 1);
-}
-.block-color-brown {
-	color: rgba(159, 107, 83, 1);
-	fill: rgba(159, 107, 83, 1);
-}
-.block-color-orange {
-	color: rgba(217, 115, 13, 1);
-	fill: rgba(217, 115, 13, 1);
-}
-.block-color-yellow {
-	color: rgba(203, 145, 47, 1);
-	fill: rgba(203, 145, 47, 1);
-}
-.block-color-teal {
-	color: rgba(68, 131, 97, 1);
-	fill: rgba(68, 131, 97, 1);
-}
-.block-color-blue {
-	color: rgba(51, 126, 169, 1);
-	fill: rgba(51, 126, 169, 1);
-}
-.block-color-purple {
-	color: rgba(144, 101, 176, 1);
-	fill: rgba(144, 101, 176, 1);
-}
-.block-color-pink {
-	color: rgba(193, 76, 138, 1);
-	fill: rgba(193, 76, 138, 1);
-}
-.block-color-red {
-	color: rgba(212, 76, 71, 1);
-	fill: rgba(212, 76, 71, 1);
-}
-.block-color-gray_background {
-	background: rgba(241, 241, 239, 1);
-}
-.block-color-brown_background {
-	background: rgba(244, 238, 238, 1);
-}
-.block-color-orange_background {
-	background: rgba(251, 236, 221, 1);
-}
-.block-color-yellow_background {
-	background: rgba(251, 243, 219, 1);
-}
-.block-color-teal_background {
-	background: rgba(237, 243, 236, 1);
-}
-.block-color-blue_background {
-	background: rgba(231, 243, 248, 1);
-}
-.block-color-purple_background {
-	background: rgba(244, 240, 247, 0.8);
-}
-.block-color-pink_background {
-	background: rgba(249, 238, 243, 0.8);
-}
-.block-color-red_background {
-	background: rgba(253, 235, 236, 1);
-}
-.select-value-color-uiBlue { background-color: rgba(35, 131, 226, .07); }
-.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
-.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
-.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
-.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
-.select-value-color-translucentGray { background-color: rgba(255, 255, 255, 0.0375); }
-.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
-.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
-.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
-.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
-.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
-.select-value-color-pageGlass { background-color: undefined; }
-.select-value-color-washGlass { background-color: undefined; }
-
-.checkbox {
-	display: inline-flex;
-	vertical-align: text-bottom;
-	width: 16;
-	height: 16;
-	background-size: 16px;
-	margin-left: 2px;
-	margin-right: 5px;
-}
-
-.checkbox-on {
-	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
-}
-
-.checkbox-off {
-	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
-}
-	
-</style></head><body><article id="2c6b5c5e-2764-4f1b-91dd-b100f79ccb28" class="page sans"><header><h1 class="page-title">December 30th</h1><p class="page-description"></p></header><div class="page-body"><p id="47737500-8aca-483c-bb6d-800115478cd0" class=""><strong>Module: </strong>Buried in the Bahamas</p><p id="540b54f3-7918-44c2-9328-bb0d15d0ee1c" class=""><strong>Players</strong>: Gary, Hugh, Dan, Annabel</p><p id="e7302d9b-3970-427a-84dc-b865ba973bf5" class=""><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>Time-Period: </strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong>0-0-2-0-0-1</p><p id="9cf4fb5e-4732-41b3-a1b9-585fb3a09e88" class=""><strong>Setting: The Dark Caribbean</strong></p><figure id="540b26d8-ca8f-40c8-a33b-944f8915b371" class="image"><a href="December%2030th%202c6b5c5e27644f1b91ddb100f79ccb28/Untitled.png"><img style="width:288px" src="December%2030th%202c6b5c5e27644f1b91ddb100f79ccb28/Untitled.png"/></a></figure><p id="43ed7516-00f6-48c5-b819-bc62267f13aa" class="">This game takes place in an occult version of our world’s Caribbean, during the golden age of piracy. When the first European explorers ventured into the Caribbean&#x27;s uncharted waters, they discovered deserted islands brimming with temples of treasure, and arcane relics. The allure back in Europe proved irresistible, prompting thousands to leave their crowded, blighted homelands for the promise of the Caribbean. Yet, as these new settlers established a semblance of life on the mysterious islands, rumors spread in taverns of haunting screams echoing over sandy shores, malevolent forces arising from the islands sinister past, and ungodly monstrosities emerging from the stygian depths of the sea in the depths of night.</p><p id="14128fce-e69f-4cfb-9a0b-645aa82bf04d" class=""><strong><strong><strong><strong>Characters</strong></strong></strong></strong></p><p id="732c6a4a-bf54-46ba-9d0c-6a2be78cf271" class="">Hugh played <em>Low Roller</em>, a swashbuckler who concealed a mysterious past as a barkeep with a liking for mocking banter amongst the other crewmates. There was <em>something contagious</em> about him.</p><p id="b7c2517f-eb3c-4e00-abcc-33eb326035ef" class="">Dan played <em>Iago ‘Le Red Bird’</em>, a backstabbing rapscallion, a sailor with an insatiable urge for treasure. His previous adventures lead him to a narrow escape from a cannibalistic ending, but he never escaped <em>that smell</em>.</p><p id="9aae2e6d-84ab-41d2-9e1a-29fca60323d1" class="">Annabel played <em>Eggo</em>, a writer. She sailed the sea to chronicle adventures she later hoped to profit from back home. Later in the game, she switched to playing <em>Billy &#x27;Knives&#x27;</em>, the Tarantula&#x27;s young cabin boy.</p><p id="0adcf71f-8fde-45ce-b128-8ed9b1beaed8" class="">Gary played <em>Annemicke &#x27;Flatline&#x27; Hollegate</em>, a known pirate and heretic amongst the colonial powers of the Caribbean. He&#x27;d gained a knack for wilderness survival, even if it&#x27;d cost him his right eye in the process.</p><p id="992c80ca-55fd-4dde-b8dc-eb833b584fc7" class=""><strong>Part 1: Onboard the Tarantula</strong></p><p id="4f60a16c-e6b7-4c6e-99f0-600d43f966ab" class="">The player characters were novice sailors serving Captain Bloodwhip on his pirate frigate, <em><em><em><em><em><em><em><em><em><em><em><em>The Tarantula,</em></em></em></em></em></em></em></em></em></em></em></em> searching for treasure via a map the captain had guarded close to his chest since the journey began. For two weeks, the Tarantula had been sailing around the Bahamas, circling islets, the crew ordered to keep their eyes peeled for three rock columns leaning to the west.</p><p id="1f6fc71e-13ee-4bd9-834e-5b72a0ed7aa9" class="">Our adventure started on a dark stormy night on board the Tarantula. Gary clung to the top of the crows nest, scanning the tempestuous sea for danger. Dan and Hugh worked on the rain-drenched deck of the ship, mocking Gary and making banter to try and lift their spirits. Meanwhile Annabel was nestled in her bunk on the lower decks of the ship, recording her adventures in a journal she hoped to publish after she’d returned home.</p><p id="8e47716b-8148-4ef1-8463-7cdbbd957501" class="">From the crows nest, lightning silhouettes a boat on the horizon, heading directly for the Tarantula. As the ship sailed closer, Gary was able to make more details out: the ship was weaved together from a thousand bones, with three flaming skulls mounted to the mast of the ship. The salty sea air became tainted with the acrid scent of ash and burning bones. Unable to avoid the ship, the Tarantula is rammed, and skeletons soon leap aboard to attack the crew. Their bones are charred black, and their eye sockets burn brightly with an ethereal flame.</p><figure id="3115e6b4-0920-4048-a02c-0d53c7059ff7" class="image"><a href="December%2030th%202c6b5c5e27644f1b91ddb100f79ccb28/Untitled.jpeg"><img style="width:1024px" src="December%2030th%202c6b5c5e27644f1b91ddb100f79ccb28/Untitled.jpeg"/></a></figure><p id="f8115cfb-d816-4a54-98c2-401f4c3b6076" class="">Dan, armed with a cutlass, fought off two skeletal adversaries on deck, parrying their strikes while responding with a few of his own, while Gary took pot shots at the invaders with his musket from the crows nest. Hugh, in a daring gambit, grabbed a rope hanging from a mast, and swung onto the ghost ship. However, he was quickly overwhelmed by two skeletons who ambushed him as he landed on the other side. One wailed with maniacal glee, as it took swipes at him with a pair of rusty knives. The other almost took Hugh’s life with a musket round. But luck was in Hugh’s favor, as a worn book in his breast pocket absorbed the deadly impact, sparing him from death. Fleeing for his life, Hugh tried to swing back onto the Tarantula, but his grip slipped on the rope on the way back, and he fell into the waves below. Miraculously (with some Devil’s luck) he managed to survive the waves below, clawing his way back onto the Tarantula through a gaping crack in the lower deck made by the rammed ship.</p><p id="022ffdbe-5dee-436f-85a5-264b2d5f87ec" class="">In the lower hold of the ship, Annabel was jolted from her bunk from the chaos happening above, and she hurried out into the hold of the ship. Scaggs, the Captain’s first mate, was trying to maintain leadership of the crew. He shouted into the chaos “Where is the Captain!?!”, and Annabel ran upstairs to check on the captain’s quarters in response. By the time Annabel had got to the top deck (and Gary had climbed down the crow’s nest), a huge amalgamation of bone, held together with rotting flax twine, climbed on board the ship in front of her, let out an demonic roar, and charged straight at her. Annabel narrowly dodged the ogre, while Gary climbed down from the nest to help her out. In a desperate attempt to face the ogre, Annabel spent several turns grappling with a cannon on the ship, struggling under it’s wait to try and turn it to face the amalgamation. But when she finally let the cannon fire, fate twisted, narrowly missing the amalgamation, the cannonball landing in the dark abyss of the ocean with a disheartening plunk.</p><figure id="ea2d7446-6593-44cf-8a1d-b881ceb2678f" class="image"><a href="December%2030th%202c6b5c5e27644f1b91ddb100f79ccb28/Untitled%201.png"><img style="width:512px" src="December%2030th%202c6b5c5e27644f1b91ddb100f79ccb28/Untitled%201.png"/></a></figure><p id="c4f0d9ae-c172-4c84-b162-d31164622de7" class="">Hugh climbed into the lower decks, the seawater up to his knees. He heard Billy ‘Knives’, the cabin boy, screaming desperately about the ship taking on water, while other crew members frantically tried to scoop up the water in a futile attempted to save the damned ship. As Hugh regarded the chaos, he quickly realized that the Tarantula was a lost cause, and ran upstairs to try and make an escape before the lower deck became a watery prison.</p><p id="0e81cdc9-1694-46e3-9613-f9d54b88f083" class="">With the Cannonball failing to miss it’s mark, Gary, Annabel, and Dan were forced to confront the amalgamation through blades and gunfire. After taking out the amalgamation, Gary and Annabel ran to check on the captain in his quarters, who they found crushed beneath the weight of a fallen cabinet. In his dying breath, Bloodwhip bestowed on them the map to the treasure they sought. Gary took the map (and the captain’s cutlass), and they headed out to escape the ship.</p><p id="f249720d-e9f1-4cf6-a2a0-1b7a2eca77ac" class="">At this point the Tarantula was close to capsizing, and the players knew they had to make a quick getaway. As Hugh was coming up the stairs, the ship really starting keeling, keeled, but he managed to hold onto the side of the door to the top deck to prevent falling off. Gary and Annabel managed to hold onto some shelving in the Captain’s study. On the other hand, Dan was unable to find something to hold onto, and he plunged into the fierce waters below.</p><p id="99e13d12-d6bb-4d83-b643-5f2f0c68c026" class="">Gary threw Dan a life preserver, the one lifeline which would prevent him from drowning in the rough waters. In desperation, Annabel swung onto the ghost ship to try and escape the water below, scaling the mast of the ship to try and escape the skeletons that awaited her there. At the top of the mast, another skeleton awaited, and she was forced to leap from the mast to survive. Tragedy unfolded as her head collided with the ship’s side. Unconscious and helpless, she drowned in the waters below. Hugh took the door of the ship and used it to keep him afloat in the water, whereas Gary took another life preserver and made it off the ship. The Tarantula and the ghost ship sunk beneath the waves, and what remained of the crew was left to hold on for dear life in the dark waters of the Caribbean, as the Tarantula sunk beneath the waves. The ghost ship, having accomplished whatever occult purpose for which it had attacked the Tarantula, also submerged beneath the stormy waves…</p><p id="5f467393-4149-46f3-aa45-f107c6f3ec10" class=""><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>Part 2: Shipwrecked</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></p><p id="86114894-99ce-4015-8147-680bb99d07c0" class="">Since Annabel’s last character died, she decided to play as Billy, the cabin boy, so we generated some stats for him, and she took over to play as him for the rest of the adventure.</p><p id="7a0f489b-4f86-400a-ac85-4ee4dd72356b" class="">The players resumed play the next morning, part of the crew washed up on the shores of a small island. The storm had passed, with blue skies overhead. The island was itself unremarkable. Players could only see a canopy of bushes past the shoreline, with a single hill cresting the middle of the island.</p><p id="b0c621a5-5e75-435f-a945-41ac570bc362" class="">After scavenging what they could from what washed up with them from the wreck of the Tarantula, players were able to find 4 days worth of water, and enough wood and sail to make a camp to survive the night, but no edible food. Billy found some ink and parchment, the lost reports of Annabel’s unfinished story she was writing the previous night. Annabel and Gary decided to build the tent from the supplies, while Dan and Hugh went to scavenge for food, Dan to the shoreline to search for seafood, and Hugh inland to hunt for what he could find in the bushes. Dan managed to find a nest of turtles, and spent several hours gathering some baby turtles in a bucket to cook for food. Hugh found a nest of snakes, shooting the mother, and taking it back to the camp with some of the mother’s eggs.</p><p id="97fd6237-5216-41dd-a998-8b8b612660fe" class="">Together, they managed to find enough food to feed the surviving crew for the rest of the day, so Hugh and Dan decided to spend the rest of the afternoon exploring the island, beginning by climbing the hill to survey the land. They spent an hour reaching the summit. There, they could see that the island was diamond shaped, about three miles in radius from the hill. On the horizon, they could see two islands, about 15 miles from them to the left of the side of the hill they hiked up, and a small camp on the other side of the island, to the right. They decided to hike down to the encampment to see what they could find, perhaps hoping to find some other survivors of the Tarantula, or some other hope of escaping the island.</p><p id="eac390c6-ec30-4755-9520-f72515b88bd7" class="">As they reached the encampment, Hugh and Dan found a chilling scence. The encampment was small, with only a single tent and bed roll, but completely abandoned. A thick trail of congealed blood traced a trail from the bed roll to the waterline of the beach. A musket, fired, lay on the ground next to the bed. They scrounged together whatever supplies they could find, including some ammunition, a hunting knife, a fishing net, a small barrel of gunpowder, and a barrel of rum. Sensing danger, and noticing that the sun was beginning to set, they took what they could hold back to Annabel and Gary, who had finally finished building the camp for the night.</p><figure id="02c77769-d00b-4f72-b3c9-dd0387feee5d" class="image"><a href="December%2030th%202c6b5c5e27644f1b91ddb100f79ccb28/00031-2748855606.png"><img style="width:512px" src="December%2030th%202c6b5c5e27644f1b91ddb100f79ccb28/00031-2748855606.png"/></a></figure><p id="b8cde0d3-4a72-46ec-a4f5-aab2713a3e26" class="">The gang made a fire out of the remaining scraps of the ship that weren’t used for the tent, and drank the rum that Dan and Gary had scavenged around the heat. Warned by the abandoned encampment, the players decided to keep watch around the fire over the night, swapping out while sleeping. Fortunately, the night was uneventful, and the crew finally managed to rest for the first time after the chaos that shipwrecked the Tarantula.</p><p id="bd360f7a-c7b7-4529-aab7-7b83ec9c4d06" class="">The Captain’s first mate Scaggs had survived the shipwreck of the Tarantula. A weathered sailor, he had the best knowledge of the Caribbean, and had the highest likelihood of being able to locate them by taking a closer look at the islands Hugh and Dan had seen from the top of the hill. The crew therefore took of on a hike the next morning, while Dan went out to the shore to fish for more food with the net he had found from the encampment. Reaching the top of the hill and stopping to take a look, Scaggs was able to make out their location. They were on <em><em><em><em><em><em><em><em><em><em><em><em><em><em><em><em><em>Conception Island</em></em></em></em></em></em></em></em></em></em></em></em></em></em></em></em></em>, the two other islands being the <em><em><em><em><em><em><em><em><em><em><em><em>Isle of Yuma</em></em></em></em></em></em></em></em></em></em></em></em>, and <em><em><em><em><em>Rum Quay.</em></em></em></em></em> Scaggs didn’t know much about the Isle of Yuma, but remarked that he had heard that Rum Quay had a small settlement of sailors. With this knowledge, the players started to make a plan to escape Conception Island.</p><p id="8c536f2d-af36-48e0-b0ae-1fafdc25e1fc" class="">On the top of the hill, Hugh poured out a pile of gunpowder from the barrel he’d found at the other encampment, ripping off rags from his clothing to makeshift a rudimentary fuse. Meanwhile, Gary went back down to the bonfire at the encampment down the hill. Hugh lit the rags, and sprinted for cover, ducking and covering his ears with his hands to protect himself. The gunpowder went off with a huge explosion, which signaled Gary to make some smoke signals with the bonfire below. After a few hours, Hugh managed to see a small rowboat coming towards them from Rum Quay. They’d manage to make contact with someone who could rescue them.</p><p id="a42879f3-aa71-4eeb-baa8-a21ff8acf56f" class="">
-</p><p id="15ca25f5-2bfe-446d-b0e6-3a7c6bcdfb83" class=""><strong>Section 3: Rum Quay</strong></p><p id="0ffbd4c2-4dd2-4725-87b4-9043d9e6f69a" class="">After a few hours, the boat reached Conception Island, and the players travelled down to the South of the Island to make their escape. A weathered, grumpy old fisherwoman, Esmeralda, got out, casting a suspicious look at the survivors, and probed them for their story of how they arrived on Conception Island. Her grumpy demeanor shifted as she realized she could make some money out of the situation. Sensing an opportunity, she offered to sail the players back to Rum Quay… for a high price. After some bartering, a deal was struck; she’d use her fishing boat as a makeshift taxi to make a journey to Rum Quay, in exchange for a vintage bottle of rum that Hugh had saved from his previous life as a tavern keep, and 50 pieces of silver.</p><p id="5b223312-7bd7-44af-a2e2-4ceaa15fc860" class="">On the journey, the player characters were able to get a better look at Rum Quay. The island was about twice the size of Conception Island, with a small shanty town of driftwood shacks on the beach north side of the island. There was a hill on the west side of the island, and a shipwreck on the east side. Most interestingly, on the south side of the island, the players saw three large spiky rocks jutting out of the cliffside on the opposite side of the island, just as was indicated in the treasure map Bloodwhip had given them. Somehow they’d manage to stumble on the location of the treasure they were looking for.</p><p id="5b17284a-1f1f-441f-afcc-d57b850e6f6d" class="">Evening descended on Rum Quay as they arrived, and players headed to the shack with the most commotion: the tavern. They purchased lodging in the bunks in the back room of the tavern from the keeper, Jooba, who also told players he’d pay some silver if they could get the meat of some snails which were normally found on the shore of the quay. The players decided to spend the rest of the evening searching for these snails.</p><figure id="df27e267-9da5-4150-a86c-a21f487b7840" class="image"><a href="December%2030th%202c6b5c5e27644f1b91ddb100f79ccb28/Untitled.webp"><img style="width:336px" src="December%2030th%202c6b5c5e27644f1b91ddb100f79ccb28/Untitled.webp"/></a></figure><p id="8225e430-cb6d-4a90-823e-6743836fde52" class="">The shore, eerily silent, harbored the snails the player characters were searching for. Each snail was the size of a clenched fist. Looking inside the shells, the players could see an emerald spheres embedded in the flesh of each snail, each one growing green in the darkness. Gary reached into the slimy interior of the snail shell to grab one of the shells. The moment he touched one, his mind melted away, and he found himself in a void. Thousands of ethereal spheres, pulsating with green, surrounded him. As he remained in this world, he began to get the feeling that the spheres were <em>staring at him</em> from the abyss. Panic seized him, and he released his grasp on the sphere he was holding onto, which threw him back into reality.</p><p id="177b5e68-49f7-480a-9cad-906070360bad" class="">By this time, the shore had become dark. Gary only had a candle to light the groups way back to the shanty town. In the darkness, the party was ambushed by two shoal spiders, semi-translucent crustaceans the size of jaguars with razor sharp crab claws. Annabel threw one of the snails at a spider, which managed to lodge itself onto the spider’s head. It became entranced by the emerald orb inside, and the spider was quickly dispatched, the second following shortly after.</p><p id="a46f618e-8c69-4fe8-b3cf-c3124d3f83c1" class="">Back in town, the players sold the snails they’d collected to Jooba, and asked about the shoal spiders that attacked them. Jooba warned them to never again go out into the dark without a good light source - the spiders, hunters of the night, are easily repelled by a strong enough light source. Using some of the snails, Jooba cooked the players a meal for the evening. Noticing the disappearance of some of the eyeballs, the players inquired about the spheres. Jooba initially looked uncomfortable, but then stammered that the spheres were poisonous, and he discards them behind the shack when cooking them.</p><figure id="fd11345f-5b74-48fe-9c24-6e53dc19b25c" class="image"><a href="December%2030th%202c6b5c5e27644f1b91ddb100f79ccb28/Untitled%201.jpeg"><img style="width:384px" src="December%2030th%202c6b5c5e27644f1b91ddb100f79ccb28/Untitled%201.jpeg"/></a></figure><p id="ca634ef0-a3b3-4259-a3bd-44f9c9f37d92" class="">The next day, Dan negotiated a trip back to Conception island with Esmeralda to get some more of the crew, in exchange for helping Esmeralda with her fishing for the rest of the day. Back on Conception Island, Dan was horrified to discover that, lacking enough wood to light a large enough fire on the island, most of the crew had been devoured by shore spiders in the night. The remaining scarred members of the crew came back with Dan and Esmeralda to Rum Quay.</p><p id="0b69ff76-ab71-4d9d-a645-d3264e24ae1f" class="">Meanwhile, Hugh, Gary, and Annabel picked up some supplies from the general store in Rum Quay, owned by Jooba’s brother Yeeba, including some torches. They also hiked up to the rock columns on the other side of the island. They found the cliff face, with the entry ways from the waters drawn exactly as indicated on the treasure map. They headed back to the tavern, planning to sail around to the entry ways the next day.</p><p id="dcfb7c39-3af1-4327-ab58-0902b2bba12b" class="">The next morning, after Dan arrived with the rest of the crew, the player characters set out to sail into the caverns on the other side of the island. Promising Esmeralda an equal share of the cut of the treasure they planned to find inside the cavern, she sailed her rowboat with the characters to the other side of the cavern. The waves crashed violently on the entry ways to the cavern, which were surrounded by jagged rocks, but this did not scare the player characters. They dived into the waters one by one, somehow managing not to get too heavily scratched by the rocks on the way in. They thus found themselves in <em><em><em><em><em><em><em><em><em><em><em><em><em><em><em><em><em><em><em><em><em><em><em><em><em><em>The Caves of Seven Skulls</em></em></em></em></em></em></em></em></em></em></em></em></em></em></em></em></em></em></em></em></em></em></em></em></em></em>.</p><p id="bc8716b0-454a-4ea6-b919-d70e25c4d66e" class=""><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>Section 4: The Caves of the Seven Skulls</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></p><figure id="02abfdd3-5fae-4dc0-9b98-cb82b6765183" class="image"><a href="December%2030th%202c6b5c5e27644f1b91ddb100f79ccb28/Untitled%201.webp"><img style="width:432px" src="December%2030th%202c6b5c5e27644f1b91ddb100f79ccb28/Untitled%201.webp"/></a></figure><p id="b2f328f0-1d41-4b0a-80da-2bdc39611cfb" class="">The players found themselves in a dark, low ceilinged cavern. Fortunately they had brought some torches with them, which lit their path and allowed them to map out the labyrinth of twisting paths through the cave. They eventually heard an arcane hum in the labyrinth, and following this hum led them into a large chamber, with a stone door covered with ancient glyphs none of the players could decipher, a basin on the ground at the center of the room, and a strong smell of sea brine.</p><p id="8e3f6ac0-9ef9-4065-a2bd-92fb99c96160" class="">The treasure map given at the adventure had told them <em>Only those with a heart of the sea may pass the doors of blood. </em>Thinking back to the map, Dan used his cutlass to make a small cut in his finger, and letting some drops of blood enter the basin caused the arcane hum in the room to increase. Prompted by this, each member of the team sliced a bigger wound in their palm, letting the blood drip into the basin, and causing the stone door to open to a wide passage, much flatter, carved out of the rock. Bandaging up the wounds with rags from their clothing, the players entered the doorway.</p><p id="7f38199f-6a54-42e5-b50e-a4f56736bae3" class="">The passage branched into two entryways. Heading right, the players were led into a dark room, the entryway soon falling away into a pit of dark water. The players were scared by what might be beneath the depths, and headed to the entryway on the left instead.</p><p id="64b728f6-4eec-48c6-a438-70e9fa2afbec" class="">This room was lit by torches, and smelled of incense. There, players meet Tetonton, a 10’ tall construct of clay, with 7 clay animal skulls as heads. With an authoritative voice coming from the Baboon skull, Tetonton declared itself as the sentinel of the treasury in this tomb, relinquishing it’s protection only to the new ruler of the Caribbean, wielding the ceremonial scepter and cap. The room was decorated with pictograms showing warriors with the heads of animals fighting tentacled monstrosities with clubs and catapults.</p><figure id="0a1b99ac-fb9d-4a5e-aeae-db1c5596dc25" class="image"><a href="December%2030th%202c6b5c5e27644f1b91ddb100f79ccb28/Untitled%202.webp"><img style="width:384px" src="December%2030th%202c6b5c5e27644f1b91ddb100f79ccb28/Untitled%202.webp"/></a></figure><p id="2df2cb1e-64ac-4103-96f0-0802515c01e8" class="">The players told him of how the Caribbean had changed since he was charged with protecting the tomb, but the construct refused to move. Forced to improvise, the players convinced Tetonton to anoint himself with the remaining gunpowder they had stocked, as a funeral ceremony to the last fallen ruler. They threw a match into the chamber, darting into the other room and jumping into the water to protect themselves.</p><p id="a61c1df5-07f0-4806-96d6-1730166c1831" class="">The gunpowder did little to damage the clay Golem, protected by some mystical power within it’s chamber. However, the gunpowder’s explosion did have the effect of briefly illuminating the water they were diving into, and the players got glimpse of a sarcophagus in the waters. Gary dived to the bottom of the waters, pulling the lid of the sarcophagus apart, and revealing a mummified body with a scepter and emerald green bird mask. Returning to the chamber of a very confused Tetonton, they convinced him to step aside for them to enter the vault, where they found piles of gold coins. Leaving the chamber, they told Tetonton that, relieved of his duty as protector of the vault, his new job was to travel with them, protecting the new rulers of the Caribbean. Preparing to make leave out of the vault, they took one of the 7 torches from around the aside of the room to help them make way out of the tomb. However, removing this torch from it’s sconce caused one of Tetonton’s heads, a chipmunk skull, to crumble into dust, which made them change their mind about taking the six remaining torches with them.</p><p id="bf23e74f-d321-48f3-bffa-05947e52b956" class="">With their newfound gold coins, the players had successfully found the treasure they’d originally set out with Captain Bloodwhip to find. Making preparations to leave the tomb, the players now had the funds to take on new adventures beyond Rum Quay…</p></div></article><span class="sans" style="font-size:14px;padding-top:2em"></span></body></html>
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+
+  <title> Jacob Denson </title>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="../css/style.css">
+
+  <script src="jquery.min.js"></script>
+  <script src="https://kit.fontawesome.com/86a1f463d3.js" crossorigin="anonymous"></script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script>
+    MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']]
+      }
+    };
+  </script>
+</head>
+
+
+
+
+
+
+
+<body>
+
+
+
+
+  <nav class="navbar navbar-expand-sm fixed-top"> <!-- id="myTopnav"> -->
+    <div class="container-fluid">
+        <a class="navbar-brand" href="../index.html">Jacob Denson</a>
+  
+        <button class="navbar-toggler fas fa-bars float-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+      
+      <div class="collapse navbar-collapse" id="navbarSupportedContent"> 
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item"><a href="../index.html">Home</a></li>
+  
+          <li class="nav-item"><a href="https://docs.google.com/viewer?url=https://github.com/jdjake/CV/raw/master/cv.pdf">Resume</a></li>
+  
+          <li class="nav-item active"><a href="../notes.html">Papers and Notes</a></li>
+  
+          <li class="nav-item"><a href="../calendar.html">Calendar</a></li>
+  
+          <li class="nav-item"><a href="../highlights.html">Books I've Read Recently</a></li>
+
+          <li class="nav-item"><a href="https://github.com/jdjake">Github</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  
+
+
+
+
+<div class="container" align="center">
+  <div class="rpg-writing">
+
+  <br>
+
+    <h1> Buried in the Bahamas </h1>
+
+  <h4> <b> Date: </b> December 30th, 2023 </h4>
+  <h4> <b> Module: </b> Buried in the Bahamas </h4>
+  <h4> <b> Players: </b> Gary, Hugh, Dan, Annabel </h4>
+
+  <br>
+
+  <div>
+
+  <h4> <b> The Dark Caribbean </b> </h4>
+
+  <p>
+    This game takes place in an occult version of our world’s Caribbean, during the golden age of piracy. When the first European explorers ventured into the Caribbean's uncharted waters, they discovered deserted islands brimming with temples of treasure, and arcane relics. The allure back in Europe proved irresistible, prompting thousands to leave their crowded, blighted homelands for the promise of the Caribbean. Yet, as these new settlers established a semblance of life on the mysterious islands, rumors spread in taverns of haunting screams echoing over sandy shores, malevolent forces arising from the islands sinister past, and ungodly monstrosities emerging from the stygian depths of the sea in the depths of night.
+  </p>
+
+  <img src="Dec30/pirateborg.png" style="width:18.675em;height:25.4em;float:left">
+
+  <h4> <b> Characters </b> </h4>
+  <p>
+    Hugh played <em> Low Roller </em>, a swashbuckler who concealed a mysterious past as a barkeep with a liking for mocking banter amongst the other crewmates. There was <em>something contagious</em> about him.
+  </p>
+  <p>
+    Dan played <em>Iago ‘Le Red Bird’</em>, a backstabbing rapscallion, a sailor with an insatiable urge for treasure. His previous adventures lead him to a narrow escape from a cannibalistic ending, but he never escaped <em>that smell</em>.
+  </p>
+  <p>
+    Annabel played <em>Eggo</em>, a writer. She sailed the sea to chronicle adventures she later hoped to profit from back home. Later in the game, she switched to playing <em>Billy 'Knives'</em>, the Tarantula's young cabin boy.
+  </p>
+  <p>
+    Gary played <em>Annemicke 'Flatline' Hollegate</em>, a known pirate and heretic amongst the colonial powers of the Caribbean. He'd gained a knack for wilderness survival, even if it'd cost him his right eye in the process.
+  </p>
+
+  <h4> <b> Part 1: Onboard the Tarantula </b> </h4>
+
+  <p>
+    The player characters were novice sailors serving Captain Bloodwhip on his pirate frigate, <em>The Tarantula</em>, searching for treasure via a map the captain had guarded close to his chest since the journey began. For two weeks, the Tarantula had been sailing around the Bahamas, circling islets, the crew ordered to keep their eyes peeled for three rock columns leaning to the west.
+  </p>
+
+  <p>
+    Our adventure started on a dark stormy night on board the Tarantula. Gary clung to the top of the crows nest, scanning the tempestuous sea for danger. Dan and Hugh worked on the rain-drenched deck of the ship, mocking Gary and making banter to try and lift their spirits. Meanwhile Annabel was nestled in her bunk on the lower decks of the ship, recording her adventures in a journal she hoped to publish after she’d returned home.
+  </p>
+
+  <p>
+    From the crows nest, lightning silhouettes a boat on the horizon, heading directly for the Tarantula. As the ship sailed closer, Gary was able to make more details out: the ship was weaved together from a thousand bones, with three flaming skulls mounted to the mast of the ship. The salty sea air became tainted with the acrid scent of ash and burning bones. Unable to avoid the ship, the Tarantula is rammed, and skeletons soon leap aboard to attack the crew. Their bones are charred black, and their eye sockets burn brightly with an ethereal flame.
+  </p>
+
+  <img src="Dec30/skeletonship.jpeg" style="width:39.96em;height:28.32em;float:right">
+
+  <p>
+    Dan, armed with a cutlass, fought off two skeletal adversaries on deck, parrying their strikes while responding with a few of his own, while Gary took pot shots at the invaders with his musket from the crows nest. Hugh, in a daring gambit, grabbed a rope hanging from a mast, and swung onto the ghost ship. However, he was quickly overwhelmed by two skeletons who ambushed him as he landed on the other side. One wailed with maniacal glee, as it took swipes at him with a pair of rusty knives. The other almost took Hugh’s life with a musket round. But luck was in Hugh’s favor, as a worn book in his breast pocket absorbed the deadly impact, sparing him from death. Fleeing for his life, Hugh tried to swing back onto the Tarantula, but his grip slipped on the rope on the way back, and he fell into the waves below. Miraculously (with some Devil’s luck) he managed to survive the waves below, clawing his way back onto the Tarantula through a gaping crack in the lower deck made by the rammed ship.
+  </p>
+
+  <p>
+    In the lower hold of the ship, Annabel was jolted from her bunk from the chaos happening above, and she hurried out into the hold of the ship. Scaggs, the Captain’s first mate, was trying to maintain leadership of the crew. He shouted into the chaos “Where is the Captain!?!”, and Annabel ran upstairs to check on the captain’s quarters in response. By the time Annabel had got to the top deck (and Gary had climbed down the crow’s nest), a huge amalgamation of bone, held together with rotting flax twine, climbed on board the ship in front of her, let out an demonic roar, and charged straight at her. Annabel narrowly dodged the ogre, while Gary climbed down from the nest to help her out. In a desperate attempt to face the ogre, Annabel spent several turns grappling with a cannon on the ship, struggling under it’s wait to try and turn it to face the amalgamation. But when she finally let the cannon fire, fate twisted, narrowly missing the amalgamation, the cannonball landing in the dark abyss of the ocean with a disheartening plunk.
+  </p>
+
+  <img src="Dec30/abomination.png" style="width:25em;height:25em;float:left">
+
+  <p>
+    Hugh climbed into the lower decks, the seawater up to his knees. He heard Billy ‘Knives’, the cabin boy, screaming desperately about the ship taking on water, while other crew members frantically tried to scoop up the water in a futile attempted to save the damned ship. As Hugh regarded the chaos, he quickly realized that the Tarantula was a lost cause, and ran upstairs to try and make an escape before the lower deck became a watery prison.
+  </p>
+
+  <p>
+    With the Cannonball failing to miss it’s mark, Gary, Annabel, and Dan were forced to confront the amalgamation through blades and gunfire. After taking out the amalgamation, Gary and Annabel ran to check on the captain in his quarters, who they found crushed beneath the weight of a fallen cabinet. In his dying breath, Bloodwhip bestowed on them the map to the treasure they sought. Gary took the map (and the captain’s cutlass), and they headed out to escape the ship.
+  </p>
+
+  <p>
+    At this point the Tarantula was close to capsizing, and the players knew they had to make a quick getaway. As Hugh was coming up the stairs, the ship really starting keeling, keeled, but he managed to hold onto the side of the door to the top deck to prevent falling off. Gary and Annabel managed to hold onto some shelving in the Captain’s study. On the other hand, Dan was unable to find something to hold onto, and he plunged into the fierce waters below.
+  </p>
+
+  <p>
+    Gary threw Dan a life preserver, the one lifeline which would prevent him from drowning in the rough waters. In desperation, Annabel swung onto the ghost ship to try and escape the water below, scaling the mast of the ship to try and escape the skeletons that awaited her there. At the top of the mast, another skeleton awaited, and she was forced to leap from the mast to survive. Tragedy unfolded as her head collided with the ship’s side. Unconscious and helpless, she drowned in the waters below. Hugh took the door of the ship and used it to keep him afloat in the water, whereas Gary took another life preserver and made it off the ship. The Tarantula and the ghost ship sunk beneath the waves, and what remained of the crew was left to hold on for dear life in the dark waters of the Caribbean, as the Tarantula sunk beneath the waves. The ghost ship, having accomplished whatever occult purpose for which it had attacked the Tarantula, also submerged beneath the stormy waves…
+  </p>
+
+
+
+
+
+  <h4> <b> Part 2: Shipwrecked </b> </h4>
+
+  <p>
+    Since Annabel’s last character died, she decided to play as Billy, the cabin boy, so we generated some stats for him, and she took over to play as him for the rest of the adventure.
+  </p>
+
+  <p>
+    The players resumed play the next morning, part of the crew washed up on the shores of a small island. The storm had passed, with blue skies overhead. The island was itself unremarkable. Players could only see a canopy of bushes past the shoreline, with a single hill cresting the middle of the island.
+  </p>
+
+  <p>
+    After scavenging what they could from what washed up with them from the wreck of the Tarantula, players were able to find 4 days worth of water, and enough wood and sail to make a camp to survive the night, but no edible food. Billy found some ink and parchment, the lost reports of Annabel’s unfinished story she was writing the previous night. Annabel and Gary decided to build the tent from the supplies, while Dan and Hugh went to scavenge for food, Dan to the shoreline to search for seafood, and Hugh inland to hunt for what he could find in the bushes. Dan managed to find a nest of turtles, and spent several hours gathering some baby turtles in a bucket to cook for food. Hugh found a nest of snakes, shooting the mother, and taking it back to the camp with some of the mother’s eggs.
+  </p>
+
+  <p>
+    Together, they managed to find enough food to feed the surviving crew for the rest of the day, so Hugh and Dan decided to spend the rest of the afternoon exploring the island, beginning by climbing the hill to survey the land. They spent an hour reaching the summit. There, they could see that the island was diamond shaped, about three miles in radius from the hill. On the horizon, they could see two islands, about 15 miles from them to the left of the side of the hill they hiked up, and a small camp on the other side of the island, to the right. They decided to hike down to the encampment to see what they could find, perhaps hoping to find some other survivors of the Tarantula, or some other hope of escaping the island.
+  </p>
+
+  <p>
+    As they reached the encampment, Hugh and Dan found a chilling scence. The encampment was small, with only a single tent and bed roll, but completely abandoned. A thick trail of congealed blood traced a trail from the bed roll to the waterline of the beach. A musket, fired, lay on the ground next to the bed. They scrounged together whatever supplies they could find, including some ammunition, a hunting knife, a fishing net, a small barrel of gunpowder, and a barrel of rum. Sensing danger, and noticing that the sun was beginning to set, they took what they could hold back to Annabel and Gary, who had finally finished building the camp for the night.
+  </p>
+
+  <img src="Dec30/bloodytent.png" style="width:25em;height:25em;float:left">
+
+  <p>
+    The gang made a fire out of the remaining scraps of the ship that weren’t used for the tent, and drank the rum that Dan and Gary had scavenged around the heat. Warned by the abandoned encampment, the players decided to keep watch around the fire over the night, swapping out while sleeping. Fortunately, the night was uneventful, and the crew finally managed to rest for the first time after the chaos that shipwrecked the Tarantula.
+  </p>
+
+  <p>
+    The Captain’s first mate Scaggs had survived the shipwreck of the Tarantula. A weathered sailor, he had the best knowledge of the Caribbean, and had the highest likelihood of being able to locate them by taking a closer look at the islands Hugh and Dan had seen from the top of the hill. The crew therefore took of on a hike the next morning, while Dan went out to the shore to fish for more food with the net he had found from the encampment. Reaching the top of the hill and stopping to take a look, Scaggs was able to make out their location. They were on <em>Conception Island</em>, the two other islands being the <em>Isle of Yuma</em>, and <em>Rum Quay</em>. Scaggs didn’t know much about the Isle of Yuma, but remarked that he had heard that Rum Quay had a small settlement of sailors. With this knowledge, the players started to make a plan to escape Conception Island.
+  </p>
+
+  <p>
+    On the top of the hill, Hugh poured out a pile of gunpowder from the barrel he’d found at the other encampment, ripping off rags from his clothing to makeshift a rudimentary fuse. Meanwhile, Gary went back down to the bonfire at the encampment down the hill. Hugh lit the rags, and sprinted for cover, ducking and covering his ears with his hands to protect himself. The gunpowder went off with a huge explosion, which signaled Gary to make some smoke signals with the bonfire below. After a few hours, Hugh managed to see a small rowboat coming towards them from Rum Quay. They’d manage to make contact with someone who could rescue them.
+  </p>
+
+
+
+
+
+  <h6> <b> Part 3: Rum Quay </b> </h6>
+
+  <p>
+    After a few hours, the boat reached Conception Island, and the players travelled down to the South of the Island to make their escape. A weathered, grumpy old fisherwoman, Esmeralda, got out, casting a suspicious look at the survivors, and probed them for their story of how they arrived on Conception Island. Her grumpy demeanor shifted as she realized she could make some money out of the situation. Sensing an opportunity, she offered to sail the players back to Rum Quay… for a high price. After some bartering, a deal was struck; she’d use her fishing boat as a makeshift taxi to make a journey to Rum Quay, in exchange for a vintage bottle of rum that Hugh had saved from his previous life as a tavern keep, and 50 pieces of silver.
+  </p>
+
+  <p>
+    On the journey, the player characters were able to get a better look at Rum Quay. The island was about twice the size of Conception Island, with a small shanty town of driftwood shacks on the beach north side of the island. There was a hill on the west side of the island, and a shipwreck on the east side. Most interestingly, on the south side of the island, the players saw three large spiky rocks jutting out of the cliffside on the opposite side of the island, just as was indicated in the treasure map Bloodwhip had given them. Somehow they’d manage to stumble on the location of the treasure they were looking for.
+  </p>
+
+  <p>
+    Evening descended on Rum Quay as they arrived, and players headed to the shack with the most commotion: the tavern. They purchased lodging in the bunks in the back room of the tavern from the keeper, Jooba, who also told players he’d pay some silver if they could get the meat of some snails which were normally found on the shore of the quay. The players decided to spend the rest of the evening searching for these snails.
+  </p>
+
+  <img src="Dec30/greenorbs.webp" style="width:25.6em;height:32em;float:right">
+
+  <p>
+    The shore, eerily silent, harbored the snails the player characters were searching for. Each snail was the size of a clenched fist. Looking inside the shells, the players could see an emerald spheres embedded in the flesh of each snail, each one growing green in the darkness. Gary reached into the slimy interior of the snail shell to grab one of the shells. The moment he touched one, his mind melted away, and he found himself in a void. Thousands of ethereal spheres, pulsating with green, surrounded him. As he remained in this world, he began to get the feeling that the spheres were *staring at him* from the abyss. Panic seized him, and he released his grasp on the sphere he was holding onto, which threw him back into reality.
+  </p>
+
+  <p>
+    By this time, the shore had become dark. Gary only had a candle to light the groups way back to the shanty town. In the darkness, the party was ambushed by two shoal spiders, semi-translucent crustaceans the size of jaguars with razor sharp crab claws. Annabel threw one of the snails at a spider, which managed to lodge itself onto the spider’s head. It became entranced by the emerald orb inside, and the spider was quickly dispatched, the second following shortly after.
+  </p>
+
+  <p>
+    Back in town, the players sold the snails they’d collected to Jooba, and asked about the shoal spiders that attacked them. Jooba warned them to never again go out into the dark without a good light source - the spiders, hunters of the night, are easily repelled by a strong enough light source. Using some of the snails, Jooba cooked the players a meal for the evening. Noticing the disappearance of some of the eyeballs, the players inquired about the spheres. Jooba initially looked uncomfortable, but then stammered that the spheres were poisonous, and he discards them behind the shack when cooking them.
+  </p>
+
+  <img src="Dec30/shoalspiders.jpeg" style="width:25em;height:25em;float:right">
+
+  <p>
+    The next day, Dan negotiated a trip back to Conception island with Esmeralda to get some more of the crew, in exchange for helping Esmeralda with her fishing for the rest of the day. Back on Conception Island, Dan was horrified to discover that, lacking enough wood to light a large enough fire on the island, most of the crew had been devoured by shore spiders in the night. The remaining scarred members of the crew came back with Dan and Esmeralda to Rum Quay.
+  </p>
+
+  <p>
+    Meanwhile, Hugh, Gary, and Annabel picked up some supplies from the general store in Rum Quay, owned by Jooba’s brother Yeeba, including some torches. They also hiked up to the rock columns on the other side of the island. They found the cliff face, with the entry ways from the waters drawn exactly as indicated on the treasure map. They headed back to the tavern, planning to sail around to the entry ways the next day.
+  </p>
+
+  <p>
+    The next morning, after Dan arrived with the rest of the crew, the player characters set out to sail into the caverns on the other side of the island. Promising Esmeralda an equal share of the cut of the treasure they planned to find inside the cavern, she sailed her rowboat with the characters to the other side of the cavern. The waves crashed violently on the entry ways to the cavern, which were surrounded by jagged rocks, but this did not scare the player characters. They dived into the waters one by one, somehow managing not to get too heavily scratched by the rocks on the way in. They thus found themselves in <em>The Caves of Seven Skulls</em>.
+  </p>
+
+
+
+
+
+  <h6> <b> Part 4: The Caves of the Seven Skulls </b> </h6>
+
+  <p>
+    The players found themselves in a dark, low ceilinged cavern. Fortunately they had brought some torches with them, which lit their path and allowed them to map out the labyrinth of twisting paths through the cave. They eventually heard an arcane hum in the labyrinth, and following this hum led them into a large chamber, with a stone door covered with ancient glyphs none of the players could decipher, a basin on the ground at the center of the room, and a strong smell of sea brine.
+  </p>
+
+  <p>
+    The treasure map given at the adventure had told them *Only those with a heart of the sea may pass the doors of blood.* Thinking back to the map, Dan used his cutlass to make a small cut in his finger, and letting some drops of blood enter the basin caused the arcane hum in the room to increase. Prompted by this, each member of the team sliced a bigger wound in their palm, letting the blood drip into the basin, and causing the stone door to open to a wide passage, much flatter, carved out of the rock. Bandaging up the wounds with rags from their clothing, the players entered the doorway.
+  </p>
+
+  <img src="Dec30/tomb.webp" style="width:20em;height:20em;float:left">
+
+  <p>
+    The passage branched into two entryways. Heading right, the players were led into a dark room, the entryway soon falling away into a pit of dark water. The players were scared by what might be beneath the depths, and headed to the entryway on the left instead.
+  </p>
+
+  <p>
+    This room was lit by torches, and smelled of incense. There, players meet Tetonton, a 10’ tall construct of clay, with 7 clay animal skulls as heads. With an authoritative voice coming from the Baboon skull, Tetonton declared itself as the sentinel of the treasury in this tomb, relinquishing it’s protection only to the new ruler of the Caribbean, wielding the ceremonial scepter and cap. The room was decorated with pictograms showing warriors with the heads of animals fighting tentacled monstrosities with clubs and catapults.
+  </p>
+
+  <p>
+    The players told him of how the Caribbean had changed since he was charged with protecting the tomb, but the construct refused to move. Forced to improvise, the players convinced Tetonton to anoint himself with the remaining gunpowder they had stocked, as a funeral ceremony to the last fallen ruler. They threw a match into the chamber, darting into the other room and jumping into the water to protect themselves.
+  </p>
+
+  <img src="Dec30/construct.webp" style="width:25em;height:25em;float:right">
+
+  <p>
+    The gunpowder did little to damage the clay Golem, protected by some mystical power within it’s chamber. However, the gunpowder’s explosion did have the effect of briefly illuminating the water they were diving into, and the players got glimpse of a sarcophagus in the waters. Gary dived to the bottom of the waters, pulling the lid of the sarcophagus apart, and revealing a mummified body with a scepter and emerald green bird mask. Returning to the chamber of a very confused Tetonton, they convinced him to step aside for them to enter the vault, where they found piles of gold coins. Leaving the chamber, they told Tetonton that, relieved of his duty as protector of the vault, his new job was to travel with them, protecting the new rulers of the Caribbean. Preparing to make leave out of the vault, they took one of the 7 torches from around the aside of the room to help them make way out of the tomb. However, removing this torch from it’s sconce caused one of Tetonton’s heads, a chipmunk skull, to crumble into dust, which made them change their mind about taking the six remaining torches with them.
+  </p>
+
+  <p>
+    With their newfound gold coins, the players had successfully found the treasure they’d originally set out with Captain Bloodwhip to find. Making preparations to leave the tomb, the players now had the funds to take on new adventures beyond Rum Quay…
+  </p>
+
+  </div>
+</div>
+
+</body>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+</html>

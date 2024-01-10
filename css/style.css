@@ -266,3 +266,20 @@ a:hover { text-decoration: none; }
 .notes-section h1 {
   font-size: 50px;
 }
+
+.rpg-writing {
+    margin-left: 10vw;
+    margin-right: 10vw;
+    text-align: left;
+}
+
+.rpg-writing p {
+    text-align: left;
+}
+
+.rpg-writing img {
+  padding-top: 1em;
+  padding-right: 1em;
+  padding-bottom: 1em;
+  padding-left: 1em;
+}
