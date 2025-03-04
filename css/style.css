@@ -36,6 +36,15 @@ a:hover { text-decoration: none; }
     text-align: center;
 }
 
+.notes_subtitle_rpg {
+    margin-top: 0.2vw;
+    margin-bottom: 0.4vw;
+    line-height: 1;
+    width: 45%;
+    font-variant: small-caps;
+    text-align: center;
+}
+
 .notes_description {
   margin-top: 0.4vw;
 }
