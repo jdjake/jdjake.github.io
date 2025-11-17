@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Multilinear Restriction</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Multilinear Restriction</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Multilinear Restriction Using Wang-Wu Refined Decoupling</title>
+    <link>https://quartz.jzhao.xyz/Proof-Attempts/Multilinear-Restriction-Using-Wang-Wu-Refined-Decoupling</link>
+    <guid>https://quartz.jzhao.xyz/Proof-Attempts/Multilinear-Restriction-Using-Wang-Wu-Refined-Decoupling</guid>
+    <description><![CDATA[ Setup Just to simplify things, let’s focus first on bilinear restriction. Define T(f,g) = |E f|^{1/2} |E g|^{1/2}. ]]></description>
+    <pubDate>Mon, 17 Nov 2025 14:21:44 GMT</pubDate>
+  </item><item>
+    <title>Shadings</title>
+    <link>https://quartz.jzhao.xyz/Notes/Shadings</link>
+    <guid>https://quartz.jzhao.xyz/Notes/Shadings</guid>
+    <description><![CDATA[ Suppose we have a family of subsets \mathbb{A} in \mathbb{R}^n, with |A| \sim V for each A \in \mathbb{A}. ]]></description>
+    <pubDate>Mon, 17 Nov 2025 13:52:13 GMT</pubDate>
+  </item><item>
+    <title>The Kakeya Maximal Inequality</title>
+    <link>https://quartz.jzhao.xyz/Problem-Statements/The-Kakeya-Maximal-Inequality</link>
+    <guid>https://quartz.jzhao.xyz/Problem-Statements/The-Kakeya-Maximal-Inequality</guid>
+    <description><![CDATA[ The Kakeya maximal conjecture states that for a family \mathbb{T} of \delta-tubes which are direction separated, then for 0 \leq d \leq n, \left\| \sum 1_T \right\|_{L^{\frac{d}{d-1}}(\mathbb{R}^n)} \lessapprox \delta^{1-n/d}. ]]></description>
+    <pubDate>Mon, 17 Nov 2025 04:13:09 GMT</pubDate>
+  </item><item>
+    <title>We Can Remove Exceptional Sets From Lp Estimates</title>
+    <link>https://quartz.jzhao.xyz/Notes/We-Can-Remove-Exceptional-Sets-From-Lp-Estimates</link>
+    <guid>https://quartz.jzhao.xyz/Notes/We-Can-Remove-Exceptional-Sets-From-Lp-Estimates</guid>
+    <description><![CDATA[ Suppose X_0 has finite measure, and we have to prove an inequality of the form \| f \|_{L^p(X_0)} \lesssim C. ]]></description>
+    <pubDate>Mon, 17 Nov 2025 03:23:37 GMT</pubDate>
+  </item><item>
+    <title>Induction on Scales</title>
+    <link>https://quartz.jzhao.xyz/Notes/Induction-on-Scales</link>
+    <guid>https://quartz.jzhao.xyz/Notes/Induction-on-Scales</guid>
+    <description><![CDATA[ Suppose C(R) is a finite quantity chosen for each integer R &gt; 0, such that, by some (hopefully trivial) argument, we can justify C(R) = R^{O(1)}. ]]></description>
+    <pubDate>Mon, 17 Nov 2025 03:21:14 GMT</pubDate>
+  </item><item>
+    <title>The Polynomial Wolff Axioms</title>
+    <link>https://quartz.jzhao.xyz/Notes/The-Polynomial-Wolff-Axioms</link>
+    <guid>https://quartz.jzhao.xyz/Notes/The-Polynomial-Wolff-Axioms</guid>
+    <description><![CDATA[ A set of \delta-tubes \mathbb{T} satisfy the Polynomial Wolff axioms if, for any semi-algebraic set S, \# \{ T \in \mathbb{T}: |T \cap S| \geq \lambda |T| \} \lesssim |S| \delta^{1-n} \lambda^{-n} \tag{1} where the implicit constants depend only on the complexity of the semi-algebraic set S. ]]></description>
+    <pubDate>Mon, 17 Nov 2025 03:10:28 GMT</pubDate>
+  </item><item>
+    <title>Wave Packet Decomposition For Extension</title>
+    <link>https://quartz.jzhao.xyz/Notes/Wave-Packet-Decomposition-For-Extension</link>
+    <guid>https://quartz.jzhao.xyz/Notes/Wave-Packet-Decomposition-For-Extension</guid>
+    <description><![CDATA[ Given any function f supported on a compact neighborhood of a curved hypersurface \Sigma, and each R &gt; 0, we can break \Sigma down finitely overlapping caps \Theta, each having dimensions R^{-1/2} tangent to \Sigma, and dimension R^{-1} in the normal direction to \Sigma. ]]></description>
+    <pubDate>Mon, 17 Nov 2025 02:55:54 GMT</pubDate>
+  </item><item>
+    <title>Broad-Narrow Analysis</title>
+    <link>https://quartz.jzhao.xyz/Notes/Broad-Narrow-Analysis</link>
+    <guid>https://quartz.jzhao.xyz/Notes/Broad-Narrow-Analysis</guid>
+    <description><![CDATA[ Fix K &gt; 0, and divide a hypersurface \Sigma in \mathbb{R}^d into caps \tau of diameter O(K^{-1}). Given a function f on \Sigma, let g = Ef. ]]></description>
+    <pubDate>Mon, 17 Nov 2025 02:06:58 GMT</pubDate>
+  </item><item>
+    <title>Random Rotations Trick</title>
+    <link>https://quartz.jzhao.xyz/Notes/Random-Rotations-Trick</link>
+    <guid>https://quartz.jzhao.xyz/Notes/Random-Rotations-Trick</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 17 Nov 2025 00:04:20 GMT</pubDate>
+  </item><item>
+    <title>Polynomial Partitioning</title>
+    <link>https://quartz.jzhao.xyz/Notes/Polynomial-Partitioning</link>
+    <guid>https://quartz.jzhao.xyz/Notes/Polynomial-Partitioning</guid>
+    <description><![CDATA[ The idea of polynomial partitioning, introduced by Guth and Katz in their 2015 Paper on the Erdos distinct distances problem, is to combine the polynomial incidence geometric methods of Dvir with the divide and conquer approaches of divide and conquer partitioning approach introduced by CEGSW in inc... ]]></description>
+    <pubDate>Sun, 16 Nov 2025 01:11:33 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
