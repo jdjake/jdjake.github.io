@@ -1,42 +1,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://quartz.jzhao.xyz/Notes/Broad-Narrow-Analysis</loc>
-    <lastmod>2025-11-17T02:06:58.531Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Notes/Enemies-in-Multilinear-Restriction</loc>
-    <lastmod>2025-11-12T12:37:28.344Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Notes/Induction-on-Scales</loc>
-    <lastmod>2025-11-17T03:21:14.924Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Notes/Polynomial-Partitioning</loc>
-    <lastmod>2025-11-16T01:11:33.927Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Notes/Random-Rotations-Trick</loc>
-    <lastmod>2025-11-17T00:04:20.828Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Notes/Shadings</loc>
-    <lastmod>2025-11-17T13:52:13.494Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Notes/The-Polynomial-Wolff-Axioms</loc>
-    <lastmod>2025-11-17T03:10:28.392Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Notes/Wave-Packet-Decomposition-For-Extension</loc>
-    <lastmod>2025-11-17T02:55:54.682Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Notes/We-Can-Remove-Exceptional-Sets-From-Lp-Estimates</loc>
-    <lastmod>2025-11-17T03:23:37.166Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Problem-Statements/Generalization-of-Decoupling-and-Restricted-Decoupling</loc>
+    <loc>https://quartz.jzhao.xyz/Problems/Generalization-of-Decoupling-and-Restricted-Decoupling</loc>
     <lastmod>2025-11-12T12:37:28.343Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Problem-Statements/The-Kakeya-Maximal-Inequality</loc>
+    <loc>https://quartz.jzhao.xyz/Problems/The-Kakeya-Maximal-Inequality</loc>
     <lastmod>2025-11-17T04:13:09.476Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Problem-Statements/The-Multilinear-Restriction-Conjecture</loc>
-    <lastmod>2025-11-16T00:56:13.251Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Problems/The-Multilinear-Restriction-Conjecture</loc>
+    <lastmod>2025-11-27T00:32:44.381Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Proof-Attempts/Multilinear-Restriction-Using-Wang-Wu-Refined-Decoupling</loc>
-    <lastmod>2025-11-17T14:48:17.987Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Proof-Attempts/Multilinear-Restriction-Using-Polynomial-Partitioning-and-Refined-Decoupling</loc>
+    <lastmod>2025-11-27T09:57:11.920Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Quick-Notes/Broad-Narrow-Analysis</loc>
+    <lastmod>2025-12-04T02:58:09.216Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Quick-Notes/Calculations-With-The-Shape-Operator</loc>
+    <lastmod>2025-12-05T21:45:14.821Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Quick-Notes/Enemies-in-Multilinear-Restriction</loc>
+    <lastmod>2025-11-12T12:37:28.344Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Quick-Notes/Induction-on-Scales</loc>
+    <lastmod>2025-11-26T16:35:49.920Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Quick-Notes/Polynomial-Partitioning</loc>
+    <lastmod>2025-11-16T01:11:33.927Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Quick-Notes/Random-Rotations-Trick</loc>
+    <lastmod>2025-11-17T00:04:20.828Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Quick-Notes/Shadings</loc>
+    <lastmod>2025-11-17T13:52:13.494Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Quick-Notes/The-Polynomial-Wolff-Axioms</loc>
+    <lastmod>2025-11-17T03:10:28.392Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Quick-Notes/The-Refined-Decoupling-Theorem</loc>
+    <lastmod>2025-11-27T01:43:18.778Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Quick-Notes/Wang-Wu-Restricted-Decoupling-+-Kakeya-Implies-Restriction</loc>
+    <lastmod>2025-11-27T01:44:28.131Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Quick-Notes/Wave-Packet-Decomposition-For-Extension</loc>
+    <lastmod>2025-11-18T16:47:41.423Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Quick-Notes/We-Can-Remove-Exceptional-Sets-From-Lp-Estimates</loc>
+    <lastmod>2025-11-17T03:23:37.166Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/</loc>
     <lastmod>2023-08-23T19:09:04.000Z</lastmod>
