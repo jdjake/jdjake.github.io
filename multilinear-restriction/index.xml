@@ -6,6 +6,12 @@
       <description>Last 10 notes on Multilinear Restriction</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Calculations With The Shape Operator II</title>
+    <link>https://quartz.jzhao.xyz/Quick-Notes/Calculations-With-The-Shape-Operator-II</link>
+    <guid>https://quartz.jzhao.xyz/Quick-Notes/Calculations-With-The-Shape-Operator-II</guid>
+    <description><![CDATA[ Let \pi_j: \mathbb{R}^n \to \mathbb{R}^{n-1} denote the map \pi_j(\zeta) = (\zeta_1,\dots,\zeta_{i-1},\zeta_{i+1},\dots,\zeta_n). ]]></description>
+    <pubDate>Mon, 19 Jan 2026 01:43:50 GMT</pubDate>
+  </item><item>
     <title>Calculations With The Shape Operator</title>
     <link>https://quartz.jzhao.xyz/Quick-Notes/Calculations-With-The-Shape-Operator</link>
     <guid>https://quartz.jzhao.xyz/Quick-Notes/Calculations-With-The-Shape-Operator</guid>
@@ -59,12 +65,6 @@
     <guid>https://quartz.jzhao.xyz/Problems/The-Kakeya-Maximal-Inequality</guid>
     <description><![CDATA[ The Kakeya maximal conjecture states that for a family \mathbb{T} of \delta-tubes which are direction separated, then for 0 \leq d \leq n, \left\| \sum 1_T \right\|_{L^{\frac{d}{d-1}}(\mathbb{R}^n)} \lessapprox \delta^{1-n/d}. ]]></description>
     <pubDate>Mon, 17 Nov 2025 04:13:09 GMT</pubDate>
-  </item><item>
-    <title>We Can Remove Exceptional Sets From Lp Estimates</title>
-    <link>https://quartz.jzhao.xyz/Quick-Notes/We-Can-Remove-Exceptional-Sets-From-Lp-Estimates</link>
-    <guid>https://quartz.jzhao.xyz/Quick-Notes/We-Can-Remove-Exceptional-Sets-From-Lp-Estimates</guid>
-    <description><![CDATA[ Suppose X_0 has finite measure, and we have to prove an inequality of the form \| f \|_{L^p(X_0)} \lesssim C. ]]></description>
-    <pubDate>Mon, 17 Nov 2025 03:23:37 GMT</pubDate>
   </item>
     </channel>
   </rss>
