@@ -6,65 +6,65 @@
       <description>Last 10 notes on Multilinear Restriction</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Keel-Tao Estimates on Subset of Variables</title>
+    <link>https://quartz.jzhao.xyz/Quick-Notes/Keel-Tao-Estimates-on-Subset-of-Variables</link>
+    <guid>https://quartz.jzhao.xyz/Quick-Notes/Keel-Tao-Estimates-on-Subset-of-Variables</guid>
+    <description><![CDATA[ Consider the Schrödinger operator e^{i t \Delta} on \mathbb{R}^d = \mathbb{R}^n_x \oplus \mathbb{R}^m_y, where n + m = d. ]]></description>
+    <pubDate>Tue, 27 Jan 2026 17:13:47 GMT</pubDate>
+  </item><item>
+    <title>Important Exponents in Restriction Theory</title>
+    <link>https://quartz.jzhao.xyz/Quick-Notes/Important-Exponents-in-Restriction-Theory</link>
+    <guid>https://quartz.jzhao.xyz/Quick-Notes/Important-Exponents-in-Restriction-Theory</guid>
+    <description><![CDATA[ Here we are working with restriction operators for curved hypersurfaces of dimension n in \mathbb{R}^d. ]]></description>
+    <pubDate>Thu, 22 Jan 2026 17:28:05 GMT</pubDate>
+  </item><item>
     <title>Calculations With The Shape Operator II</title>
     <link>https://quartz.jzhao.xyz/Quick-Notes/Calculations-With-The-Shape-Operator-II</link>
     <guid>https://quartz.jzhao.xyz/Quick-Notes/Calculations-With-The-Shape-Operator-II</guid>
     <description><![CDATA[ Let \pi_j: \mathbb{R}^n \to \mathbb{R}^{n-1} denote the map \pi_j(\zeta) = (\zeta_1,\dots,\zeta_{i-1},\zeta_{i+1},\dots,\zeta_n). ]]></description>
-    <pubDate>Mon, 19 Jan 2026 01:43:50 GMT</pubDate>
+    <pubDate>Mon, 19 Jan 2026 01:57:52 GMT</pubDate>
   </item><item>
     <title>Calculations With The Shape Operator</title>
     <link>https://quartz.jzhao.xyz/Quick-Notes/Calculations-With-The-Shape-Operator</link>
     <guid>https://quartz.jzhao.xyz/Quick-Notes/Calculations-With-The-Shape-Operator</guid>
-    <description><![CDATA[ Let \Sigma be an orientable surface in \mathbb{R}^d. Then we can consider the normal vector field n: \Sigma \to S^{d-1} to \Sigma. ]]></description>
-    <pubDate>Sat, 06 Dec 2025 15:11:51 GMT</pubDate>
-  </item><item>
-    <title>Broad-Narrow Analysis</title>
-    <link>https://quartz.jzhao.xyz/Quick-Notes/Broad-Narrow-Analysis</link>
-    <guid>https://quartz.jzhao.xyz/Quick-Notes/Broad-Narrow-Analysis</guid>
-    <description><![CDATA[ We aim to obtain a bound \| Ef \|_{L^p(B_R)} \lessapprox \| f \|_{L^p(\Sigma)} by using multilinear restriction estimates and decoupling estimates. ]]></description>
-    <pubDate>Thu, 04 Dec 2025 02:58:09 GMT</pubDate>
-  </item><item>
-    <title>Restricted Decoupling + Kakeya Implies Restriction</title>
-    <link>https://quartz.jzhao.xyz/Quick-Notes/Restricted-Decoupling-+-Kakeya-Implies-Restriction</link>
-    <guid>https://quartz.jzhao.xyz/Quick-Notes/Restricted-Decoupling-+-Kakeya-Implies-Restriction</guid>
-    <description><![CDATA[ Recall the The Refined Decoupling Theorem. ]]></description>
-    <pubDate>Thu, 27 Nov 2025 01:44:28 GMT</pubDate>
-  </item><item>
-    <title>The Refined Decoupling Theorem</title>
-    <link>https://quartz.jzhao.xyz/Quick-Notes/The-Refined-Decoupling-Theorem</link>
-    <guid>https://quartz.jzhao.xyz/Quick-Notes/The-Refined-Decoupling-Theorem</guid>
-    <description><![CDATA[ Suppose p &gt; 2(d+1)/(d-1). ]]></description>
-    <pubDate>Thu, 27 Nov 2025 01:43:18 GMT</pubDate>
-  </item><item>
-    <title>The Multilinear Restriction Conjecture</title>
-    <link>https://quartz.jzhao.xyz/Problems/The-Multilinear-Restriction-Conjecture</link>
-    <guid>https://quartz.jzhao.xyz/Problems/The-Multilinear-Restriction-Conjecture</guid>
-    <description><![CDATA[ The restriction conjecture states that for 2d/(d-1) &lt; q &lt; \infty and 1 - \left( \frac{d+1}{d-1} \right) (1/q) \geq 1/p, \| Ef \|_{L^q(\mathbb{R}^d)} \lesssim \| f \|_{L^p(\Sigma)}. ]]></description>
-    <pubDate>Thu, 27 Nov 2025 00:32:44 GMT</pubDate>
+    <description><![CDATA[ Let \Sigma be an orientable surface in \mathbb{R}^d. Then we can consider a normal vector field n: \Sigma \to S^{d-1} to \Sigma. ]]></description>
+    <pubDate>Mon, 19 Jan 2026 00:46:48 GMT</pubDate>
   </item><item>
     <title>Induction on Scales</title>
     <link>https://quartz.jzhao.xyz/Quick-Notes/Induction-on-Scales</link>
     <guid>https://quartz.jzhao.xyz/Quick-Notes/Induction-on-Scales</guid>
     <description><![CDATA[ Suppose C(R) is a finite quantity chosen for each integer R &gt; 0, such that, by some (hopefully trivial) argument, we can justify C(R) = R^{O(1)}. ]]></description>
-    <pubDate>Wed, 26 Nov 2025 16:35:49 GMT</pubDate>
+    <pubDate>Wed, 14 Jan 2026 00:22:21 GMT</pubDate>
   </item><item>
-    <title>Wave Packet Decomposition For Extension</title>
-    <link>https://quartz.jzhao.xyz/Quick-Notes/Wave-Packet-Decomposition-For-Extension</link>
-    <guid>https://quartz.jzhao.xyz/Quick-Notes/Wave-Packet-Decomposition-For-Extension</guid>
-    <description><![CDATA[ Given any function f supported on a compact neighborhood of a curved hypersurface \Sigma, and each R &gt; 0, we can break \Sigma down finitely overlapping caps \Theta, each having dimensions R^{-1/2} tangent to \Sigma, and dimension R^{-1} in the normal direction to \Sigma. ]]></description>
-    <pubDate>Tue, 18 Nov 2025 16:47:41 GMT</pubDate>
+    <title>Simultaneous Saturation</title>
+    <link>https://quartz.jzhao.xyz/Quick-Notes/Simultaneous-Saturation</link>
+    <guid>https://quartz.jzhao.xyz/Quick-Notes/Simultaneous-Saturation</guid>
+    <description><![CDATA[ Suppose that T_1,\dots,T_M are operators, with T_i mapping elements of a Hilbert space H_i to functions on a set X, where \| T_i \|_{H_i \to L^2(X)} \lesssim B. ]]></description>
+    <pubDate>Mon, 12 Jan 2026 12:39:50 GMT</pubDate>
   </item><item>
-    <title>Shadings</title>
-    <link>https://quartz.jzhao.xyz/Quick-Notes/Shadings</link>
-    <guid>https://quartz.jzhao.xyz/Quick-Notes/Shadings</guid>
-    <description><![CDATA[ Suppose we have a family of subsets \mathbb{A} in \mathbb{R}^n, with |A| \sim V for each A \in \mathbb{A}. ]]></description>
-    <pubDate>Mon, 17 Nov 2025 13:52:13 GMT</pubDate>
+    <title>Rapidly Decaying Wave Packet Weights</title>
+    <link>https://quartz.jzhao.xyz/Quick-Notes/Rapidly-Decaying-Wave-Packet-Weights</link>
+    <guid>https://quartz.jzhao.xyz/Quick-Notes/Rapidly-Decaying-Wave-Packet-Weights</guid>
+    <description><![CDATA[ TODO With translation invariance, can go from local estimates to weighted estimates, so that the inequalities can be composed. ]]></description>
+    <pubDate>Fri, 12 Dec 2025 15:54:33 GMT</pubDate>
   </item><item>
-    <title>The Kakeya Maximal Inequality</title>
-    <link>https://quartz.jzhao.xyz/Problems/The-Kakeya-Maximal-Inequality</link>
-    <guid>https://quartz.jzhao.xyz/Problems/The-Kakeya-Maximal-Inequality</guid>
-    <description><![CDATA[ The Kakeya maximal conjecture states that for a family \mathbb{T} of \delta-tubes which are direction separated, then for 0 \leq d \leq n, \left\| \sum 1_T \right\|_{L^{\frac{d}{d-1}}(\mathbb{R}^n)} \lessapprox \delta^{1-n/d}. ]]></description>
-    <pubDate>Mon, 17 Nov 2025 04:13:09 GMT</pubDate>
+    <title>Reverse Hölder&#039;s Inequality For Fourier Localized Functions</title>
+    <link>https://quartz.jzhao.xyz/Quick-Notes/Reverse-H%C3%B6lder's-Inequality-For-Fourier-Localized-Functions</link>
+    <guid>https://quartz.jzhao.xyz/Quick-Notes/Reverse-H%C3%B6lder's-Inequality-For-Fourier-Localized-Functions</guid>
+    <description><![CDATA[ Suppose g_1,\dots,g_k are functions with Fourier transform supported on balls of radius R. ]]></description>
+    <pubDate>Fri, 12 Dec 2025 15:47:15 GMT</pubDate>
+  </item><item>
+    <title>Local Constancy Heuristics and the Uncertainty Principle</title>
+    <link>https://quartz.jzhao.xyz/Quick-Notes/Local-Constancy-Heuristics-and-the-Uncertainty-Principle</link>
+    <guid>https://quartz.jzhao.xyz/Quick-Notes/Local-Constancy-Heuristics-and-the-Uncertainty-Principle</guid>
+    <description><![CDATA[ Let f be a function whose Fourier transform is supported on the ball \{ \xi : |\xi| \leq R \}. ]]></description>
+    <pubDate>Fri, 12 Dec 2025 15:36:44 GMT</pubDate>
+  </item><item>
+    <title>Broad-Narrow Analysis</title>
+    <link>https://quartz.jzhao.xyz/Quick-Notes/Broad-Narrow-Analysis</link>
+    <guid>https://quartz.jzhao.xyz/Quick-Notes/Broad-Narrow-Analysis</guid>
+    <description><![CDATA[ We aim to obtain a bound \| Ef \|_{L^p(B_R)} \lessapprox \| f \|_{L^p(\Sigma)} by using multilinear restriction estimates and decoupling estimates. ]]></description>
+    <pubDate>Wed, 10 Dec 2025 17:56:09 GMT</pubDate>
   </item>
     </channel>
   </rss>
