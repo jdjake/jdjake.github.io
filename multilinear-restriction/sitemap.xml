@@ -1,24 +1,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://quartz.jzhao.xyz/</loc>
-    <lastmod>2023-08-23T19:09:04.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/1.-Problems/Generalization-of-Decoupling-and-Restricted-Decoupling</loc>
+    <lastmod>2025-11-12T00:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Multilinear-Restriction-Project/An-Induction-On-Scales-Approach-To-Mixed-Norm-Bounds-Exploiting-Transversality</loc>
-    <lastmod>2026-01-17T00:00:00.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/1.-Problems/The-Kakeya-Maximal-Inequality</loc>
+    <lastmod>2025-11-17T00:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Multilinear-Restriction-Project/Calculations-With-The-Shape-Operator-II</loc>
-    <lastmod>2026-01-12T00:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Multilinear-Restriction-Project/Calculations-With-The-Shape-Operator</loc>
-    <lastmod>2025-12-14T00:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Multilinear-Restriction-Project/Keel-Tao-Estimates-on-Subset-of-Variables</loc>
-    <lastmod>2026-01-25T00:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Multilinear-Restriction-Project/Multilinear-Restriction-Using-Polynomial-Partitioning-and-Refined-Decoupling</loc>
-    <lastmod>2025-11-25T00:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Multilinear-Restriction-Project/Switching-Variables-in-Mixed-Norm-Extension-Estimates</loc>
-    <lastmod>2026-01-29T00:00:00.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/1.-Problems/The-Multilinear-Restriction-Conjecture</loc>
+    <lastmod>2025-11-27T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/2.-General-Zettels/Broad-Narrow-Analysis</loc>
     <lastmod>2025-10-29T00:00:00.000Z</lastmod>
@@ -68,12 +56,27 @@
     <loc>https://quartz.jzhao.xyz/2.-General-Zettels/We-Can-Remove-Exceptional-Sets-From-Lp-Estimates</loc>
     <lastmod>2026-01-28T00:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/1.-Problems/Generalization-of-Decoupling-and-Restricted-Decoupling</loc>
-    <lastmod>2025-11-12T00:00:00.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Multilinear-Restriction-Project/An-Induction-On-Scales-Approach-To-Mixed-Norm-Bounds-Exploiting-Transversality</loc>
+    <lastmod>2026-01-17T00:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/1.-Problems/The-Kakeya-Maximal-Inequality</loc>
-    <lastmod>2025-11-17T00:00:00.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Multilinear-Restriction-Project/Calculations-With-The-Shape-Operator-II</loc>
+    <lastmod>2026-01-12T00:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/1.-Problems/The-Multilinear-Restriction-Conjecture</loc>
-    <lastmod>2025-11-27T00:00:00.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Multilinear-Restriction-Project/Calculations-With-The-Shape-Operator</loc>
+    <lastmod>2025-12-14T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Multilinear-Restriction-Project/Counterexample-to-a-Mixed-Norm-Estimate-Exploiting-Curvature</loc>
+    <lastmod>2026-02-01T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Multilinear-Restriction-Project/Keel-Tao-Estimates-on-Subset-of-Variables</loc>
+    <lastmod>2026-01-25T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Multilinear-Restriction-Project/Multilinear-Restriction-Using-Polynomial-Partitioning-and-Refined-Decoupling</loc>
+    <lastmod>2025-11-25T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Multilinear-Restriction-Project/Switching-Variables-in-Mixed-Norm-Extension-Estimates</loc>
+    <lastmod>2026-01-29T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/</loc>
+    <lastmod>2023-08-23T19:09:04.000Z</lastmod>
   </url></urlset>
