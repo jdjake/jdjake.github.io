@@ -1,10 +1,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://quartz.jzhao.xyz/</loc>
-    <lastmod>2023-08-23T19:09:04.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/2---Paper-Review/2026-Gan-He-Li-Wu-Local-Smoothing-Estimates-For-Wave-Equations-Using-Refined-Decoupling</loc>
-    <lastmod>2026-03-19T14:11:27.586Z</lastmod>
-  </url><url>
     <loc>https://quartz.jzhao.xyz/0---Problems/Circular-Averages</loc>
     <lastmod>2026-03-16T17:09:41.263Z</lastmod>
   </url><url>
@@ -82,4 +76,10 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/1---General-Zettels/We-Can-Remove-Exceptional-Sets-From-Lp-Estimates</loc>
     <lastmod>2026-01-28T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/2---Paper-Review/2026.01.04---Gan-He-Li-Wu---On-Local-Smoothing-Estimates-for-Wave-Equations</loc>
+    <lastmod>2026-03-19T14:31:33.594Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/</loc>
+    <lastmod>2023-08-23T19:09:04.000Z</lastmod>
   </url></urlset>
