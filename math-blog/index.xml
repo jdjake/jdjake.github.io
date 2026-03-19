@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Multilinear Restriction</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Multilinear Restriction</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Shengwen Gan, Danqing He, Xiaochun Li, Shukun Wu - On Local Smoothing For Wave Equations</title>
+    <link>https://quartz.jzhao.xyz/2---Paper-Review/Shengwen-Gan,-Danqing-He,-Xiaochun-Li,-Shukun-Wu---On-Local-Smoothing-For-Wave-Equations</link>
+    <guid>https://quartz.jzhao.xyz/2---Paper-Review/Shengwen-Gan,-Danqing-He,-Xiaochun-Li,-Shukun-Wu---On-Local-Smoothing-For-Wave-Equations</guid>
+    <description><![CDATA[ Introduction This paper obtains sharp estimates for local smoothing estimates for the wave equation, and related Fourier integral operators satisfying a positive definite cinematic curvature condition. ]]></description>
+    <pubDate>Thu, 19 Mar 2026 01:13:03 GMT</pubDate>
+  </item><item>
+    <title>Local Smoothing Inequality For The Wave Equation</title>
+    <link>https://quartz.jzhao.xyz/0---Problems/Local-Smoothing-Inequality-For-The-Wave-Equation</link>
+    <guid>https://quartz.jzhao.xyz/0---Problems/Local-Smoothing-Inequality-For-The-Wave-Equation</guid>
+    <description><![CDATA[ In 1980, Akihiko Miyachi and Juan Carlos Peral separately proved that the half-wave propagator e^{it \sqrt{-\Delta}} on \mathbb{R}^d is bounded from L^p_s(\mathbb{R}^d) to L^\infty_{t,\text{loc}} L^p_x for s \geq (d-1)|1/p - 1/2|. ]]></description>
+    <pubDate>Wed, 18 Mar 2026 14:10:26 GMT</pubDate>
+  </item><item>
+    <title>0. Questions</title>
+    <link>https://quartz.jzhao.xyz/1---General-Zettels/0.-Questions</link>
+    <guid>https://quartz.jzhao.xyz/1---General-Zettels/0.-Questions</guid>
+    <description><![CDATA[ The linkage between fine scales and coarse scales is provided (heuristically, at least) by the dispersion relation, which asserts that the frequency of a wave at fine scales determines the (group) velocity of that wave at coarse scales; in the physical interpretation of the Schr¨odinger equation, th... ]]></description>
+    <pubDate>Wed, 18 Mar 2026 14:10:26 GMT</pubDate>
+  </item><item>
+    <title>Kolmogorov-Seliverstov-Plessner Linearization</title>
+    <link>https://quartz.jzhao.xyz/1---General-Zettels/Kolmogorov-Seliverstov-Plessner-Linearization</link>
+    <guid>https://quartz.jzhao.xyz/1---General-Zettels/Kolmogorov-Seliverstov-Plessner-Linearization</guid>
+    <description><![CDATA[ The act of studying a maximal operator \sup_\theta A_\theta on a space X by considering arbitrary functions \theta: X \to \Theta, and considering the linear operator A_\theta f(x) = A_{\theta(x)} f(x). ]]></description>
+    <pubDate>Mon, 16 Mar 2026 17:14:25 GMT</pubDate>
+  </item><item>
+    <title>Relations Between Local Smoothing and Restriction</title>
+    <link>https://quartz.jzhao.xyz/1---General-Zettels/Relations-Between-Local-Smoothing-and-Restriction</link>
+    <guid>https://quartz.jzhao.xyz/1---General-Zettels/Relations-Between-Local-Smoothing-and-Restriction</guid>
+    <description><![CDATA[ Rogers showed that local smoothing estimates for the Schrödinger equation are equivalent to restriction estimates for the parabola. ]]></description>
+    <pubDate>Mon, 16 Mar 2026 17:09:41 GMT</pubDate>
+  </item><item>
+    <title>Circular Averages</title>
+    <link>https://quartz.jzhao.xyz/0---Problems/Circular-Averages</link>
+    <guid>https://quartz.jzhao.xyz/0---Problems/Circular-Averages</guid>
+    <description><![CDATA[ For d \geq 2. let A_r denote the convolution operator with the surface measure of the circle of radius r at the origin. ]]></description>
+    <pubDate>Mon, 16 Mar 2026 17:09:41 GMT</pubDate>
+  </item><item>
+    <title>Rapidly Decaying Wave Packet Weights</title>
+    <link>https://quartz.jzhao.xyz/1---General-Zettels/Rapidly-Decaying-Wave-Packet-Weights</link>
+    <guid>https://quartz.jzhao.xyz/1---General-Zettels/Rapidly-Decaying-Wave-Packet-Weights</guid>
+    <description><![CDATA[ TODO Using translation invariance, can go from local estimates to weighted estimates, so that the inequalities can be composed. ]]></description>
+    <pubDate>Thu, 29 Jan 2026 11:43:40 GMT</pubDate>
+  </item><item>
+    <title>Removing Exceptional Sets From Lp Estimates</title>
+    <link>https://quartz.jzhao.xyz/1---General-Zettels/Removing-Exceptional-Sets-From-Lp-Estimates</link>
+    <guid>https://quartz.jzhao.xyz/1---General-Zettels/Removing-Exceptional-Sets-From-Lp-Estimates</guid>
+    <description><![CDATA[ Suppose X_0 has finite measure, and we have to prove an inequality of the form \| f \|_{L^p(X_0)} \lesssim C. ]]></description>
+    <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>We Can Remove Exceptional Sets From Lp Estimates</title>
+    <link>https://quartz.jzhao.xyz/1---General-Zettels/We-Can-Remove-Exceptional-Sets-From-Lp-Estimates</link>
+    <guid>https://quartz.jzhao.xyz/1---General-Zettels/We-Can-Remove-Exceptional-Sets-From-Lp-Estimates</guid>
+    <description><![CDATA[ Suppose X_0 has finite measure, and we have to prove an inequality of the form \| f \|_{L^p(X_0)} \lesssim C. ]]></description>
+    <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Important Exponents in Restriction Theory</title>
+    <link>https://quartz.jzhao.xyz/1---General-Zettels/Important-Exponents-in-Restriction-Theory</link>
+    <guid>https://quartz.jzhao.xyz/1---General-Zettels/Important-Exponents-in-Restriction-Theory</guid>
+    <description><![CDATA[ Here we are working with restriction operators for curved hypersurfaces of dimension n in \mathbb{R}^d. ]]></description>
+    <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
