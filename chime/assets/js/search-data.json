@@ -140,355 +140,348 @@
     "relUrl": "/2-rules/4-core-rules/#combat"
   },"20": {
     "doc": "Failed Careers",
-    "title": "Resources",
-    "content": " ",
-    "url": "/chime/4-failed-careers/#resources",
-    
-    "relUrl": "/4-failed-careers/#resources"
-  },"21": {
-    "doc": "Failed Careers",
     "title": "Failed Careers",
     "content": " ",
-    "url": "/chime/4-failed-careers/",
+    "url": "/chime/3-resources/4-failed-careers/",
     
-    "relUrl": "/4-failed-careers/"
-  },"22": {
+    "relUrl": "/3-resources/4-failed-careers/"
+  },"21": {
     "doc": "Curiosity Compiler",
     "title": "Curiosity Compiler",
     "content": "An entire life spent looking at dusty things and squinting at books. It’s time to get out there yourself. ",
-    "url": "/chime/4-failed-careers/Curiosity%20Compiler/",
+    "url": "/chime/3-resources/4-failed-careers/Curiosity%20Compiler/",
     
-    "relUrl": "/4-failed-careers/Curiosity%20Compiler/"
-  },"23": {
+    "relUrl": "/3-resources/4-failed-careers/Curiosity%20Compiler/"
+  },"22": {
     "doc": "Curiosity Compiler",
     "title": "Sample Names",
     "content": ". | Coop | Hawk | Trebic | Salvation | . ",
-    "url": "/chime/4-failed-careers/Curiosity%20Compiler/#sample-names",
+    "url": "/chime/3-resources/4-failed-careers/Curiosity%20Compiler/#sample-names",
     
-    "relUrl": "/4-failed-careers/Curiosity%20Compiler/#sample-names"
-  },"24": {
+    "relUrl": "/3-resources/4-failed-careers/Curiosity%20Compiler/#sample-names"
+  },"23": {
     "doc": "Curiosity Compiler",
     "title": "You Start With:",
     "content": ". | An Antique Pistol (d6, Permanently breaks on a roll of a 6). | A Magnifying Glass. | A Tweed Jacket. | . ",
-    "url": "/chime/4-failed-careers/Curiosity%20Compiler/#you-start-with",
+    "url": "/chime/3-resources/4-failed-careers/Curiosity%20Compiler/#you-start-with",
     
-    "relUrl": "/4-failed-careers/Curiosity%20Compiler/#you-start-with"
-  },"25": {
+    "relUrl": "/3-resources/4-failed-careers/Curiosity%20Compiler/#you-start-with"
+  },"24": {
     "doc": "Curiosity Compiler",
     "title": "What Do You Know Everything About",
     "content": "|   |   | . | £1-2 | Weapons. Take a Price Guide. | . | £3-4 | Jewelry. Take a Monocle. | . | £5-6 | Artwork Take a Dusting Brush. | . | £7-8 | Desserts. Take a missing tooth. | . | £9-10 | Tabletop Games. Take some obscure dice. | . | £11-12 | Flowers. Take a ball of ribbon. | . ",
-    "url": "/chime/4-failed-careers/Curiosity%20Compiler/#what-do-you-know-everything-about",
+    "url": "/chime/3-resources/4-failed-careers/Curiosity%20Compiler/#what-do-you-know-everything-about",
     
-    "relUrl": "/4-failed-careers/Curiosity%20Compiler/#what-do-you-know-everything-about"
-  },"26": {
+    "relUrl": "/3-resources/4-failed-careers/Curiosity%20Compiler/#what-do-you-know-everything-about"
+  },"25": {
     "doc": "Curiosity Compiler",
     "title": "What’s Your Prized Oddity",
     "content": "|   |   | . | 1HP | Mechanobirther. Heavy shoebox-sized machine. Has a slot where paper instructions can be inserted, with a coin slot for a £10 Payment. After an hour of clinking it produces a ppoly made, rough approximation of the requested item. | . | 2HP | Maiming Claw. A grappling hook that latches onto living tissue with an unbreakable grip. You know the trick for getting it to release. | . | 3HP | Fiend Collar. Anyone waring this collar begins to take on a monstrous appearance and loses d6 WILL each day. At 0 WILL they lose their identity, claim a new identity in youe service, but only follow instructions that cause harm to others. | . | 4HP | Powder Sack. Any powder stored in this small pouch becomes essentially unlimited. Turning the pouch inside out empties the current contents, with no unusual effect. Currently contains salt. | . | 5HP | Sanctuary Idol. Burning a candle in front of the idol causes it to melt into smoke, billowing out and reinforcing all doors, open passageways, and windows into the room. Nothing can enter through these if the candle lasts. Has no effect outdoors. | . | 6HP | Mammoth Mask. Highly ornate, with a prehensile trunk and tusks that can be used as a weaopn (d6) at a push. | . ",
-    "url": "/chime/4-failed-careers/Curiosity%20Compiler/#whats-your-prized-oddity",
+    "url": "/chime/3-resources/4-failed-careers/Curiosity%20Compiler/#whats-your-prized-oddity",
     
-    "relUrl": "/4-failed-careers/Curiosity%20Compiler/#whats-your-prized-oddity"
-  },"27": {
+    "relUrl": "/3-resources/4-failed-careers/Curiosity%20Compiler/#whats-your-prized-oddity"
+  },"26": {
     "doc": "Debt Squeezer",
     "title": "Debt Squeezer",
     "content": "Someone paid you a pittance to look intimidating in dark alleyways. If needed, you shed some blood, but there was no extra pay. ",
-    "url": "/chime/4-failed-careers/Debt%20Squeezer/",
+    "url": "/chime/3-resources/4-failed-careers/Debt%20Squeezer/",
     
-    "relUrl": "/4-failed-careers/Debt%20Squeezer/"
-  },"28": {
+    "relUrl": "/3-resources/4-failed-careers/Debt%20Squeezer/"
+  },"27": {
     "doc": "Debt Squeezer",
     "title": "Sample Names",
     "content": ". | Hooper | Keyes | Doric | Pontiac | . ",
-    "url": "/chime/4-failed-careers/Debt%20Squeezer/#sample-names",
+    "url": "/chime/3-resources/4-failed-careers/Debt%20Squeezer/#sample-names",
     
-    "relUrl": "/4-failed-careers/Debt%20Squeezer/#sample-names"
-  },"29": {
+    "relUrl": "/3-resources/4-failed-careers/Debt%20Squeezer/#sample-names"
+  },"28": {
     "doc": "Debt Squeezer",
     "title": "You Start With:",
     "content": ". | A Hammer (d6). | A Scattergun (d6, Blast, Concealable). | . ",
-    "url": "/chime/4-failed-careers/Debt%20Squeezer/#you-start-with",
+    "url": "/chime/3-resources/4-failed-careers/Debt%20Squeezer/#you-start-with",
     
-    "relUrl": "/4-failed-careers/Debt%20Squeezer/#you-start-with"
-  },"30": {
+    "relUrl": "/3-resources/4-failed-careers/Debt%20Squeezer/#you-start-with"
+  },"29": {
     "doc": "Debt Squeezer",
     "title": "What Do You Do To Unwind After a Horrible Task",
     "content": "|   |   | . | £1-2 | Chew. Take a pack of gum (sage flavored). | . | £3-4 | Play Marbles. Take a bag of competition marbles. | . | £5-6 | Sing. You have a decent voice. | . | £7-8 | Do Impressions. You can make a good impersonation of someone after a long conversation with them. | . | £9-10 | Write Your Memoirs. You have a pen-name, and some connections in the printing industry. | . | £11-12 | Stave off Nightmares. You cannot sleep without a nightlight. | . ",
-    "url": "/chime/4-failed-careers/Debt%20Squeezer/#what-do-you-do-to-unwind-after-a-horrible-task",
+    "url": "/chime/3-resources/4-failed-careers/Debt%20Squeezer/#what-do-you-do-to-unwind-after-a-horrible-task",
     
-    "relUrl": "/4-failed-careers/Debt%20Squeezer/#what-do-you-do-to-unwind-after-a-horrible-task"
-  },"31": {
+    "relUrl": "/3-resources/4-failed-careers/Debt%20Squeezer/#what-do-you-do-to-unwind-after-a-horrible-task"
+  },"30": {
     "doc": "Debt Squeezer",
     "title": "What’s The Best Thing You’ve Stolen From a Debtor.",
     "content": "|   |   | . | 1HP | Soul Siren. A tiny-clockwork box lets out a booming drone when a being dies within 10ft. | . | 2HP | Bear Jelly. A pot of jelly that reeks of animal musk. Scares off small creatures, but attracts large mammals. | . | 3HP | Green Soil. Small pot of soil. Any plant that is planted into it grows a whole season’s worth in one hour, but otherwise grows normally. | . | 4HP | Gore Candle. Any injuries that happen in the presence of this candle’s light are extra painful, messy, and harmful, doubling any STR loss caused. | . | 5HP | Hot Goggles. When switched on, stolen objects that the rightful owner is looking for glow. | . | 6HP | Bank Pig. A clay pig with a coins lot. A penny causes an oinking sound. A £1 coin causes it to transform into a normal pig for an hour. A £100 note causes it to transform into a vicious boar (7HP, d6 Gore) for an hour. If it dies in pig form, it never transforms back. Coins deposited are lost forever. | . ",
-    "url": "/chime/4-failed-careers/Debt%20Squeezer/#whats-the-best-thing-youve-stolen-from-a-debtor",
+    "url": "/chime/3-resources/4-failed-careers/Debt%20Squeezer/#whats-the-best-thing-youve-stolen-from-a-debtor",
     
-    "relUrl": "/4-failed-careers/Debt%20Squeezer/#whats-the-best-thing-youve-stolen-from-a-debtor"
-  },"32": {
+    "relUrl": "/3-resources/4-failed-careers/Debt%20Squeezer/#whats-the-best-thing-youve-stolen-from-a-debtor"
+  },"31": {
     "doc": "Gutter Minder",
     "title": "Gutter Minder",
     "content": "You were the bottom of the barrel. Bastion’s Crust. ",
-    "url": "/chime/4-failed-careers/Gutter%20Minder/",
+    "url": "/chime/3-resources/4-failed-careers/Gutter%20Minder/",
     
-    "relUrl": "/4-failed-careers/Gutter%20Minder/"
-  },"33": {
+    "relUrl": "/3-resources/4-failed-careers/Gutter%20Minder/"
+  },"32": {
     "doc": "Gutter Minder",
     "title": "Sample Names",
     "content": ". | Hopkin | Cork | Derrow | Jorgun | . ",
-    "url": "/chime/4-failed-careers/Gutter%20Minder/#sample-names",
+    "url": "/chime/3-resources/4-failed-careers/Gutter%20Minder/#sample-names",
     
-    "relUrl": "/4-failed-careers/Gutter%20Minder/#sample-names"
-  },"34": {
+    "relUrl": "/3-resources/4-failed-careers/Gutter%20Minder/#sample-names"
+  },"33": {
     "doc": "Gutter Minder",
     "title": "You Start With:",
     "content": ". | A Stick-hook (d6, Bulky). | Rags. | . ",
-    "url": "/chime/4-failed-careers/Gutter%20Minder/#you-start-with",
+    "url": "/chime/3-resources/4-failed-careers/Gutter%20Minder/#you-start-with",
     
-    "relUrl": "/4-failed-careers/Gutter%20Minder/#you-start-with"
-  },"35": {
+    "relUrl": "/3-resources/4-failed-careers/Gutter%20Minder/#you-start-with"
+  },"34": {
     "doc": "Gutter Minder",
     "title": "What Happened to You",
     "content": "|   |   | . | £1-2 | You believed yourself to be some sort of Messiah. You are not. | . | £3-4 | Rat given human form in a Master Mathematician’s Arcane Experiment. You can still speak with rats and loosely understand other rodents. | . | £5-6 | You secretly have a wealth family. Your lifestyle has a way of getting their attention. | . | £7-8 | You survived a street urchin upbringing. so you know everyone else in the gutter. | . | £9-10 | Former High Society Member. Only surviver after a mob uprising. | . | £11-12 | Disgraced Professor of Oddity. Expelled for controversial theories. | . ",
-    "url": "/chime/4-failed-careers/Gutter%20Minder/#what-happened-to-you",
+    "url": "/chime/3-resources/4-failed-careers/Gutter%20Minder/#what-happened-to-you",
     
-    "relUrl": "/4-failed-careers/Gutter%20Minder/#what-happened-to-you"
-  },"36": {
+    "relUrl": "/3-resources/4-failed-careers/Gutter%20Minder/#what-happened-to-you"
+  },"35": {
     "doc": "Gutter Minder",
     "title": "What Are You Hiding Under Your Rags",
     "content": "|   |   | . | 1HP | Wish Tonic. Three measures of liquor that each grant a wish. The wish only lasts as long as the bracing kick of the liquor (d6 Turns). | . | 2HP | Dehydrated Beasts. Three rubbery things resembling toy animals. If thrown into water, it expands to a Soggy Monstrosity (15HP, d10 Trample). When killed or there’s nothing left ot kill, the creature collapses into inert powder. | . | 3HP | Berserker Gland. When you take Ability Loss or suffer serious pain you fly into a rage. Your next melee attack is +d10 but you cannot make ranged attacks. Once the attack is out of your system you return to normal. | . | 4HP | Parallel Shifter. A metal tin big enough to fit a pistol inside. If an object is placed inside and shaken, the object is replaced with a parallel version of itself from another reality. | . | 5HP | Slaughter Brand. A three pointed mark on your hand. When you kill a worthy opponent, one point turns darker. When all three points turn dark, your arm grows into an unnaturally strong, chitinous claw (d10 slash) for the next hour. When your arm returns, the brand resets. | . | 6HP | Caged Biter. A Bug-Monkey (6hp, d6 bite) in a cage. Fights its designated target to the death, ignoring any other commands. If it wins, it eats some of its opponent before slinking back to its cage. If it loses, it becomes melancholy. | . ",
-    "url": "/chime/4-failed-careers/Gutter%20Minder/#what-are-you-hiding-under-your-rags",
+    "url": "/chime/3-resources/4-failed-careers/Gutter%20Minder/#what-are-you-hiding-under-your-rags",
     
-    "relUrl": "/4-failed-careers/Gutter%20Minder/#what-are-you-hiding-under-your-rags"
-  },"37": {
+    "relUrl": "/3-resources/4-failed-careers/Gutter%20Minder/#what-are-you-hiding-under-your-rags"
+  },"36": {
     "doc": "Random Names",
     "title": "Random Names",
     "content": "|   |   |   | . | d100 | Name | Surname | . | 1 | Adair | Abbot | . | 2 | Alaric | Addyman | . | 3 | Alder | Ashwell | . | 4 | Amaris | Balfe | . | 5 | Anwen | Baxter | . | 6 | Arlo | Bevan | . | 7 | Ash | Beran | . | 8 | Aster | Blackwood | . | 9 | Ballad | Bowen | . | 10 | Barley | Brewer | . | 11 | Basil | Broder | . | 12 | Beatrix | Bukharin | . | 13 | Birch | Cadwallan | . | 14 | Bram | Carter | . | 15 | Briar | Cobb | . | 16 | Brook | Collier | . | 17 | Bryn | Cooper | . | 18 | Cai | Crowther | . | 19 | Callan | Dempsey | . | 20 | Carver | Dermody | . | 21 | Cedric | Domański | . | 22 | Cinder | Dymov | . | 23 | Cliff | Fairweather | . | 24 | Corin | Fedorov | . | 25 | Crow | Fletcher | . | 26 | Dain | Fuller | . | 27 | Darnel | Galen | . | 28 | Dax | Glinka | . | 29 | Dorian | Glover | . | 30 | Eira | Golubov | . | 31 | Elowen | Gradnik | . | 32 | Ember | Granger | . | 33 | Eon | Grobar | . | 34 | Evander | Halberg | . | 35 | Falcon | Harkin | . | 36 | Faris | Hlebar | . | 37 | Fern | Hromada | . | 38 | Finch | Horgan | . | 39 | Flint | Iliev | . | 40 | Freya | Ivanec | . | 41 | Gale | Joryn | . | 42 | Garen | Kamensk | . | 43 | Hazel | Kavanagh | . | 44 | Hemlock | Kovac | . | 45 | Idris | Kovalenko | . | 46 | Ivy | Kravec | . | 47 | Juniper | Krznar | . | 48 | Kael | Kuchar | . | 49 | Kavi | Kvasnikov | . | 50 | Keir | Lethbridge | . | 51 | Leif | Llewellyn | . | 52 | Liora | Locke | . | 53 | Lucan | Lovett | . | 54 | Lyra | Lukanov | . | 55 | Lysander | Maddox | . | 56 | Marius | Malinov | . | 57 | Marlowe | Marinov | . | 58 | Milo | Markov | . | 59 | Moss | Mason | . | 60 | Nazira | Melnik | . | 61 | Neria | Mercer | . | 62 | Noa | Milner | . | 63 | Nyx | Morozov | . | 64 | Onyx | Novak | . | 65 | Orla | Obradov | . | 66 | Pan | O’Callaghan | . | 67 | Patch | O’Farrell | . | 68 | Perran | O’Leary | . | 69 | Quill | Osipov | . | 70 | Rain | Pavlenko | . | 71 | Reed | Pekar | . | 72 | River | Petrov | . | 73 | Robin | Pisarev | . | 74 | Rowan | Powell | . | 75 | Rune | Price | . | 76 | Rush | Radoslav | . | 77 | Rye | Reeve | . | 78 | Sable | Rogov | . | 79 | Sage | Romanov | . | 80 | Selene | Rowanfield | . | 81 | Shade | Rybak | . | 82 | Silas | Sawyer | . | 83 | Sky | Shepherd | . | 84 | Soren | Shevchenko | . | 85 | Sparrow | Slater | . | 86 | Stellan | Smirnov | . | 87 | Stone | Sokolov | . | 88 | Storm | Tanner | . | 89 | Talon | Thatcher | . | 90 | Thistle | Tallow | . | 91 | Thorn | Vukovic | . | 92 | Thresh | Webb | . | 93 | Valen | Whitlock | . | 94 | Vesper | Wicklowe | . | 95 | Vex | Wightman | . | 96 | Willow | Wilkin | . | 97 | Winslow | Wright | . | 98 | Wisp | Wynne | . | 99 | Wren | Yarrow | . | 100 | Yarrow | Zidar | . ",
     "url": "/chime/3-resources/Random%20Names/",
     
     "relUrl": "/3-resources/Random%20Names/"
-  },"38": {
+  },"37": {
     "doc": "Random Traits",
     "title": "Random Traits",
     "content": " ",
     "url": "/chime/3-resources/Random%20Traits/",
     
     "relUrl": "/3-resources/Random%20Traits/"
-  },"39": {
+  },"38": {
     "doc": "Random Traits",
     "title": "Physique",
     "content": "|   |   |   |   | . | 1 | Athletic | 6 | Scrawny | . | 2 | Brawny | 7 | Short | . | 3 | Flabby | 8 | Statuesque | . | 4 | Lanky | 9 | Stout | . | 5 | Rugged | 10 | Towering | . ",
     "url": "/chime/3-resources/Random%20Traits/#physique",
     
     "relUrl": "/3-resources/Random%20Traits/#physique"
-  },"40": {
+  },"39": {
     "doc": "Random Traits",
     "title": "Skin",
     "content": "|   |   |   |   | . | 1 | Birthmarked | 6 | Soft | . | 2 | Marked | 7 | Tanned | . | 3 | Oily | 8 | Tattooed | . | 4 | Rosy | 9 | Weathered | . | 5 | Scarred | 10 | Webbed | . ",
     "url": "/chime/3-resources/Random%20Traits/#skin",
     
     "relUrl": "/3-resources/Random%20Traits/#skin"
-  },"41": {
+  },"40": {
     "doc": "Random Traits",
     "title": "Hair",
     "content": "|   |   |   |   | . | 1 | Bald | 6 | Long | . | 2 | Braided | 7 | Luxurious | . | 3 | Curly | 8 | Oily | . | 4 | Filthy | 9 | Wavy | . | 5 | Frizzy | 10 | Wispy | . ",
     "url": "/chime/3-resources/Random%20Traits/#hair",
     
     "relUrl": "/3-resources/Random%20Traits/#hair"
-  },"42": {
+  },"41": {
     "doc": "Random Traits",
     "title": "Face",
     "content": "|   |   |   |   | . | 1 | Bony | 6 | Perfect | . | 2 | Broken | 7 | Rakish | . | 3 | Chiseled | 8 | Sharp | . | 4 | Elongated | 9 | Square | . | 5 | Pale | 10 | Sunken | . ",
     "url": "/chime/3-resources/Random%20Traits/#face",
     
     "relUrl": "/3-resources/Random%20Traits/#face"
-  },"43": {
+  },"42": {
     "doc": "Random Traits",
     "title": "Speech",
     "content": "|   |   |   |   | . | 1 | Blunt | 6 | Gravelly | . | 2 | Booming | 7 | Precise | . | 3 | Cryptic | 8 | Squeaky | . | 4 | Droning | 9 | Stuttering | . | 5 | Formal | 10 | Whispery | . ",
     "url": "/chime/3-resources/Random%20Traits/#speech",
     
     "relUrl": "/3-resources/Random%20Traits/#speech"
-  },"44": {
+  },"43": {
     "doc": "Random Traits",
     "title": "Clothing",
     "content": "|   |   |   |   | . | 1 | Antique | 6 | Frayed | . | 2 | Bloody | 7 | Frumpy | . | 3 | Elegant | 8 | Livery | . | 4 | Filthy | 9 | Rancid | . | 5 | Foreign | 10 | Soiled | . ",
     "url": "/chime/3-resources/Random%20Traits/#clothing",
     
     "relUrl": "/3-resources/Random%20Traits/#clothing"
-  },"45": {
+  },"44": {
     "doc": "Random Traits",
     "title": "Virtue",
     "content": "|   |   |   |   | . | 1 | Ambitious | 6 | Honorable | . | 2 | Cautious | 7 | Humble | . | 3 | Courageous | 8 | Merciful | . | 4 | Disciplined | 9 | Serene | . | 5 | Gregarious | 10 | Tolerant | . ",
     "url": "/chime/3-resources/Random%20Traits/#virtue",
     
     "relUrl": "/3-resources/Random%20Traits/#virtue"
-  },"46": {
+  },"45": {
     "doc": "Random Traits",
     "title": "Vice",
     "content": "|   |   |   |   | . | 1 | Aggressive | 6 | Lazy | . | 2 | Bitter | 7 | Nervous | . | 3 | Craven | 8 | Rude | . | 4 | Deceitful | 9 | Vain | . | 5 | Greedy | 10 | Vengeful | . ",
     "url": "/chime/3-resources/Random%20Traits/#vice",
     
     "relUrl": "/3-resources/Random%20Traits/#vice"
-  },"47": {
+  },"46": {
     "doc": "Trench Conscript",
     "title": "Trench Conscript",
     "content": "You survived a trench battle with little to write home about. Except for the one thing you found in that strange tunnel. ",
-    "url": "/chime/4-failed-careers/Trench%20Conscript/",
+    "url": "/chime/3-resources/4-failed-careers/Trench%20Conscript/",
     
-    "relUrl": "/4-failed-careers/Trench%20Conscript/"
-  },"48": {
+    "relUrl": "/3-resources/4-failed-careers/Trench%20Conscript/"
+  },"47": {
     "doc": "Trench Conscript",
     "title": "Sample Names",
     "content": ". | Kariana | Jops | Galea | Jools | . ",
-    "url": "/chime/4-failed-careers/Trench%20Conscript/#sample-names",
+    "url": "/chime/3-resources/4-failed-careers/Trench%20Conscript/#sample-names",
     
-    "relUrl": "/4-failed-careers/Trench%20Conscript/#sample-names"
-  },"49": {
+    "relUrl": "/3-resources/4-failed-careers/Trench%20Conscript/#sample-names"
+  },"48": {
     "doc": "Trench Conscript",
     "title": "You Start With:",
     "content": ". | A Trench Gun (d6, Very Short Range). | A Shovel. | A Pack of Gum (Oxtail Flavored). | . ",
-    "url": "/chime/4-failed-careers/Trench%20Conscript/#you-start-with",
+    "url": "/chime/3-resources/4-failed-careers/Trench%20Conscript/#you-start-with",
     
-    "relUrl": "/4-failed-careers/Trench%20Conscript/#you-start-with"
-  },"50": {
+    "relUrl": "/3-resources/4-failed-careers/Trench%20Conscript/#you-start-with"
+  },"49": {
     "doc": "Trench Conscript",
     "title": "What Was Your Role in Your Unit",
     "content": "|   |   | . | £1-2 | Engineer. Take three trench bombs (d8 BLAST) and wire cutters. | . | £3-4 | Recon. Take paints and a portable canvas. | . | £5-6 | Heavy Section. Take lead vest and helmet (1AP) | . | £7-8 | Chaplain. Take a bottle of military strength gin and a holy donkey symbol. | . | £9-10 | Breacher. Take a rocket (d10, one-shot). | . | £11-12 | Officer. Take a whistle and a dress uniform. | . ",
-    "url": "/chime/4-failed-careers/Trench%20Conscript/#what-was-your-role-in-your-unit",
+    "url": "/chime/3-resources/4-failed-careers/Trench%20Conscript/#what-was-your-role-in-your-unit",
     
-    "relUrl": "/4-failed-careers/Trench%20Conscript/#what-was-your-role-in-your-unit"
-  },"51": {
+    "relUrl": "/3-resources/4-failed-careers/Trench%20Conscript/#what-was-your-role-in-your-unit"
+  },"50": {
     "doc": "Trench Conscript",
     "title": "What Did You Find In That Tunnel?",
     "content": "|   |   | . | 1HP | Essence Extractor. Extract the consciousness of a pacified or willing being. It can be injected into a still-warm corpse. One use. | . | 2HP | Duplicator. A shoe-sized box. Put one thing in, get two copies. Both copies are hugely inferior to the original, which is destroyed. | . | 3HP | Hover Plate. Plaster-sized tray that freezes in space if you whistle a specific tune to release it. It supports up to one person’s weight and can be forcibly release with a STR save. | . | 4HP | Bonding Dome. Any being that wears this head-device is bombarded with flashing images and emerges spluttering. They emotionally bond with the next being they see and dedicate thier life to them until they next sleep. | . | 5HP | Phase-Mole. A tiny mammal that can phase into any material without disturbing it. It can talk, but it is extremely shy and only answers a question with one word before phasing into hiding in it’s master’s body. | . | 6HP | Haunted Egg. A stone egg that can be used as a crude weapon (d6). The last thing killed by the egg inhabits it as a ghostly voice, and answers questions to the best of its knowledge. It doesn’t have any more knowledge than it did in life, but anyone can understand it’s words. | . ",
-    "url": "/chime/4-failed-careers/Trench%20Conscript/#what-did-you-find-in-that-tunnel",
+    "url": "/chime/3-resources/4-failed-careers/Trench%20Conscript/#what-did-you-find-in-that-tunnel",
     
-    "relUrl": "/4-failed-careers/Trench%20Conscript/#what-did-you-find-in-that-tunnel"
-  },"52": {
+    "relUrl": "/3-resources/4-failed-careers/Trench%20Conscript/#what-did-you-find-in-that-tunnel"
+  },"51": {
     "doc": "Barebones Edition Gear Packages",
     "title": "Barebones Gear Packages",
     "content": "Fighter . | 3d6 Gold Pieces | Jerky (3 uses, petty) | Torches (3 uses) | Bandages (3 uses) | Rope (25ft) | Shield (+1 Armor) | Gambeson (+1 Armor) | Sword (d8) | Throwing Dagger (d6) | Dog Tags (petty) | . Thief . | 3d6 Gold Pieces | Rations (3 uses) | Twin Folding Daggers (d6+d6, bulky) | Bullseye Lantern | Oil Can (6 uses) | Caltrops | Small Mirror | Lockpick | Grappling Hook | Dark Hood (petty) | Chalk (petty) | . Magic-User . | 3d6 Gold Pieces | Rations (3 uses) | Staff (d6) | Knife (d6) | Spellbook: Illuminate | Spellbook: Sleep | Scroll of Detect Magic | Parchment &amp; Ink (3 uses) | Robes (petty) | . Cleric . | 3d6 Gold Pieces | Rations (3 uses) | Torches (3 uses) | War Hammer (d10, bulky) | Helmet (+1 Armor) | Spellbook: Cure Wounds | Bandages (3 uses) | Bone Charm (petty, casts Ward once per day) | . ",
     "url": "/chime/2-rules/barebones-gear-packages/#barebones-gear-packages",
     
     "relUrl": "/2-rules/barebones-gear-packages/#barebones-gear-packages"
-  },"53": {
+  },"52": {
     "doc": "Barebones Edition Gear Packages",
     "title": "Barebones Edition Gear Packages",
     "content": " ",
     "url": "/chime/2-rules/barebones-gear-packages/",
     
     "relUrl": "/2-rules/barebones-gear-packages/"
-  },"54": {
+  },"53": {
     "doc": "Barebones Edition Marketplace",
     "title": "Barebones Marketplace",
     "content": "All prices are in gold pieces . ",
     "url": "/chime/2-rules/barebones-marketplace/#barebones-marketplace",
     
     "relUrl": "/2-rules/barebones-marketplace/#barebones-marketplace"
-  },"55": {
+  },"54": {
     "doc": "Barebones Edition Marketplace",
     "title": "Armor",
     "content": "|   |   | . | Shield (+1 Armor) | 10 | . | Helmet (+1 Armor) | 10 | . | Gambeson (+1 Armor) | 15 | . | Brigandine (1 Armor, bulky) | 20 | . | Chainmail (2 Armor, bulky) | 40 | . | Plate (3 Armor, bulky) | 60 | . ",
     "url": "/chime/2-rules/barebones-marketplace/#armor",
     
     "relUrl": "/2-rules/barebones-marketplace/#armor"
-  },"56": {
+  },"55": {
     "doc": "Barebones Edition Marketplace",
     "title": "Weapons",
     "content": "|   |   | . | Dagger, Cudgel, Sickle, Staff, etc. (d6 damage) | 5 | . | Spear, Sword, Mace, Axe, Flail, etc. (d8 damage) | 10 | . | Halberd, War Hammer, Long Sword, etc. (d10 damage, bulky) | 20 | . | Sling (d6 damage) | 5 | . | Bow (d6 damage, bulky) | 20 | . | Crossbow (d8 damage, bulky) | 30 | . ",
     "url": "/chime/2-rules/barebones-marketplace/#weapons",
     
     "relUrl": "/2-rules/barebones-marketplace/#weapons"
-  },"57": {
+  },"56": {
     "doc": "Barebones Edition Marketplace",
     "title": "Transport",
     "content": "|   |   | . | Cart (+4 slots, bulky) | 30 | . | Wagon (+8 slots, slow) | 200 | . | Horse (+4 slots) | 75 | . | Mule (+6 slots, slow) | 30 | . | Carriage Seat | 5 | . | Ship’s Passage | 10 | . ",
     "url": "/chime/2-rules/barebones-marketplace/#transport",
     
     "relUrl": "/2-rules/barebones-marketplace/#transport"
-  },"58": {
+  },"57": {
     "doc": "Barebones Edition Marketplace",
     "title": "Upkeep &amp; Recovery",
     "content": "|   |   | . | Room &amp; Board (per night) | 10 | . | Private Room &amp; Board (fits 4) | 35 | . | Stable &amp; Feed (per night) | 5 | . | Medical Healing | 50 | . | Rations (3 uses) | 10 | . | Animal Feed (3 uses, bulky) | 5 | . ",
     "url": "/chime/2-rules/barebones-marketplace/#upkeep--recovery",
     
     "relUrl": "/2-rules/barebones-marketplace/#upkeep--recovery"
-  },"59": {
+  },"58": {
     "doc": "Barebones Edition Marketplace",
     "title": "Hirelings (per day)",
     "content": "|   |   | . | Alchemist | 30 | . | Animal Handler | 5 | . | Blacksmith | 15 | . | Bodyguard | 10 | . | Local Guide | 5 | . | Lockpick | 10 | . | Navigator | 10 | . | Sailor | 5 | . | Scholar | 20 | . | Tracker | 5 | . | Trapper | 5 | . | Veteran Bodyguard | 20 | . ",
     "url": "/chime/2-rules/barebones-marketplace/#hirelings-per-day",
     
     "relUrl": "/2-rules/barebones-marketplace/#hirelings-per-day"
-  },"60": {
+  },"59": {
     "doc": "Barebones Edition Marketplace",
     "title": "Gear",
     "content": "|   |   | . | Air Bladder | 5 | . | Antitoxin | 20 | . | Bandages (3 uses) | 30 | . | Bathing Goods (Soap, Perfume, etc.) | 5 | . | Book | 50 | . | Caltrops | 10 | . | Card Deck | 5 | . | Chain (10ft) | 10 | . | Chalk (petty) | 1 | . | Chest | 25 | . | Chisel | 5 | . | Common Agents (Glue, Grease, etc.) | 10 | . | Common Tools (Hammer, Shovel, etc.) | 10 | . | Compass | 75 | . | Complex Instruments (Bagpipes, Fiddle, etc.) | 50 | . | Containers (Sack, Waterskin, etc.) | 10 | . | Cooking Gear (Pots, Utensils, etc.) | 10 | . | Costume Gear (Face Paint, Disguise) | 15 | . | Dowsing Rod | 15 | . | Expeditionary Gear (Climbing Spikes, Pulley, etc.) | 10 | . | Fire Oil | 10 | . | Fishing Rod | 10 | . | Games (Cards, Dice, etc.) | 10 | . | Gloves (petty) | 20 | . | Grappling Hook | 25 | . | Lantern | 10 | . | Mirror | 5 | . | Net | 10 | . | Oil Can (6 uses) | 10 | . | Outdoor Comfort (Blanket, Hammock, etc.) | 10 | . | Parchment (3 uses) | 10 | . | Pole (10ft) | 5 | . | Repellent (Wolfsbane, Mugwort, etc.) | 10 | . | Rope (25ft) | 5 | . | Sedative | 30 | . | Sewing Kit | 20 | . | Simple Instruments (Pipes, Lute, etc.) | 10 | . | Smoking Pipe (petty) | 15 | . | Specialized Tools (Ink, etc.) | 20 | . | Spiked Boots | 15 | . | Spyglass | 40 | . | Tent (fits 2, bulky) | 20 | . | Thieving Tools (Lockpick, Metal File, etc.) | 25 | . | Torch (3 uses) | 5 | . | Trap (d6 STR damage) | 35 | . | Whistle (petty) | 15 | . | Wilderness Clothes (Poncho, Cloak, etc.) (petty) | 15 | . ",
     "url": "/chime/2-rules/barebones-marketplace/#gear",
     
     "relUrl": "/2-rules/barebones-marketplace/#gear"
-  },"61": {
+  },"60": {
     "doc": "Barebones Edition Marketplace",
     "title": "Barebones Edition Marketplace",
     "content": " ",
     "url": "/chime/2-rules/barebones-marketplace/",
     
     "relUrl": "/2-rules/barebones-marketplace/"
-  },"62": {
+  },"61": {
     "doc": "Barebones Edition Procedures",
     "title": "Barebones Edition Procedures",
     "content": " ",
     "url": "/chime/2-rules/barebones-procedures/",
     
     "relUrl": "/2-rules/barebones-procedures/"
-  },"63": {
+  },"62": {
     "doc": "Barebones Edition Procedures",
     "title": "Dungeon Exploration",
     "content": "The Basics . | The dungeon exploration cycle (see below) is divided into a series of Turns, Actions, and their consequences. | On their turn, a character can move a distance equal to their torchlight’s perimeter (about 40ft), and perform one action. Players can use their action to move up to three times that distance though that will increase the chance of triggering a roll on the Dungeon Events table. | The Warden should present obvious information about an area and its dangers freely and at no cost. Moving quickly or without caution may increase the chance of encountering a wandering monster, springing a trap, or triggering a roll on the Dungeon Events table. | . Although the term “dungeon” is used here, it can mean any dangerous locale (mansions, farmhouses, adventure site, etc). Dungeon Exploration Cycle . | The Warden describes the party’s surroundings and any immediate dangers (combat, traps, surprises, etc.). The players then declare their character’s intended movements and actions. | The Warden resolves the actions of each character simultaneously, along with any actions that are already in progress. Remember, the Die of Fate can be a useful tool whenever the Warden is in doubt! | The players record any loss of resources and any new conditions (i.e. item use, deprivation, etc). The cycle then begins again. If appropriate, the Warden should roll on the Dungeon Events table. Keep common sense in mind when interpreting the results! | . Dungeon Events . Exploring a dungeon is always dangerous, and time must always be weighed against the risk of awakening the location’s denizens, natural hazards, and worse. When the party: . | Spends more than one dungeon cycle in a single room or location | Moves quickly or haphazardly through a room | Moves into a new area, level, or zone | Creates a loud disturbance | . Roll on the table below. |   |   |   | . | 1 | Encounter | Roll on an encounter table. Possibly hostile. (See Reactions.) | . | 2 | Sign | A clue, spoor, track, abandoned lair, scent, victim, etc is discovered. | . | 3 | Environment | Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc. | . | 4 | Loss | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. | . | 5 | Exhaustion | The party must rest (triggering another roll on this table), add a Fatigue, or consume a ration. | . | 6 | Quiet | The party is left alone (and safe) for the time being. | . Actions . | Actions are any non-passive activities, such as searching for traps, forcing open a door, listening for danger, disarming a trap, engaging an enemy in combat, casting a spell, dodging a trap, running away, resting, etc. | Some actions have special rules (see below), while others may take multiple turns to complete. | Loud or noticeable actions may also trigger an encounter with the dungeon’s denizens. | . Searching . | A character can spend a turn performing an exhaustive search of one object or location in an area, revealing any relevant hidden treasure, traps, secret doors, etc. | Larger rooms and difficult or complex dungeon terrain may take a few turns to properly search. | Searching a room first is a safer way to explore the dungeon, but it has a steep cost: time. | . Resting . | A character can spend a turn resting to restore all HP. | A light source and a safe location are required to rest. Present or oncoming danger makes rest impossible. | Resting does not restore Fatigue, as it is impossible to safely Make Camp in a dungeon. | . ",
     "url": "/chime/2-rules/barebones-procedures/#dungeon-exploration",
     
     "relUrl": "/2-rules/barebones-procedures/#dungeon-exploration"
-  },"64": {
+  },"63": {
     "doc": "Barebones Edition Procedures",
     "title": "Panic",
     "content": ". | A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience panic. A WIL save is typically required to avoid losing control and becoming panicked. | A panicked character must make a WIL save to overcome their condition as an action on their turn. | A panicked character has 0 HP, does not act in the first round of combat, and all of their attacks are impaired. | . Dungeon Elements . Light . | Torches and other radial sources of light illuminate 40ft of dungeon and beyond that only a dim outline of objects. Torches last until they are put out by a character or their environment. | A torch can be lit 3 times before permanently degrading. A lantern can be relit 6 times per oil can, but requires more inventory slots. | Characters without a light source may suffer from panic until their situation is remedied. | . Doors . | Doors and entryways may be locked, stuck, or blocked entirely. Characters can try to force a door open (or wedge it shut) using available resources (spikes, glue) or through raw ability. | The party’s marching order determines who is most impacted by whatever lies beyond a door. | A character can detect, through careful observation (listening, smelling, etc.), signs of life and other hazards through nearby doors and walls. | . Traps . | A cautious character should be presented with any and all information that would allow them the opportunity to avoid springing a trap. An unwitting character will trigger a trap according to the fiction, or otherwise will have a 2-in-6 chance. | Traps can usually be detected by carefully searching a room. | Damage from traps is taken from Attributes (usually STR or DEX) and not from HP. Armor can reduce damage, but only if applicable (e.g. a shield would not reduce damage from noxious gas). | . ",
     "url": "/chime/2-rules/barebones-procedures/#panic",
     
     "relUrl": "/2-rules/barebones-procedures/#panic"
-  },"65": {
+  },"64": {
     "doc": "Barebones Edition Procedures",
     "title": "Wilderness Exploration",
     "content": "Watches . | A day is divided into three watches, called morning, afternoon, and night. | Each character can choose one Wilderness Action per watch. | If the characters split up, each group is treated as an independent entity. | . Points . | Potential destinations on a map are called points. | One or more watches may be required to journey between two points on a map, depending on the path, terrain, weather, and party status. | The party has a rough idea of the challenges involved to get to their destination, but rarely any specifics. | . Travel Duration . Travel time in Cairn is counted in watches, divided into three eight-hour segments per day. However, as most parties elect to spend the third watch of the day resting, one can use “days” as a shorthand for travel time. To determine the distance between two points, combine all penalties from the path, terrain, and weather difficulty tables, taking into account any changes to those elements along the route. For travel via waterways, refer to the surrounding terrain difficulty. For especially vast terrain, assign a penalty of up to +2 watches to the journey. The weather, terrain, darkness, injured party members, and other obstacles can impact travel or even make it impossible! In some cases, the party may need to add Fatigue or expend resources in order to sustain their pace. Mounts, guides, and maps can increase the party’s travel speed or even negate certain penalties. Path Difficulty . |   |   |   | . | Path | Penalty | Odds of Getting Lost | . | Roads | None | None | . | Trails | +1 Watch | 2-in-6 | . | Wilderness | +2 Watches | 3-in-6 | . |   |   | . | Path Distance | Penalty | . | Short | +1 Watch | . | Medium | +2 Watches | . | Long | +3 Watches | . ",
     "url": "/chime/2-rules/barebones-procedures/#wilderness-exploration",
     
     "relUrl": "/2-rules/barebones-procedures/#wilderness-exploration"
-  },"66": {
+  },"65": {
     "doc": "Barebones Edition Procedures",
     "title": "Terrain Difficulty",
     "content": "|   |   |   |   | . | Difficulty | Terrain | Penalty | Factors | . | Easy | Plains, plateaus, valleys | none | Safe areas for rest, fellow travelers, good visibility | . | Tough | Forests, deserts, hills | +1 Watch | Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter’s traps | . | Perilous | Mountains, jungles, swamp | +2 Watches | Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation | . Weather . Each day, the Warden should roll on the weather table for the appropriate season. If the “Extreme” weather result is rolled twice in a row, the weather turns to “Catastrophic”. A squall becomes a hurricane, a storm floods the valley, etc. Weather Type . |   |   |   |   |   | . | d6 | Spring | Summer | Fall | Winter | . | 1 | Nice | Nice | Fair | Fair | . | 2 | Fair | Nice | Fair | Unpleasant | . | 3 | Fair | Fair | Unpleasant | Inclement | . | 4 | Unpleasant | Unpleasant | Inclement | Inclement | . | 5 | Inclement | Inclement | Inclement | Extreme | . | 6 | Extreme | Extreme | Extreme | Extreme | . Weather Difficulty . |   |   |   | . | Weather | Effect | Examples | . | Nice | Favorable conditions for travel. | Clear skies, sunny | . | Fair | Favorable conditions for travel. | Overcast, breezy | . | Unpleasant | Add a Fatigue or add one watch to the journey. | Gusting winds, rain showers, sweltering heat, chill air | . | Inclement | Add a Fatigue or add +1 watch. Increase terrain Difficulty by a step. | Thunderstorms, lightning, rain, muddy ground | . | Extreme | Add a Fatigue and add +1 watch. Increase terrain Difficulty by a step. | Blizzards, freezing winds, flooding, mud slides | . | Catastrophic | Most parties cannot travel under these conditions. | Tornados, tidal waves, hurricane, volcanic eruption | . Wilderness Exploration Cycle . | The Warden describes the current point or region on the map and how the path, weather, terrain, or party status might affect travel speed. The party plots or adjusts a given course towards their destination. | Each party member chooses a single Wilderness Action. The Warden narrates the results and then rolls on the Wilderness Events table. The party responds to the results. | The players and the Warden record any loss of resources and new conditions (i.e. torch use, deprivation, etc), and the cycle repeats. | . Wilderness Events . |   |   |   | . | 1 | Encounter | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC reactions if applicable. | . | 2 | Sign | The party discovers a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area. | . | 3 | Environment | A shift in weather or terrain. | . | 4 | Loss | The party is faced with a choice that costs them a resource (rations, tools, etc), time, or effort. | . | 5 | Exhaustion | The party encounters a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional Wilderness Action) or adding Fatigue to the PC’s inventory to represent their difficulties. | . | 6 | Discovery | The party finds food, treasure, or other useful resources. The Warden can instead choose to reveal the primary feature of the area. | . Wilderness Elements . Night . | The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous! | Traveling at night is always more dangerous! The Warden should roll twice on the Wilderness Events table. | Some terrain and weather may be easier to traverse at night (desert, for example). The Warden should balance these challenges along with any other. | . Sleep . | The last watch of the day is typically reserved for the Make Camp action. | Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep. | If the party skips the Make Camp action, they each add a Fatigue to their inventory and are deprived. Additionally, traveling when sleep-deprived raises the terrain Difficulty by a step (i.e. Easy becomes Tough). | . Light . | Torches and other radial sources of light illuminate 40ft ahead of the party, but beyond that only provides a dim outline of objects. | Characters without a light source may suffer from panic until their situation is remedied. | Environmental conditions (sudden gusts of wind, dust, water, etc.) can easily blow out a torch. | . Light Sources . | A torch can be lit 3 times before degrading. | A lantern can be relit indefinitely but requires a separate oil can (6 uses). | . Wilderness Actions . Travel . | Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. This action is typically taken by the entire party as one. | The party rolls 1d6 to see if they get lost along the way. This risk can increase or decrease, depending on path Difficulty, maps, party skills, and guides. | If lost, the party may need to spend a Wilderness Action to recover their way. Otherwise, the party reaches the next point along their route. | . Remember to compare the results of getting lost to the relevant path Difficulty. Explore . | One or more party members search a large area, searching for hidden features, scouting ahead, or treading carefully. | A Location (shelter, village, cave, etc.) or Feature (geyser, underground river, beached ship, etc.) is discovered. | The Travel action is still required to leave the current area, even if it has been completely explored. | . Supply . | One or more party members may hunt, fish, or forage for food, collecting 1d4 Rations (3 uses each). The chance of a greater bounty increases with each additional participant (e.g. 1d4 becomes 1d6, up to a maximum of 1d12). | Relevant experience or equipment may also increase the bounty collected. | The party may encounter homes and small villages, spending gold and a full watch to resupply. | . Make Camp . | The party stops to set up camp in the wilds. Each party member (and their mounts) consumes a Ration. | A lookout rotation is set so that the party can sleep unmolested. A smaller party may need to risk sleeping unguarded or switch off sleeping over multiple days. | Party members that were able to rest remove all of Fatigue from their inventory. | . ",
     "url": "/chime/2-rules/barebones-procedures/#terrain-difficulty",
     
     "relUrl": "/2-rules/barebones-procedures/#terrain-difficulty"
-  },"67": {
+  },"66": {
     "doc": "Barebones Edition Procedures",
     "title": "Downtime",
     "content": "Between game sessions, players can engage in a variety of activities such as research, following up on leads, improving skills, or building relationships. A PC is limited to one Downtime Action at a time. These actions cannot be undertaken in unsafe conditions or while a character is in recovery. A character cannot perform an action if it would put their safety at risk. Milestones . For activities requiring multiple steps, the Warden assigns 1-5 Milestones for players to track progress. Each Milestone represents a comprehensive, non-interactive task. The Warden may present different strategies to achieve these goals, each with distinct Milestones. Depending on the unfolding events in the game, the Warden is also empowered to introduce new Milestones or discard existing ones. Costs . PCs can complete individual Milestones by taking a Downtime Action and paying its respective Cost. If a character is unable to pay the Cost, they may have to find some other way to achieve their goal. A few examples of Cost: . | Gold: Direct payment of gold from a character’s inventory. | Resources: Non-monetary costs such as material goods, specific common items, and so on. | Reputation: Betting on a character’s renown, personality, presence, social connections, etc. | Loss: Offering something specific and unique. A finger, a soul, a Relic, etc. | . Some Costs can be reduced or disregarded through character skills, connections, or force of will. For example, a PC may have already acquired the necessary reputation to gain access to a renowned institution, and thus the cost is abated. On the other hand, another character may not be so lucky and must rely on their force of personality instead. In this case, the Warden should state the risk (a permanent ban on entry, a loss of reputation, etc.). The PC then makes a WIL save; on a success, the cost is either reduced or avoided entirely. ",
     "url": "/chime/2-rules/barebones-procedures/#downtime",
     
     "relUrl": "/2-rules/barebones-procedures/#downtime"
-  },"68": {
+  },"67": {
     "doc": "Barebones Edition Procedures",
     "title": "Downtime Actions",
     "content": "The following activities represent some of the most common Downtime Actions a player can choose. The Warden can also create custom actions based on the needs of play. Research . A PC investigates a question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, and so on. To take this action, the player must have a clearly formulated question they’d like to answer and a Source of knowledge in the game world that their character can interact with. If the PC does not have a Source, then they can spend a Downtime Action trying to find one. There is no guarantee that they will be successful. Once a question is posed and an appropriate Source has been identified, the Warden should provide any Milestones and associated Costs. Questions . As always, the question must come from an experience that occurred during play. Examples: . | “Where is the Lost Temple of East Nipoor?” | “Who in Fortune City might know how to crack an ancient vault?” | “Where can I find the cure to curly sickness?” | . Sources . A Source is a person, place, faction, or entity that holds either a part or whole answer that the character seeks. They can be NPCs, Factions, spirits, or even other PCs. Examples: . | Kewr the Mouth, a frequent contact for the Conclave of Merchants. Despite their excellent relationship with this faction, asking for help in an illicit activity might come at a high cost. | A Woodwose who makes his home deep in the Forest of Knives. The party encountered him in an earlier expedition and the meeting did not end well. Still, he is said to know the nature of every herb and their healing properties. | The Temple of Puppets, a nomadic circus troupe who have travelled the known and unknown lands. The party assisted one of their members during the Rain of Fire, when even the creatures of the Wood were preparing to flee their homes. If anyone has heard of forgotten places, it’s them. | . Training . A character can improve their skills with an item or ability, with clear narrative or mechanical results. They might be interested in dealing greater damage with a particular weapon, decreasing their chances of getting lost in rough weather, or learning to read the languages of the ancients. A PC might spend multiple Downtime Actions sparring with a particular weapon, improving their skills week by week. Or they may need to travel to the home of a distant sage, improving themselves through short but intense study. The player must describe precisely what they’d like to improve and a Master whom they might train with. And of course, the character’s inspiration to improve should come from an experience in play. The Warden should provide any Milestones and associated Costs. Examples: . | The Two-Handed Parry: When fighting with one hand free, a PC’s HP temporarily increases by 1d4. The party took on a hireling from the Cratered Lands, whose fighters emphasize avoiding enemy attacks. She has agreed to train anyone who can best her in hand to hand combat. | Herbology: Given proper ingredients, a PC can create a Healing Salve (restores 4 STR) as a Downtime Action. After receiving care from an elderly herbalist in the Verdant Glades, the wounded PC asked to be trained in the healing arts. The Master has agreed, but asked that they collect three rare herbs before training can begin. | Troutmaster: When taking the Supply Action, Rations gathered near cold freshwater sources increase by one step (e.g. 1d4 becomes 1d6). The party escorted a stranded naturalist from the famously dreadful Silver Wastes safely back to the city. As thanks, she has offered to train a PC to identify and capture a common lakefish that frequents colder waters. | . Strengthening Ties . A character fosters a connection with an NPC or Faction in the game world. First, they must identify the entity with whom they wish to strengthen ties, as well as a specific intent (e.g., building trust, mending a friendship, seeking membership in a Faction, forming an alliance, and so on). The Warden then provides concrete measures (described as Milestones and Costs) that the PC can undertake to advance the relationship. With each completed Milestone, the Warden describes how the PC’s relationship has grown or changed. Examples: . | After returning from an unsuccessful delve into the Roots, a PC discovers that they’d unknowingly brought along a stowaway: an eyeless devourer, barely hatched. They decide to keep the creature and train it in secret. | During a play session, a PC becomes friendly with an agent of the Order of the Helm. Impressed by the Order’s values, the PC asks what the requirements are to join. | An agent for a powerful faction dies during the Battle of Frogs while under the party’s care. Now those responsible wish to provide redress, so that the party can once again perform tasks for that faction. | . ",
     "url": "/chime/2-rules/barebones-procedures/#downtime-actions",
     
     "relUrl": "/2-rules/barebones-procedures/#downtime-actions"
-  },"69": {
+  },"68": {
     "doc": "Barebones Edition Spellbooks",
     "title": "Barebones Edition Spellbooks",
     "content": "|   |   |   | . | 1 | Adhere | An object is covered in extremely sticky slime. Adjacent objects stick to the book with great force. | . | 2 | Anchor | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. If a rope is pulled through the iron loop on its spine, it becomes as heavy as an elephant. | . | 3 | Animate Object | An object obeys your commands as best it can. Moldable like clay. Childish laughter sprouts from its pages. | . | 4 | Anthropomorphize | An animal either gains human intelligence or human appearance for one day. Whimpers, purrs and growls depending on its treatment. | . | 5 | Arcane Eye | You can see through a magical floating eyeball that flies around at your command. Needs a spritz of water to open. | . | 6 | Astral Prison | An object is frozen in time and space within an invulnerable crystal shell. Silent, abstract, faces scream in anguish within. | . | 7 | Attract | Two objects are strongly magnetically attracted to each other if they come within 10 feet. Nearby compasses spin uselessly. | . | 8 | Auditory Illusion | You create illusory sounds that seem to come from a direction of your choice. Produces random and occasionally inopportune sounds throughout the day. | . | 9 | Babble | A creature must loudly and clearly repeat everything you think. It is otherwise mute. When the text is read aloud, the words of others become unintelligible. | . | 10 | Bait Flower | A plant sprouts from the ground that emanates the smell of decaying flesh. Attracts flies. | . | 11 | Beast Form | You and your possessions transform into a mundane animal. Covered in thick fur, its edges lined with small teeth. | . | 12 | Befuddle | A creature of your choice is unable to form new short-term memories for the duration of the spell. Its contents shift and change each time it is opened. | . | 13 | Body Swap | You switch bodies with a creature you touch. If one body dies, the other dies as well. The front cover shows an image of the last creature to read it. | . | 14 | Charm | A creature you can see treats you as a friend. Warm to the touch, and smells of roses. | . | 15 | Command | A target obeys a single three-word command that does not cause it harm. Grows thinner over time, until finally disappearing forever. | . | 16 | Comprehend | You become fluent in all languages for a short while. Drips letters, staining whatever it touches. | . | 17 | Cone of Foam | Dense foam sprays from your hand, coating the target. Spongy and moist with a soapy residue. | . | 18 | Control Plants | Nearby plants and trees obey you and gain the ability to move at a slow pace. Leaves grow along the spine, and it smells faintly of decay. | . | 19 | Control Weather | You may alter the type of weather at will, but you do not otherwise control it. Highly resistant to fire and water damage. | . | 20 | Cure Wounds | Restore 1d4 STR per day to a creature you can touch. Smells of vinegar and thyme. Turns red after use. | . | 21 | Deafen | All nearby creatures are deafened. Nearby instruments occasionally sound off, as if in protest. | . | 22 | Detect Magic | You can see or hear nearby magical auras. Becomes warm to the touch if magic is used nearby. | . | 23 | Disassemble | Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. Regenerates any torn or defaced pages. | . | 24 | Disguise | You may alter the appearance of one character at will as long as they remain humanoid. Attempts to duplicate other characters will seem uncanny. The surface makes a perfect mirror. | . | 25 | Displace | An object appears to be up to 15ft from its actual position. Bits of string, clothing, and leaves are sometimes stuffed inside. | . | 26 | Earthquake | The ground begins shaking violently. Structures may be damaged or collapse. Sand dribbles from the corners, seemingly without stop. | . | 27 | Elasticity | Your body can stretch up to 10ft. Smells of taffy, and is very flexible. | . | 28 | Elemental Wall | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. Skin and warmer substances stick to it after use. | . | 29 | Filch | A visible item teleports to your hands. An ally’s prized possession may occasionally be found tucked between its covers. | . | 30 | Fish Lung | A target can breathe underwater until they surface again. Smells strongly of the sea. Attracts wild animals. | . | 31 | Flare | A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. Faintly glows in complete darkness. | . | 32 | Fog Cloud | A dense fog spreads out from you. When submersed in water, the book eventually turns all the liquid to vapor. | . | 33 | Frenzy | A nearby creature erupts in a frenzy of violence. Rough, sandpaper cover that destroys any book it touches. | . | 34 | Gate | A portal to a random plane opens. A large hole is carved into the center, ending in a void. Items dropped within are never seen again. | . | 35 | Gravity Shift | You can change the direction of gravity, but only for yourself. Attaches itself to the largest object nearby. | . | 36 | Greed | A creature develops the overwhelming urge to possess a visible item of your choice. The cover changes depending on the owner, subtly hinting at their deepest desires. | . | 37 | Haste | Your movement speed is tripled. Pages flip wildly while open. Can cause paper cuts. | . | 38 | Hatred | A creature develops a deep hatred of another creature or group and wishes to destroy them. Long term exposure to the book can cause suspicion, paranoia and distrust of others. | . | 39 | Hear Whispers | You can hear faint sounds clearly. The reader’s voice is amplified for a short period of time afterwards. | . | 40 | Hover | An object hovers, frictionless, 2ft above the ground. It can hold up to one humanoid. Floats if dropped. | . | 41 | Hypnotize | A creature enters a trance and will truthfully answer one yes or no question you ask it. Eye-catching, swirling spirals don its covers. | . | 42 | Icy Touch | A thick ice layer spreads across a touched surface, up to 10ft in radius. Gloves required. Nonflammable. | . | 43 | Identify Owner | Letters appear over the object you touch, spelling out the name of the object’s owners, if there are any. The book’s interior lists the name of its previous owner. | . | 44 | Illuminate | A floating light moves as you command. When held in light, the pages become a prism of vibrant rainbows. | . | 45 | Invisible Tether | Two objects within 10ft of each other cannot be moved more than 10ft apart. Its pages are not attached by glue or thread, yet stay together nonetheless. | . | 46 | Knock | A nearby mundane or magical lock unlocks loudly. Locked. A new owner “produces” the key after their next meal. | . | 47 | Leap | You jump up to 10ft high, once. When thrown, it just keeps going. | . | 48 | Liquid Air | The air around you becomes swimmable. Floats of its own volition, bouncing off of whatever it touches. | . | 49 | Magic Dampener | All nearby magical effects have their effectiveness halved. Relics within 100ft of the spellbook cannot be recharged. | . | 50 | Manse | A sturdy, furnished cottage appears for hours. You can permit and forbid entry to it at will. If left inside, both the book and the cottage vanish forever. | . | 51 | Marble Craze | Your pockets are full of marbles and will refill every 30 seconds. When jostled, makes a playful rattling sound. | . | 52 | Masquerade | A character’s appearance and voice becomes identical to those of a character you touch. Extended use causes the owner to develop unconscious yet noticeable tics. | . | 53 | Miniaturize | A creature you touch is shrunk down to the size of a mouse. The text is ludicrously, comically large. | . | 54 | Mirror Image | An illusory duplicate of yourself appears and is under your control. Over time, the owner begins to question who is the original, and who is the duplicate. | . | 55 | Mirrorwalk | A mirror becomes a gateway to another mirror that you looked into today. Will not open unless the owner politely knocks on the cover. | . | 56 | Multiarm | You temporarily gain an extra arm. After use, the caster is wracked with phantom limb syndrome for a day. | . | 57 | Night Sphere | A 50ft-wide sphere of darkness displaying the night sky appears before you. Displays a prominent constellation on its cover. | . | 58 | Objectify | You become any inanimate object between the size of a grand piano and an apple. The owner experiences intense pareidolia for days after use. | . | 59 | Ooze Form | You become a living jelly. Slowly drips an acid that eventually eats away anything it touches. | . | 60 | Pacify | A creature near you has an aversion to violence. Smells of jasmine and incense. Attracts children. | . | 61 | Passage | Creates a temporary path through wood, stone or brick. An object dropped on top of the book inevitably falls through the other side. | . | 62 | Phobia | A nearby creature becomes terrified of an object of your choice. Over time, haunting, abstract art begins to fill its pages. | . | 63 | Pit | A pit 10ft wide and 10ft deep opens in the ground. A standard piton can be safely stored in its spine. | . | 64 | Primal Surge | A creature rapidly evolves into a future version of its species. The owner is haunted by strange visions of their own ancestors. | . | 65 | Push/Pull | An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man. Any force against the book is comically amplified. | . | 66 | Raise Dead | A skeleton rises from the ground to serve you. They are incredibly stupid and can only obey simple orders. The owner becomes more and more fascinated with bones after each use. | . | 67 | Raise Spirit | The spirit of a nearby corpse manifests and will answer 1 question. The answers (but not their questions) are forever inscribed in its pages. | . | 68 | Read Mind | You can hear the surface thoughts of nearby creatures. Long-term possession can cause the reader to mistake the thoughts of others as their own. | . | 69 | Repel | Two objects are strongly magnetically repelled from each other within 10 feet. Closed by two powerful straps that spring open at inopportune times. | . | 70 | Scry | You can see through the eyes of a creature you touched earlier today. The owner’s eyes turn milky-white for an hour after use. | . | 71 | Sculpt Elements | Inanimate material behaves like clay in your hands. Slowly decays on contact with wood or cloth. Bury in dirt or submerge in water to refresh. | . | 72 | Sense | Choose one kind of object (key, gold, arrow, jug, etc). You can sense the nearest example. The book’s previous owner is always aware of the book’s current location. | . | 73 | Shield | A creature you touch is protected from mundane attacks for one minute. Bound in rusty ring-mail and is quite heavy. If held, provides +1 Armor. | . | 74 | Shroud | A creature you touch is invisible until they move. Invisible to any but the book’s current owner. | . | 75 | Shuffle | Two creatures you can see instantly switch places. If stolen but not yet read, it reappears wherever its owner last left it. | . | 76 | Skillful Repair | You make minor repairs to a nonliving object. Sewn from the vellum of one hundred books, no two pages are alike. | . | 77 | Sleep | A creature you can see falls into a light sleep. Soft as a pillow, but yields only fitful sleep. | . | 78 | Slick | Every surface in a 30ft radius becomes extremely slippery. Gloves are required for handling, lest the book is dropped in a most comical fashion. | . | 79 | Smoke Form | Your body becomes a living smoke that you can control. Smells of campfire. The pages cannot be burnt, but are very sensitive to moisture. | . | 80 | Sniff | You can smell even the faintest traces of scents. Expresses a strong odor detectable only by its owner. | . | 81 | Snuff | The source of any mundane light you can see is instantly snuffed out. If left in one place for long periods, nearby light sources eventually dim, then finally go out. | . | 82 | Sort | Inanimate items sort themselves according to categories you set. Rights itself when dropped or thrown. | . | 83 | Spellsaw | A whirling blade flies from your chest, clearing any plant material in its way. It is otherwise harmless. Wrapped in stained leather, it should be oiled at least once a month. | . | 84 | Spider Climb | You can climb surfaces like a spider. New cobwebs must be pushed aside prior to each use. They are hard to remove. | . | 85 | Swarm | You become a swarm of crows, rats, or piranhas. You can only be harmed by blast attacks. Easily broken into a dozen distinct parts that slowly move towards one another over time. | . | 86 | Target Lure | An object you touch becomes the target of any nearby spell. Attracts all manner of magical creatures, spell leaks, and scrying. | . | 87 | Telekinesis | You may mentally 1 move item under 60lbs. The owner can summon the book through mental command alone (WIL save or become deprived afterwards). | . | 88 | Telepathy | Two creatures can hear each other’s thoughts, no matter how far apart. The holder can hear (but not respond) to the thoughts of whoever last possessed it, and vice versa. | . | 89 | Teleport | An object or person you can see is transported from one place to another in a 50ft radius. Can be destroyed to create a portal to another dimension. | . | 90 | Thicket | A thicket of trees and dense brush up to 50ft wide suddenly sprouts up. Wrapped in vines that must be destroyed again with each use. | . | 91 | Time Control | Time in a 50ft bubble slows down or increases by 10% for 30 seconds. Alternates its appearance as either impossibly old or freshly written. | . | 92 | True Sight | You see through all nearby illusions. Cannot be concealed by magic, and sticks out like a sore thumb. | . | 93 | Upwell | A spring of seawater appears. Hardened leather bindings caked in salt and living barnacles. | . | 94 | Vision | You completely control what a creature sees. An unnerving, lidless eye graces the front cover. | . | 95 | Visual Illusion | A silent, immobile, room-sized illusion of your choice appears. Filled with rich, colorful pages very much like a children’s bedtime story. | . | 96 | Ward | A silver circle 50ft across appears on the ground. Choose one species that cannot cross it. The covers are decorated with bizarre, otherworldly creatures with thousands of eyes. | . | 97 | Web | Your wrists shoot thick webbing. The text is alien, yet somehow intelligible, for it is the language of dreams. | . | 98 | Widget | A primitive version of a drawn tool or item appears before you and disappears after a short time. Smells of iron and rust, sweat and effort. Faint sounds of harsh labor emanate from deep within its pages. | . | 99 | Wizard Mark | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. Inside the front cover is a small pocket containing a thin pad of paper, listing the name and date of death of all previous owners. | . | 100 | X-Ray Vision | You can see through walls, dirt, clothing, etc. Long-term exposure can cause hair loss, blurry vision, and fatigue. | . ",
     "url": "/chime/2-rules/barebones-spellbooks/",
     
     "relUrl": "/2-rules/barebones-spellbooks/"
-  },"70": {
+  },"69": {
     "doc": "Heartseed",
     "title": "Heartseed",
     "content": " ",
