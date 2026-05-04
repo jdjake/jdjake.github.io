@@ -1,359 +1,737 @@
 {"0": {
-    "doc": "Core Principles",
-    "title": "Core Principles",
-    "content": "Below are guidelines for the Steward and the other Players of the game, to help foster a specific play experience. Namely, one defined by critical thinking, engagement with the fictional world, character development, and emergent narrative. Roles . Chime challenges the Steward to act as a neutral arbiter, and to portray grounded situations and non-player characters clearly to the other players. Chime challenges the other Players to engage with the fictional world, portray interesting characters with strong beliefs, respond to situations in clever and interesting ways, and to drive the fiction forward with tempo through their decisions. Fiction First . In-World Context always overrides mechanics and numbers. Players engage with the world by describing their character’s actions within the world, with the consequences of those actions arbitrated by the Steward rather than through interpretations of precise, contextual rules. Classless . A Character’s role or skills is not defined by a particular class or attributes. Instead, a character individuates themselves based on their experiences, learning, and the equipment they carry. Danger . Characters may be powerful, but they are also vulnerable to harm in its many forms. A dagger to the throat will kill a man, regardless of their expensive armor and impressive training. Death is always around the corner, but it should never be random or without warning. Growth . Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events, overcoming obstacles, and making connections. Player Choice . Players should always understand the reasons behind the choices they’ve made, and information about potential risks should be provided freely and frequently by the Steward. ",
-    "url": "/chime/2-rules/1-coreprinciples/",
+    "doc": "Campaign Info",
+    "title": "Campaign Info",
+    "content": " ",
+    "url": "/chime/campaign-info/",
     
-    "relUrl": "/2-rules/1-coreprinciples/"
+    "relUrl": "/campaign-info/"
   },"1": {
-    "doc": "Core Principles",
-    "title": "Player Guidelines",
-    "content": "Agency . | Attributes are tools to engage with the fictional world, but do not define your character. | Engage with the fictional world as if you existed within it. | Be creative with your intuitions, items, and connections. The game challenges your own ability to think outside the box as well as your ability to embody a character within the fictional world. | . Teamwork . | Trust each other to engage with the shared setting, to help others with the goals of their characters and of the overall team. Work together as a team. | Seek consensus from other players before barreling forward. | Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone. | . Exploration . | Asking questions, listening to details, and engaging with the world is more useful than any stats, items, or skills you have. | Take the Steward’s description without suspicion, but do not shy away from scrutinizing your environment for more information. | There is no correct solution to any problem, nor any single correct path forward. | . Talking . | Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems. | You’ll find that most people are interesting and will want to talk things through before getting violent. | . Caution . | Think of ways to avoid your obstacles through reconnaissance, subtlety, and information gathering. | Fighting is a choice, and rarely a wise one; consider whether violence is the best way to achieve your goals. | Stack the odds in your favor as much as possible, and always keep retreat as an option when a situation becomes unfavorable. | . Ambition . | Set goals for your characters, and use your meager means to accomplish them. | Embody characters with beliefs that distinguish them from the general party. Set personal goals to develop your character further. | Actively move situations forward when they stall, plan goals for sessions in advance to keep gaes focused, and play to find out what happens rather than anticipating plot threads or expecting certain outcomes. | . ",
-    "url": "/chime/2-rules/1-coreprinciples/#player-guidelines",
-    
-    "relUrl": "/2-rules/1-coreprinciples/#player-guidelines"
-  },"2": {
-    "doc": "Core Principles",
-    "title": "Steward Guidelines",
-    "content": "Information . | Provide useful information in response to the explorations of the Players. Respond to smart questions with helpful, direct, consistent answers. | Players do not need to roll dice to understand their circumstances. | . Difficulty . | If something the players want to do is sincerely impossible, no roll will allow them to do it. | If a player leverages a situation in a sensible, risk-free manner, let the consequences happen without a roll. | Saves cover many uncertain situations and are often all that is necessary for risky actions. | . Preparation . | Use random tables and generators to develop situations, not stories or plots. | NPCs remember what the PCs say and do, and how they affect the world. | NPCs don’t want to die. Infuse their own self-interest and will to live into every personality. | . Narrative Focus . | Emergent play matters more than a planned outcome. | Give the players opportunities to facilitate improvement and specialization, and encourage them to foster personal goals. | Pay attention to the desires and beliefs of the players, then put realistic opportunities in their path. | . Danger . | The game world produces real risk of pain and death for the player characters. | Telegraph serious danger to players when it is present. The more dangerous, the more obvious. Put traps in plain sight. | Give players opportunities to solve problems and interact with the world. | . Treasure . | Treasures are specific to the environment from where it is recovered. They tell a story. | Treasure are highly valuable, almost always bulky, and rarely useful beyond its worth and prestige. | Relics are not Treasure, though they are useful and interesting. | Use Treasure as a lure to exotic locations under the protection of intimidating foes. | . Choice . | Give players solid choices to force outcomes when situations lull. | Ensure that the player character’s actions are impactful, leaving a mark on the fictional world. | . ",
-    "url": "/chime/2-rules/1-coreprinciples/#steward-guidelines",
-    
-    "relUrl": "/2-rules/1-coreprinciples/#steward-guidelines"
-  },"3": {
-    "doc": "Home",
-    "title": "Home",
-    "content": "A year ago they took you. Black bagged, condemned to a cell. It wasn’t fair. It didn’t matter. Six months passed, and a woman immaculate and dangerous as a polished shiv offered you a deal. The Martel Company needs recruits. The work will be hard. Dangerous. But you can buy back your name. In time. For six months you hauled rocks. Big stones sunk deep in the mud. Knotburns buried deep into your palms. You were not alone. They put you on a ship, and the crew became your world. You slept together, bathed together, ate together, shat together. Maybe you’ve become friends. Maybe you hate each others guts. But you trust them, because you must. They branded your left shoulder when the ship set sail. Black magic swirled around the iron, felt like ice when you were marked. They told you that you belong to the Martel now, and that your job is to haul. Gold. Statues. Art. The more you haul, the quicker your brand will fade. You’re free to run. But in time, the brand will consume your flesh, sloughed off like corn husk. With your crew, you set sail for the Swordfish Islands… . Chime is a hack of Cairn, an adventure game about exploring a dark and mysterious island of primal forces, life, and abundance. Character generation is quick and random, adventures are tense and reward careful exploration, and combat is frantic and deadly. ",
-    "url": "/chime/",
-    
-    "relUrl": "/"
-  },"4": {
     "doc": "Character Creation",
     "title": "Character Creation",
     "content": " ",
-    "url": "/chime/2-rules/2-character-creation/",
+    "url": "/chime/rules/character-creation/",
     
-    "relUrl": "/2-rules/2-character-creation/"
-  },"5": {
+    "relUrl": "/rules/character-creation/"
+  },"2": {
     "doc": "Character Creation",
-    "title": "Overview",
-    "content": ". | Roll 3d6 for each of the three attributes, in order: STRength, DEXterity, and WILLpower. You may then swap any two of the results. | Characters start with d6 Hit Protection, representing their ability to avoid taking serious damage. | Characters start with 2d6 New Pounds (£). | Match your highest Attribute with your lowest to determine your Failed Career. Your Hit Protection and Value of Scavenged Supplies determine further features related to your failed career. | Pick some Character Traits, or roll for them. | Choose a First name and Last Name for your character. You may choose any name you wish, or you can pick a name related to your Failed Career, or use a random table of first and last names. | Start thinking of what Beliefs your character may hold. | Form Connections with the characters of three randomly selected players in our group. See TODO for a description of various archetypes that might inspire these connections. | . ",
-    "url": "/chime/2-rules/2-character-creation/#overview",
+    "title": "Creating a Character:",
+    "content": ". | Roll 3d6 for each of the three attributes, STRength, DEXterity, WILLpower, in order. You may then swap any two of the results. | Characters start with d6 Hit Protection, representing their ability to avoid taking serious damage. | Characters start with 2d6 New Pounds (£), enough to buy a couple sandwiches, or varying quality. | You had a shot at a normal life and you blew it. Match your highest Attribute with your lowest to determine your Failed Career. Your Hit Protection and Starting Currency determine further features related to your failed career. | Choose a Name for your character. Some folks have one name, others have multiple. Some have nicknames, aliases, family names, or village names. Some names come with descripters, sometimes accurate, and sometimes false (Bujamew the Magnanimous, Fragrant Joe, etc). Some names describe a character’s class (Agu the Money Lender, Bilbo the Burglar, etc). Take inspiration from the names associated with your Failed Career, or more general Tables of names. | Choose some Character Traits to distinguish your character, or Roll to give you inspiration. | . ",
+    "url": "/chime/rules/character-creation/#creating-a-character",
     
-    "relUrl": "/2-rules/2-character-creation/#overview"
-  },"6": {
+    "relUrl": "/rules/character-creation/#creating-a-character"
+  },"3": {
     "doc": "Character Creation",
-    "title": "Failed Careers",
-    "content": "The Lowest and Highest Attributes of your character determine their Failed Career. |   |   |   | . | 3 | &lt; 9 | Gutter Minder | . | 4 | &lt; 9 | Curiosity Compiler | . | 5 | &lt; 9 | Trench Conscript | . | 6 | &lt; 9 | Debt Squeezer | . | 7 | &lt; 9 |   | . ",
-    "url": "/chime/2-rules/2-character-creation/#failed-careers",
+    "title": "Further Character Development",
+    "content": "When a session concludes, answer one of the following questions: . | Why did your character become imprisoned. What prompted them to subject themselves to the bondage contract of the Martel Trading Company? In a future session, if you take a short rest to tell others from the crew about this story, you may add one to a relevant attribute. | What does your character value the most, and what has it cost you so far to maintain that value? Use the answer to this question to come up with a Core Belief your character might hold. Bonus points if this value is something that could come into conflict with the values of the other characters in your crew. | Think of a time your adventurer struggled with something while they were young, that they are still ashamed of today. When you admit your shame to another player during a short rest, you may add one to an attribute relevant to the story. | . In addition, you may also form a new Connection with a character from the session you’ve just played. This connection may be related to events between the characters in the present, or a past before our campaign (feel free to invent past events, provided that the other character agrees). Describe your connection, perhaps in reference from one of several Archetypes. Connections are not fixed in stone. In subsequent sessions, Connections between characters may change. At the end of each session, discuss with other players if you feel your interactions in game have strengthened, weakened, or changed completely the relationship with one another. Once each question has been answered, and you’ve formed at least three connections with other characters, add d4 to your Hit Protection. ",
+    "url": "/chime/rules/character-creation/#further-character-development",
     
-    "relUrl": "/2-rules/2-character-creation/#failed-careers"
-  },"7": {
-    "doc": "Rules",
-    "title": "Rules",
+    "relUrl": "/rules/character-creation/#further-character-development"
+  },"4": {
+    "doc": "Characters",
+    "title": "Characters",
     "content": " ",
-    "url": "/chime/2-rules/",
+    "url": "/chime/campaign-info/characters/",
     
-    "relUrl": "/2-rules/"
+    "relUrl": "/campaign-info/characters/"
+  },"5": {
+    "doc": "Core Principles",
+    "title": "Core Principles",
+    "content": "These rules provide guidelines for the Steward and other Players, to help foster a specific play experience defined by critical thinking, engagement with the fictional world, character development, and emergent narrative. Roles . Chime challenges the Steward to act as a neutral arbiter, portraying grounded situations and non-player characters to the other players, and providing contextual clarity to foster the other Players ability to make interesting decisions. Chime challenges the other Players to engage with the fictional world, portray interesting characters with strong beliefs, respond to situations in clever and interesting ways, and to drive the fiction forward in interesting ways through their decisions. Fiction First . In world context overrides mechanics and numbers. Players engage with the world by describing their character’s actions within the world, with the consequences of those actions arbitrated by the Steward rather than mediated through contextual rules in a rulebook. This is closely related to the maxim of ‘Rulings Not Rules’ oft discussed in the gaming community. Classless . A Character’s role or skills is not defined by a particular class or attributes. Instead, a character specializes with their experience, their learning, and the equipment they choose to carry. Danger . Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it should never be random or without warning. A dagger to your throat will kill a man, regardless of their expensive armor and impressive training. This danger adds impact to a Player’s decisions, and forces Players to engage with the fictional world, as your character is not superheroic enough to be ‘above’ the world. Growth . Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events, overcoming obstacles, and making connections with others within the fictional world. Player Choice . Players should always understand the reasons behind the choices they’ve made, and information about potential risks should be provided freely and frequently by the Steward. ",
+    "url": "/chime/rules/core-principles/",
+    
+    "relUrl": "/rules/core-principles/"
+  },"6": {
+    "doc": "Core Principles",
+    "title": "Player Guidelines",
+    "content": "Agency . | Attributes are tools to engage with the fictional world, but do not define your character. | Engage with the fictional world as if you existed within it. | Be creative with your intuitions, items, and connections. The game challenges your own ability to think outside the box as well as your ability to embody a character within the fictional world. The main appeal of a role playing game over video games or board games is that you can take any actions within the fictional world, with the Steward there to interpret the consequences. Try and make the Steward think “I didn’t even think of that”. | . Teamwork . | Trust each other to engage with the shared setting, to help others with the goals of their characters and of the overall team. Work together as a team. | Seek consensus from other players before barreling forward. | Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone. | Let the relationships between your characters grow and change. Every session or two, discuss with how your characters feel about each other in light of your most recent experiences. Have rivals become allies? Have allies become best friends? Have best friends become lovers? | . Engage With The World . | Asking questions, listening to details, and engaging with the world is more useful than any stats, items, or skills you have. | Take the Steward’s description without suspicion, but do not shy away from scrutinizing your environment for more information. | There is no correct solution to any problem, nor any single correct path forward. | . Talking . | Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems. | You’ll find that most people are interesting and will want to talk things through before getting violent. | . Caution . | Think of ways to avoid your obstacles through reconnaissance, subtlety, and information gathering. | Fighting is a choice, and rarely a wise one; consider whether violence is the best way to achieve your goals. | Stack the odds in your favor as much as possible, and always keep retreat as an option when a situation becomes unfavorable. | . Ambition . | Set goals for your characters, and use your meager means to accomplish them. | Embody characters with beliefs that distinguish them from the general party. Set personal goals to develop your character further. | Actively move situations forward when they stall, plan goals for sessions in advance to keep gaes focused, and play to find out what happens rather than anticipating plot threads or expecting certain outcomes. | . ",
+    "url": "/chime/rules/core-principles/#player-guidelines",
+    
+    "relUrl": "/rules/core-principles/#player-guidelines"
+  },"7": {
+    "doc": "Core Principles",
+    "title": "Steward Guidelines",
+    "content": "Information . | Provide useful information in response to the explorations of the Players. Respond to smart questions with helpful, direct, consistent answers. | Players do not need to roll dice to understand their circumstances. | . Difficulty . | If something the players want to do is sincerely impossible, no roll will allow them to do it. | If a player leverages a situation in a sensible, risk-free manner, let the consequences happen without a roll. | Saves cover many uncertain situations and are often all that is necessary for risky actions. | . Preparation . | Use random tables and generators to develop situations, not stories or plots. | NPCs remember what the PCs say and do, and how they affect the world. | NPCs don’t want to die. Infuse their own self-interest and will to live into every personality. | . Narrative Focus . | Emergent play matters more than a planned outcome. | Give the players opportunities to facilitate improvement and specialization, and encourage them to foster personal goals. | Pay attention to the desires and beliefs of the players, then put realistic opportunities in their path. | . Danger . | The game world produces real risk of pain and death for the player characters. | Telegraph serious danger to players when it is present. The more dangerous, the more obvious. Put traps in plain sight. | Give players opportunities to solve problems and interact with the world. | . Treasure . | Treasures are specific to the environment from where it is recovered. They tell a story. | Treasure are highly valuable, almost always bulky, and rarely useful beyond its worth and prestige. | Relics are not Treasure, though they are useful and interesting. | Use Treasure as a lure to exotic locations under the protection of intimidating foes. | . Choice . | Give players solid choices to force outcomes when situations lull. | Ensure that the player character’s actions are impactful, leaving a mark on the fictional world. | . ",
+    "url": "/chime/rules/core-principles/#steward-guidelines",
+    
+    "relUrl": "/rules/core-principles/#steward-guidelines"
   },"8": {
     "doc": "Core Rules",
     "title": "Core Rules",
-    "content": " ",
-    "url": "/chime/2-rules/3-core-rules/",
+    "content": "{:toc} . ",
+    "url": "/chime/rules/core-rules/",
     
-    "relUrl": "/2-rules/3-core-rules/"
+    "relUrl": "/rules/core-rules/"
   },"9": {
     "doc": "Core Rules",
-    "title": "Player Characters",
-    "content": "Attributes . Player Characters (PCs) have three Attributes: . | Strength (STR): Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc. | Dexterity (DEX): Used for saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc. | Willpower (WIL): Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc. | . Attributes are not universal descripters. A character with low STR is not necessarily hopelessly weak, but in risky, tense situations their strength is more likely to fail them. Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher. Attribute Loss . | If a PC takes damage outside of combat, they should instead receive damage to an Attribute, typically STR. | If a PC’s STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means. | . Hit Protection . | Hit Protection (HP) reflects a character’s ability to avoid serious damage in combat. | This measurement does not indicate a character’s health or fortitude, nor do they lose it for very long. See Healing &amp; Recovery. | . Healing &amp; Recovery . | Resting for a few moments and having a drink of water restores lost HP but may leave the party exposed. Bandages can stabilize a character that has taken critical damage. | Attribute loss (see Critical Damage) can usually be restored with a week’s rest, facilitated by a healer or other appropriate source of expertise. | Some healing services are free, while magical or more expedient means of recovery may come at a cost. | . ",
-    "url": "/chime/2-rules/3-core-rules/#player-characters",
+    "title": "Attributes",
+    "content": "Player Characters (PCs) have three Attributes: . | Strength (STR): Used for Saves requiring physical power, like lifting gates, bending bars, resisting poison, etc. Dead if 0. | Dexterity (DEX): Used for Saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc. Paralyzed if 0. | Willpower (WIL): Used for Saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc. Mentally broken if 0. | . Attributes are not universal descripters of a character’s abilities. A character with low STR is not necessarily hopelessly weak, but in risky, tense situations their strength is more likely to fail them. ",
+    "url": "/chime/rules/core-rules/#attributes",
     
-    "relUrl": "/2-rules/3-core-rules/#player-characters"
+    "relUrl": "/rules/core-rules/#attributes"
   },"10": {
     "doc": "Core Rules",
-    "title": "Armor",
-    "content": ". | Before calculating damage to HP, subtract the target’s Armor value from the result of damage rolls. | Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. Some may also provide additional benefits, depending on the fiction. | A PC, NPC, or monster cannot have more than 3 Armor. | . ",
-    "url": "/chime/2-rules/3-core-rules/#armor",
+    "title": "Hit Protection",
+    "content": ". | Hit Protection (HP) reflects a character’s ability to avoid serious damage in combat. | This measurement does not indicate a character’s health or fortitude, nor do they lose it for very long. See Healing &amp; Recovery. | Hit Protection only applies in combat. If a PC takes damage outside of combat, it should be taken from an Attribute, typically STR. | . ",
+    "url": "/chime/rules/core-rules/#hit-protection",
     
-    "relUrl": "/2-rules/3-core-rules/#armor"
+    "relUrl": "/rules/core-rules/#hit-protection"
   },"11": {
     "doc": "Core Rules",
-    "title": "Inventory",
-    "content": ". | Characters have a total of ten inventory slots but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc. | Each PC starts with a Backpack that can hold up to six slots of items or Fatigue. Carts (which must be pulled with both hands), horses, or mules can make a huge difference in how much a PC can bring with them on an adventure. Hirelings can also be paid to carry equipment. | Inventory is abstract, dependent only on the fiction as adjudicated by the Steward. Anyone carrying more than ten items is reduced to 0 HP and takes all Saves which may be affected by overencumbrance with disadvantage. | . Inventory Slots . | Most items take up one slot unless otherwise indicated. | Petty items do not take up any slots. Bulky items take up two slots. | A bag of coins worth less than £100 is petty and does not occupy a slot. | . ",
-    "url": "/chime/2-rules/3-core-rules/#inventory",
+    "title": "Healing &amp; Recovery",
+    "content": ". | Resting for a few minutes and having a drink of water restores lost HP but may leave the party exposed. | Water is kept in a Waterskin, which occupies 1 slot. Fully filled it has a Usage Die of d8. Whenever a character recovers HP, they roll the waterskin’s Usage Die. On a 1 or 2, the die decreases in size (d8&gt;d6&gt;d4). On a 1-2 on a d4, the waterskin is empty. | During a rest, players are encouraged to role-play a scene that develops the fellowship between the party. Share a memory, talk about goals, ask about their history or tell them yours. | Players then nominate the party member whose fellowship was most brought up during the rest gain a Bond which lasts until the next time the players rest (and so only a single player has a Bond at any moment of play); if that player makes a Save they feel relates to the conversation during the last rest, they may spend their Bond to gain advantage on the roll. | . | Bandages can stabilize a character that has taken Critical Damage, though the character will normally be Deprived until recovered. | Attribute Loss can usually be restored with a week’s rest, facilitated by a healer or other appropriate source of expertise. | Some healing services are free, while magical or more expedient means of recovery may come at a cost. | . ",
+    "url": "/chime/rules/core-rules/#healing--recovery",
     
-    "relUrl": "/2-rules/3-core-rules/#inventory"
+    "relUrl": "/rules/core-rules/#healing--recovery"
   },"12": {
     "doc": "Core Rules",
-    "title": "Deprivation &amp; Fatigue",
-    "content": ". | A PC that lacks a crucial need (such as food or rest) is Deprived. Anyone Deprived for more than a day adds Fatigue to their inventory, one for each day. A Deprived PC cannot recover HP, Attributes, or item slots from Fatigue. | A PC may also be forced to add Fatigue after casting spells or due to events occurring in the fiction. Each Fatigue occupies one slot and lasts until the PC is able to recuperate (such as with a full night’s rest in a safe spot). | If a character is forced to add Fatigue to their inventory but they have no free slots, they must drop an item from their inventory. | . ",
-    "url": "/chime/2-rules/3-core-rules/#deprivation--fatigue",
+    "title": "Wounds",
+    "content": "Some types of damage can leave Wounds, which hinder affected adventurers more than simply dealing damage. Fire can inflict burns, electricity can inflict nerve damage, cold can inflict frostbite, monsters can inflict wounds upon dealing Critical Damage, etc. A Wound occupies a slot in the adventurer’s inventory. Wounds come in 3 levels. Whenever a wound of the same type is gained, the player can choose to have their existing wound increase in severity or to fill in a new slot in their inventory. This allows player choice between short or long-term impact: do you suffer another light wound and heal after combat or have the old wound increase in severity without taking up another slot but possibly leading to permanent injury? . | Light Wounds can be healed in the field if proper medicine and treatment are available. Light burns can be healed by gathering the right herbs and applying them overnight. | Severe Wounds require serious medical attention, probably between adventures. Severe frostbite could be cured with a comfortable week-long rest in a healing temple. | Permanent Wounds can never be healed. Every Permanent Wound also lowers a fitting Attribute by -1 (For instance, WIL for nerve damage). While this -1 penalty can be overcome in time by training, the wound’s Inventory slot is forever lost. | . [//]: # “Comment” Wounds are intended to provide a prompt for adventure. As an example, Burns can be healed by applying bandages soaked in a mixture of water and Saint’s Hood, a white flower often found on ground once charred by forest fires. Frostbite can be healed with a salve of firevine peppers. Nerve damage can be healed by chewing on a steady supply of Silverleaf, a fragile herb that grows on trees struck by lightning. Poisoning can be healed by brewing tea from Foxglove, a purple flower that grows near small streams. ",
+    "url": "/chime/rules/core-rules/#wounds",
     
-    "relUrl": "/2-rules/3-core-rules/#deprivation--fatigue"
+    "relUrl": "/rules/core-rules/#wounds"
   },"13": {
     "doc": "Core Rules",
-    "title": "Saves &amp; Risk",
-    "content": " ",
-    "url": "/chime/2-rules/3-core-rules/#saves--risk",
+    "title": "Armor",
+    "content": ". | Before calculating HP Damage, subtract the target’s Armor Protection (AP) value from the result. | Shields and similar armor provide a bonus to AP while worn. Some may also provide additional benefits, depending on the fiction. | No Character, PC or otherwise, can have more than 3 AP. | . ",
+    "url": "/chime/rules/core-rules/#armor",
     
-    "relUrl": "/2-rules/3-core-rules/#saves--risk"
+    "relUrl": "/rules/core-rules/#armor"
   },"14": {
     "doc": "Core Rules",
-    "title": "Saves",
-    "content": ". | A save is a roll to avoid negative outcomes from risky choices. Characters roll a d20 and compare the results to the appropriate attribute. If they roll equal to or under that attribute, they succeed. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure. | If two opponents are each trying to overcome the other, whoever is most at risk should save. | If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant Attribute). | . Die of Fate . | Optionally, roll 1d6 whenever the outcome of an event is uncertain or to simulate an element of randomness and chance. | A roll of 4 or more generally favors the PCs, while a roll of 3 or under usually means bad luck for the PCs. | . ",
-    "url": "/chime/2-rules/3-core-rules/#saves",
+    "title": "Inventory",
+    "content": ". | A characters Inventory represents both their literal equipment load, as well as a kind of ‘stamina bar’, throught eh Fatigue system. | Inventory is abstract, dependent only on the fiction as adjudicated by the Steward. Anyone carrying more than 10 items is reduced to 0 HP and takes all Saves which may be affected by overencumbrance with disadvantage. Anyone carrying at most five items has a Light Load, and gains advantage on all Saves which may be advantaged by being more light on their feet. | Horses, mules, carts, and hirelings can make a huge difference in how much a PC can bring with them on an adventure, though these options may bring with them their own problems. | As a group, your crew may always assume they are carrying torches, rope, food, water, and camping equipment, and these items do not take up inventory slots, unless the lack of these items becomes important to the fiction. Any other items should be explicitly written in your inventory. | . Inventory Slots . | Most items take up one slot unless otherwise indicated. | Petty items do not take up any slots. Bulky items take up two slots. | A bag of coins worth less than £100 is Petty. | . ",
+    "url": "/chime/rules/core-rules/#inventory",
     
-    "relUrl": "/2-rules/3-core-rules/#saves"
+    "relUrl": "/rules/core-rules/#inventory"
   },"15": {
     "doc": "Core Rules",
-    "title": "Magic",
-    "content": "Spellbooks . | Spellbooks contain a single spell and take up one slot. They cannot be easily transcribed or created; instead they are recovered from places like tombs, dungeons, and manors. | Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight. | Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly. | . Casting Spells . | Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory. | Given time and safety, PCs can enhance a spell’s impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. | If the PC is deprived or in danger (such as during combat), the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect and may result in added Fatigue, the destruction of the Spellbook, injury, and even death. | . Scrolls . Scrolls are similar to Spellbooks, however: . | They are petty. | They do not cause Fatigue. | They disappear after one use. | . Relics . Relics are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have limited use, as well as a Recharge condition. ",
-    "url": "/chime/2-rules/3-core-rules/#magic",
+    "title": "Deprivation &amp; Fatigue",
+    "content": ". | A PC that lacks a crucial need (such as food or rest) is Deprived. Anyone Deprived for more than a day adds Fatigue to their inventory, one for each day. A Deprived PC cannot recover HP, cannot recover Attributes, and cannot recover item slots from Fatigue until they get rid of their Deprived Status. | A PC may also be forced to add Fatigue after casting spells or due to events in the fiction. Each Fatigue occupies one inventory slot and lasts until the PC is able to recuperate (i.e. after a full night’s rest in a safe spot). | . ",
+    "url": "/chime/rules/core-rules/#deprivation--fatigue",
     
-    "relUrl": "/2-rules/3-core-rules/#magic"
+    "relUrl": "/rules/core-rules/#deprivation--fatigue"
   },"16": {
     "doc": "Core Rules",
-    "title": "Non-Player Characters",
-    "content": "Hirelings . | Adventuring parties can recruit hirelings, relying on their unique skills, knowledge, and training to aid in expeditions. | To create a hireling, choose an appropriate role from the Hirelings table in the Marketplace. Roll 3d6 for each attribute and 1d6 for their HP. Give them equipment appropriate to their station, then roll on the Character Traits tables to further flesh them out. | Alternatively, follow the Character Creation process but select the appropriate background, name, and gear for the character. | . Reactions . When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table: . |   |   |   |   |   | . | 2 | 3-5 | 6-8 | 9-11 | 12 | . | Hostile | Wary | Curious | Kind | Helpful | . ",
-    "url": "/chime/2-rules/3-core-rules/#non-player-characters",
+    "title": "Saves &amp; Risk",
+    "content": ". | A Save is a roll to avoid negative outcomes thrust upon the players outside of their volition. Saves are typically used for moments of split-second decisions, when something suddenly happens to a character. | Characters roll a d20 and compare the results to the appropriate attribute. If they roll equal to or under that attribute, they succeed. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure. | Characters should be universally encouraged to plot, scheme, prepare, and manipulate a situation to prevent die rolls. After all, a dice roll means an opportunity of failure. | If two opponents are each trying to overcome the other, whoever is most at risk should save. In the case this cannot be decided, make a Contested Roll. Both Characters make a roll in a relevant attribute, and the highest successful roll wins. In the case that both rolls fail, the situation gets worse for both participants. | If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant Attribute). | . ",
+    "url": "/chime/rules/core-rules/#saves--risk",
     
-    "relUrl": "/2-rules/3-core-rules/#non-player-characters"
+    "relUrl": "/rules/core-rules/#saves--risk"
   },"17": {
     "doc": "Core Rules",
-    "title": "Combat",
-    "content": "Rounds . | A Round is roughly ten seconds of in-game time and proceeds with each side taking turns. Each round starts with any PC that is able to act, followed by their opponents. The result of each side’s actions occur simultaneously. | During the first round of combat, each PC must make a DEX save in order to act. Special circumstances, abilities, items, or skills may negate this requirement. PCs that fail their save lose their turn for this round. | Their opponents then take their turn, and the first round ends. The next round begins with the PCs taking their turn, followed by their opponents, and so on until combat has ended with one side defeated or fled. | . Actions . On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, moving for a second time, or some other reasonable action. Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs. Attacking &amp; Damage . | The attacker rolls their weapon die and subtracts the target’s armor, then deals the remaining total to their opponent’s HP. Attacks in combat automatically hit. | If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved. | If an attack would take a PC’s HP exactly to 0, refer to the Scars table to see how they are uniquely impacted. | . Attack Modifiers . | If fighting from a position of weakness (such as through cover or with bound hands), the attack is Impaired, and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage. | If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is Enhanced, allowing the attacker to roll 1d12 damage instead of their normal die. | Attacks with the Blast quality affect all targets in the noted area, rolling separately for each affected character. This can be anything from explosions to a dragon’s breath or the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result. | If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (denoted with a plus symbol, e.g. d8+d8). | . Critical Damage . | Damage that reduces a target’s HP below zero is subtracted from their STR by the amount of damage remaining. The target must then immediately make a STR save to avoid taking Critical Damage, using their new STR score. On a success, the target is still in the fight (albeit with a lower STR score) and must continue to make critical damage saves when incurring damage. | Any PC that suffers Critical Damage cannot do anything but crawl weakly, grasping for life. If given aid (such as bandages), they will stabilize. If left untreated, they die within the hour. NPCs and monsters that fail a Critical Damage save are considered dead, per the Warden’s discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save. | . Character Death . | When a character dies, the player should create a new character or take control of a hireling. They immediately join the party in order to reduce downtime. | . Detachments . | Large groups of similar combatants fighting together are treated as a single Detachment. When a detachment takes Critical Damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed. | Attacks against detachments by individuals are impaired (excluding blast damage). Attacks against individuals by detachments are enhanced and deal blast damage. | . Retreat . | Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to. | . Morale . | Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. | Some groups may use their leader’s WIL in place of their own. Lone foes must save when they’re reduced to 0 HP. | Morale does not affect PCs. | . Ranged Attacks . | Ranged weapons can target any enemy near enough to see the whites of their eyes. Attacks against especially distant targets are Impaired. | Ammunition is not tracked unless otherwise specified. | . Scars . If damage to a PC would reduce their HP to exactly 0, look up the result on the table below based on the amount of HP lost in the attack. For example, if a PC went from 3 HP to 0 HP, they would look at entry #3 (Walloped). Scars Table . |   |   | . | HP Lost | Result | . | 1 | Lasting Scar: Roll 1d6. 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result. | . | 2 | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result. | . | 3 | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP. | . | 4 | Broken Limb: Roll 1d6. 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result. | . | 5 | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result. | . | 6 | Reorienting Head Wound: Roll 1d6. 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current attribute, take the new result. | . | 7 | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result. | . | 8 | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4. | . | 9 | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result. | . | 10 | Sundered: An appendage is torn off, crippled, or useless. (The Warden will tell you which.) Then make a WIL save. If you pass, increase your max WIL by 1d6. | . | 11 | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. | . | 12 | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. | . ",
-    "url": "/chime/2-rules/3-core-rules/#combat",
+    "title": "Time, Gear, Skill",
+    "content": "When a character consciously performs an Action that is neither impossible, nor without chance of failure, use the Time, Gear &amp; Skill system: . | If a Character is not explicitly in a rush, and they have time to calmly assess a situation and pick a best course of action, then they have Time. | If a Character has gear, equipment, or environmental benefits that outweigh the hindrences from such, then they have Gear. | If a Character has explicit skills, background specialization in a task, then they have Skill. | . If a Character has Time, Gear, and Skill, then they automatically succeed in an Action, with no need to roll. If a character only has one, or none of the three, then they automatically fail, with non need to roll. If Characters have two of the three, roll 1d6: On a 1, they fail, and the situation changes. On a 2-3, they Succeed at a Severe Cost (an item breaks, they gain Fatigue and take damage, etc), on a 4-6 they Succeed. Consider the following examples: . When Lockpicking, a character has Time if they have ten minutes to inspect the lock and fiddle with it, Gear if they have lockpicks, and Skill if they are a thief, or if they have 15+ DEX. When Sneaking, a character has Time if they’re not being actively chased, Gear if they’re wearing soft-soled boots (and no heavy armor, or are carrying less than 5 items), and Skill if they’re trained to be stealthy, or have 15+ DEX. When Smashing a Door Open, a character has Time if they’re not actively under attack, Gear if they have an axe, or a crowbar, and Skill if they were once a firefighter. When Climbing a Wall, a character has Time if they’re not being chased, Gear if they’ve got a rope and pitons (and no heavy armor), and Skill if they were once an Acrobat. When Plotting an escape route through the city, a party have Time if they’re planning it well in advance, Gear if they have pencil and paper to note down guard routes, and good connection with the locals, and Skill if they’re a thief, or they have good familiarity with the city. ",
+    "url": "/chime/rules/core-rules/#time-gear-skill",
     
-    "relUrl": "/2-rules/3-core-rules/#combat"
+    "relUrl": "/rules/core-rules/#time-gear-skill"
   },"18": {
-    "doc": "Resources",
-    "title": "Resources",
-    "content": " ",
-    "url": "/chime/3-resources/",
+    "doc": "Core Rules",
+    "title": "Magic",
+    "content": "Spellbooks . | Spellbooks contain a single spell and take up one Inventory Slot. They cannot be easily transcribed or created; instead they are recovered from places like tombs, dungeons, and manors. | Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight. | Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly. | . Casting Spells . | Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then take a Fatigue. | Given time and safety, PCs can enhance a spell’s impact (affecting multiple targets, increasing its power, etc.) without additional cost. | If the PC is Deprived or in danger (such as during combat), the Steward may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect and may result in additional Fatigue, the destruction of the Spellbook, injury, and even death. | . Scrolls . Scrolls are similar to Spellbooks, however: . | They are Petty. | They do not cause Fatigue. | They disappear after one use. | . Relics . Relics are items imbued with magical power. They do not cause Fatigue. Relics usually have limited use, as well as a Recharge condition. ",
+    "url": "/chime/rules/core-rules/#magic",
     
-    "relUrl": "/3-resources/"
+    "relUrl": "/rules/core-rules/#magic"
   },"19": {
-    "doc": "Failed Careers",
-    "title": "Failed Careers",
-    "content": " ",
-    "url": "/chime/3-resources/4-failed-careers/",
+    "doc": "Core Rules",
+    "title": "Non-Player Characters",
+    "content": "Hirelings . | Adventuring parties can recruit Hirelings, in places depending on the fiction, relying on their unique skills, knowledge, and training to aid in expeditions. | To create a Hireling, choose an appropriate role from the Hirelings table. Roll 3d6 for each attribute and 1d6 for their HP. Give them equipment appropriate to their station, then roll on the Character Traits tables to further flesh them out. | . ",
+    "url": "/chime/rules/core-rules/#non-player-characters",
     
-    "relUrl": "/3-resources/4-failed-careers/"
+    "relUrl": "/rules/core-rules/#non-player-characters"
   },"20": {
+    "doc": "Core Rules",
+    "title": "Combat",
+    "content": "Rounds . | A Round is roughly ten seconds of in-game time and proceeds with each side taking Turns. Each Round starts with any PC that is able to act, followed by their opponents. Each player declares the actions of their characters, before simultaneously resolving their actions. | During the first Round of combat, each PC must make a DEX Save in order to act. Special circumstances, abilities, items, or skills may negate this requirement. PCs that fail their save lose their Turn for this round. | After the PC’s first round, their opponents then take their turn, and the first round ends. The next round begins with the PCs taking their turn, followed by their opponents, and so on until combat has ended with one side defeated or fled. | . Actions . On their Turn, a Character may move up to 40ft and take up to one Action. This can be anything reasonably done in 10 seconds, such as casting a spell, attacking, or moving for a second time. Each round, all PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Steward calls for an appropriate save. Attacking &amp; Damage . | Attacks in combat automatically hit. The attacker rolls their damage die and subtracts the target’s armor, then deals the remaining total to their opponent’s HP. | If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved. | If an attack would take a PC’s HP exactly to 0, refer to the Scars table to see how they are uniquely impacted. | . Attack Modifiers . | If fighting from a position of weakness (such as through cover or with bound hands), the attack is Impaired, and the attacker must roll d4 damage regardless of their damage die. Unarmed attacks always do d4 damage. | If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is Enhanced, allowing the attacker to roll d12 damage instead of their normal die. | Attacks with the Blast quality damage all targets in the noted area, rolling separately for each affected character. This can be anything from explosions to a dragon’s breath or the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result. | If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (denoted with a plus symbol, e.g. d8+d8). | . Critical Damage . | Damage that reduces a target’s HP below zero is subtracted from their STR by the amount of damage remaining. The target must then immediately make a STR save to avoid taking Critical Damage, using their new STR score. On a success, the target is still in the fight (albeit with a lower STR score) and must continue to make critical damage saves when incurring damage. | Any PC that suffers Critical Damage cannot do anything but crawl weakly, grasping for life. If given aid (such as bandages), they will stabilize, typically bearing Wounds from their Critical Damage. If left untreated, they die within the hour. NPCs and monsters that fail a Critical Damage Save are considered dead, per the Steward’s discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save. | . Character Death . | When a character dies, the player should create a new Character or take control of a Hireling. They immediately join the party in order to reduce time sat out of the game. | . Detachments . | Large groups of similar combatants fighting together are treated as a single Detachment. When a Detachment takes Critical Damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed. | Attacks against Detachments by individuals are Impaired (excluding Blast damage). Attacks against individuals by detachments are Enhanced and deal Blast damage. | . Retreat . | Running away from a dire situation always requires a successful DEX Save, as well as a safe destination to run to. | . Morale . | Enemies must pass a WIL Save to avoid fleeing when they take their first casualty and again when they lose half their number. Lone foes must save when they’re reduced to 0 HP. | Some groups may use their leader’s WIL in place of their own. | Morale does not affect PCs. | . Ranged Attacks . | Ranged weapons can target any enemy near enough to see the whites of their eyes. Attacks against especially distant targets are Impaired. | Ammunition is not tracked unless otherwise specified. | . Scars . If damage to a PC would reduce their HP to exactly 0, look up the result on the table below based on the amount of HP lost in the attack. For example, if a PC went from 3 HP to 0 HP, they would look at entry #3 (Walloped). |   |   | . | HP Lost | Result | . | 1 | Lasting Scar: Roll 1d6. 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result. | . | 2 | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result. | . | 3 | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP. | . | 4 | Broken Limb: Roll 1d6. 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result. | . | 5 | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result. | . | 6 | Reorienting Head Wound: Roll 1d6. 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current attribute, take the new result. | . | 7 | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result. | . | 8 | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4. | . | 9 | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result. | . | 10 | Sundered: An appendage is torn off, crippled, or useless. (The Steward will tell you which.) Then make a WIL save. If you pass, increase your max WIL by 1d6. | . | 11 | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. | . | 12 | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. | . ",
+    "url": "/chime/rules/core-rules/#combat",
+    
+    "relUrl": "/rules/core-rules/#combat"
+  },"21": {
+    "doc": "Criminal Bureaucrat",
+    "title": "Criminal Bureaucrat",
+    "content": "The law of The City are written so every crime has a loophole. People paid you to perform crimes, legally. ",
+    "url": "/chime/resources/failed-careers/criminal-bureaucrat/",
+    
+    "relUrl": "/resources/failed-careers/criminal-bureaucrat/"
+  },"22": {
+    "doc": "Criminal Bureaucrat",
+    "title": "Sample Names",
+    "content": ". | Ranulph | Morrison | Carrock | Nika | . ",
+    "url": "/chime/resources/failed-careers/criminal-bureaucrat/#sample-names",
+    
+    "relUrl": "/resources/failed-careers/criminal-bureaucrat/#sample-names"
+  },"23": {
+    "doc": "Criminal Bureaucrat",
+    "title": "You Start With:",
+    "content": ". | Crowbar (d6) | Book of Law. | . ",
+    "url": "/chime/resources/failed-careers/criminal-bureaucrat/#you-start-with",
+    
+    "relUrl": "/resources/failed-careers/criminal-bureaucrat/#you-start-with"
+  },"24": {
+    "doc": "Criminal Bureaucrat",
+    "title": "What Was Your Speciality?",
+    "content": "|   |   | . | £1-2 | Burglary. Take 3 Smokebombs. | . | £3-4 | Extortion. 50% chance to know a secret about any figure of authority you encounter. | . | £5-6 | Libel. You have contacts in a printing press that will print any lie you want. | . | £7-8 | Intimidation. Take a pocket pistol (d6, concealable) | . | £9-10 | Arson. Take 3 Firebombs (d6 Damage each round until extinguished) | . | £11-12 | Murder. Take Poison and a Rifle (d8, Bulky) | . ",
+    "url": "/chime/resources/failed-careers/criminal-bureaucrat/#what-was-your-speciality",
+    
+    "relUrl": "/resources/failed-careers/criminal-bureaucrat/#what-was-your-speciality"
+  },"25": {
+    "doc": "Criminal Bureaucrat",
+    "title": "What Did Your Last Client Pay You In Place Of Money?",
+    "content": "|   |   | . | 1HP | Blank Contract. A contract with blank parts. Can be modified into any sort of deal you wish. The first party to break the contract is struck by a bolt from above (d12, ignore Armor) and the contract explodes into confetti. | . | 2HP | Truth Leaf. Smoking this hallucinogenic herb reveals a ridiculous truth and a ridiculous lie. One dose. | . | 3HP | Helpful Bug A metal replica of a beetle that can perfrom simple tasks. | . | 4HP | Trick Coin. Looks like a penny, but has secret functions that you know how to use. First it is a weak light. Second it is a powerful magnet. Third is a bomb (d10, Blast, destroys the coin). | . | 5HP | Echojector. Hears up to ten seconds of sound and repeats it at a vastly increased volume on command. | . | 6HP | Homunculus Gum. Whoever chews this gum bonds with the substance, which begins to shape into a small gummy version of the chewer. It follows orders but has a bad attitude. Adding further gum increases its size but decreases its loyalty. If somebody new chews up the homunculus, the bond transfers to them. | . ",
+    "url": "/chime/resources/failed-careers/criminal-bureaucrat/#what-did-your-last-client-pay-you-in-place-of-money",
+    
+    "relUrl": "/resources/failed-careers/criminal-bureaucrat/#what-did-your-last-client-pay-you-in-place-of-money"
+  },"26": {
     "doc": "Curiosity Compiler",
     "title": "Curiosity Compiler",
     "content": "An entire life spent looking at dusty things and squinting at books. It’s time to get out there yourself. ",
-    "url": "/chime/3-resources/4-failed-careers/Curiosity%20Compiler/",
+    "url": "/chime/resources/failed-careers/curiosity-compiler/",
     
-    "relUrl": "/3-resources/4-failed-careers/Curiosity%20Compiler/"
-  },"21": {
+    "relUrl": "/resources/failed-careers/curiosity-compiler/"
+  },"27": {
     "doc": "Curiosity Compiler",
     "title": "Sample Names",
     "content": ". | Coop | Hawk | Trebic | Salvation | . ",
-    "url": "/chime/3-resources/4-failed-careers/Curiosity%20Compiler/#sample-names",
+    "url": "/chime/resources/failed-careers/curiosity-compiler/#sample-names",
     
-    "relUrl": "/3-resources/4-failed-careers/Curiosity%20Compiler/#sample-names"
-  },"22": {
+    "relUrl": "/resources/failed-careers/curiosity-compiler/#sample-names"
+  },"28": {
     "doc": "Curiosity Compiler",
     "title": "You Start With:",
     "content": ". | An Antique Pistol (d6, Permanently breaks on a roll of a 6). | A Magnifying Glass. | A Tweed Jacket. | . ",
-    "url": "/chime/3-resources/4-failed-careers/Curiosity%20Compiler/#you-start-with",
+    "url": "/chime/resources/failed-careers/curiosity-compiler/#you-start-with",
     
-    "relUrl": "/3-resources/4-failed-careers/Curiosity%20Compiler/#you-start-with"
-  },"23": {
+    "relUrl": "/resources/failed-careers/curiosity-compiler/#you-start-with"
+  },"29": {
     "doc": "Curiosity Compiler",
     "title": "What Do You Know Everything About",
     "content": "|   |   | . | £1-2 | Weapons. Take a Price Guide. | . | £3-4 | Jewelry. Take a Monocle. | . | £5-6 | Artwork Take a Dusting Brush. | . | £7-8 | Desserts. Take a missing tooth. | . | £9-10 | Tabletop Games. Take some obscure dice. | . | £11-12 | Flowers. Take a ball of ribbon. | . ",
-    "url": "/chime/3-resources/4-failed-careers/Curiosity%20Compiler/#what-do-you-know-everything-about",
+    "url": "/chime/resources/failed-careers/curiosity-compiler/#what-do-you-know-everything-about",
     
-    "relUrl": "/3-resources/4-failed-careers/Curiosity%20Compiler/#what-do-you-know-everything-about"
-  },"24": {
+    "relUrl": "/resources/failed-careers/curiosity-compiler/#what-do-you-know-everything-about"
+  },"30": {
     "doc": "Curiosity Compiler",
     "title": "What’s Your Prized Oddity",
     "content": "|   |   | . | 1HP | Mechanobirther. Heavy shoebox-sized machine. Has a slot where paper instructions can be inserted, with a coin slot for a £10 Payment. After an hour of clinking it produces a ppoly made, rough approximation of the requested item. | . | 2HP | Maiming Claw. A grappling hook that latches onto living tissue with an unbreakable grip. You know the trick for getting it to release. | . | 3HP | Fiend Collar. Anyone waring this collar begins to take on a monstrous appearance and loses d6 WILL each day. At 0 WILL they lose their identity, claim a new identity in youe service, but only follow instructions that cause harm to others. | . | 4HP | Powder Sack. Any powder stored in this small pouch becomes essentially unlimited. Turning the pouch inside out empties the current contents, with no unusual effect. Currently contains salt. | . | 5HP | Sanctuary Idol. Burning a candle in front of the idol causes it to melt into smoke, billowing out and reinforcing all doors, open passageways, and windows into the room. Nothing can enter through these if the candle lasts. Has no effect outdoors. | . | 6HP | Mammoth Mask. Highly ornate, with a prehensile trunk and tusks that can be used as a weaopn (d6) at a push. | . ",
-    "url": "/chime/3-resources/4-failed-careers/Curiosity%20Compiler/#whats-your-prized-oddity",
+    "url": "/chime/resources/failed-careers/curiosity-compiler/#whats-your-prized-oddity",
     
-    "relUrl": "/3-resources/4-failed-careers/Curiosity%20Compiler/#whats-your-prized-oddity"
-  },"25": {
+    "relUrl": "/resources/failed-careers/curiosity-compiler/#whats-your-prized-oddity"
+  },"31": {
+    "doc": "Dead Shoresman",
+    "title": "Dead-Shoresman",
+    "content": "You died, but found a way back from where you want. Nobody believes you, and everyone you once knew is long gone. ",
+    "url": "/chime/resources/failed-careers/dead-shoresman/#dead-shoresman",
+    
+    "relUrl": "/resources/failed-careers/dead-shoresman/#dead-shoresman"
+  },"32": {
+    "doc": "Dead Shoresman",
+    "title": "Sample Names",
+    "content": ". | Peker | Abbie | Serpina | Lars | . ",
+    "url": "/chime/resources/failed-careers/dead-shoresman/#sample-names",
+    
+    "relUrl": "/resources/failed-careers/dead-shoresman/#sample-names"
+  },"33": {
+    "doc": "Dead Shoresman",
+    "title": "You Start With:",
+    "content": ". | Flintpistol (d8, outdated and hard to repair). | Broken Oar (d6). | Cold Blood. | . ",
+    "url": "/chime/resources/failed-careers/dead-shoresman/#you-start-with",
+    
+    "relUrl": "/resources/failed-careers/dead-shoresman/#you-start-with"
+  },"34": {
+    "doc": "Dead Shoresman",
+    "title": "What Do You Barely Remember About Your Background?",
+    "content": "|   |   | . | £1-2 | Family Name. A Powerful Name in the City. | . | £3-4 | Streets of the City. You know your way around the entire city perfectly. | . | £5-6 | The Living Stars. 50% chance you know every language you encounter. | . | £7-8 | High Society. You were wealthy and schooled in etiquette. | . | £9-10 | Formerly Blind. You can echo-locate perfectly. | . | £11-12 | Only Nightmares. You have no need for sleep, and cannot even if you try. | . ",
+    "url": "/chime/resources/failed-careers/dead-shoresman/#what-do-you-barely-remember-about-your-background",
+    
+    "relUrl": "/resources/failed-careers/dead-shoresman/#what-do-you-barely-remember-about-your-background"
+  },"35": {
+    "doc": "Dead Shoresman",
+    "title": "What Did You Bring Back From The Dead Place?",
+    "content": "|   |   | . | 1HP | Amnesia Flask. Anybody doused in the water loses a specific memory as defined by the douser. Anybody drinking the water as it falls absorbs the memories. Refills require a Specialist source. | . | 2HP | Second-Chance Skull. If you die, your body disintegrates to ash and immediately regenerates from this skull in perfect health. | . | 3HP | Spare Head A completely different head that you can switch with your own. Both heads can survive just fine off your body, and generally dislike not being the main head. Roll a new CHA score for this head. | . | 4HP | Hell Spice. Extremely concentrated powdered hot spice. Even a small dose causes stomach upset and mild hallucination. The whole pouch causes a day-lon delirious trip. | . | 5HP | Ghost Story. If you tell this story to somebody as they fall asleep, their ghostly skeleton leaves their body for the night, and may act as they wish in immaterial form. The story only works on a person the first time they hear it. | . | 6HP | Tiny Phatasm. A floating mass of swirling colours the size of a penny. It follows your every command andleaves a multicolour trail across any surface it touches. Cannoot physically interact in any other way. | . ",
+    "url": "/chime/resources/failed-careers/dead-shoresman/#what-did-you-bring-back-from-the-dead-place",
+    
+    "relUrl": "/resources/failed-careers/dead-shoresman/#what-did-you-bring-back-from-the-dead-place"
+  },"36": {
+    "doc": "Dead Shoresman",
+    "title": "Dead Shoresman",
+    "content": " ",
+    "url": "/chime/resources/failed-careers/dead-shoresman/",
+    
+    "relUrl": "/resources/failed-careers/dead-shoresman/"
+  },"37": {
     "doc": "Debt Squeezer",
     "title": "Debt Squeezer",
     "content": "Someone paid you a pittance to look intimidating in dark alleyways. If needed, you shed some blood, but there was no extra pay. ",
-    "url": "/chime/3-resources/4-failed-careers/Debt%20Squeezer/",
+    "url": "/chime/resources/failed-careers/debt-squeezer/",
     
-    "relUrl": "/3-resources/4-failed-careers/Debt%20Squeezer/"
-  },"26": {
+    "relUrl": "/resources/failed-careers/debt-squeezer/"
+  },"38": {
     "doc": "Debt Squeezer",
     "title": "Sample Names",
     "content": ". | Hooper | Keyes | Doric | Pontiac | . ",
-    "url": "/chime/3-resources/4-failed-careers/Debt%20Squeezer/#sample-names",
+    "url": "/chime/resources/failed-careers/debt-squeezer/#sample-names",
     
-    "relUrl": "/3-resources/4-failed-careers/Debt%20Squeezer/#sample-names"
-  },"27": {
+    "relUrl": "/resources/failed-careers/debt-squeezer/#sample-names"
+  },"39": {
     "doc": "Debt Squeezer",
     "title": "You Start With:",
     "content": ". | A Hammer (d6). | A Scattergun (d6, Blast, Concealable). | . ",
-    "url": "/chime/3-resources/4-failed-careers/Debt%20Squeezer/#you-start-with",
+    "url": "/chime/resources/failed-careers/debt-squeezer/#you-start-with",
     
-    "relUrl": "/3-resources/4-failed-careers/Debt%20Squeezer/#you-start-with"
-  },"28": {
+    "relUrl": "/resources/failed-careers/debt-squeezer/#you-start-with"
+  },"40": {
     "doc": "Debt Squeezer",
     "title": "What Do You Do To Unwind After a Horrible Task",
     "content": "|   |   | . | £1-2 | Chew. Take a pack of gum (sage flavored). | . | £3-4 | Play Marbles. Take a bag of competition marbles. | . | £5-6 | Sing. You have a decent voice. | . | £7-8 | Do Impressions. You can make a good impersonation of someone after a long conversation with them. | . | £9-10 | Write Your Memoirs. You have a pen-name, and some connections in the printing industry. | . | £11-12 | Stave off Nightmares. You cannot sleep without a nightlight. | . ",
-    "url": "/chime/3-resources/4-failed-careers/Debt%20Squeezer/#what-do-you-do-to-unwind-after-a-horrible-task",
+    "url": "/chime/resources/failed-careers/debt-squeezer/#what-do-you-do-to-unwind-after-a-horrible-task",
     
-    "relUrl": "/3-resources/4-failed-careers/Debt%20Squeezer/#what-do-you-do-to-unwind-after-a-horrible-task"
-  },"29": {
+    "relUrl": "/resources/failed-careers/debt-squeezer/#what-do-you-do-to-unwind-after-a-horrible-task"
+  },"41": {
     "doc": "Debt Squeezer",
     "title": "What’s The Best Thing You’ve Stolen From a Debtor.",
     "content": "|   |   | . | 1HP | Soul Siren. A tiny-clockwork box lets out a booming drone when a being dies within 10ft. | . | 2HP | Bear Jelly. A pot of jelly that reeks of animal musk. Scares off small creatures, but attracts large mammals. | . | 3HP | Green Soil. Small pot of soil. Any plant that is planted into it grows a whole season’s worth in one hour, but otherwise grows normally. | . | 4HP | Gore Candle. Any injuries that happen in the presence of this candle’s light are extra painful, messy, and harmful, doubling any STR loss caused. | . | 5HP | Hot Goggles. When switched on, stolen objects that the rightful owner is looking for glow. | . | 6HP | Bank Pig. A clay pig with a coins lot. A penny causes an oinking sound. A £1 coin causes it to transform into a normal pig for an hour. A £100 note causes it to transform into a vicious boar (7HP, d6 Gore) for an hour. If it dies in pig form, it never transforms back. Coins deposited are lost forever. | . ",
-    "url": "/chime/3-resources/4-failed-careers/Debt%20Squeezer/#whats-the-best-thing-youve-stolen-from-a-debtor",
+    "url": "/chime/resources/failed-careers/debt-squeezer/#whats-the-best-thing-youve-stolen-from-a-debtor",
     
-    "relUrl": "/3-resources/4-failed-careers/Debt%20Squeezer/#whats-the-best-thing-youve-stolen-from-a-debtor"
-  },"30": {
+    "relUrl": "/resources/failed-careers/debt-squeezer/#whats-the-best-thing-youve-stolen-from-a-debtor"
+  },"42": {
+    "doc": "Disinherited Socialite",
+    "title": "Disinherited Socialite",
+    "content": "Whatever happened between you and your family, you’re off the will. You took what you could. ",
+    "url": "/chime/resources/failed-careers/disinherited-socialite/",
+    
+    "relUrl": "/resources/failed-careers/disinherited-socialite/"
+  },"43": {
+    "doc": "Disinherited Socialite",
+    "title": "Sample Names",
+    "content": ". | Churl. | Emile. | Anno. | Bronwill. | . ",
+    "url": "/chime/resources/failed-careers/disinherited-socialite/#sample-names",
+    
+    "relUrl": "/resources/failed-careers/disinherited-socialite/#sample-names"
+  },"44": {
+    "doc": "Disinherited Socialite",
+    "title": "You Start With:",
+    "content": ". | Claymore (d8, Bulky). | 3 Bottles of Fancy Wine. | Frilly Shirt. | . ",
+    "url": "/chime/resources/failed-careers/disinherited-socialite/#you-start-with",
+    
+    "relUrl": "/resources/failed-careers/disinherited-socialite/#you-start-with"
+  },"45": {
+    "doc": "Disinherited Socialite",
+    "title": "What Do You Legally Still Have From The Estate?",
+    "content": "|   |   | . | £1-2 | Loyal Butler. Has nowhere else to go (3HP) | . | £3-4 | Hunting Hounds. Past their prime (4HP, d6 Bite) | . | £5-6 | Falcon. Your mother’s favourite (2HP, d6 Claws) | . | £7-8 | Luxurious Clothes. A trunk-full. | . | £9-10 | Dueling Pistol. A sibling has the matching counterpart (d8). | . | £11-12 | Crude Armor. Ancestral plate suit (armor 1, Bulky) | . ",
+    "url": "/chime/resources/failed-careers/disinherited-socialite/#what-do-you-legally-still-have-from-the-estate",
+    
+    "relUrl": "/resources/failed-careers/disinherited-socialite/#what-do-you-legally-still-have-from-the-estate"
+  },"46": {
+    "doc": "Disinherited Socialite",
+    "title": "What Did You Sneak Out Of The Vault? (The Family Want It Back)",
+    "content": "|   |   | . | 1HP | Unstoppable Rod. When thrown, nothing stops the movement of this rod, including gravity. Eventually flies off into space regardless of its trajectory. | . | 2HP | Curse Doll. Anything that affects the doll also affects you, beneficial or harmful. | . | 3HP | Plasmic Converter Dranis a corpse of blood, creating a pill that grants single use of one special property the being had in life. | . | 4HP | Companion Ball. A hollow ball that rolls behind you and never stops trying to follow you. Can pop open to store a head-sized object or smaller, protecting it perfectly. | . | 5HP | Earth Angel. A tiny clay figuring that can be smashed to cause an earthquake. Those narrby are thrown to the ground and all structures take d12 Damage. One use. | . | 6HP | Cosmic Ranker. A grey wand that can be asked to judge between two objects. Criteria must be spoken aloud, then the wand pulls toward the preferred object. | . ",
+    "url": "/chime/resources/failed-careers/disinherited-socialite/#what-did-you-sneak-out-of-the-vault-the-family-want-it-back",
+    
+    "relUrl": "/resources/failed-careers/disinherited-socialite/#what-did-you-sneak-out-of-the-vault-the-family-want-it-back"
+  },"47": {
+    "doc": "Failed Careers",
+    "title": "Failed Careers",
+    "content": "The Lowest and Highest Attributes of your character determine their Failed Career. |   |   |   | . | Lowest Attribute | Highest Attribute | Failed Career | . | 3 | 9- | Gutter Minder | . | 4 | 9- | Curiosity Compiler | . | 5 | 9- | Trench Conscript | . | 6 | 9- | Debt Squeezer | . | 7 | 9- | Dead-Shoresman | . | 8 | 9- | Criminal Bureaucrat | . | 9 | 9 | Sanctioned Executioner | . | 3 | 10 | Fringe Investigator | . | 4 | 10 | Disinherited Socialite | . | 5 | 10 | Verminator | . | 6 | 10 | Lost Expeditioneer | . | 7 | 10 | Wall-Born | . | 8 | 10 | Professional Gambler | . | 9 | 10 | Integrated Alien | . | 10 | 10 | Underwhaler | . | 3 | 11 | Travelling Show-Person | . | 4 | 11 | Gang Enforcer | . | 5 | 11 | Deconstructor | . | 6 | 11 | Street Judge or Rook Tamer | . | 7 | 11 | Urchin Pack or Muddled Mixologist | . | 8 | 11 | Star Blessed or Tactiliator / Tactiliatrix | . | 9 | 11 | Un-Revolutionary | . | 10 | 11 | Human Unionist | . | 11 | 11 | Liberal Engineer | . | 3 | 12 | Masked Horrorist | . | 4 | 12 | Rollocker Club Alumni | . | 5 | 12 | Backward Legionnaire | . | 6 | 12 | Contract Castaway | . | 7 | 12 | Repressed Psychic or Mendicant Mycologist | . | 8 | 12 | Amateur Amputator or Investment Centurion | . | 9 | 12 | Polar Bounty Hunter or Necro-Engineer | . | 10 | 12 | Mockery or Alpha Tester | . | 11 | 12 | Prize Breeder | . | 12 | 12 | Failed Citizen | . | 3 | 13 | Urban Safarist | . | 4 | 13 | Lockholder | . | 5 | 13 | Repurposed Augmental | . | 6 | 13 | Noble-In-Waiting | . | 7 | 13 | Vault Cracker or Acupressurist of Inanimate Objects | . | 8 | 13 | Revolutionary Duelist or Expelled Lamplighter | . | 9 | 13 | Newspaper Intern or Ex-Censor | . | 10 | 13 | Rural Tax Collector or Map Thief | . | 11 | 13 | Academic Debator | . | 12+ | 13 | Associated Burglar | . | 3 | 14 | Retail Therapist | . | 4 | 14 | Apprentice Sweep | . | 5 | 14 | Sky Trooper or Tuk-Tukker | . | 6 | 14 | Urbalist | . | 7 | 14 | Under-Laborer | . | 8 | 14 | Science Mystic or Exotic Food Supplier | . | 9 | 14 | Front of House Host or Constable of Birds and Creeping Things | . | 10 | 14 | Critter Catcher or Ex-Censor | . | 11 | 14 | Practicing Chemist | . | 12+ | 14 | Roof Crawler | . | 3 | 15 | Petty Officer | . | 4 | 15 | Bailed Prisoner | . | 5 | 15 | Street Performer | . | 6 | 15 | Corpse Collector or Cryptohistorian | . | 7 | 15 | Counterfeit Taxidermist | . | 8 | 15 | Pie-Smuggler | . | 9 | 15 | Council Runner | . | 10 | 15 | Life Servant | . | 11 | 15 | Amateur Dramatist | . | 12+ | 15 | Wilderness Recluse | . | 3 | 16 | Squidbagger | . | 4 | 16 | Exposed Imposter | . | 5 | 16 | Critic-in-Hiding | . | 6 | 16 | Small Town Refugee | . | 7 | 16 | Paid Fighter | . | 8 | 16 | Canal Nomad | . | 9 | 16 | Living Experiment | . | 10 | 16 | Fashionista | . | 11 | 16 | Human Flotsam | . | 12+ | 16 | Master Blender | . | 3 | 17 | Public Nuisance | . | 4 | 17 | Park Steward | . | 5 | 17 | Civic Butler | . | 6 | 17 | Estate Squire | . | 7 | 17 | Machine Whisperer | . | 8 | 17 | Agricultural Saboteur | . | 9 | 17 | Animal Vassal | . | 10 | 17 | Massifist of Massif-Country | . | 11+ | 17 | Divine Prodigy | . | 12+ | 17 | Good Dog or Tuk-Tukker | . | 3 | 18 | Worthless Graduate | . | 4 | 18 | Alternative Groomer | . | 5 | 18 | Avant Guardsman | . | 6 | 18 | Factory Retainer | . | 7 | 18 | Grief Diplomat | . | 8 | 18 | Lone Stargazer | . | 9 | 18 | Tunnel Stray | . | 10 | 18 | Body Jockey | . | 11 | 18 | Underground Weirdo | . | 12+ | 18 | Inseparable Twins | . ",
+    "url": "/chime/resources/failed-careers/",
+    
+    "relUrl": "/resources/failed-careers/"
+  },"48": {
+    "doc": "Fringe Investigator",
+    "title": "Fringe Investigator",
+    "content": "Everything must be revealed. From petty crime to the secrets of the cosmos. ",
+    "url": "/chime/resources/failed-careers/fringe-investigator/",
+    
+    "relUrl": "/resources/failed-careers/fringe-investigator/"
+  },"49": {
+    "doc": "Fringe Investigator",
+    "title": "Sample Names",
+    "content": ". | Blanche. | Leo. | Mazarin. | Bo. | . ",
+    "url": "/chime/resources/failed-careers/fringe-investigator/#sample-names",
+    
+    "relUrl": "/resources/failed-careers/fringe-investigator/#sample-names"
+  },"50": {
+    "doc": "Fringe Investigator",
+    "title": "You Start With:",
+    "content": ". | Collapsible Gun (d6, concealable, requires a DEX Save to unfold under pressure) | Pack of Gum (Snail Flavored). | . ",
+    "url": "/chime/resources/failed-careers/fringe-investigator/#you-start-with",
+    
+    "relUrl": "/resources/failed-careers/fringe-investigator/#you-start-with"
+  },"51": {
+    "doc": "Fringe Investigator",
+    "title": "What’s Your Obsesssion? (Indulging In It Restores Your CHA)",
+    "content": "|   |   | . | £1-2 | Fruit Pie. Choose a Favorite. | . | £3-4 | Busting Someone. Especially for Petty Crime. | . | £5-6 | Good Deeds. Helping the elderly with their shopping, etc. | . | £7-8 | Interrogation. Irrespective of the suspect’s guilt. | . | £9-10 | Brooding. Ideally on rooftops at night (requires an hour of brooding). | . | £11-12 | Journaling. Writing all your secret thoughts in a diary. | . ",
+    "url": "/chime/resources/failed-careers/fringe-investigator/#whats-your-obsesssion-indulging-in-it-restores-your-cha",
+    
+    "relUrl": "/resources/failed-careers/fringe-investigator/#whats-your-obsesssion-indulging-in-it-restores-your-cha"
+  },"52": {
+    "doc": "Fringe Investigator",
+    "title": "What’s Under Your Coat?",
+    "content": "|   |   | . | 1HP | Brain Jar. A jar of brine and wires that can sustain the brain of a freshly dead creature, allowing it to psychically project is thoughts. The brain must be fed blood or else it dies. | . | 2HP | Reconstruction Silk. A handkerchief that repairs any object it is draped over for an hour. The object must be small enough to be covered. | . | 3HP | Utility Orb Any tool that could plausibly exist in a mundane pocket-knife has a 50% chance of existing in this orb. Keep a track of what tools it does and doesn’t have. | . | 4HP | Hunger Clamp. A small clamp that can be clipped onto loose skin, causing the victim to have a ceaseless hunger, which they’ll do anything to sate. They sufffer no ill effect from over-eating, but do not starve any faster than normal. | . | 5HP | Pheromone Pack. One dose each of attraction, rage, and fear pheromones that work on any creature of animal intelligence. | . | 6HP | Tin Buddy. A can that springs out to a 2ft tall automaton (2HP, Armor 2). It is loud, annoying and doesn’t do a good job of whatever you request. Has no real means of fighting. Lasts about an hour before needing new proprietary batteries.. | . ",
+    "url": "/chime/resources/failed-careers/fringe-investigator/#whats-under-your-coat",
+    
+    "relUrl": "/resources/failed-careers/fringe-investigator/#whats-under-your-coat"
+  },"53": {
+    "doc": "Glossary",
+    "title": "Glossary",
+    "content": "If you know what all these terms mean in the context of Chime, you should be more than comfortable playing this game! . | Armor Protection (AP) | Attributes | Blast | Bond | Bulky | Critical Damage | Deprived | Detachment | Dexterity (DEX) | Enhanced | Fatigue | Hirelings | Hit Protection | Impaired | Light Load | Petty | Recharge | Relics | Round | Save | Scrolls | Spellbook | Strength (STR) | Willpower (WIL) | . ",
+    "url": "/chime/glossary/",
+    
+    "relUrl": "/glossary/"
+  },"54": {
     "doc": "Gutter Minder",
     "title": "Gutter Minder",
-    "content": "You were the bottom of the barrel. Bastion’s Crust. ",
-    "url": "/chime/3-resources/4-failed-careers/Gutter%20Minder/",
+    "content": "You were the bottom of the barrel. The City’s Crust. ",
+    "url": "/chime/resources/failed-careers/gutter-minder/",
     
-    "relUrl": "/3-resources/4-failed-careers/Gutter%20Minder/"
-  },"31": {
+    "relUrl": "/resources/failed-careers/gutter-minder/"
+  },"55": {
     "doc": "Gutter Minder",
     "title": "Sample Names",
     "content": ". | Hopkin | Cork | Derrow | Jorgun | . ",
-    "url": "/chime/3-resources/4-failed-careers/Gutter%20Minder/#sample-names",
+    "url": "/chime/resources/failed-careers/gutter-minder/#sample-names",
     
-    "relUrl": "/3-resources/4-failed-careers/Gutter%20Minder/#sample-names"
-  },"32": {
+    "relUrl": "/resources/failed-careers/gutter-minder/#sample-names"
+  },"56": {
     "doc": "Gutter Minder",
     "title": "You Start With:",
     "content": ". | A Stick-hook (d6, Bulky). | Rags. | . ",
-    "url": "/chime/3-resources/4-failed-careers/Gutter%20Minder/#you-start-with",
+    "url": "/chime/resources/failed-careers/gutter-minder/#you-start-with",
     
-    "relUrl": "/3-resources/4-failed-careers/Gutter%20Minder/#you-start-with"
-  },"33": {
+    "relUrl": "/resources/failed-careers/gutter-minder/#you-start-with"
+  },"57": {
     "doc": "Gutter Minder",
     "title": "What Happened to You",
     "content": "|   |   | . | £1-2 | You believed yourself to be some sort of Messiah. You are not. | . | £3-4 | Rat given human form in a Master Mathematician’s Arcane Experiment. You can still speak with rats and loosely understand other rodents. | . | £5-6 | You secretly have a wealth family. Your lifestyle has a way of getting their attention. | . | £7-8 | You survived a street urchin upbringing. so you know everyone else in the gutter. | . | £9-10 | Former High Society Member. Only surviver after a mob uprising. | . | £11-12 | Disgraced Professor of Oddity. Expelled for controversial theories. | . ",
-    "url": "/chime/3-resources/4-failed-careers/Gutter%20Minder/#what-happened-to-you",
+    "url": "/chime/resources/failed-careers/gutter-minder/#what-happened-to-you",
     
-    "relUrl": "/3-resources/4-failed-careers/Gutter%20Minder/#what-happened-to-you"
-  },"34": {
+    "relUrl": "/resources/failed-careers/gutter-minder/#what-happened-to-you"
+  },"58": {
     "doc": "Gutter Minder",
     "title": "What Are You Hiding Under Your Rags",
-    "content": "|   |   | . | 1HP | Wish Tonic. Three measures of liquor that each grant a wish. The wish only lasts as long as the bracing kick of the liquor (d6 Turns). | . | 2HP | Dehydrated Beasts. Three rubbery things resembling toy animals. If thrown into water, it expands to a Soggy Monstrosity (15HP, d10 Trample). When killed or there’s nothing left ot kill, the creature collapses into inert powder. | . | 3HP | Berserker Gland. When you take Ability Loss or suffer serious pain you fly into a rage. Your next melee attack is +d10 but you cannot make ranged attacks. Once the attack is out of your system you return to normal. | . | 4HP | Parallel Shifter. A metal tin big enough to fit a pistol inside. If an object is placed inside and shaken, the object is replaced with a parallel version of itself from another reality. | . | 5HP | Slaughter Brand. A three pointed mark on your hand. When you kill a worthy opponent, one point turns darker. When all three points turn dark, your arm grows into an unnaturally strong, chitinous claw (d10 slash) for the next hour. When your arm returns, the brand resets. | . | 6HP | Caged Biter. A Bug-Monkey (6hp, d6 bite) in a cage. Fights its designated target to the death, ignoring any other commands. If it wins, it eats some of its opponent before slinking back to its cage. If it loses, it becomes melancholy. | . ",
-    "url": "/chime/3-resources/4-failed-careers/Gutter%20Minder/#what-are-you-hiding-under-your-rags",
+    "content": "|   |   | . | 1HP | Wish Tonic. Three measures of liquor that each grant a wish. The wish only lasts as long as the bracing kick of the liquor (d6 Turns). | . | 2HP | Dehydrated Beasts. Three rubbery things resembling toy animals. If thrown into water, it expands to a Soggy Monstrosity (15HP, d10 Trample). When killed or there’s nothing left to kill, the creature collapses into inert powder. | . | 3HP | Berserker Gland. When you take Ability Loss or suffer serious pain you fly into a rage. Your next melee attack is +d10 but you cannot make ranged attacks. Once the attack is out of your system you return to normal. | . | 4HP | Parallel Shifter. A metal tin big enough to fit a pistol inside. If an object is placed inside and shaken, the object is replaced with a parallel version of itself from another reality. | . | 5HP | Slaughter Brand. A three pointed mark on your hand. When you kill a worthy opponent, one point turns darker. When all three points turn dark, your arm grows into an unnaturally strong, chitinous claw (d10 slash) for the next hour. When your arm returns, the brand resets. | . | 6HP | Caged Biter. A Bug-Monkey (6hp, d6 bite) in a cage. Fights its designated target to the death, ignoring any other commands. If it wins, it eats some of its opponent before slinking back to its cage. If it loses, it becomes melancholy. | . ",
+    "url": "/chime/resources/failed-careers/gutter-minder/#what-are-you-hiding-under-your-rags",
     
-    "relUrl": "/3-resources/4-failed-careers/Gutter%20Minder/#what-are-you-hiding-under-your-rags"
-  },"35": {
-    "doc": "Random Names",
-    "title": "Random Names",
-    "content": "|   |   |   | . | d100 | Name | Surname | . | 1 | Adair | Abbot | . | 2 | Alaric | Addyman | . | 3 | Alder | Ashwell | . | 4 | Amaris | Balfe | . | 5 | Anwen | Baxter | . | 6 | Arlo | Bevan | . | 7 | Ash | Beran | . | 8 | Aster | Blackwood | . | 9 | Ballad | Bowen | . | 10 | Barley | Brewer | . | 11 | Basil | Broder | . | 12 | Beatrix | Bukharin | . | 13 | Birch | Cadwallan | . | 14 | Bram | Carter | . | 15 | Briar | Cobb | . | 16 | Brook | Collier | . | 17 | Bryn | Cooper | . | 18 | Cai | Crowther | . | 19 | Callan | Dempsey | . | 20 | Carver | Dermody | . | 21 | Cedric | Domański | . | 22 | Cinder | Dymov | . | 23 | Cliff | Fairweather | . | 24 | Corin | Fedorov | . | 25 | Crow | Fletcher | . | 26 | Dain | Fuller | . | 27 | Darnel | Galen | . | 28 | Dax | Glinka | . | 29 | Dorian | Glover | . | 30 | Eira | Golubov | . | 31 | Elowen | Gradnik | . | 32 | Ember | Granger | . | 33 | Eon | Grobar | . | 34 | Evander | Halberg | . | 35 | Falcon | Harkin | . | 36 | Faris | Hlebar | . | 37 | Fern | Hromada | . | 38 | Finch | Horgan | . | 39 | Flint | Iliev | . | 40 | Freya | Ivanec | . | 41 | Gale | Joryn | . | 42 | Garen | Kamensk | . | 43 | Hazel | Kavanagh | . | 44 | Hemlock | Kovac | . | 45 | Idris | Kovalenko | . | 46 | Ivy | Kravec | . | 47 | Juniper | Krznar | . | 48 | Kael | Kuchar | . | 49 | Kavi | Kvasnikov | . | 50 | Keir | Lethbridge | . | 51 | Leif | Llewellyn | . | 52 | Liora | Locke | . | 53 | Lucan | Lovett | . | 54 | Lyra | Lukanov | . | 55 | Lysander | Maddox | . | 56 | Marius | Malinov | . | 57 | Marlowe | Marinov | . | 58 | Milo | Markov | . | 59 | Moss | Mason | . | 60 | Nazira | Melnik | . | 61 | Neria | Mercer | . | 62 | Noa | Milner | . | 63 | Nyx | Morozov | . | 64 | Onyx | Novak | . | 65 | Orla | Obradov | . | 66 | Pan | O’Callaghan | . | 67 | Patch | O’Farrell | . | 68 | Perran | O’Leary | . | 69 | Quill | Osipov | . | 70 | Rain | Pavlenko | . | 71 | Reed | Pekar | . | 72 | River | Petrov | . | 73 | Robin | Pisarev | . | 74 | Rowan | Powell | . | 75 | Rune | Price | . | 76 | Rush | Radoslav | . | 77 | Rye | Reeve | . | 78 | Sable | Rogov | . | 79 | Sage | Romanov | . | 80 | Selene | Rowanfield | . | 81 | Shade | Rybak | . | 82 | Silas | Sawyer | . | 83 | Sky | Shepherd | . | 84 | Soren | Shevchenko | . | 85 | Sparrow | Slater | . | 86 | Stellan | Smirnov | . | 87 | Stone | Sokolov | . | 88 | Storm | Tanner | . | 89 | Talon | Thatcher | . | 90 | Thistle | Tallow | . | 91 | Thorn | Vukovic | . | 92 | Thresh | Webb | . | 93 | Valen | Whitlock | . | 94 | Vesper | Wicklowe | . | 95 | Vex | Wightman | . | 96 | Willow | Wilkin | . | 97 | Winslow | Wright | . | 98 | Wisp | Wynne | . | 99 | Wren | Yarrow | . | 100 | Yarrow | Zidar | . ",
-    "url": "/chime/3-resources/Random%20Names/",
-    
-    "relUrl": "/3-resources/Random%20Names/"
-  },"36": {
-    "doc": "Random Traits",
-    "title": "Random Traits",
-    "content": " ",
-    "url": "/chime/3-resources/Random%20Traits/",
-    
-    "relUrl": "/3-resources/Random%20Traits/"
-  },"37": {
-    "doc": "Random Traits",
-    "title": "Physique",
-    "content": "|   |   |   |   | . | 1 | Athletic | 6 | Scrawny | . | 2 | Brawny | 7 | Short | . | 3 | Flabby | 8 | Statuesque | . | 4 | Lanky | 9 | Stout | . | 5 | Rugged | 10 | Towering | . ",
-    "url": "/chime/3-resources/Random%20Traits/#physique",
-    
-    "relUrl": "/3-resources/Random%20Traits/#physique"
-  },"38": {
-    "doc": "Random Traits",
-    "title": "Skin",
-    "content": "|   |   |   |   | . | 1 | Birthmarked | 6 | Soft | . | 2 | Marked | 7 | Tanned | . | 3 | Oily | 8 | Tattooed | . | 4 | Rosy | 9 | Weathered | . | 5 | Scarred | 10 | Webbed | . ",
-    "url": "/chime/3-resources/Random%20Traits/#skin",
-    
-    "relUrl": "/3-resources/Random%20Traits/#skin"
-  },"39": {
-    "doc": "Random Traits",
-    "title": "Hair",
-    "content": "|   |   |   |   | . | 1 | Bald | 6 | Long | . | 2 | Braided | 7 | Luxurious | . | 3 | Curly | 8 | Oily | . | 4 | Filthy | 9 | Wavy | . | 5 | Frizzy | 10 | Wispy | . ",
-    "url": "/chime/3-resources/Random%20Traits/#hair",
-    
-    "relUrl": "/3-resources/Random%20Traits/#hair"
-  },"40": {
-    "doc": "Random Traits",
-    "title": "Face",
-    "content": "|   |   |   |   | . | 1 | Bony | 6 | Perfect | . | 2 | Broken | 7 | Rakish | . | 3 | Chiseled | 8 | Sharp | . | 4 | Elongated | 9 | Square | . | 5 | Pale | 10 | Sunken | . ",
-    "url": "/chime/3-resources/Random%20Traits/#face",
-    
-    "relUrl": "/3-resources/Random%20Traits/#face"
-  },"41": {
-    "doc": "Random Traits",
-    "title": "Speech",
-    "content": "|   |   |   |   | . | 1 | Blunt | 6 | Gravelly | . | 2 | Booming | 7 | Precise | . | 3 | Cryptic | 8 | Squeaky | . | 4 | Droning | 9 | Stuttering | . | 5 | Formal | 10 | Whispery | . ",
-    "url": "/chime/3-resources/Random%20Traits/#speech",
-    
-    "relUrl": "/3-resources/Random%20Traits/#speech"
-  },"42": {
-    "doc": "Random Traits",
-    "title": "Clothing",
-    "content": "|   |   |   |   | . | 1 | Antique | 6 | Frayed | . | 2 | Bloody | 7 | Frumpy | . | 3 | Elegant | 8 | Livery | . | 4 | Filthy | 9 | Rancid | . | 5 | Foreign | 10 | Soiled | . ",
-    "url": "/chime/3-resources/Random%20Traits/#clothing",
-    
-    "relUrl": "/3-resources/Random%20Traits/#clothing"
-  },"43": {
-    "doc": "Random Traits",
-    "title": "Virtue",
-    "content": "|   |   |   |   | . | 1 | Ambitious | 6 | Honorable | . | 2 | Cautious | 7 | Humble | . | 3 | Courageous | 8 | Merciful | . | 4 | Disciplined | 9 | Serene | . | 5 | Gregarious | 10 | Tolerant | . ",
-    "url": "/chime/3-resources/Random%20Traits/#virtue",
-    
-    "relUrl": "/3-resources/Random%20Traits/#virtue"
-  },"44": {
-    "doc": "Random Traits",
-    "title": "Vice",
-    "content": "|   |   |   |   | . | 1 | Aggressive | 6 | Lazy | . | 2 | Bitter | 7 | Nervous | . | 3 | Craven | 8 | Rude | . | 4 | Deceitful | 9 | Vain | . | 5 | Greedy | 10 | Vengeful | . ",
-    "url": "/chime/3-resources/Random%20Traits/#vice",
-    
-    "relUrl": "/3-resources/Random%20Traits/#vice"
-  },"45": {
-    "doc": "Trench Conscript",
-    "title": "Trench Conscript",
-    "content": "You survived a trench battle with little to write home about. Except for the one thing you found in that strange tunnel. ",
-    "url": "/chime/3-resources/4-failed-careers/Trench%20Conscript/",
-    
-    "relUrl": "/3-resources/4-failed-careers/Trench%20Conscript/"
-  },"46": {
-    "doc": "Trench Conscript",
-    "title": "Sample Names",
-    "content": ". | Kariana | Jops | Galea | Jools | . ",
-    "url": "/chime/3-resources/4-failed-careers/Trench%20Conscript/#sample-names",
-    
-    "relUrl": "/3-resources/4-failed-careers/Trench%20Conscript/#sample-names"
-  },"47": {
-    "doc": "Trench Conscript",
-    "title": "You Start With:",
-    "content": ". | A Trench Gun (d6, Very Short Range). | A Shovel. | A Pack of Gum (Oxtail Flavored). | . ",
-    "url": "/chime/3-resources/4-failed-careers/Trench%20Conscript/#you-start-with",
-    
-    "relUrl": "/3-resources/4-failed-careers/Trench%20Conscript/#you-start-with"
-  },"48": {
-    "doc": "Trench Conscript",
-    "title": "What Was Your Role in Your Unit",
-    "content": "|   |   | . | £1-2 | Engineer. Take three trench bombs (d8 BLAST) and wire cutters. | . | £3-4 | Recon. Take paints and a portable canvas. | . | £5-6 | Heavy Section. Take lead vest and helmet (1AP) | . | £7-8 | Chaplain. Take a bottle of military strength gin and a holy donkey symbol. | . | £9-10 | Breacher. Take a rocket (d10, one-shot). | . | £11-12 | Officer. Take a whistle and a dress uniform. | . ",
-    "url": "/chime/3-resources/4-failed-careers/Trench%20Conscript/#what-was-your-role-in-your-unit",
-    
-    "relUrl": "/3-resources/4-failed-careers/Trench%20Conscript/#what-was-your-role-in-your-unit"
-  },"49": {
-    "doc": "Trench Conscript",
-    "title": "What Did You Find In That Tunnel?",
-    "content": "|   |   | . | 1HP | Essence Extractor. Extract the consciousness of a pacified or willing being. It can be injected into a still-warm corpse. One use. | . | 2HP | Duplicator. A shoe-sized box. Put one thing in, get two copies. Both copies are hugely inferior to the original, which is destroyed. | . | 3HP | Hover Plate. Plaster-sized tray that freezes in space if you whistle a specific tune to release it. It supports up to one person’s weight and can be forcibly release with a STR save. | . | 4HP | Bonding Dome. Any being that wears this head-device is bombarded with flashing images and emerges spluttering. They emotionally bond with the next being they see and dedicate thier life to them until they next sleep. | . | 5HP | Phase-Mole. A tiny mammal that can phase into any material without disturbing it. It can talk, but it is extremely shy and only answers a question with one word before phasing into hiding in it’s master’s body. | . | 6HP | Haunted Egg. A stone egg that can be used as a crude weapon (d6). The last thing killed by the egg inhabits it as a ghostly voice, and answers questions to the best of its knowledge. It doesn’t have any more knowledge than it did in life, but anyone can understand it’s words. | . ",
-    "url": "/chime/3-resources/4-failed-careers/Trench%20Conscript/#what-did-you-find-in-that-tunnel",
-    
-    "relUrl": "/3-resources/4-failed-careers/Trench%20Conscript/#what-did-you-find-in-that-tunnel"
-  },"50": {
+    "relUrl": "/resources/failed-careers/gutter-minder/#what-are-you-hiding-under-your-rags"
+  },"59": {
     "doc": "Heartseed",
     "title": "Heartseed",
     "content": " ",
     "url": "/chime/scripts/heartseed/",
     
     "relUrl": "/scripts/heartseed/"
+  },"60": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "A year ago they took you. Black bagged, condemned to a cell. It wasn’t fair. It didn’t matter. Six months passed, and a woman immaculate and dangerous as a polished shiv offered you a deal. The Martel Company needs recruits. The work will be hard. Dangerous. But you can buy back your name. In time. For six months you hauled rocks. Big stones sunk deep in the mud. Knotburns buried deep into your palms. You were not alone. They put you on a ship, and the crew became your world. You slept together, bathed together, ate together, shat together. Maybe you’ve become friends. Maybe you hate each others guts. But you trust them, because you must. They branded your left shoulder when the ship set sail. Black magic swirled around the iron, felt like ice when you were marked. They told you that you belong to the Martel now, and that your job is to haul. Gold. Statues. Art. The more you haul, the quicker your brand will fade. You’re free to run. But in time, the brand will consume your flesh, sloughed off like corn husk. And so with your crew, they sailed you to the Swordfish Islands… . Chime is an adventure game about exploring a dark and mysterious island of primal forces, life, and abundance, mainly a hack of Cairn, divined by the Haruspex of Hotsprings Island from the entrails of: . | Block, Dodge, Parry! | Electric Bastionland. | His Majesty the Worm. | . Character generation is quick and random, adventures are tense and reward careful exploration, and combat is frantic and deadly. ",
+    "url": "/chime/",
+    
+    "relUrl": "/"
+  },"61": {
+    "doc": "Lost Expeditioneer",
+    "title": "Lost Expeditioneer",
+    "content": "You’ve been on a treasure hunting expedition before. You were the only survivor. ",
+    "url": "/chime/resources/failed-careers/lost-expeditioneer/",
+    
+    "relUrl": "/resources/failed-careers/lost-expeditioneer/"
+  },"62": {
+    "doc": "Lost Expeditioneer",
+    "title": "Sample Names",
+    "content": ". | Ugo. | Backara. | Lillyhart. | Bass. | . ",
+    "url": "/chime/resources/failed-careers/lost-expeditioneer/#sample-names",
+    
+    "relUrl": "/resources/failed-careers/lost-expeditioneer/#sample-names"
+  },"63": {
+    "doc": "Lost Expeditioneer",
+    "title": "You Start With:",
+    "content": ". | Pair of Pistols (d6+d6) | . ",
+    "url": "/chime/resources/failed-careers/lost-expeditioneer/#you-start-with",
+    
+    "relUrl": "/resources/failed-careers/lost-expeditioneer/#you-start-with"
+  },"64": {
+    "doc": "Lost Expeditioneer",
+    "title": "What Was Your Position On The Crew?",
+    "content": "|   |   | . | £1-2 | Archivist. Take a Spyglass and Writing Set. | . | £3-4 | Councilor. Take an Aromatherapy Kit. | . | £5-6 | Owl Tender. Take a Trained Owl (5HP, d4 Claws). | . | £7-8 | Metallurgist. Take a Bomb (d10 Blast) | . | £9-10 | Butcher. Take a Claver (d6) | . | £11-12 | Saucier. Take a Set of Tiny Saucepans. | . ",
+    "url": "/chime/resources/failed-careers/lost-expeditioneer/#what-was-your-position-on-the-crew",
+    
+    "relUrl": "/resources/failed-careers/lost-expeditioneer/#what-was-your-position-on-the-crew"
+  },"65": {
+    "doc": "Lost Expeditioneer",
+    "title": "What Did You Bring Back From The Expedition?",
+    "content": "|   |   | . | 1HP | Preserved Soul. A tiny shrivelled humanoid. Can be thrown into a fire to release a flailing Alien apparition (d8 Eye Beams, Immaterial, Lashes out for d6 Turns before vanishing in a flash of light). | . | 2HP | Fetch-Pearl. When thrown into a body of water, this silvery pearl sinks to the bottom and clings to the first thing it touches. On a mental command it returns to the surface, dragging up whatever it’s attached to. | . | 3HP | Dire Barnacle A vicious little mollusc (1HP, AP 1) that taunts quietly and explodes as a bomb (d12 Blast) when it dies. | . | 4HP | Savage Vine Berry. If eaten vines erupts from the mouth (d6 STR loss) and grow into a sprawling mass, clinging to whatever surface they can. One use. | . | 5HP | Ambrosia Seed. A bag of golden seed that no animal can resist if thrown. | . | 6HP | Skeletal Dove. Carefully assembled. Can be crushed to unleash a cloud of confused doves. | . ",
+    "url": "/chime/resources/failed-careers/lost-expeditioneer/#what-did-you-bring-back-from-the-expedition",
+    
+    "relUrl": "/resources/failed-careers/lost-expeditioneer/#what-did-you-bring-back-from-the-expedition"
+  },"66": {
+    "doc": "Random Names",
+    "title": "Random Names",
+    "content": "|   |   |   | . | d100 | Name | Surname | . | 1 | Adair | Abbot | . | 2 | Alaric | Addyman | . | 3 | Alder | Ashwell | . | 4 | Amaris | Balfe | . | 5 | Anwen | Baxter | . | 6 | Arlo | Bevan | . | 7 | Ash | Beran | . | 8 | Aster | Blackwood | . | 9 | Ballad | Bowen | . | 10 | Barley | Brewer | . | 11 | Basil | Broder | . | 12 | Beatrix | Bukharin | . | 13 | Birch | Cadwallan | . | 14 | Bram | Carter | . | 15 | Briar | Cobb | . | 16 | Brook | Collier | . | 17 | Bryn | Cooper | . | 18 | Cai | Crowther | . | 19 | Callan | Dempsey | . | 20 | Carver | Dermody | . | 21 | Cedric | Domański | . | 22 | Cinder | Dymov | . | 23 | Cliff | Fairweather | . | 24 | Corin | Fedorov | . | 25 | Crow | Fletcher | . | 26 | Dain | Fuller | . | 27 | Darnel | Galen | . | 28 | Dax | Glinka | . | 29 | Dorian | Glover | . | 30 | Eira | Golubov | . | 31 | Elowen | Gradnik | . | 32 | Ember | Granger | . | 33 | Eon | Grobar | . | 34 | Evander | Halberg | . | 35 | Falcon | Harkin | . | 36 | Faris | Hlebar | . | 37 | Fern | Hromada | . | 38 | Finch | Horgan | . | 39 | Flint | Iliev | . | 40 | Freya | Ivanec | . | 41 | Gale | Joryn | . | 42 | Garen | Kamensk | . | 43 | Hazel | Kavanagh | . | 44 | Hemlock | Kovac | . | 45 | Idris | Kovalenko | . | 46 | Ivy | Kravec | . | 47 | Juniper | Krznar | . | 48 | Kael | Kuchar | . | 49 | Kavi | Kvasnikov | . | 50 | Keir | Lethbridge | . | 51 | Leif | Llewellyn | . | 52 | Liora | Locke | . | 53 | Lucan | Lovett | . | 54 | Lyra | Lukanov | . | 55 | Lysander | Maddox | . | 56 | Marius | Malinov | . | 57 | Marlowe | Marinov | . | 58 | Milo | Markov | . | 59 | Moss | Mason | . | 60 | Nazira | Melnik | . | 61 | Neria | Mercer | . | 62 | Noa | Milner | . | 63 | Nyx | Morozov | . | 64 | Onyx | Novak | . | 65 | Orla | Obradov | . | 66 | Pan | O’Callaghan | . | 67 | Patch | O’Farrell | . | 68 | Perran | O’Leary | . | 69 | Quill | Osipov | . | 70 | Rain | Pavlenko | . | 71 | Reed | Pekar | . | 72 | River | Petrov | . | 73 | Robin | Pisarev | . | 74 | Rowan | Powell | . | 75 | Rune | Price | . | 76 | Rush | Radoslav | . | 77 | Rye | Reeve | . | 78 | Sable | Rogov | . | 79 | Sage | Romanov | . | 80 | Selene | Rowanfield | . | 81 | Shade | Rybak | . | 82 | Silas | Sawyer | . | 83 | Sky | Shepherd | . | 84 | Soren | Shevchenko | . | 85 | Sparrow | Slater | . | 86 | Stellan | Smirnov | . | 87 | Stone | Sokolov | . | 88 | Storm | Tanner | . | 89 | Talon | Thatcher | . | 90 | Thistle | Tallow | . | 91 | Thorn | Vukovic | . | 92 | Thresh | Webb | . | 93 | Valen | Whitlock | . | 94 | Vesper | Wicklowe | . | 95 | Vex | Wightman | . | 96 | Willow | Wilkin | . | 97 | Winslow | Wright | . | 98 | Wisp | Wynne | . | 99 | Wren | Yarrow | . | 100 | Yarrow | Zidar | . ",
+    "url": "/chime/resources/random-names/",
+    
+    "relUrl": "/resources/random-names/"
+  },"67": {
+    "doc": "Random Traits",
+    "title": "Random Traits",
+    "content": " ",
+    "url": "/chime/resources/random-traits/",
+    
+    "relUrl": "/resources/random-traits/"
+  },"68": {
+    "doc": "Random Traits",
+    "title": "Physique",
+    "content": "|   |   |   |   | . | 1 | Athletic | 6 | Scrawny | . | 2 | Brawny | 7 | Short | . | 3 | Flabby | 8 | Statuesque | . | 4 | Lanky | 9 | Stout | . | 5 | Rugged | 10 | Towering | . ",
+    "url": "/chime/resources/random-traits/#physique",
+    
+    "relUrl": "/resources/random-traits/#physique"
+  },"69": {
+    "doc": "Random Traits",
+    "title": "Skin",
+    "content": "|   |   |   |   | . | 1 | Birthmarked | 6 | Soft | . | 2 | Marked | 7 | Tanned | . | 3 | Oily | 8 | Tattooed | . | 4 | Rosy | 9 | Weathered | . | 5 | Scarred | 10 | Webbed | . ",
+    "url": "/chime/resources/random-traits/#skin",
+    
+    "relUrl": "/resources/random-traits/#skin"
+  },"70": {
+    "doc": "Random Traits",
+    "title": "Hair",
+    "content": "|   |   |   |   | . | 1 | Bald | 6 | Long | . | 2 | Braided | 7 | Luxurious | . | 3 | Curly | 8 | Oily | . | 4 | Filthy | 9 | Wavy | . | 5 | Frizzy | 10 | Wispy | . ",
+    "url": "/chime/resources/random-traits/#hair",
+    
+    "relUrl": "/resources/random-traits/#hair"
+  },"71": {
+    "doc": "Random Traits",
+    "title": "Face",
+    "content": "|   |   |   |   | . | 1 | Bony | 6 | Perfect | . | 2 | Broken | 7 | Rakish | . | 3 | Chiseled | 8 | Sharp | . | 4 | Elongated | 9 | Square | . | 5 | Pale | 10 | Sunken | . ",
+    "url": "/chime/resources/random-traits/#face",
+    
+    "relUrl": "/resources/random-traits/#face"
+  },"72": {
+    "doc": "Random Traits",
+    "title": "Speech",
+    "content": "|   |   |   |   | . | 1 | Blunt | 6 | Gravelly | . | 2 | Booming | 7 | Precise | . | 3 | Cryptic | 8 | Squeaky | . | 4 | Droning | 9 | Stuttering | . | 5 | Formal | 10 | Whispery | . ",
+    "url": "/chime/resources/random-traits/#speech",
+    
+    "relUrl": "/resources/random-traits/#speech"
+  },"73": {
+    "doc": "Random Traits",
+    "title": "Clothing",
+    "content": "|   |   |   |   | . | 1 | Antique | 6 | Frayed | . | 2 | Bloody | 7 | Frumpy | . | 3 | Elegant | 8 | Livery | . | 4 | Filthy | 9 | Rancid | . | 5 | Foreign | 10 | Soiled | . ",
+    "url": "/chime/resources/random-traits/#clothing",
+    
+    "relUrl": "/resources/random-traits/#clothing"
+  },"74": {
+    "doc": "Random Traits",
+    "title": "Virtue",
+    "content": "|   |   |   |   | . | 1 | Ambitious | 6 | Honorable | . | 2 | Cautious | 7 | Humble | . | 3 | Courageous | 8 | Merciful | . | 4 | Disciplined | 9 | Serene | . | 5 | Gregarious | 10 | Tolerant | . ",
+    "url": "/chime/resources/random-traits/#virtue",
+    
+    "relUrl": "/resources/random-traits/#virtue"
+  },"75": {
+    "doc": "Random Traits",
+    "title": "Vice",
+    "content": "|   |   |   |   | . | 1 | Aggressive | 6 | Lazy | . | 2 | Bitter | 7 | Nervous | . | 3 | Craven | 8 | Rude | . | 4 | Deceitful | 9 | Vain | . | 5 | Greedy | 10 | Vengeful | . ",
+    "url": "/chime/resources/random-traits/#vice",
+    
+    "relUrl": "/resources/random-traits/#vice"
+  },"76": {
+    "doc": "Relationship Archetypes",
+    "title": "Relationship Archetypes",
+    "content": " ",
+    "url": "/chime/resources/relationship-archetypes/",
+    
+    "relUrl": "/resources/relationship-archetypes/"
+  },"77": {
+    "doc": "Relationship Archetypes",
+    "title": "Ally",
+    "content": "You are professional and amiable to your crew-mate. This is probably the default archetype. Examples: . | Wash and Kaylee. | Aragorn and Gandalf. | . ",
+    "url": "/chime/resources/relationship-archetypes/#ally",
+    
+    "relUrl": "/resources/relationship-archetypes/#ally"
+  },"78": {
+    "doc": "Relationship Archetypes",
+    "title": "Adversary",
+    "content": "If you have a significant problem with a crew-mate, you’re probably their adversary. This isn’t an excuse to be an asshole to other Players in the game, but it’s an opportunity for interesting and fair conflict within the game. Examples: . | Mal and Jayne. | Boromir and Aragorn. | . ",
+    "url": "/chime/resources/relationship-archetypes/#adversary",
+    
+    "relUrl": "/resources/relationship-archetypes/#adversary"
+  },"79": {
+    "doc": "Relationship Archetypes",
+    "title": "Best Friend",
+    "content": "You wouldn’t let your best friend go on an adventure without you. You’re there for each other, through thick and thin. Examples: . | Mal and Zoe. | Merry and Pippin. | . ",
+    "url": "/chime/resources/relationship-archetypes/#best-friend",
+    
+    "relUrl": "/resources/relationship-archetypes/#best-friend"
+  },"80": {
+    "doc": "Relationship Archetypes",
+    "title": "Love",
+    "content": "If both players are cool with it, two characters may be romantically interested in one another. If the relationship is one sided, Unrequited Love may be more applicable. Examples: . | Zoe and Wash. | Faramir and Éowyn. | . ",
+    "url": "/chime/resources/relationship-archetypes/#love",
+    
+    "relUrl": "/resources/relationship-archetypes/#love"
+  },"81": {
+    "doc": "Relationship Archetypes",
+    "title": "Master / Henchmen",
+    "content": "When you have a managerial vs. subservient relationship with another crew-mate, you probably fit a Master / Henchmen archetype. Examples: . | Mal and Wash. | Frodo and Sam. | . ",
+    "url": "/chime/resources/relationship-archetypes/#master--henchmen",
+    
+    "relUrl": "/resources/relationship-archetypes/#master--henchmen"
+  },"82": {
+    "doc": "Relationship Archetypes",
+    "title": "Mentor / Mentee",
+    "content": "When a parent, parent-figure, or mentor guies and shapes the life of a mentee, they fit the Mentor / Mentee archetype. Examples: . | Shepherd Book and River. | Gandalf and Frodo. | . ",
+    "url": "/chime/resources/relationship-archetypes/#mentor--mentee",
+    
+    "relUrl": "/resources/relationship-archetypes/#mentor--mentee"
+  },"83": {
+    "doc": "Relationship Archetypes",
+    "title": "Rival",
+    "content": "You are in competition with your rival. You might want the same woman, the most kills, or something weirder. Examples: . | Legolas and Gimli. | . ",
+    "url": "/chime/resources/relationship-archetypes/#rival",
+    
+    "relUrl": "/resources/relationship-archetypes/#rival"
+  },"84": {
+    "doc": "Relationship Archetypes",
+    "title": "Sibling",
+    "content": "Your first adventures were raiding your mother’s cookie jar together. Now you’re crew-mates. Examples: . | Simon and River. | Boromir and Faramir. | . ",
+    "url": "/chime/resources/relationship-archetypes/#sibling",
+    
+    "relUrl": "/resources/relationship-archetypes/#sibling"
+  },"85": {
+    "doc": "Relationship Archetypes",
+    "title": "Unrequited Love",
+    "content": "He’s just not that into you. If both players are cool with it, use this archetype to represent how you feel about a would-be suitor or ex-lover. Examples: . | Simon and Kaylee. | Aragorn and Éowyn. | . ",
+    "url": "/chime/resources/relationship-archetypes/#unrequited-love",
+    
+    "relUrl": "/resources/relationship-archetypes/#unrequited-love"
+  },"86": {
+    "doc": "Relationship Archetypes",
+    "title": "Ward",
+    "content": "You have a crew-mate that you look out for. It’s important to you that they survive. Examples: . | Frodo. | River. | . ",
+    "url": "/chime/resources/relationship-archetypes/#ward",
+    
+    "relUrl": "/resources/relationship-archetypes/#ward"
+  },"87": {
+    "doc": "Resources",
+    "title": "Resources",
+    "content": " ",
+    "url": "/chime/resources/",
+    
+    "relUrl": "/resources/"
+  },"88": {
+    "doc": "Rules",
+    "title": "Rules",
+    "content": " ",
+    "url": "/chime/rules/",
+    
+    "relUrl": "/rules/"
+  },"89": {
+    "doc": "Sanctioned Executioner",
+    "title": "Sanctioned Executioner",
+    "content": "You’ve done your time on firing squads. Now you’re allowed to do a little freelance work. ",
+    "url": "/chime/resources/failed-careers/sanctioned-executioner/",
+    
+    "relUrl": "/resources/failed-careers/sanctioned-executioner/"
+  },"90": {
+    "doc": "Sanctioned Executioner",
+    "title": "Sample Names",
+    "content": ". | Helmut. | Dina. | Erich. | Dalia. | . ",
+    "url": "/chime/resources/failed-careers/sanctioned-executioner/#sample-names",
+    
+    "relUrl": "/resources/failed-careers/sanctioned-executioner/#sample-names"
+  },"91": {
+    "doc": "Sanctioned Executioner",
+    "title": "You Start With:",
+    "content": ". | Rifle (d8, Bulky). | Killing License (one person per day, non-transferable). | . ",
+    "url": "/chime/resources/failed-careers/sanctioned-executioner/#you-start-with",
+    
+    "relUrl": "/resources/failed-careers/sanctioned-executioner/#you-start-with"
+  },"92": {
+    "doc": "Sanctioned Executioner",
+    "title": "Hod Do You Live With Yourself?",
+    "content": "|   |   | . | £1-2 | Socializing. Take a bottle of gin. | . | £3-4 | Poetry. Take a book of angst prose. | . | £5-6 | Reminiscence. Take a locket with a pciture of a loved one taken from you. | . | £7-8 | Numbness. Take an artificial heart in place of your own. | . | £9-10 | Music. Take a tortured violin. | . | £11-12 | Philanthropy. Charitable organizations know you as a generous donor. | . ",
+    "url": "/chime/resources/failed-careers/sanctioned-executioner/#hod-do-you-live-with-yourself",
+    
+    "relUrl": "/resources/failed-careers/sanctioned-executioner/#hod-do-you-live-with-yourself"
+  },"93": {
+    "doc": "Sanctioned Executioner",
+    "title": "What Was Your Bonus For Good Service",
+    "content": "|   |   | . | 1HP | Smart Arm. Your rifle is also intelligent, communicating physically to whoever is holding it. It functions as a normal weapon and gives smart advice. Once per day it grants +d10 to an attack that particularly pleases it, but it can Impair attacks that displease it any time it likes. Roll 1d6 to find its personality: 1 Honorable, 2 Ambititous, 3 Bloodthirsty, 4 Curious, 5 Pacifist, 6 Bored. | . | 2HP | Rail Lens. Any missile fired through this lens (breaking it) accelerates to impossible speeds, causing d12 Blast Damage and tearing through structures. | . | 3HP | Star-Beacon A heavy tyre-sized metal beacon (requires two people to carry) with a matching pin-badge. Pushing the badge teleports th wearer back to the beacon. | . | 4HP | Time Tonic. Sends you out of sync with reality for around ten seconds. You can act as normal,but when the tonic wears off, time snaps back to the point before you drank and all actions are undone. One use, even after snapping back in time. | . | 5HP | Stick Eye. A glass eye on a stick that the holder can see through. | . | 6HP | Threatening Stave. Has no function, but glows and vibrates in a way that suggests it could be used for distributing extreme pain. | . ",
+    "url": "/chime/resources/failed-careers/sanctioned-executioner/#what-was-your-bonus-for-good-service",
+    
+    "relUrl": "/resources/failed-careers/sanctioned-executioner/#what-was-your-bonus-for-good-service"
+  },"94": {
+    "doc": "Session Summaries",
+    "title": "Session Summaries",
+    "content": " ",
+    "url": "/chime/campaign-info/session-summaries/",
+    
+    "relUrl": "/campaign-info/session-summaries/"
+  },"95": {
+    "doc": "Trench Conscript",
+    "title": "Trench Conscript",
+    "content": "You survived a trench battle with little to write home about. Except for the one thing you found in that strange tunnel. ",
+    "url": "/chime/resources/failed-careers/trench-conscript/",
+    
+    "relUrl": "/resources/failed-careers/trench-conscript/"
+  },"96": {
+    "doc": "Trench Conscript",
+    "title": "Sample Names",
+    "content": ". | Kariana | Jops | Galea | Jools | . ",
+    "url": "/chime/resources/failed-careers/trench-conscript/#sample-names",
+    
+    "relUrl": "/resources/failed-careers/trench-conscript/#sample-names"
+  },"97": {
+    "doc": "Trench Conscript",
+    "title": "You Start With:",
+    "content": ". | A Trench Gun (d6, Very Short Range). | A Shovel. | A Pack of Gum (Oxtail Flavored). | . ",
+    "url": "/chime/resources/failed-careers/trench-conscript/#you-start-with",
+    
+    "relUrl": "/resources/failed-careers/trench-conscript/#you-start-with"
+  },"98": {
+    "doc": "Trench Conscript",
+    "title": "What Was Your Role in Your Unit",
+    "content": "|   |   | . | £1-2 | Engineer. Take three trench bombs (d8 BLAST) and wire cutters. | . | £3-4 | Recon. Take paints and a portable canvas. | . | £5-6 | Heavy Section. Take lead vest and helmet (1AP) | . | £7-8 | Chaplain. Take a bottle of military strength gin and a holy donkey symbol. | . | £9-10 | Breacher. Take a rocket (d10, one-shot). | . | £11-12 | Officer. Take a whistle and a dress uniform. | . ",
+    "url": "/chime/resources/failed-careers/trench-conscript/#what-was-your-role-in-your-unit",
+    
+    "relUrl": "/resources/failed-careers/trench-conscript/#what-was-your-role-in-your-unit"
+  },"99": {
+    "doc": "Trench Conscript",
+    "title": "What Did You Find In That Tunnel?",
+    "content": "|   |   | . | 1HP | Essence Extractor. Extract the consciousness of a pacified or willing being. It can be injected into a still-warm corpse. One use. | . | 2HP | Duplicator. A shoe-sized box. Put one thing in, get two copies. Both copies are hugely inferior to the original, which is destroyed. | . | 3HP | Hover Plate. Plaster-sized tray that freezes in space if you whistle a specific tune to release it. It supports up to one person’s weight and can be forcibly release with a STR save. | . | 4HP | Bonding Dome. Any being that wears this head-device is bombarded with flashing images and emerges spluttering. They emotionally bond with the next being they see and dedicate thier life to them until they next sleep. | . | 5HP | Phase-Mole. A tiny mammal that can phase into any material without disturbing it. It can talk, but it is extremely shy and only answers a question with one word before phasing into hiding in it’s master’s body. | . | 6HP | Haunted Egg. A stone egg that can be used as a crude weapon (d6). The last thing killed by the egg inhabits it as a ghostly voice, and answers questions to the best of its knowledge. It doesn’t have any more knowledge than it did in life, but anyone can understand it’s words. | . ",
+    "url": "/chime/resources/failed-careers/trench-conscript/#what-did-you-find-in-that-tunnel",
+    
+    "relUrl": "/resources/failed-careers/trench-conscript/#what-did-you-find-in-that-tunnel"
+  },"100": {
+    "doc": "Verminator",
+    "title": "Verminator",
+    "content": "Every type of animal can be found in some corner of The City. When they were unwanted, you went to work. ",
+    "url": "/chime/resources/failed-careers/verminator/",
+    
+    "relUrl": "/resources/failed-careers/verminator/"
+  },"101": {
+    "doc": "Verminator",
+    "title": "Sample Names",
+    "content": ". | Jock. | Malair. | Rig. | Eddey. | . ",
+    "url": "/chime/resources/failed-careers/verminator/#sample-names",
+    
+    "relUrl": "/resources/failed-careers/verminator/#sample-names"
+  },"102": {
+    "doc": "Verminator",
+    "title": "You Start With:",
+    "content": ". | Gas-gun (d6 Blast, Bulky, only affects things that breathe). | Tox-Mask (protects from airborne toxins). | . ",
+    "url": "/chime/resources/failed-careers/verminator/#you-start-with",
+    
+    "relUrl": "/resources/failed-careers/verminator/#you-start-with"
+  },"103": {
+    "doc": "Verminator",
+    "title": "What Specialist Gear Do You Have?",
+    "content": "|   |   | . | £1-2 | Collapsible Ladder. Fits into your pocket. | . | £3-4 | Telescopic Pest-Hook. Comes with a range of attachments. | . | £5-6 | Sack of Mousetraps. Choose between Humane and Lethal. | . | £7-8 | Periscope. Rotates and Extends. | . | £9-10 | Protective Suit. Only effective against small vermin. | . | £11-12 | Multi-Setting Bird Call. Can attract or repel. | . ",
+    "url": "/chime/resources/failed-careers/verminator/#what-specialist-gear-do-you-have",
+    
+    "relUrl": "/resources/failed-careers/verminator/#what-specialist-gear-do-you-have"
+  },"104": {
+    "doc": "Verminator",
+    "title": "What’s The One Creature You Couldn’t Kill? (They Now Accompany You)",
+    "content": "|   |   | . | 1HP | Devourer. A football sized bug that curls up in your backpack. Can be woken once per day to eat its own size in organic material, no matter how inedible. | . | 2HP | Maggot Prince. A tiny maggot with a gold band marking. Flies and maggots vacate the area to make room for it, and anything that eats bugs is strongly drawn to try and eat it. | . | 3HP | Nightmare Moth Anyone but you sleeping in the same room as this moth suffers horrible nightmares. When they wake, the moth takes on the form of something from the nightmare. | . | 4HP | Terrormite. A big termite, pinned down in its box. Once released it burrows into the nearest living creature it can find, causing intense pain. Within a minute, the victim develops a tough outer skin (armor 1) and can spit acid (d6 ongoing). This lasts for an hour until the victim coughs out d6 Terrormite larva and returns to normal. | . | 5HP | Snake-Cat. A cloth toy with a snake body and cat head. If you’re confronted by a hostile snake, it transforms into a cat (4HP, d4 Claws). If you’re confronted by a hostile cat, it transforms into a snake (4HP, d6 Bite, d6 STR loss on CRITICAL DAMAGE). | . | 6HP | Large and Peaceful Dog. The only animal you can tolerate (6HP, d6 Bite in retaliation only). | . ",
+    "url": "/chime/resources/failed-careers/verminator/#whats-the-one-creature-you-couldnt-kill-they-now-accompany-you",
+    
+    "relUrl": "/resources/failed-careers/verminator/#whats-the-one-creature-you-couldnt-kill-they-now-accompany-you"
   }
 }
