@@ -112,6 +112,9 @@
 <loc>http://localhost:4000/chime/resources/failed-careers/divine-prodigy/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/chime/rules/dungeon-exploration-rules/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/chime/resources/failed-careers/estate-squire/</loc>
 </url>
 <url>
@@ -326,6 +329,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/chime/resources/failed-careers/tactiliator/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/chime/rules/travel-rules/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/chime/resources/failed-careers/travelling-showperson/</loc>
