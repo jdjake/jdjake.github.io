@@ -2388,12 +2388,20 @@ div.opaque { background-color: #fff; }
 
 :root { --background-color: #26252b; --heading-color: #e3e9f0; --text-color: #c9d1d9; --link-color: #f2c488; --visited-color: #26252b; }
 
-@font-face { font-family: 'Alegreya'; src: local("Alegreya Regular"), url("/fonts/static/Alegreya-Regular.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
-@font-face { font-family: 'Alegreya'; src: local("Alegreya Bold"), url("/fonts/static/Alegreya-Bold.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: swap; }
-@font-face { font-family: 'Alegreya'; src: local("Alegreya Italic"), url("/fonts/static/Alegreya-Italic.woff2") format("woff2"); font-weight: 400; font-style: italic; font-display: swap; }
+@font-face { font-family: 'Gill'; src: url("../fonts/static/Gill Sans.otf") format("opentype"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Garamond'; src: url("../fonts/static/AGaramondPro-Regular.otf") format("opentype"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Garamond'; src: url("../fonts/static/AGaramondPro-Bold.otf") format("opentype"); font-weight: 700; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Garamond'; src: url("../fonts/static/AGaramondPro-Italic.otf") format("opentype"); font-weight: 400; font-style: italic; font-display: swap; }
+@font-face { font-family: 'Alegreya'; src: local("Alegreya Regular"), url("../fonts/static/Alegreya-Regular.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Alegreya'; src: local("Alegreya Bold"), url("../fonts/static/Alegreya-Bold.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Alegreya'; src: local("Alegreya Italic"), url("../fonts/static/Alegreya-Italic.woff2") format("woff2"); font-weight: 400; font-style: italic; font-display: swap; }
 body { font-family: 'Alegreya', Georgia, serif; background-color: var(--background-color); color: var(--text-color); font-size: 1.25rem; /* 20px */ -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
 
 h1, h2, h3, h4, h5, h6 { font-family: inherit; color: var(--heading-color); font-weight: 600; }
+
+strong { font-family: 'Gill', Georgia, serif; text-transform: uppercase; }
+
+die { font-family: 'Gill', Georgia, serif; }
 
 a { color: var(--link-color); text-decoration: none; }
 
