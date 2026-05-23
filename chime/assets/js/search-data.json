@@ -2274,1987 +2274,2134 @@
     
     "relUrl": "/resources/failed-careers/map-thief/#how-deep-in-the-muck-did-the-steal-get-you"
   },"325": {
+    "doc": "Supplies",
+    "title": "Supplies",
+    "content": " ",
+    "url": "/chime/resources/marketplace/",
+    
+    "relUrl": "/resources/marketplace/"
+  },"326": {
+    "doc": "Supplies",
+    "title": "Tools",
+    "content": "|   |   |   | . | Simple Tools | £10 | Air Bladder, Animal Trap, Bathing Goods, Bug Repellent, Caltrops, Card Deck (Petty), Chain (10ft), Chisel, Climbing Spikes, Collapsible Pole, Crowbar, Disguise Kit (e.g. Face Paint, Disguise), Fishing Rod, Glue, Grappling Hook, Grease, Lockpicks, Magnifying Glass, Manacles, Mirror, Net, Oiled Raincoat, Pack of Chalk (Petty), Protective Gloves (Petty), Pulley, Sack, Saw, Sewing Kit, Shovel, Spikes, Waterskin, Whistle (Petty), etc. | . | Modern Tools | £100 | Book, Cattle Prod (harmless), Compass, Electric lamp, Gramophone, Lockbox, Portable Fan / Heater, Spyglass, Thermometer, etc. | . | Cutting Edge Tools | £1k | Photographic Camera, Slide Projector, Rudimentary Thinking Machine, etc. | . ",
+    "url": "/chime/resources/marketplace/#tools",
+    
+    "relUrl": "/resources/marketplace/#tools"
+  },"327": {
+    "doc": "Supplies",
+    "title": "Other Gear",
+    "content": "|   |   |   | . | Acid | £50 | d6 Ongoing until washed off. | . | Antitoxin | £100 | Neutralizes toxins, violently. | . | Bandages (3 Uses) | £30 | Stabilizes those in critical condition. | . | Ether | £50 | If Inhaled, STR Save or pass out for an hour. | . | Poison | £50 | Lose d20 STR if consumed. | . | Simple Instrument | £25 | Pipe, Accordion, Hurdy Gurdy, etc. | . | Thieving Tools | £25 | Lockpick, Metal File, etc. | . ",
+    "url": "/chime/resources/marketplace/#other-gear",
+    
+    "relUrl": "/resources/marketplace/#other-gear"
+  },"328": {
+    "doc": "Supplies",
+    "title": "Specialist Services",
+    "content": "|   |   |   | . | Overnight Healing | £40 | Restores STR and DEX, and heals a Severe Wound. | . | Leisure |   | Restores CHA. Free if takes all day and night, £100 for instant gratification. | . | Favor or Secret | £100-£10k | Cost depends on how much act against their own interests. | . ",
+    "url": "/chime/resources/marketplace/#specialist-services",
+    
+    "relUrl": "/resources/marketplace/#specialist-services"
+  },"329": {
+    "doc": "Supplies",
+    "title": "Batteries",
+    "content": "|   |   |   | . | Batteries | £1 |   | . | Car Batteries | £50 |   | . ",
+    "url": "/chime/resources/marketplace/#batteries",
+    
+    "relUrl": "/resources/marketplace/#batteries"
+  },"330": {
+    "doc": "Supplies",
+    "title": "Camping Supplies",
+    "content": "| Tent | £20 | Fits 2, Bulky. | . | Outdoor Comfort | £10 | Blanket, Hammock, etc. | . | Cooking Gear (Pots, Utensils) | £10 | Bulky. | . ",
+    "url": "/chime/resources/marketplace/#camping-supplies",
+    
+    "relUrl": "/resources/marketplace/#camping-supplies"
+  },"331": {
+    "doc": "Supplies",
+    "title": "Consumables",
+    "content": "| Pack of Gum | £1 | Strong adhesive, Petty. | . | Canned Eel | £2 | Gives you bad memories of the canals back home. | . | Grog | £2 |   | . | Hot Pie | £5 | Made fresh from the finest pie stalls of the Lower City, two weeks ago. | . | Jellied Meat | £10 | Oddly Refreshing. | . | Pack of Cigarettes | £10 | Petty. | . | Gourmet Meal | £100 |   | . ",
+    "url": "/chime/resources/marketplace/#consumables",
+    
+    "relUrl": "/resources/marketplace/#consumables"
+  },"332": {
+    "doc": "Supplies",
+    "title": "Arms",
+    "content": "|   |   |   |   | . | Crude Weapons | £10 / £50 | d6 Bulky | Streetgun, Pitchfork, Felling Axe, Crossbow, Club, etc. | . | Hand Weapons | £50 / £200 | d6 | Pistol, Dagger, Sword, Baton, etc. | . | Field Weapons | £100 / £500 | d8 Bulky | Rifle, Claymore, Polearm, etc. | . | Noble Weapons | £500 / £1k | d8 | Duelling Pistol, Fine Rapier, Electric Baton, etc. | . | Power Weapons | £1k / £2k | d10 Bulky | Whalegun, Shoulder-Cannon, Chainsaw, etc. | . | Shock Guns | £1k | d6 Blast Bulky | Flamethrower, Scattergun, Acid Gun, etc. | . | Support Guns | £5k | d8 Blast Bulky | Machine Guns, Bomb Launchers, etc. | . | Barrage Artillery | £20k | d10 Blast Stationary | Mortars, Flak Guns, etc. | . | Heavy Guns | £50k | d12 Stationary | Naval Cannons, Howitzers, etc. | . ",
+    "url": "/chime/resources/marketplace/#arms",
+    
+    "relUrl": "/resources/marketplace/#arms"
+  },"333": {
+    "doc": "Supplies",
+    "title": "Armor",
+    "content": "|   |   |   | . | Modern Armor | £1k | 1 AP | . | Crude Armor | £500 | 1 AP Bulky | . | Shield | £200 | +1 AP Bulky | . ",
+    "url": "/chime/resources/marketplace/#armor",
+    
+    "relUrl": "/resources/marketplace/#armor"
+  },"334": {
+    "doc": "Supplies",
+    "title": "Explosives",
+    "content": "|   |   |   | . | Grenade | £100 | d8 Blast | . | Bomb | £200 | d10 Blast | . | Flash Bomb | £100 | Momentarily blinds anyone failing a DEX Save | . | Petrol Bomb | £50 | Sets an are alight. d6 Ongoing | . | Smoke Bomb | £100 | Fills a room with smoke. Attacks through smoke are Impaired. | . | Rocket | £500 | d10 Blast, Bulky | . ",
+    "url": "/chime/resources/marketplace/#explosives",
+    
+    "relUrl": "/resources/marketplace/#explosives"
+  },"335": {
+    "doc": "Martel Rarities",
+    "title": "Martel Company Quartermaster - Rare Supplies",
+    "content": " ",
+    "url": "/chime/resources/martel-rarities/#martel-company-quartermaster---rare-supplies",
+    
+    "relUrl": "/resources/martel-rarities/#martel-company-quartermaster---rare-supplies"
+  },"336": {
+    "doc": "Martel Rarities",
+    "title": "Tools",
+    "content": "|   |   |   | . | Simple Tools | £10 | Air Bladder, Animal Trap, Bathing Goods, Bug Repellent, Caltrops, Card Deck (Petty), Chain (10ft), Chisel, Climbing Spikes, Collapsible Pole, Crowbar, Disguise Kit (e.g. Face Paint, Disguise), Fishing Rod, Glue, Grappling Hook, Grease, Lockpicks, Magnifying Glass, Manacles, Mirror, Net, Oiled Raincoat, Pack of Chalk (Petty), Protective Gloves (Petty), Pulley, Sack, Saw, Sewing Kit, Shovel, Spikes, Waterskin, Whistle (Petty), etc. | . | Modern Tools | £100 | Book, Cattle Prod (harmless), Compass, Electric lamp, Gramophone, Lockbox, Portable Fan / Heater, Spyglass, Thermometer, etc. | . ",
+    "url": "/chime/resources/martel-rarities/#tools",
+    
+    "relUrl": "/resources/martel-rarities/#tools"
+  },"337": {
+    "doc": "Martel Rarities",
+    "title": "Other Gear",
+    "content": "|   |   |   | . | Acid | £50 | d6 Ongoing until washed off. | . | Antitoxin | £100 | Neutralizes toxins, violently. | . | Bandages (3 Uses) | £30 | Stabilizes those in critical condition. | . | Ether | £50 | If Inhaled, STR Save or pass out for an hour. | . | Poison | £50 | Lose d20 STR if consumed. | . | Simple Instrument | £25 | Pipe, Accordion, Hurdy Gurdy, etc. | . | Thieving Tools | £25 | Lockpick, Metal File, etc. | . ",
+    "url": "/chime/resources/martel-rarities/#other-gear",
+    
+    "relUrl": "/resources/martel-rarities/#other-gear"
+  },"338": {
+    "doc": "Martel Rarities",
+    "title": "Specialist Services",
+    "content": "|   |   |   | . | Overnight Healing | £40 | Restores STR and DEX, and heals a Severe Wound. | . | Leisure |   | Restores CHA. Free if takes all day and night, £100 for instant gratification. | . | Favor or Secret | £100-£10k | Cost depends on how much act against their own interests. | . ",
+    "url": "/chime/resources/martel-rarities/#specialist-services",
+    
+    "relUrl": "/resources/martel-rarities/#specialist-services"
+  },"339": {
+    "doc": "Martel Rarities",
+    "title": "Batteries",
+    "content": "|   |   |   | . | Batteries | £1 |   | . | Car Batteries | £50 |   | . ",
+    "url": "/chime/resources/martel-rarities/#batteries",
+    
+    "relUrl": "/resources/martel-rarities/#batteries"
+  },"340": {
+    "doc": "Martel Rarities",
+    "title": "Camping Supplies",
+    "content": "| Tent | £20 | Fits 2, Bulky. | . | Outdoor Comfort | £10 | Blanket, Hammock, etc. | . | Cooking Gear (Pots, Utensils) | £10 | Bulky. | . ",
+    "url": "/chime/resources/martel-rarities/#camping-supplies",
+    
+    "relUrl": "/resources/martel-rarities/#camping-supplies"
+  },"341": {
+    "doc": "Martel Rarities",
+    "title": "Consumables",
+    "content": "| Pack of Gum | £1 | Strong adhesive, Petty. | . | Canned Eel | £2 | Gives you bad memories of the canals back home. | . | Grog | £2 |   | . | Hot Pie | £5 | Made fresh from the finest pie stalls of the Lower City, two weeks ago. | . | Jellied Meat | £10 | Oddly Refreshing. | . | Pack of Cigarettes | £10 | Petty. | . ",
+    "url": "/chime/resources/martel-rarities/#consumables",
+    
+    "relUrl": "/resources/martel-rarities/#consumables"
+  },"342": {
+    "doc": "Martel Rarities",
+    "title": "Arms",
+    "content": "|   |   |   |   | . | Crude Weapons | £10 / £50 | d6 Bulky | Streetgun, Pitchfork, Felling Axe, Crossbow, Club, etc. | . | Hand Weapons | £50 / £200 | d6 | Pistol, Dagger, Sword, Baton, etc. | . | Field Weapons | £100 / £500 | d8 Bulky | Rifle, Claymore, Polearm, etc. | . | Noble Weapons | £500 / £1k | d8 | Duelling Pistol, Fine Rapier, Electric Baton, etc. | . ",
+    "url": "/chime/resources/martel-rarities/#arms",
+    
+    "relUrl": "/resources/martel-rarities/#arms"
+  },"343": {
+    "doc": "Martel Rarities",
+    "title": "Armor",
+    "content": "|   |   |   | . | Modern Armor | £1k | 1 AP | . | Crude Armor | £500 | 1 AP Bulky | . | Shield | £200 | +1 AP Bulky | . ",
+    "url": "/chime/resources/martel-rarities/#armor",
+    
+    "relUrl": "/resources/martel-rarities/#armor"
+  },"344": {
+    "doc": "Martel Rarities",
+    "title": "Explosives",
+    "content": "|   |   |   | . | Flash Bomb | £100 | Momentarily blinds anyone failing a DEX Save. | . | Petrol Bomb | £50 | Sets an are alight. d6 Ongoing. | . | Smoke Bomb | £100 | Fills a room with smoke. Attacks through smoke are Impaired. | . ",
+    "url": "/chime/resources/martel-rarities/#explosives",
+    
+    "relUrl": "/resources/martel-rarities/#explosives"
+  },"345": {
+    "doc": "Martel Rarities",
+    "title": "Martel Rarities",
+    "content": " ",
+    "url": "/chime/resources/martel-rarities/",
+    
+    "relUrl": "/resources/martel-rarities/"
+  },"346": {
     "doc": "Masked Horrorist",
     "title": "Masked Horrorist",
     "content": "Horrors rise from The Underground. We must make a friend of fear, and scare them back down. ",
     "url": "/chime/resources/failed-careers/masked-horrorist/",
     
     "relUrl": "/resources/failed-careers/masked-horrorist/"
-  },"326": {
+  },"347": {
     "doc": "Masked Horrorist",
     "title": "Sample Names",
     "content": ". | Bota | Lombina | Volter | Sonny | . ",
     "url": "/chime/resources/failed-careers/masked-horrorist/#sample-names",
     
     "relUrl": "/resources/failed-careers/masked-horrorist/#sample-names"
-  },"327": {
+  },"348": {
     "doc": "Masked Horrorist",
     "title": "You Start With:",
     "content": ". | Handcannon (d6, very loud). | Horrific Mask. | . ",
     "url": "/chime/resources/failed-careers/masked-horrorist/#you-start-with",
     
     "relUrl": "/resources/failed-careers/masked-horrorist/#you-start-with"
-  },"328": {
+  },"349": {
     "doc": "Masked Horrorist",
     "title": "What’s Your Mask?",
     "content": "|   |   | . | £2 | The Famine Machine: You can eat metal in place of food. | . | £4 | The Red Beast: You have the enhanced scent and hearing of a dog. | . | £6 | The Horned Child: When you make a demand, those that refuse it feel an intense (but harmless) pain. | . | £8 | The Iron Snake: If you eat a living thing whole you learn all that it has seen. | . | £10 | The Blank Mask: You cause no sound and leave no footprints. | . | £12 | The Grey Man: All living things understand your speech, but are under no obligation to cooperate. | . ",
     "url": "/chime/resources/failed-careers/masked-horrorist/#whats-your-mask",
     
     "relUrl": "/resources/failed-careers/masked-horrorist/#whats-your-mask"
-  },"329": {
+  },"350": {
     "doc": "Masked Horrorist",
     "title": "What About When You Take The Mask Off?",
     "content": "|   |   | . | 1HP | You can choose how your face appears each time you take it off. | . | 2HP | Animals take a disliking to your face. | . | 3HP | You had it surgically attached and can never take it off. | . | 4HP | You need to wear glasses to see well, but the mask lets you see fine. | . | 5HP | You’re mute when not wearing the mask. | . | 6HP | Your face is disfigured underneath. | . ",
     "url": "/chime/resources/failed-careers/masked-horrorist/#what-about-when-you-take-the-mask-off",
     
     "relUrl": "/resources/failed-careers/masked-horrorist/#what-about-when-you-take-the-mask-off"
-  },"330": {
+  },"351": {
     "doc": "Massifist of Massifcountry",
     "title": "Massifist of Massifcountry",
     "content": "Everything is big in Massifcountry. You stopped growing just below the ceiling. ",
     "url": "/chime/resources/failed-careers/massifist-of-massifcountry/",
     
     "relUrl": "/resources/failed-careers/massifist-of-massifcountry/"
-  },"331": {
+  },"352": {
     "doc": "Massifist of Massifcountry",
     "title": "Sample Names",
     "content": ". | Throngon | Paximart | Ulvulca | Jeckeride | . ",
     "url": "/chime/resources/failed-careers/massifist-of-massifcountry/#sample-names",
     
     "relUrl": "/resources/failed-careers/massifist-of-massifcountry/#sample-names"
-  },"332": {
+  },"353": {
     "doc": "Massifist of Massifcountry",
     "title": "You Start With:",
     "content": ". | Huge Fists (d6+d6 when unarmed) | Huge Body (copy your highest Attribute into STR) | . ",
     "url": "/chime/resources/failed-careers/massifist-of-massifcountry/#you-start-with",
     
     "relUrl": "/resources/failed-careers/massifist-of-massifcountry/#you-start-with"
-  },"333": {
+  },"354": {
     "doc": "Massifist of Massifcountry",
     "title": "What Big Thing Do You Have?",
     "content": "|   |   | . | £2 | Big Cauldron (Bulky). | . | £4 | Big Crossbow (d8, Bulky). | . | £6 | Big Armor (AP 1, Bulky). | . | £8 | Big Spoon (d8, Bulky). | . | £10 | Big Dog (6HP, d8 Bite). | . | £12 | Big Hammer (d8, Bulky). | . ",
     "url": "/chime/resources/failed-careers/massifist-of-massifcountry/#what-big-thing-do-you-have",
     
     "relUrl": "/resources/failed-careers/massifist-of-massifcountry/#what-big-thing-do-you-have"
-  },"334": {
+  },"355": {
     "doc": "Massifist of Massifcountry",
     "title": "How Have You Fitted In To Life Amongst The Small?",
     "content": "|   |   | . | 1HP | Unerringly Careful: You move in complete silence. | . | 2HP | Food and Medicine Tester: Ignore the effect of any toxins or poisons. | . | 3HP | Gravestone Carver: Take a Chisel and Brush. | . | 4HP | Wind Prodigy: You can play wind instruments without stopping for breath. Take an Oversized Clarinet. | . | 5HP | Clerk at Large: You know the fundamentals of bureaucracy. Take an Oversized Pen. | . | 6HP | Experimental Vocal Softening: Now you can only speak in a whisper. | . ",
     "url": "/chime/resources/failed-careers/massifist-of-massifcountry/#how-have-you-fitted-in-to-life-amongst-the-small",
     
     "relUrl": "/resources/failed-careers/massifist-of-massifcountry/#how-have-you-fitted-in-to-life-amongst-the-small"
-  },"335": {
+  },"356": {
     "doc": "Master Blender",
     "title": "Master Blender",
     "content": "Some sensory gifts allowed you to rapidly reach a lofty position. Prestigious within your trade, worth nothing outside. ",
     "url": "/chime/resources/failed-careers/master-blender/",
     
     "relUrl": "/resources/failed-careers/master-blender/"
-  },"336": {
+  },"357": {
     "doc": "Master Blender",
     "title": "Sample Names",
     "content": ". | Belth | Wakler | Grouze | Shulder | . ",
     "url": "/chime/resources/failed-careers/master-blender/#sample-names",
     
     "relUrl": "/resources/failed-careers/master-blender/#sample-names"
-  },"337": {
+  },"358": {
     "doc": "Master Blender",
     "title": "You Start With:",
     "content": ". | Stirring Oar (d6, Bulky). | . ",
     "url": "/chime/resources/failed-careers/master-blender/#you-start-with",
     
     "relUrl": "/resources/failed-careers/master-blender/#you-start-with"
-  },"338": {
+  },"359": {
     "doc": "Master Blender",
     "title": "Who Did You Blend For?",
     "content": "|   |   | . | £2 | The Jerkin &amp; Gherkin: Take a Jar of Pickled Brine. | . | £4 | United Reclaimed Fats: Take a Box of Suet. | . | £6 | The Condimentary: Take a Bottle of Fish Sauce. | . | £8 | Motherford’s Still: Take a Small Barrel of Factory Rum. | . | £10 | Masticatory Sensations: Take a Vial of Gum Flavoring. | . | £12 | Checkle’s Choice: Take a Tin of Cat Food. | . ",
     "url": "/chime/resources/failed-careers/master-blender/#who-did-you-blend-for",
     
     "relUrl": "/resources/failed-careers/master-blender/#who-did-you-blend-for"
-  },"339": {
+  },"360": {
     "doc": "Master Blender",
     "title": "What Went Wrong?",
     "content": "|   |   | . | 1HP | The Factory Sank Into The Underground: Take a Head-Lamp. | . | 2HP | You Interrupted The Vat Cleaning Process: Take a Curious Cat (5HP). | . | 3HP | There Were Irregularities With Your Batch: Your product is poisoned. | . | 4HP | Insects Overran Your Factory: Take another container filled with angry wasps. | . | 5HP | A Machine Took Your Job: Take a Human Union member badge. | . | 6HP | You Fell Into a Cooking Tank: Take serious burns and you always smell faintly of that substance. | . ",
     "url": "/chime/resources/failed-careers/master-blender/#what-went-wrong",
     
     "relUrl": "/resources/failed-careers/master-blender/#what-went-wrong"
-  },"340": {
+  },"361": {
     "doc": "Mendicant Mycologist",
     "title": "Mendicant Mycologist",
     "content": "Your passion for fungi was great. Less so for the strictures of your order. ",
     "url": "/chime/resources/failed-careers/mendicant-mycologist/",
     
     "relUrl": "/resources/failed-careers/mendicant-mycologist/"
-  },"341": {
+  },"362": {
     "doc": "Mendicant Mycologist",
     "title": "Sample Names",
     "content": ". | E.Q. Wintergarden | A.R. Clements | M.R.H. Wexler | F.F. Tommason | . ",
     "url": "/chime/resources/failed-careers/mendicant-mycologist/#sample-names",
     
     "relUrl": "/resources/failed-careers/mendicant-mycologist/#sample-names"
-  },"342": {
+  },"363": {
     "doc": "Mendicant Mycologist",
     "title": "You Start With:",
     "content": ". | Khukuri (d6). | Specimen Carrying Case. | Traditional Hat of Your Order (large mushroom cap with gills beneath). | . ",
     "url": "/chime/resources/failed-careers/mendicant-mycologist/#you-start-with",
     
     "relUrl": "/resources/failed-careers/mendicant-mycologist/#you-start-with"
-  },"343": {
+  },"364": {
     "doc": "Mendicant Mycologist",
     "title": "Why Did You Leave The Order?",
     "content": "|   |   | . | £2 | Kicked Out For Hygiene Breach: Take a Mould Infection. | . | £4 | You Broke the Vow of Solitude: Your spouse accompanies you (3HP, Stylish Coat). | . | £6 | You Saw Your Destiny in a Psychotropic Vision: Take a Pouch of Psychedelic Mushrooms. | . | £8 | Won The Lottery: Lost it all backing an ill advised expedition. Take a Map to Somewhere Strange. | . | £10 | You Developed a Fungus Allergy: Take a Pack of Disposable Gloves. Contact causes an irritating rash, leaving you Deprived until you see a specialist. | . | £12 | You Were Secretly Obsessed With Moss Instead: Take a Hidden Pouch of Salty Moss. It tastes delicious and re-grows in your pouch if you leave it damp. | . ",
     "url": "/chime/resources/failed-careers/mendicant-mycologist/#why-did-you-leave-the-order",
     
     "relUrl": "/resources/failed-careers/mendicant-mycologist/#why-did-you-leave-the-order"
-  },"344": {
+  },"365": {
     "doc": "Mendicant Mycologist",
     "title": "Which Rare Specimen Do You Still Have?",
     "content": "|   |   | . | 1HP | Ghostcap Mushroom: Glows in the presence of a recently killed person. | . | 2HP | Hypermushroom: Purely theoretical, exists in four dimensions. Eat to safely resolve a paradox. | . | 3HP | Lonely Dragon Knight: Large, touch cap. Fire resistant. Usable as a shield (+1 AP). | . | 4HP | Siege Morelle: Pest resistant, grows with ease on any surface. Tastes almost impossibly bland. | . | 5HP | Nightmare Amanita: Induces long sleep and horribly vivid nightmares. | . | 6HP | Moonsponge: Soaks in moonlight. Spills forth absorbed light when cut. | . ",
     "url": "/chime/resources/failed-careers/mendicant-mycologist/#which-rare-specimen-do-you-still-have",
     
     "relUrl": "/resources/failed-careers/mendicant-mycologist/#which-rare-specimen-do-you-still-have"
-  },"345": {
+  },"366": {
     "doc": "Mockery",
     "title": "Mockery",
     "content": "An imitation of life in felt, wood, and string. You don’t need to eat, drink, sleep, or love, but still feel the drives. ",
     "url": "/chime/resources/failed-careers/mockery/",
     
     "relUrl": "/resources/failed-careers/mockery/"
-  },"346": {
+  },"367": {
     "doc": "Mockery",
     "title": "Sample Names",
     "content": ". | Tremmer | Poggy | Sudo | Drenchit | . ",
     "url": "/chime/resources/failed-careers/mockery/#sample-names",
     
     "relUrl": "/resources/failed-careers/mockery/#sample-names"
-  },"347": {
+  },"368": {
     "doc": "Mockery",
     "title": "You Start With:",
     "content": ". | Hidden Knife (d6) | 3 Mock-bombs (d8 Small Blast) | . ",
     "url": "/chime/resources/failed-careers/mockery/#you-start-with",
     
     "relUrl": "/resources/failed-careers/mockery/#you-start-with"
-  },"348": {
+  },"369": {
     "doc": "Mockery",
     "title": "What Type of Mockery Are You?",
     "content": "|   |   | . | £2 | Mock Fox: Take a Leather Jacket. | . | £4 | Mock Badger: Take a Long Scarf. | . | £6 | Mock Lizard: Take a Monocle. | . | £8 | Mock Wallaby: Take a Pipe. | . | £10 | Mock Canary: Take a Miner’s Helmet. | . | £12 | Mock Hog: Take a Top Hat. | . ",
     "url": "/chime/resources/failed-careers/mockery/#what-type-of-mockery-are-you",
     
     "relUrl": "/resources/failed-careers/mockery/#what-type-of-mockery-are-you"
-  },"349": {
+  },"370": {
     "doc": "Mockery",
     "title": "What Do You Have a Theatrical Flair For?",
     "content": "|   |   | . | 1HP | Song and Dance: Take a Musical Instrument. | . | 2HP | Mechanical Workings: Take a Tool Kit. | . | 3HP | Burglary: Take a Mask and a Swag-Bag. | . | 4HP | Bureaucracy: Take an Adjustable Stapler. | . | 5HP | Cooking: Take a Roll of Tin-Foil. | . | 6HP | Smelling Lies: Take a Hard Stare. | . ",
     "url": "/chime/resources/failed-careers/mockery/#what-do-you-have-a-theatrical-flair-for",
     
     "relUrl": "/resources/failed-careers/mockery/#what-do-you-have-a-theatrical-flair-for"
-  },"350": {
+  },"371": {
     "doc": "Muddled Mixologist",
     "title": "Muddled Mixologist",
     "content": "One drink is too many. A thousand never enough. ",
     "url": "/chime/resources/failed-careers/muddled-mixologist/",
     
     "relUrl": "/resources/failed-careers/muddled-mixologist/"
-  },"351": {
+  },"372": {
     "doc": "Muddled Mixologist",
     "title": "Sample Names",
     "content": ". | Murphy | Dervish | Swinburne | Lill | . ",
     "url": "/chime/resources/failed-careers/muddled-mixologist/#sample-names",
     
     "relUrl": "/resources/failed-careers/muddled-mixologist/#sample-names"
-  },"352": {
+  },"373": {
     "doc": "Muddled Mixologist",
     "title": "You Start With:",
     "content": ". | Bottle of Fancy Spirit. | Bottle of Rotgut. | Excellent Bow Tie. | . ",
     "url": "/chime/resources/failed-careers/muddled-mixologist/#you-start-with",
     
     "relUrl": "/resources/failed-careers/muddled-mixologist/#you-start-with"
-  },"353": {
+  },"374": {
     "doc": "Muddled Mixologist",
     "title": "What Was Your Bar Known For?",
     "content": "|   |   | . | £2 | Flair: Take a Reinforced Throwing Glass and a Rubberised Practice Bottle. You know how to throw things; if really pushed, you could probably juggle. | . | £4 | Molecular Mixology: Take a Set of Tiny Syringes and a Specialised Foamer. You know enough basic chemistry to make almost any liquid into jelly. | . | £6 | Classics: Take a Copper Jigger and a Sturdy Muddler (d4). If pressed, you can recount the history of The City’s bars in a surprising amount of detail. | . | £8 | Tiki: Take a Pineapple and a Set of Eathernware Mugs. You can whittle a fancy animal garnish out of almost any fruit. | . | £10 | Obscure: Take a Leather-Wrapped Assortment of Tiny Bottles of Home-Made Bitters and Shrubs. You can pickle, preserve, or infuse virtually anything, given enough time. | . | £12 | Highly Illegal: Take a Small Assortment of mostly food-safe powders wrapped in paper. You can pull favors to get drugs if you must - only the fun ones, not the hard ones. | . ",
     "url": "/chime/resources/failed-careers/muddled-mixologist/#what-was-your-bar-known-for",
     
     "relUrl": "/resources/failed-careers/muddled-mixologist/#what-was-your-bar-known-for"
-  },"354": {
+  },"375": {
     "doc": "Muddled Mixologist",
     "title": "What Did You Manage To Bottle? (Take One Bottle)",
     "content": "|   |   | . | 1HP | Navigation: Black Rum, Orange Liqueur, Cacao Bitters. The drinker can always find their way home, no matter how drunk they get. | . | 2HP | Flaneur: Whisky, Red Vermouth, Amaro, Bitters. Liquid Elegance. | . | 3HP | Golden Serpent: Cinnamon liquer, gold leaf, fresh mint, apple juice, absinthe. Causes powerful hallucinations. | . | 4HP | Red Fireball: Sweet aniseed liqueur with wild strawberry moonshine. Highly flammable (d6). | . | 5HP | Corpse Reviver No. 23: Lemon, sweet wine, gin. Brings back the dead. Literally. One use. | . | 6HP | Pregabalin: Smoky, sweet and lemony. Just a very, very good drink. Definitely not a nerve agent. | . ",
     "url": "/chime/resources/failed-careers/muddled-mixologist/#what-did-you-manage-to-bottle-take-one-bottle",
     
     "relUrl": "/resources/failed-careers/muddled-mixologist/#what-did-you-manage-to-bottle-take-one-bottle"
-  },"355": {
+  },"376": {
     "doc": "Necro Engineer",
     "title": "Necro Engineer",
     "content": "Of all of The City’s industry, Corpses are produced faster than anything. Production on this scale calls for modern methods. ",
     "url": "/chime/resources/failed-careers/necro-engineer/",
     
     "relUrl": "/resources/failed-careers/necro-engineer/"
-  },"356": {
+  },"377": {
     "doc": "Necro Engineer",
     "title": "Sample Names",
     "content": ". | Do | Jincey | Gognon | Zephryne | . ",
     "url": "/chime/resources/failed-careers/necro-engineer/#sample-names",
     
     "relUrl": "/resources/failed-careers/necro-engineer/#sample-names"
-  },"357": {
+  },"378": {
     "doc": "Necro Engineer",
     "title": "You Start With:",
     "content": ". | Sombre Formal Wear. | Shovel. | . ",
     "url": "/chime/resources/failed-careers/necro-engineer/#you-start-with",
     
     "relUrl": "/resources/failed-careers/necro-engineer/#you-start-with"
-  },"358": {
+  },"379": {
     "doc": "Necro Engineer",
     "title": "How Did You Get Your Start In The Corpse Disposal Industry?",
     "content": "|   |   | . | £2 | Digging The Deepest Graves For Uncooperative Cadavers: Replace your Shovel with a Powered Grave-Burrower (d8, Bulky, extremely loud, tears through earth at alarming rate). | . | £4 | Professional Grave Visitor: You have a Lifetime Supply of Bouquets from a handful of The City’s florists. | . | £6 | Silencing Birdsong: Take a Pigeon-Gun (d6, Bulky). | . | £8 | Widow Tender: Take an Expandable Umbrella. | . | £10 | You Were Born In A Mausoleum: You can sense a corpse up to one room away. | . | £12 | Chasing Scavengers Away: One Barely-Domesticated Hyena (5HP, d6 Bite) stuck with you. | . ",
     "url": "/chime/resources/failed-careers/necro-engineer/#how-did-you-get-your-start-in-the-corpse-disposal-industry",
     
     "relUrl": "/resources/failed-careers/necro-engineer/#how-did-you-get-your-start-in-the-corpse-disposal-industry"
-  },"359": {
+  },"380": {
     "doc": "Necro Engineer",
     "title": "What Was Your Great Project? (You Couldn’t Get Funding)",
     "content": "|   |   | . | 1HP | The Incineration Dome: Take a Fire-Proof Protective Suit that fits over your formal wear. | . | 2HP | The Pyramid of Final Rest: You can tell the exact height and rough age of a building with a glance. | . | 3HP | The Feasting Garden: Take a Sack of Carrion Seed (irresistable to crows, vultures, and other scavenging birds). | . | 4HP | The Protein Reclamation Initiative: Take a Jar of Flavor-Masking Rub (makes anything palatable). | . | 5HP | The Eternal Cruise: Take a Morbidly Decorated Naval Captain’s Hat. | . | 6HP | The Star Burial: You feel that the Living Stars are taunting your failure. If left alone under starlight you are Deprived. | . ",
     "url": "/chime/resources/failed-careers/necro-engineer/#what-was-your-great-project-you-couldnt-get-funding",
     
     "relUrl": "/resources/failed-careers/necro-engineer/#what-was-your-great-project-you-couldnt-get-funding"
-  },"360": {
+  },"381": {
     "doc": "Newspaper Intern",
     "title": "Newspaper Intern",
     "content": "You were technically paid to write technically-non-lies. It never really got off the ground. ",
     "url": "/chime/resources/failed-careers/newspaper-intern/",
     
     "relUrl": "/resources/failed-careers/newspaper-intern/"
-  },"361": {
+  },"382": {
     "doc": "Newspaper Intern",
     "title": "Sample Names",
     "content": ". | Gurney | Dunker | Flindell | Shelina | . ",
     "url": "/chime/resources/failed-careers/newspaper-intern/#sample-names",
     
     "relUrl": "/resources/failed-careers/newspaper-intern/#sample-names"
-  },"362": {
+  },"383": {
     "doc": "Newspaper Intern",
     "title": "You Start With:",
     "content": ". | Notepad. | . ",
     "url": "/chime/resources/failed-careers/newspaper-intern/#you-start-with",
     
     "relUrl": "/resources/failed-careers/newspaper-intern/#you-start-with"
-  },"363": {
+  },"384": {
     "doc": "Newspaper Intern",
     "title": "What Was The Worst Story You Had To Cover?",
     "content": "|   |   | . | £2 | Local Lizard Races: Take a Slow, Disowned Lizard (2HP). | . | £4 | Escaped Swan: Take a Net. | . | £6 | Mine Collapse: Take a Canary in a Cage. | . | £8 | Snooker Tournament: Take a Flask of Very Strong Coffee. | . | £10 | Collapse Of Order At A Zoo: Take a Sack of Animal Feed. | . | £12 | Prison Riots: Take a Pack of Gum (bread flavored) and a Pair of Handcuffs. | . ",
     "url": "/chime/resources/failed-careers/newspaper-intern/#what-was-the-worst-story-you-had-to-cover",
     
     "relUrl": "/resources/failed-careers/newspaper-intern/#what-was-the-worst-story-you-had-to-cover"
-  },"364": {
+  },"385": {
     "doc": "Newspaper Intern",
     "title": "What Did You Take From The Press Office Before Your Internship Ended?",
     "content": "|   |   | . | 1HP | Paper-Boy that has nowhere else to go (DEX 15, 2HP) and blindly obeys you. | . | 2HP | Snubbed Shotgun (d6, +d6 at point blank range) from the editor’s office. | . | 3HP | Sabre (d6) owned by some famous revolutionary. | . | 4HP | Cricket Bat (d6 Bulky) signed by a disgraced general. | . | 5HP | Letter Opener (d6) and a Book of One-Hour-Delivery Stamps. | . | 6HP | Heavy Rod (d6, Bulky) from the printing press. | . ",
     "url": "/chime/resources/failed-careers/newspaper-intern/#what-did-you-take-from-the-press-office-before-your-internship-ended",
     
     "relUrl": "/resources/failed-careers/newspaper-intern/#what-did-you-take-from-the-press-office-before-your-internship-ended"
-  },"365": {
+  },"386": {
     "doc": "Noble In Waiting",
     "title": "Noble In Waiting",
     "content": "The chances of you actually inheriting your title are microscopic. You decided to take your fate into your own hands. ",
     "url": "/chime/resources/failed-careers/noble-in-waiting/",
     
     "relUrl": "/resources/failed-careers/noble-in-waiting/"
-  },"366": {
+  },"387": {
     "doc": "Noble In Waiting",
     "title": "Sample Names",
     "content": ". | Quith | Champ | Pursey | Frottescue | . ",
     "url": "/chime/resources/failed-careers/noble-in-waiting/#sample-names",
     
     "relUrl": "/resources/failed-careers/noble-in-waiting/#sample-names"
-  },"367": {
+  },"388": {
     "doc": "Noble In Waiting",
     "title": "You Start With:",
     "content": ". | Fire Poker (d6). | Fur Cloak. | . ",
     "url": "/chime/resources/failed-careers/noble-in-waiting/#you-start-with",
     
     "relUrl": "/resources/failed-careers/noble-in-waiting/#you-start-with"
-  },"368": {
+  },"389": {
     "doc": "Noble In Waiting",
     "title": "What Title Are You Due To Inherit?",
     "content": "|   |   | . | £2 | Arch-Hellion of Jules: Take a set of Ugly Red Armor (AP 1). | . | £4 | Metagon of Ram: Take an Ancestral Horn (curly and loud). | . | £6 | Inactor of Discave: Take a Fancy Spike-Rod (d8, Bulky) that is also a periscope. | . | £8 | Cryptor of Hyde: As a gift from your ancestors, you can ask any recently dead being one question, but they are only as cooperative as they were in life. | . | £10 | Faux-Reiner of Trave: Take a Box of Fancy Cigars and Bottle of Brandy. | . | £12 | Eminent-Raider of Ruther’s Ford: Take a Warhorse (7HP, d8 Trample). | . ",
     "url": "/chime/resources/failed-careers/noble-in-waiting/#what-title-are-you-due-to-inherit",
     
     "relUrl": "/resources/failed-careers/noble-in-waiting/#what-title-are-you-due-to-inherit"
-  },"369": {
+  },"390": {
     "doc": "Noble In Waiting",
     "title": "How Many People Must Die Before You Inherit?",
     "content": "|   |   | . | 1HP | Nobody Knows, so succession has turned into a bit of a free-for-all, and as such has drifted far from your family. | . | 2HP | Fourteen, and they’ve very far apart. | . | 3HP | Twelve, but you aren’t sure which twelve. | . | 4HP | Nine, and they’re incredibly powerful and unified against you. | . | 5HP | Eight, and their holdings are far from The City. | . | 6HP | Nobody. You technically hold this title, but the lands were utterly obliterated before you inherited. It isn’t on maps anymore. | . ",
     "url": "/chime/resources/failed-careers/noble-in-waiting/#how-many-people-must-die-before-you-inherit",
     
     "relUrl": "/resources/failed-careers/noble-in-waiting/#how-many-people-must-die-before-you-inherit"
-  },"370": {
+  },"391": {
     "doc": "Paid Fighter",
     "title": "Paid Fighter",
     "content": "You’ve been fighting for money. But not enough to get rich or especially tough. ",
     "url": "/chime/resources/failed-careers/paid-fighter/",
     
     "relUrl": "/resources/failed-careers/paid-fighter/"
-  },"371": {
+  },"392": {
     "doc": "Paid Fighter",
     "title": "Sample Names",
     "content": ". | Frax | Koane | Maker | Lorke | . ",
     "url": "/chime/resources/failed-careers/paid-fighter/#sample-names",
     
     "relUrl": "/resources/failed-careers/paid-fighter/#sample-names"
-  },"372": {
+  },"393": {
     "doc": "Paid Fighter",
     "title": "You Start With:",
     "content": ". | A Vicious Nickname. | . ",
     "url": "/chime/resources/failed-careers/paid-fighter/#you-start-with",
     
     "relUrl": "/resources/failed-careers/paid-fighter/#you-start-with"
-  },"373": {
+  },"394": {
     "doc": "Paid Fighter",
     "title": "What Type of Fighting Exactly?",
     "content": "|   |   | . | £2 | Brass Knuckle Boxing: Take Brass Knuckles (d6). | . | £4 | Bear Fighting: Take a Bristle Suit (anyone trying to maul or grapple you takes d6 damage). | . | £6 | Snake Duelling: Take a semi-trained attack snake (d6 Bite, causes d10 DEX loss on Critical Damage). | . | £8 | Ice Jousting: Take Ice Skates and Mini-Lance (d8 damage on charge only, otherwise useless). | . | £10 | Fake Martial Arts: Take an Exotic Outfit, and you know some fancy but ineffective moves (d6). | . | £12 | Power Saw Fencing: Take a Power Saw (d10, stutters on a roll of 1-2, requiring a Rest to fix). | . ",
     "url": "/chime/resources/failed-careers/paid-fighter/#what-type-of-fighting-exactly",
     
     "relUrl": "/resources/failed-careers/paid-fighter/#what-type-of-fighting-exactly"
-  },"374": {
+  },"395": {
     "doc": "Paid Fighter",
     "title": "What Got You Out Of The Game?",
     "content": "|   |   | . | 1HP | Faking Military Drafting: Take a Black Market Rifle (d8, permanently breaks on a roll of 1). | . | 2HP | You Shot Your Way Out: Take a Pistol (d6). | . | 3HP | Aiding Some Revolutionaries: Take a Bomb (d10 Blast). | . | 4HP | A Generous Benefactor: Take Smart Clothes. | . | 5HP | You Snuck Away: Take a Hooden Cloak. | . | 6HP | An Unappealing Injury: Your face is all messed up, and not in a cool way. | . ",
     "url": "/chime/resources/failed-careers/paid-fighter/#what-got-you-out-of-the-game",
     
     "relUrl": "/resources/failed-careers/paid-fighter/#what-got-you-out-of-the-game"
-  },"375": {
+  },"396": {
     "doc": "Park Steward",
     "title": "Park Steward",
     "content": "The City’s parks have grown out of hand. Yours was one of the worst. ",
     "url": "/chime/resources/failed-careers/park-steward/",
     
     "relUrl": "/resources/failed-careers/park-steward/"
-  },"376": {
+  },"397": {
     "doc": "Park Steward",
     "title": "Sample Names",
     "content": ". | Dimmock | Pentine | Ogtred | Mowbry | . ",
     "url": "/chime/resources/failed-careers/park-steward/#sample-names",
     
     "relUrl": "/resources/failed-careers/park-steward/#sample-names"
-  },"377": {
+  },"398": {
     "doc": "Park Steward",
     "title": "You Start With:",
     "content": ". | Machete (d6) | Overcoat. | . ",
     "url": "/chime/resources/failed-careers/park-steward/#you-start-with",
     
     "relUrl": "/resources/failed-careers/park-steward/#you-start-with"
-  },"378": {
+  },"399": {
     "doc": "Park Steward",
     "title": "What Was The Deal With Your Park?",
     "content": "|   |   | . | £2 | Overrun by Insect Swarms and you’re Allergic: If you’re ever stung by insect venom, lose d12 Dex. | . | £4 | Sank Into The Underground: Take a Very Bright Spot-Lamp. | . | £6 | Descended Into a War Zone: Take a Coil of Barbed Wire. | . | £8 | Flooded By Industrial Chemicals: Take Chemical-Proof Wading Boots. | . | £10 | Caught Fire and Never Stopped: Take a Fire Extinguisher (foam). | . | £12 | Taken Over By Wild Beasts: Take a Pouch of Predatory Animal Bait. | . ",
     "url": "/chime/resources/failed-careers/park-steward/#what-was-the-deal-with-your-park",
     
     "relUrl": "/resources/failed-careers/park-steward/#what-was-the-deal-with-your-park"
-  },"379": {
+  },"400": {
     "doc": "Park Steward",
     "title": "What Equipment Did You Bring?",
     "content": "|   |   | . | 1HP | Your Crossbow (d6, Bulky). | . | 2HP | A Bee Can (compressed bee-hive in a can, produces a small amount of honey or can be broken to release an angry swarm). | . | 3HP | A Shield (+1 AP, Bulky) salvaged from an old statue. | . | 4HP | A Flower Reference Book. | . | 5HP | Your Lucky Shovel. | . | 6HP | A Sack of Compost (Bulky). | . ",
     "url": "/chime/resources/failed-careers/park-steward/#what-equipment-did-you-bring",
     
     "relUrl": "/resources/failed-careers/park-steward/#what-equipment-did-you-bring"
-  },"380": {
+  },"401": {
     "doc": "Petty Officer",
     "title": "Petty Officer",
     "content": "You held a low office, but were moved to a special position. You kept your badge but don’t get paid, and have no authority. ",
     "url": "/chime/resources/failed-careers/petty-officer/",
     
     "relUrl": "/resources/failed-careers/petty-officer/"
-  },"381": {
+  },"402": {
     "doc": "Petty Officer",
     "title": "Sample Names",
     "content": ". | Lolly | Pigeon | Jackdus | Coopard | . ",
     "url": "/chime/resources/failed-careers/petty-officer/#sample-names",
     
     "relUrl": "/resources/failed-careers/petty-officer/#sample-names"
-  },"382": {
+  },"403": {
     "doc": "Petty Officer",
     "title": "You Start With:",
     "content": ". | Whistle. | Pack of Gum (Brick Flavored). | . ",
     "url": "/chime/resources/failed-careers/petty-officer/#you-start-with",
     
     "relUrl": "/resources/failed-careers/petty-officer/#you-start-with"
-  },"383": {
+  },"404": {
     "doc": "Petty Officer",
     "title": "What Position Did You Hold?",
     "content": "|   |   | . | £2 | Judicial Informer: Take Binoculars and Notepad. | . | £4 | Tardy Clocksman: Take a Clock Correcting Arm (d6) and Pocket Watch. | . | £6 | Sleeping Guard: Take Civilian Clothes and a Concealable Pistol (d6, very short range). | . | £8 | Grit Spreader: Take a Sack of Grit and a Shovel (d6). | . | £10 | Urchin Herder: Take a shin-stick (d6). | . | £12 | Moss-Cabinet Agent: Take a Moss Brush and Magnifying Glass. | . ",
     "url": "/chime/resources/failed-careers/petty-officer/#what-position-did-you-hold",
     
     "relUrl": "/resources/failed-careers/petty-officer/#what-position-did-you-hold"
-  },"384": {
+  },"405": {
     "doc": "Petty Officer",
     "title": "Where Did You Blow Your Last Pay Packet?",
     "content": "|   |   | . | 1HP | Dranter &amp; Chrone’s Bladder Emporium: Take a Set of Bagpipes. | . | 2HP | The Night Watchman: Take a set of Night-Vision Goggles. | . | 3HP | Louse &amp; Zoot’s Prank Shop: Take a Finger Trap. | . | 4HP | Wickerton’s Aromas: Take a Bread-Scented Candle. | . | 5HP | Hagar’s Pantry: Take a Novelty Jelly Mould and Pack of Geletin. | . | 6HP | New City Hygiene Museum: Take a Commemorative Rubber Duck. | . ",
     "url": "/chime/resources/failed-careers/petty-officer/#where-did-you-blow-your-last-pay-packet",
     
     "relUrl": "/resources/failed-careers/petty-officer/#where-did-you-blow-your-last-pay-packet"
-  },"385": {
+  },"406": {
     "doc": "Pie Smuggler",
     "title": "Pie Smuggler",
     "content": "Recent studies claim 68% of smuggled goods have been pastry-encased. Business was good, but word has spread too far. ",
     "url": "/chime/resources/failed-careers/pie-smuggler/",
     
     "relUrl": "/resources/failed-careers/pie-smuggler/"
-  },"386": {
+  },"407": {
     "doc": "Pie Smuggler",
     "title": "Sample Names",
     "content": ". | Shorcrumb | Filou | Flake | Socray | . ",
     "url": "/chime/resources/failed-careers/pie-smuggler/#sample-names",
     
     "relUrl": "/resources/failed-careers/pie-smuggler/#sample-names"
-  },"387": {
+  },"408": {
     "doc": "Pie Smuggler",
     "title": "You Start With:",
     "content": ". | Pie Tin. | Pie. | . ",
     "url": "/chime/resources/failed-careers/pie-smuggler/#you-start-with",
     
     "relUrl": "/resources/failed-careers/pie-smuggler/#you-start-with"
-  },"388": {
+  },"409": {
     "doc": "Pie Smuggler",
     "title": "What’s In Your Pie?",
     "content": "|   |   | . | £2 | Tiny Pistol (d6) and Rhubarb. | . | £4 | Tiny Stiletto (d6) and Onion. | . | £6 | Garrote (d6, silent) and Plum. | . | £8 | Tiny Bomb (d8 Blast) and Kidney. | . | £10 | Miniature Bottle of Cocount Rum and Mackeral. | . | £12 | Single Deadly Mushroom (instant death if even partially eaten) and Pigeon. | . ",
     "url": "/chime/resources/failed-careers/pie-smuggler/#whats-in-your-pie",
     
     "relUrl": "/resources/failed-careers/pie-smuggler/#whats-in-your-pie"
-  },"389": {
+  },"410": {
     "doc": "Pie Smuggler",
     "title": "What Was Your Last Bonus For Smuggling?",
     "content": "|   |   | . | 1HP | A Violent and Disobedient Dog (4HP, d8 Bite). | . | 2HP | A Steel Claw in place of a hand (d6, crushing). | . | 3HP | Bag of Marbles. | . | 4HP | Universal Ticket that gets you into any show in town (one use). | . | 5HP | An elaborate Smoking Pipe. | . | 6HP | A Fortune, now lost gambling. Take a Set of Dice. | . ",
     "url": "/chime/resources/failed-careers/pie-smuggler/#what-was-your-last-bonus-for-smuggling",
     
     "relUrl": "/resources/failed-careers/pie-smuggler/#what-was-your-last-bonus-for-smuggling"
-  },"390": {
+  },"411": {
     "doc": "Polar Bounty Hunter",
     "title": "Polar Bounty Hunter",
     "content": "The endless polar mists are a great place to hide. You did your best to bring the lost home, one way or another. ",
     "url": "/chime/resources/failed-careers/polar-bounty-hunter/",
     
     "relUrl": "/resources/failed-careers/polar-bounty-hunter/"
-  },"391": {
+  },"412": {
     "doc": "Polar Bounty Hunter",
     "title": "Sample Names",
     "content": ". | Podel | Vichler | Worfhand | Beegull | . ",
     "url": "/chime/resources/failed-careers/polar-bounty-hunter/#sample-names",
     
     "relUrl": "/resources/failed-careers/polar-bounty-hunter/#sample-names"
-  },"392": {
+  },"413": {
     "doc": "Polar Bounty Hunter",
     "title": "You Start With:",
     "content": ". | Pole Axe (d8, Bulky). | . ",
     "url": "/chime/resources/failed-careers/polar-bounty-hunter/#you-start-with",
     
     "relUrl": "/resources/failed-careers/polar-bounty-hunter/#you-start-with"
-  },"393": {
+  },"414": {
     "doc": "Polar Bounty Hunter",
     "title": "Just How Tough Are You?",
     "content": "|   |   | . | £2 | Take a Wolf (5HP, d6 Bite) that follows your every command. | . | £4 | Take an Adoring Follower (1HP, d6 Club). | . | £6 | You can Whistle loud enough to cut through any noise, and over vast distances. | . | £8 | You’re Immune to alcohol and other toxins. | . | £10 | If you pick up a container, you can Break It Open with just your hands and teeth. | . | £12 | Take an Eyepatch and a captivating story about how you got it. | . ",
     "url": "/chime/resources/failed-careers/polar-bounty-hunter/#just-how-tough-are-you",
     
     "relUrl": "/resources/failed-careers/polar-bounty-hunter/#just-how-tough-are-you"
-  },"394": {
+  },"415": {
     "doc": "Polar Bounty Hunter",
     "title": "What Power Did The Mist Grant You?",
     "content": "|   |   | . | 1HP | Fogwhisper: As long as you make eye contact with another, they can hear anything you whisper. | . | 2HP | Snowblood: You suffer no harm from extreme cold. | . | 3HP | Iceclap: You can extinguish small flames with a loud clap. | . | 4HP | Chillsight: You have white eyes, which people don’t like. | . | 5HP | Mistlung: You can always see your breath. | . | 6HP | Seathirst: You can only survive on saltwater. Freshwater doesn’t quench you. | . ",
     "url": "/chime/resources/failed-careers/polar-bounty-hunter/#what-power-did-the-mist-grant-you",
     
     "relUrl": "/resources/failed-careers/polar-bounty-hunter/#what-power-did-the-mist-grant-you"
-  },"395": {
+  },"416": {
     "doc": "Practicing Chemist",
     "title": "Practicing Chemist",
     "content": "A truly modern profession. And you’re almost qualified to do it. ",
     "url": "/chime/resources/failed-careers/practicing-chemist/",
     
     "relUrl": "/resources/failed-careers/practicing-chemist/"
-  },"396": {
+  },"417": {
     "doc": "Practicing Chemist",
     "title": "Sample Names",
     "content": ". | Zastra | Kraber | Smix | Sungeon | . ",
     "url": "/chime/resources/failed-careers/practicing-chemist/#sample-names",
     
     "relUrl": "/resources/failed-careers/practicing-chemist/#sample-names"
-  },"397": {
+  },"418": {
     "doc": "Practicing Chemist",
     "title": "You Start With:",
     "content": ". | Long Knife (d6). | Big Flask. | Test Tube. | . ",
     "url": "/chime/resources/failed-careers/practicing-chemist/#you-start-with",
     
     "relUrl": "/resources/failed-careers/practicing-chemist/#you-start-with"
-  },"398": {
+  },"419": {
     "doc": "Practicing Chemist",
     "title": "What’s In The Big Flask?",
     "content": "|   |   | . | £2 | Metal-Eating Acid - Has no effect on any other material. | . | £4 | Never-Melting Crushed Ice - Tastes faintly salty. | . | £6 | Anti-Water - Indistinguishable from water in every way, but deadly if a full mouthful is consumed. | . | £8 | Endo-Fluid - White slime that extinguishes anything up to a house fire when splashed around. | . | £10 | Sonic Oil - Emits a loud squeal when trodden on. Enough to spread over the floor of a normal-sized room. | . | £12 | Spark Eel Soup - After drinking the whole flask, your body has enough charge to power small devices or release a jolt of electricity (d8, ignore AP). | . ",
     "url": "/chime/resources/failed-careers/practicing-chemist/#whats-in-the-big-flask",
     
     "relUrl": "/resources/failed-careers/practicing-chemist/#whats-in-the-big-flask"
-  },"399": {
+  },"420": {
     "doc": "Practicing Chemist",
     "title": "What’s In The Test Tube?",
     "content": "|   |   | . | 1HP | Ultimate Solvent - Dissolves any matter it touches. Enough to dissolve a fist-sized amount. | . | 2HP | Cryo-Dust - Instantly freeze a bathtub-sized amount of water when poured in. | . | 3HP | Seeker’s Oil - When uncorked, seeps toward the nearest open flame (no matter the distance) and explodes upon touching it (d10 Blast). | . | 4HP | Absolute Adhesive - Permanently bonds any two surfaces together. | . | 5HP | Truth Serum - One dose. For the next minute the subject cannot knowingly lie, but is under no obligation to speak the truth. | . | 6HP | Fool’s Transmute - Enough to coat a fist-sized object. Makes mineral objects appear as gold. If chipped or damaged, they return to normal. | . ",
     "url": "/chime/resources/failed-careers/practicing-chemist/#whats-in-the-test-tube",
     
     "relUrl": "/resources/failed-careers/practicing-chemist/#whats-in-the-test-tube"
-  },"400": {
+  },"421": {
     "doc": "Prize Breeder",
     "title": "Prize Breeder",
     "content": "You had a small kennel of finely bred animals. Now you’re down to your last pair. ",
     "url": "/chime/resources/failed-careers/prize-breeder/",
     
     "relUrl": "/resources/failed-careers/prize-breeder/"
-  },"401": {
+  },"422": {
     "doc": "Prize Breeder",
     "title": "Sample Names",
     "content": ". | Sable | Wishaw | Shelton | Pallo | . ",
     "url": "/chime/resources/failed-careers/prize-breeder/#sample-names",
     
     "relUrl": "/resources/failed-careers/prize-breeder/#sample-names"
-  },"402": {
+  },"423": {
     "doc": "Prize Breeder",
     "title": "You Start With:",
     "content": ". | Male and Female Animal (see below). | Striking Rod (d6). | Chain and Collar of Suitable Size. | Cleaning Wax. | . ",
     "url": "/chime/resources/failed-careers/prize-breeder/#you-start-with",
     
     "relUrl": "/resources/failed-careers/prize-breeder/#you-start-with"
-  },"403": {
+  },"424": {
     "doc": "Prize Breeder",
     "title": "What Did You Breed?",
     "content": "|   |   | . | £2 | Fat Worms: A Full Jar. Extremely effective fish bait. Swap your chain and collar for fishing gear. | . | £4 | Military Pigeons (6HP, always follow orders). | . | £6 | Riding Dogs (5HP, d6 Bite, only suitable for children). | . | £8 | Lap-Crocodiles (3HP, d6 Bite, very needy). | . | £10 | Oil Ferrets (2HP, impossible to keep hold of). | . | £12 | Tiny Goats (2HP, d4 Butt, trained to go for the shins). | . ",
     "url": "/chime/resources/failed-careers/prize-breeder/#what-did-you-breed",
     
     "relUrl": "/resources/failed-careers/prize-breeder/#what-did-you-breed"
-  },"404": {
+  },"425": {
     "doc": "Prize Breeder",
     "title": "What Happened To Your Breeding Enterprise?",
     "content": "|   |   | . | 1HP | You and your bitter rival Took the Competition Too Far. Take a Firebomb (d6 damage, Ongoing). | . | 2HP | Something went wrong with your Radical Breeding Programme. Your mated pair are sterile, but the three of you share a psychic link. | . | 3HP | You just got Wanderlust. Take a Zoological Atlus. | . | 4HP | You made it big, Got Ideas Above Your Station, then lost it all. Take a Half-Empty Bottle of Expensive Whisky. | . | 5HP | Your Theories Were Too Controversial. Swap your Striking Rod for an Electro-Lash (d8, Bulky). | . | 6HP | You Were Scammed. Take £1k in Unconvincing Counterfeit Coins. | . ",
     "url": "/chime/resources/failed-careers/prize-breeder/#what-happened-to-your-breeding-enterprise",
     
     "relUrl": "/resources/failed-careers/prize-breeder/#what-happened-to-your-breeding-enterprise"
-  },"405": {
+  },"426": {
     "doc": "Professional Gambler",
     "title": "Professional Gambler",
     "content": "You know how to play well. And how to cheat even better. ",
     "url": "/chime/resources/failed-careers/professional-gambler/",
     
     "relUrl": "/resources/failed-careers/professional-gambler/"
-  },"406": {
+  },"427": {
     "doc": "Professional Gambler",
     "title": "Sample Names",
     "content": ". | Bushka | Bagger | Virgo | Lemon | . ",
     "url": "/chime/resources/failed-careers/professional-gambler/#sample-names",
     
     "relUrl": "/resources/failed-careers/professional-gambler/#sample-names"
-  },"407": {
+  },"428": {
     "doc": "Professional Gambler",
     "title": "You Start With:",
     "content": ". | Slug-gun (d6, very short range). | Pack of Gum (Cedar Flavored). | . ",
     "url": "/chime/resources/failed-careers/professional-gambler/#you-start-with",
     
     "relUrl": "/resources/failed-careers/professional-gambler/#you-start-with"
-  },"408": {
+  },"429": {
     "doc": "Professional Gambler",
     "title": "What’s Your Game?",
     "content": "|   |   | . | £2 | Street Snooker. Take a Cue (d6) and Waistcoat. | . | £4 | One-Card Bluff. Take a Pocket Full of Tiny Mirrors, that stick to any surface. | . | £6 | Gutter Dice. Take Two Pairs of Dice: one rigged, one honest. | . | £8 | Conkers. Take a Competition Conker-String and you know where all the best trees are. | . | £10 | Shoe-Throwing. You can throw shoe-like things really far with perfect accuracy. | . | £12 | Bird Darts. Take a Set of Darts (d4, +d8 against small flying things). | . ",
     "url": "/chime/resources/failed-careers/professional-gambler/#whats-your-game",
     
     "relUrl": "/resources/failed-careers/professional-gambler/#whats-your-game"
-  },"409": {
+  },"430": {
     "doc": "Professional Gambler",
     "title": "What Did You Win? (The Other Person Still Isn’t Happy About This)",
     "content": "|   |   | . | 1HP | Master Monocle. Can move any object through telekenesis, but more than a coin’s weight requires a CHA Save, or the monocle shatters. | . | 2HP | Ego-Mirror. A pocket mirror that reflects the most offensive version of whoever is looking in. | . | 3HP | Anti-Matter Key When placed in a keyhole, utterly annihilates the door and itself. | . | 4HP | Tiny Shield Generator. A rat-sized collar that creates a force-field (AP 3) around the tiny wearer. | . | 5HP | Gamma Tube. If broken, fires a green beam that causes d6 STR gain. The target grows 50% in size, and their physical attacks recieve +d10. If their STR would exceed 18 they can only act in rage. Any effects wear off when combat dies down. One use. | . | 6HP | Terror Salts. Awakens any creature from sleep or unconsciousness, but they flail and scream in terror for a few seconds first. They have no memory of this afterwards. | . ",
     "url": "/chime/resources/failed-careers/professional-gambler/#what-did-you-win-the-other-person-still-isnt-happy-about-this",
     
     "relUrl": "/resources/failed-careers/professional-gambler/#what-did-you-win-the-other-person-still-isnt-happy-about-this"
-  },"410": {
+  },"431": {
     "doc": "Public Nuisance",
     "title": "Public Nuisance",
     "content": "Something about you has always annoyed others. You can’t imagine what it is. ",
     "url": "/chime/resources/failed-careers/public-nuisance/",
     
     "relUrl": "/resources/failed-careers/public-nuisance/"
-  },"411": {
+  },"432": {
     "doc": "Public Nuisance",
     "title": "Sample Names",
     "content": ". | Harrick | Vasdene | Corley | Bagginton | . ",
     "url": "/chime/resources/failed-careers/public-nuisance/#sample-names",
     
     "relUrl": "/resources/failed-careers/public-nuisance/#sample-names"
-  },"412": {
+  },"433": {
     "doc": "Public Nuisance",
     "title": "You Start With:",
     "content": ". | Long Coat | Newspaper | . ",
     "url": "/chime/resources/failed-careers/public-nuisance/#you-start-with",
     
     "relUrl": "/resources/failed-careers/public-nuisance/#you-start-with"
-  },"413": {
+  },"434": {
     "doc": "Public Nuisance",
     "title": "What Exactly Do You Do?",
     "content": "|   |   | . | £2 | Dump Scavenger: Take a Pole-Hook (d6, Bulky). | . | £4 | Etiquette Enthusiast: Take a Stylish Defence Umbrella (d6, Bulky). | . | £6 | Tramspotter: Take a Leaning Stick (d6, Bulky). | . | £8 | Busybody: Take a Dagger (d6) and a Pair of Binoculars. | . | £10 | Uncivil Agitator: Take a Club (d6) and Firebomb (d6, Ongoing). | . | £12 | Vermin Nurturer: Take a Rod (d6) and Sack of Vermin Feed. | . ",
     "url": "/chime/resources/failed-careers/public-nuisance/#what-exactly-do-you-do",
     
     "relUrl": "/resources/failed-careers/public-nuisance/#what-exactly-do-you-do"
-  },"414": {
+  },"435": {
     "doc": "Public Nuisance",
     "title": "What’s Your Redeeming Feature?",
     "content": "|   |   | . | 1HP | Animals Love You, except for reptiles. | . | 2HP | You Know Somebody on every Borough Council. | . | 3HP | You’re a Mathematical Genius. | . | 4HP | You dabble in Alien Languages (you know d6 key phrases). | . | 5HP | You once Raised a Fortune for charity. You get some recognition, but other charities hound you. | . | 6HP | Majestic Hair, but it takes some work each morning. | . ",
     "url": "/chime/resources/failed-careers/public-nuisance/#whats-your-redeeming-feature",
     
     "relUrl": "/resources/failed-careers/public-nuisance/#whats-your-redeeming-feature"
-  },"415": {
+  },"436": {
     "doc": "Random Names",
     "title": "Random Names",
     "content": "|   |   |   | . | d100 | Name | Surname | . | 1 | Adair | Abbot | . | 2 | Alaric | Addyman | . | 3 | Alder | Ashwell | . | 4 | Amaris | Balfe | . | 5 | Anwen | Baxter | . | 6 | Arlo | Bevan | . | 7 | Ash | Beran | . | 8 | Aster | Blackwood | . | 9 | Ballad | Bowen | . | 10 | Barley | Brewer | . | 11 | Basil | Broder | . | 12 | Beatrix | Bukharin | . | 13 | Birch | Cadwallan | . | 14 | Bram | Carter | . | 15 | Briar | Cobb | . | 16 | Brook | Collier | . | 17 | Bryn | Cooper | . | 18 | Cai | Crowther | . | 19 | Callan | Dempsey | . | 20 | Carver | Dermody | . | 21 | Cedric | Domański | . | 22 | Cinder | Dymov | . | 23 | Cliff | Fairweather | . | 24 | Corin | Fedorov | . | 25 | Crow | Fletcher | . | 26 | Dain | Fuller | . | 27 | Darnel | Galen | . | 28 | Dax | Glinka | . | 29 | Dorian | Glover | . | 30 | Eira | Golubov | . | 31 | Elowen | Gradnik | . | 32 | Ember | Granger | . | 33 | Eon | Grobar | . | 34 | Evander | Halberg | . | 35 | Falcon | Harkin | . | 36 | Faris | Hlebar | . | 37 | Fern | Hromada | . | 38 | Finch | Horgan | . | 39 | Flint | Iliev | . | 40 | Freya | Ivanec | . | 41 | Gale | Joryn | . | 42 | Garen | Kamensk | . | 43 | Hazel | Kavanagh | . | 44 | Hemlock | Kovac | . | 45 | Idris | Kovalenko | . | 46 | Ivy | Kravec | . | 47 | Juniper | Krznar | . | 48 | Kael | Kuchar | . | 49 | Kavi | Kvasnikov | . | 50 | Keir | Lethbridge | . | 51 | Leif | Llewellyn | . | 52 | Liora | Locke | . | 53 | Lucan | Lovett | . | 54 | Lyra | Lukanov | . | 55 | Lysander | Maddox | . | 56 | Marius | Malinov | . | 57 | Marlowe | Marinov | . | 58 | Milo | Markov | . | 59 | Moss | Mason | . | 60 | Nazira | Melnik | . | 61 | Neria | Mercer | . | 62 | Noa | Milner | . | 63 | Nyx | Morozov | . | 64 | Onyx | Novak | . | 65 | Orla | Obradov | . | 66 | Pan | O’Callaghan | . | 67 | Patch | O’Farrell | . | 68 | Perran | O’Leary | . | 69 | Quill | Osipov | . | 70 | Rain | Pavlenko | . | 71 | Reed | Pekar | . | 72 | River | Petrov | . | 73 | Robin | Pisarev | . | 74 | Rowan | Powell | . | 75 | Rune | Price | . | 76 | Rush | Radoslav | . | 77 | Rye | Reeve | . | 78 | Sable | Rogov | . | 79 | Sage | Romanov | . | 80 | Selene | Rowanfield | . | 81 | Shade | Rybak | . | 82 | Silas | Sawyer | . | 83 | Sky | Shepherd | . | 84 | Soren | Shevchenko | . | 85 | Sparrow | Slater | . | 86 | Stellan | Smirnov | . | 87 | Stone | Sokolov | . | 88 | Storm | Tanner | . | 89 | Talon | Thatcher | . | 90 | Thistle | Tallow | . | 91 | Thorn | Vukovic | . | 92 | Thresh | Webb | . | 93 | Valen | Whitlock | . | 94 | Vesper | Wicklowe | . | 95 | Vex | Wightman | . | 96 | Willow | Wilkin | . | 97 | Winslow | Wright | . | 98 | Wisp | Wynne | . | 99 | Wren | Yarrow | . | 100 | Yarrow | Zidar | . ",
     "url": "/chime/resources/random-names/",
     
     "relUrl": "/resources/random-names/"
-  },"416": {
+  },"437": {
     "doc": "Random Traits",
     "title": "Random Traits",
     "content": " ",
     "url": "/chime/resources/random-traits/",
     
     "relUrl": "/resources/random-traits/"
-  },"417": {
+  },"438": {
     "doc": "Random Traits",
     "title": "Physique",
     "content": "|   |   |   |   | . | 1 | Athletic | 6 | Scrawny | . | 2 | Brawny | 7 | Short | . | 3 | Flabby | 8 | Statuesque | . | 4 | Lanky | 9 | Stout | . | 5 | Rugged | 10 | Towering | . ",
     "url": "/chime/resources/random-traits/#physique",
     
     "relUrl": "/resources/random-traits/#physique"
-  },"418": {
+  },"439": {
     "doc": "Random Traits",
     "title": "Skin",
     "content": "|   |   |   |   | . | 1 | Birthmarked | 6 | Soft | . | 2 | Marked | 7 | Tanned | . | 3 | Oily | 8 | Tattooed | . | 4 | Rosy | 9 | Weathered | . | 5 | Scarred | 10 | Webbed | . ",
     "url": "/chime/resources/random-traits/#skin",
     
     "relUrl": "/resources/random-traits/#skin"
-  },"419": {
+  },"440": {
     "doc": "Random Traits",
     "title": "Hair",
     "content": "|   |   |   |   | . | 1 | Bald | 6 | Long | . | 2 | Braided | 7 | Luxurious | . | 3 | Curly | 8 | Oily | . | 4 | Filthy | 9 | Wavy | . | 5 | Frizzy | 10 | Wispy | . ",
     "url": "/chime/resources/random-traits/#hair",
     
     "relUrl": "/resources/random-traits/#hair"
-  },"420": {
+  },"441": {
     "doc": "Random Traits",
     "title": "Face",
     "content": "|   |   |   |   | . | 1 | Bony | 6 | Perfect | . | 2 | Broken | 7 | Rakish | . | 3 | Chiseled | 8 | Sharp | . | 4 | Elongated | 9 | Square | . | 5 | Pale | 10 | Sunken | . ",
     "url": "/chime/resources/random-traits/#face",
     
     "relUrl": "/resources/random-traits/#face"
-  },"421": {
+  },"442": {
     "doc": "Random Traits",
     "title": "Speech",
     "content": "|   |   |   |   | . | 1 | Blunt | 6 | Gravelly | . | 2 | Booming | 7 | Precise | . | 3 | Cryptic | 8 | Squeaky | . | 4 | Droning | 9 | Stuttering | . | 5 | Formal | 10 | Whispery | . ",
     "url": "/chime/resources/random-traits/#speech",
     
     "relUrl": "/resources/random-traits/#speech"
-  },"422": {
+  },"443": {
     "doc": "Random Traits",
     "title": "Clothing",
     "content": "|   |   |   |   | . | 1 | Antique | 6 | Frayed | . | 2 | Bloody | 7 | Frumpy | . | 3 | Elegant | 8 | Livery | . | 4 | Filthy | 9 | Rancid | . | 5 | Foreign | 10 | Soiled | . ",
     "url": "/chime/resources/random-traits/#clothing",
     
     "relUrl": "/resources/random-traits/#clothing"
-  },"423": {
+  },"444": {
     "doc": "Random Traits",
     "title": "Virtue",
     "content": "|   |   |   |   | . | 1 | Ambitious | 6 | Honorable | . | 2 | Cautious | 7 | Humble | . | 3 | Courageous | 8 | Merciful | . | 4 | Disciplined | 9 | Serene | . | 5 | Gregarious | 10 | Tolerant | . ",
     "url": "/chime/resources/random-traits/#virtue",
     
     "relUrl": "/resources/random-traits/#virtue"
-  },"424": {
+  },"445": {
     "doc": "Random Traits",
     "title": "Vice",
     "content": "|   |   |   |   | . | 1 | Aggressive | 6 | Lazy | . | 2 | Bitter | 7 | Nervous | . | 3 | Craven | 8 | Rude | . | 4 | Deceitful | 9 | Vain | . | 5 | Greedy | 10 | Vengeful | . ",
     "url": "/chime/resources/random-traits/#vice",
     
     "relUrl": "/resources/random-traits/#vice"
-  },"425": {
+  },"446": {
     "doc": "Relationship Archetypes",
     "title": "Relationship Archetypes",
     "content": " ",
     "url": "/chime/resources/relationship-archetypes/",
     
     "relUrl": "/resources/relationship-archetypes/"
-  },"426": {
+  },"447": {
     "doc": "Relationship Archetypes",
     "title": "Ally",
     "content": "You are professional and amiable to your crew-mate. This is probably the default archetype. Examples: . | Wash and Kaylee. | Aragorn and Gandalf. | . ",
     "url": "/chime/resources/relationship-archetypes/#ally",
     
     "relUrl": "/resources/relationship-archetypes/#ally"
-  },"427": {
+  },"448": {
     "doc": "Relationship Archetypes",
     "title": "Adversary",
     "content": "If you have a significant problem with a crew-mate, you’re probably their adversary. This isn’t an excuse to be an asshole to other Players in the game, but it’s an opportunity for interesting and fair conflict within the game. Examples: . | Mal and Jayne. | Boromir and Aragorn. | . ",
     "url": "/chime/resources/relationship-archetypes/#adversary",
     
     "relUrl": "/resources/relationship-archetypes/#adversary"
-  },"428": {
+  },"449": {
     "doc": "Relationship Archetypes",
     "title": "Best Friend",
     "content": "You wouldn’t let your best friend go on an adventure without you. You’re there for each other, through thick and thin. Examples: . | Mal and Zoe. | Merry and Pippin. | . ",
     "url": "/chime/resources/relationship-archetypes/#best-friend",
     
     "relUrl": "/resources/relationship-archetypes/#best-friend"
-  },"429": {
+  },"450": {
     "doc": "Relationship Archetypes",
     "title": "Love",
     "content": "If both players are cool with it, two characters may be romantically interested in one another. If the relationship is one sided, Unrequited Love may be more applicable. Examples: . | Zoe and Wash. | Faramir and Éowyn. | . ",
     "url": "/chime/resources/relationship-archetypes/#love",
     
     "relUrl": "/resources/relationship-archetypes/#love"
-  },"430": {
+  },"451": {
     "doc": "Relationship Archetypes",
     "title": "Master / Henchmen",
     "content": "When you have a managerial vs. subservient relationship with another crew-mate, you probably fit a Master / Henchmen archetype. Examples: . | Mal and Wash. | Frodo and Sam. | . ",
     "url": "/chime/resources/relationship-archetypes/#master--henchmen",
     
     "relUrl": "/resources/relationship-archetypes/#master--henchmen"
-  },"431": {
+  },"452": {
     "doc": "Relationship Archetypes",
     "title": "Mentor / Mentee",
     "content": "When a parent, parent-figure, or mentor guies and shapes the life of a mentee, they fit the Mentor / Mentee archetype. Examples: . | Shepherd Book and River. | Gandalf and Frodo. | . ",
     "url": "/chime/resources/relationship-archetypes/#mentor--mentee",
     
     "relUrl": "/resources/relationship-archetypes/#mentor--mentee"
-  },"432": {
+  },"453": {
     "doc": "Relationship Archetypes",
     "title": "Rival",
     "content": "You are in competition with your rival. You might want the same woman, the most kills, or something weirder. Examples: . | Legolas and Gimli. | . ",
     "url": "/chime/resources/relationship-archetypes/#rival",
     
     "relUrl": "/resources/relationship-archetypes/#rival"
-  },"433": {
+  },"454": {
     "doc": "Relationship Archetypes",
     "title": "Sibling",
     "content": "Your first adventures were raiding your mother’s cookie jar together. Now you’re crew-mates. Examples: . | Simon and River. | Boromir and Faramir. | . ",
     "url": "/chime/resources/relationship-archetypes/#sibling",
     
     "relUrl": "/resources/relationship-archetypes/#sibling"
-  },"434": {
+  },"455": {
     "doc": "Relationship Archetypes",
     "title": "Unrequited Love",
     "content": "He’s just not that into you. If both players are cool with it, use this archetype to represent how you feel about a would-be suitor or ex-lover. Examples: . | Simon and Kaylee. | Aragorn and Éowyn. | . ",
     "url": "/chime/resources/relationship-archetypes/#unrequited-love",
     
     "relUrl": "/resources/relationship-archetypes/#unrequited-love"
-  },"435": {
+  },"456": {
     "doc": "Relationship Archetypes",
     "title": "Ward",
     "content": "You have a crew-mate that you look out for. It’s important to you that they survive. Examples: . | Frodo. | River. | . ",
     "url": "/chime/resources/relationship-archetypes/#ward",
     
     "relUrl": "/resources/relationship-archetypes/#ward"
-  },"436": {
+  },"457": {
     "doc": "Repressed Psychic",
     "title": "Repressed Psychic",
     "content": "It’s inside your head. You can’t hold it in any longer. ",
     "url": "/chime/resources/failed-careers/repressed-psychic/",
     
     "relUrl": "/resources/failed-careers/repressed-psychic/"
-  },"437": {
+  },"458": {
     "doc": "Repressed Psychic",
     "title": "Sample Names",
     "content": ". | Ural | Marlake | Yorris | Franson | . ",
     "url": "/chime/resources/failed-careers/repressed-psychic/#sample-names",
     
     "relUrl": "/resources/failed-careers/repressed-psychic/#sample-names"
-  },"438": {
+  },"459": {
     "doc": "Repressed Psychic",
     "title": "You Start With:",
     "content": ". | Glass Marbles. | . ",
     "url": "/chime/resources/failed-careers/repressed-psychic/#you-start-with",
     
     "relUrl": "/resources/failed-careers/repressed-psychic/#you-start-with"
-  },"439": {
+  },"460": {
     "doc": "Repressed Psychic",
     "title": "How Did You Try To Hide Your Power?",
     "content": "|   |   | . | £2 | Worked in a Distant Mine: Take a Pick-Axe (d6, Bulky). | . | £4 | You’ve Never Hidden: Take a Pistol (d6). | . | £6 | Drifted Alone on a River Raft: Take a Fishing Spear (d6). | . | £8 | Mercenary Enlistment: Take a Part-Broken Horse Rifle (d8, Bulky, breakfs forever one a 1). | . | £10 | Spiritual Pilgrimage: Take a Dagger (d6) and Growing Cynicism. | . | £12 | Blinding Yourself: Take a Cane (d6). | . ",
     "url": "/chime/resources/failed-careers/repressed-psychic/#how-did-you-try-to-hide-your-power",
     
     "relUrl": "/resources/failed-careers/repressed-psychic/#how-did-you-try-to-hide-your-power"
-  },"440": {
+  },"461": {
     "doc": "Repressed Psychic",
     "title": "What’s Your Hidden Power?",
     "content": "|   |   | . | 1HP | Magnetism over unheld metal objects, with the force of your own hand. | . | 2HP | Phase Through Walls or doors at will. If the wall is too thick, you don’t phase into it at all. | . | 3HP | You can Transfer Your Consciousness into a fresh corpse. Each time you undertake a stressful situation in your new body you must pass a WIL Save or return to your own body. | . | 4HP | You can Perfectly Predict coin tosses that other people make. | . | 5HP | You Appear Invisible to one person that you focus on. | . | 6HP | You can Sense The Motives of anyone you touch. | . ",
     "url": "/chime/resources/failed-careers/repressed-psychic/#whats-your-hidden-power",
     
     "relUrl": "/resources/failed-careers/repressed-psychic/#whats-your-hidden-power"
-  },"441": {
+  },"462": {
     "doc": "Repurposed Augmental",
     "title": "Repurposed Augmental",
     "content": "Mechanically adapted for a purpose you were unable to fulfill. You found a job somewhere else. ",
     "url": "/chime/resources/failed-careers/repurposed-augmental/",
     
     "relUrl": "/resources/failed-careers/repurposed-augmental/"
-  },"442": {
+  },"463": {
     "doc": "Repurposed Augmental",
     "title": "Sample Names",
     "content": ". | Ewes | Clarick | Ante | Casey | . ",
     "url": "/chime/resources/failed-careers/repurposed-augmental/#sample-names",
     
     "relUrl": "/resources/failed-careers/repurposed-augmental/#sample-names"
-  },"443": {
+  },"464": {
     "doc": "Repurposed Augmental",
     "title": "You Start With:",
     "content": ". | Mallet (d6). | . ",
     "url": "/chime/resources/failed-careers/repurposed-augmental/#you-start-with",
     
     "relUrl": "/resources/failed-careers/repurposed-augmental/#you-start-with"
-  },"444": {
+  },"465": {
     "doc": "Repurposed Augmental",
     "title": "What Was Your Job?",
     "content": "|   |   | . | £2 | Civic Planning: Take a Nice Jacket. | . | £4 | Electricity Station Labour: Take a Set of Rubberized Tongs. | . | £6 | Private Security: Take a Concealed Pistol (d6). | . | £8 | Personal Errands: Take an Umbrella. | . | £10 | Housekeeping: Take a Telescopic Brush. | . | £12 | Municipal Cleaning: Take a Broom. | . ",
     "url": "/chime/resources/failed-careers/repurposed-augmental/#what-was-your-job",
     
     "relUrl": "/resources/failed-careers/repurposed-augmental/#what-was-your-job"
-  },"445": {
+  },"466": {
     "doc": "Repurposed Augmental",
     "title": "How Are You Augmented?",
     "content": "|   |   | . | 1HP | Part-Metal Body: You always have at least AP 1. | . | 2HP | Bile Valve: You can spew Acid Spray (d6 Blast, ongoing) once per day. | . | 3HP | Chest Compartment: A barely visible seam in your chest can open up to discreetly store a first-sized object. | . | 4HP | Steel Jaw: You can bite through most anything you can fit in your mouth. | . | 5HP | Detachable Arms: They still function as you wish if removed. | . | 6HP | Remodelled Internals: You do not need to eat or breathe. | . ",
     "url": "/chime/resources/failed-careers/repurposed-augmental/#how-are-you-augmented",
     
     "relUrl": "/resources/failed-careers/repurposed-augmental/#how-are-you-augmented"
-  },"446": {
+  },"467": {
     "doc": "Resources",
     "title": "Resources",
     "content": " ",
     "url": "/chime/resources/",
     
     "relUrl": "/resources/"
-  },"447": {
+  },"468": {
     "doc": "Retail Therapist",
     "title": "Retail Therapist",
     "content": "You helped people spend money you had no hope of ever earning. None of it rubbed off on you. ",
     "url": "/chime/resources/failed-careers/retail-therapist/",
     
     "relUrl": "/resources/failed-careers/retail-therapist/"
-  },"448": {
+  },"469": {
     "doc": "Retail Therapist",
     "title": "Sample Names",
     "content": ". | Sleffy | Debbum | Frozer | Bloom | . ",
     "url": "/chime/resources/failed-careers/retail-therapist/#sample-names",
     
     "relUrl": "/resources/failed-careers/retail-therapist/#sample-names"
-  },"449": {
+  },"470": {
     "doc": "Retail Therapist",
     "title": "You Start With:",
     "content": ". | Self-Defense Shock-Prod (d6, on a 1 it requires recharging). | . ",
     "url": "/chime/resources/failed-careers/retail-therapist/#you-start-with",
     
     "relUrl": "/resources/failed-careers/retail-therapist/#you-start-with"
-  },"450": {
+  },"471": {
     "doc": "Retail Therapist",
     "title": "What Was Your Speciality?",
     "content": "|   |   | . | £2 | Clothes: You’re always exquisitely dressed. | . | £4 | Drinks: You can claim a free drink in most bars. | . | £6 | Offal: You can identify most organs. | . | £8 | Cigars: Smoke doesn’t bother you. | . | £10 | Luxury Pets: Take a chameleon (1HP). | . | £12 | Jewellery: You recognize fakes straight away. | . ",
     "url": "/chime/resources/failed-careers/retail-therapist/#what-was-your-speciality",
     
     "relUrl": "/resources/failed-careers/retail-therapist/#what-was-your-speciality"
-  },"451": {
+  },"472": {
     "doc": "Retail Therapist",
     "title": "Who Was Your Best Client?",
     "content": "|   |   | . | 1HP | A Military Officer: Take a Prototype Repeater-Pistol (d6 Blast, jams on a 1, requiring Specialist repair). | . | 2HP | A Paranoid Vault-Keeper: Take a Peeker-Lens (place against metal doors to see what’s on the other side in fuzzy vision). | . | 3HP | A Deep Country Feral King: Take a Clumsy But Ornate Sword (d8, Bulky). | . | 4HP | A Wild Ocean Treasure Hunter: Take a Returning Knife (d6, flies back into your hand with a whistle). | . | 5HP | A Washed-Up Stage Comedian: Take a Water-Squirting Flower. | . | 6HP | A Hygiene-Obsessed Millionaire: Take a Bottle of Universal Cleaning Fluid (cleans anything to a shine in no time at all). | . ",
     "url": "/chime/resources/failed-careers/retail-therapist/#who-was-your-best-client",
     
     "relUrl": "/resources/failed-careers/retail-therapist/#who-was-your-best-client"
-  },"452": {
+  },"473": {
     "doc": "Revolutionary Duelist",
     "title": "Revolutionary Duelist",
     "content": "You are the sword tip of change in The City. Sometimes change for its own sake. ",
     "url": "/chime/resources/failed-careers/revolutionary-duelist/",
     
     "relUrl": "/resources/failed-careers/revolutionary-duelist/"
-  },"453": {
+  },"474": {
     "doc": "Revolutionary Duelist",
     "title": "Sample Names",
     "content": ". | Eppay | Saybo | Foal | Geanne | . ",
     "url": "/chime/resources/failed-careers/revolutionary-duelist/#sample-names",
     
     "relUrl": "/resources/failed-careers/revolutionary-duelist/#sample-names"
-  },"454": {
+  },"475": {
     "doc": "Revolutionary Duelist",
     "title": "You Start With:",
     "content": ". | Puffy Clothes. | Mirror. | . ",
     "url": "/chime/resources/failed-careers/revolutionary-duelist/#you-start-with",
     
     "relUrl": "/resources/failed-careers/revolutionary-duelist/#you-start-with"
-  },"455": {
+  },"476": {
     "doc": "Revolutionary Duelist",
     "title": "What’s Your Weapon of Choice?",
     "content": "|   |   | . | £2 | Crow-Sword (d6, doubles as a crowbar). | . | £4 | Military-Fork (d8, Bulky). | . | £6 | Pointman’s Duelling Pistol (d8, requires a Rest to clean and reload). | . | £8 | Compound Bow (d6, silent). | . | £10 | Fixed-Rifle (does not function as a gun, but with included bayonet is d6, Bulky). | . | £12 | Claymore (d8, Bulky). | . ",
     "url": "/chime/resources/failed-careers/revolutionary-duelist/#whats-your-weapon-of-choice",
     
     "relUrl": "/resources/failed-careers/revolutionary-duelist/#whats-your-weapon-of-choice"
-  },"456": {
+  },"477": {
     "doc": "Revolutionary Duelist",
     "title": "What’s Your Flair?",
     "content": "|   |   | . | 1HP | You attempt a Fancy Finishing Move with your signature weapon for +d10 damage, but if it doesn’t cause Critical Damage then you take Critical Damage yourself. | . | 2HP | Take a pocket of Blinding Powder (DEX save or blinded for 1 turn. After use, you must contact your supplier for a free refill). | . | 3HP | Take a pack of Tiny Smoke Bombs (Make enough smoke for you to quickly dash away. After use, you must visit your supplier for a free refill). | . | 4HP | You can Hurl Your Weapon for d8 damage. If you roll an 8 the weapon is broken. | . | 5HP | You can Mimic Any Voice you hear, and use it mockingly. | . | 6HP | Take an Extra-Fancy Hat with a famous backstory. | . ",
     "url": "/chime/resources/failed-careers/revolutionary-duelist/#whats-your-flair",
     
     "relUrl": "/resources/failed-careers/revolutionary-duelist/#whats-your-flair"
-  },"457": {
+  },"478": {
     "doc": "Rollocker Club Alumni",
     "title": "Rollocker Club Alumni",
     "content": "Good times, fair play. School spirit! . ",
     "url": "/chime/resources/failed-careers/rollocker-club-alumni/",
     
     "relUrl": "/resources/failed-careers/rollocker-club-alumni/"
-  },"458": {
+  },"479": {
     "doc": "Rollocker Club Alumni",
     "title": "Sample Names",
     "content": ". | Willand | Gidiver | Feffle | Rocurd | . ",
     "url": "/chime/resources/failed-careers/rollocker-club-alumni/#sample-names",
     
     "relUrl": "/resources/failed-careers/rollocker-club-alumni/#sample-names"
-  },"459": {
+  },"480": {
     "doc": "Rollocker Club Alumni",
     "title": "You Start With:",
     "content": ". | Sports Bat (d6, Bulky). | Club Jacket. | . ",
     "url": "/chime/resources/failed-careers/rollocker-club-alumni/#you-start-with",
     
     "relUrl": "/resources/failed-careers/rollocker-club-alumni/#you-start-with"
-  },"460": {
+  },"481": {
     "doc": "Rollocker Club Alumni",
     "title": "What Did You Supposedly Study During Your Time As A Student?",
     "content": "|   |   | . | £2 | Take a set of unread Science textbooks. | . | £4 | Take a set of unread Fine Art textbooks. | . | £6 | Take a set of unread History textbooks. | . | £8 | Take a set of unread Engineering textbooks. | . | £10 | Take a set of unread Medicine textbooks. | . | £12 | Take a set of unreadBureaucracy textbooks. | . ",
     "url": "/chime/resources/failed-careers/rollocker-club-alumni/#what-did-you-supposedly-study-during-your-time-as-a-student",
     
     "relUrl": "/resources/failed-careers/rollocker-club-alumni/#what-did-you-supposedly-study-during-your-time-as-a-student"
-  },"461": {
+  },"482": {
     "doc": "Rollocker Club Alumni",
     "title": "What Did You Really Spend Your Time Doing?",
     "content": "|   |   | . | 1HP | Pratfalls: You can fall up to 20ft without harm. | . | 2HP | Pranking a Rival Club: Take a Smokebomb, a Stinkbomb, and a Firebomb (d6 damage each round until extinguished). | . | 3HP | Mixing Drinks: You know every cocktail recipe, and take a Bottle of Industrial Rum. | . | 4HP | You Don’t Remember: Take a Pig Dressed in Club Colors (4HP, d4 bite). | . | 5HP | Raiding Wine Cellars: Take a Bottle of Fortified Wine and you can see in the dark. | . | 6HP | Hazing Initiates: Take a Bottle of Ether. | . ",
     "url": "/chime/resources/failed-careers/rollocker-club-alumni/#what-did-you-really-spend-your-time-doing",
     
     "relUrl": "/resources/failed-careers/rollocker-club-alumni/#what-did-you-really-spend-your-time-doing"
-  },"462": {
+  },"483": {
     "doc": "Roof Crawler",
     "title": "Roof Crawler",
     "content": "There’s a lot of important work that goes on atop the roofs of The City. Yours is the more shadowy sort. ",
     "url": "/chime/resources/failed-careers/roof-crawler/",
     
     "relUrl": "/resources/failed-careers/roof-crawler/"
-  },"463": {
+  },"484": {
     "doc": "Roof Crawler",
     "title": "Sample Names",
     "content": ". | Gambrel | Mansard | Skillion | Dush | . ",
     "url": "/chime/resources/failed-careers/roof-crawler/#sample-names",
     
     "relUrl": "/resources/failed-careers/roof-crawler/#sample-names"
-  },"464": {
+  },"485": {
     "doc": "Roof Crawler",
     "title": "You Start With:",
     "content": ". | Padded Shoes. | . ",
     "url": "/chime/resources/failed-careers/roof-crawler/#you-start-with",
     
     "relUrl": "/resources/failed-careers/roof-crawler/#you-start-with"
-  },"465": {
+  },"486": {
     "doc": "Roof Crawler",
     "title": "What Did You Get Up To On The Roof?",
     "content": "|   |   | . | £2 | Murder: Take a Garotte (d6). | . | £4 | Tile Cracker: Take a Hammer (d6). | . | £6 | Gutter Unclogger: Take a Muck-Scoop (d6, Bulky). | . | £8 | Chimney Smoker: Take a Skewer (d6) and a Smoked Pigeon. | . | £10 | Lookout: Take a Pistol (d6). | . | £12 | Gargoyle Poacher: Take a Crowbar (d6). | . ",
     "url": "/chime/resources/failed-careers/roof-crawler/#what-did-you-get-up-to-on-the-roof",
     
     "relUrl": "/resources/failed-careers/roof-crawler/#what-did-you-get-up-to-on-the-roof"
-  },"466": {
+  },"487": {
     "doc": "Roof Crawler",
     "title": "Why Do You Shun The Streets?",
     "content": "|   |   | . | 1HP | Nobody understands your Roof Dialect. | . | 2HP | You hate the sound of Chewing. You are Deprived if somebody is chewing gum nearby. | . | 3HP | You had a catastrophic attempt at a Musical Career, and everybody remembers it. | . | 4HP | You’re Crowd-Phobic. You are Deprived while in a crowd. | . | 5HP | You are hiding from a Arranged Marriage. | . | 6HP | You have Reverse Vertigo. You are Deprived if you don’t get to roof-height at least once a day. | . ",
     "url": "/chime/resources/failed-careers/roof-crawler/#why-do-you-shun-the-streets",
     
     "relUrl": "/resources/failed-careers/roof-crawler/#why-do-you-shun-the-streets"
-  },"467": {
+  },"488": {
     "doc": "Rook Tamer",
     "title": "Rook Tamer",
     "content": "The corvids which flock around The City see everything. Luckily, they seem to like you. ",
     "url": "/chime/resources/failed-careers/rook-tamer/",
     
     "relUrl": "/resources/failed-careers/rook-tamer/"
-  },"468": {
+  },"489": {
     "doc": "Rook Tamer",
     "title": "Sample Names",
     "content": ". | Ellie | Wren | Jans | Allyn | . ",
     "url": "/chime/resources/failed-careers/rook-tamer/#sample-names",
     
     "relUrl": "/resources/failed-careers/rook-tamer/#sample-names"
-  },"469": {
+  },"490": {
     "doc": "Rook Tamer",
     "title": "You Start With:",
     "content": ". | Spike-pole (d6, Bulky). | 3 Pet Rooks (1HP, d4 Peck, flutters about). | . ",
     "url": "/chime/resources/failed-careers/rook-tamer/#you-start-with",
     
     "relUrl": "/resources/failed-careers/rook-tamer/#you-start-with"
-  },"470": {
+  },"491": {
     "doc": "Rook Tamer",
     "title": "What Visions Did The Rooks Show You?",
     "content": "|   |   | . | £2 | Visions of the Sky: Take a Pair of Gliding Wings that let you leap from rooftops and land safely. | . | £4 | Visions of the Dead: Take a Bottle of Formaldehyde. | . | £6 | Visions of Hidden Crimes: Take a Hoot on the End of a Rope. | . | £8 | Visions of Ruin: Take a Crowbar. | . | £10 | Visions of Smoke: Take a Face-Scarf. | . | £12 | Visions of Sickness: Take a Long Needle to lance your various boils. | . ",
     "url": "/chime/resources/failed-careers/rook-tamer/#what-visions-did-the-rooks-show-you",
     
     "relUrl": "/resources/failed-careers/rook-tamer/#what-visions-did-the-rooks-show-you"
-  },"471": {
+  },"492": {
     "doc": "Rook Tamer",
     "title": "Why Do The Rooks Trust You?",
     "content": "|   |   | . | 1HP | You Listen To Them: Take an Avian Dictionary that lets you translate their cawing. | . | 2HP | You Healed One of Them: Take a Bottle of Ether and a Needle and Thread. | . | 3HP | You Bring Them Shiny Things: Take a Flash Gold Necklace. | . | 4HP | You Live Among Them: Take A Dozen Ornamental Feathers. | . | 5HP | You Bring Them Carrion: Take a Human Hand in a Paper Bag. | . | 6HP | You Resemble Them: Your hands are replaced with Clumsy Prosthetics which resemble bird feet. | . ",
     "url": "/chime/resources/failed-careers/rook-tamer/#why-do-the-rooks-trust-you",
     
     "relUrl": "/resources/failed-careers/rook-tamer/#why-do-the-rooks-trust-you"
-  },"472": {
+  },"493": {
     "doc": "Rules",
     "title": "Rules",
     "content": " ",
     "url": "/chime/rules/",
     
     "relUrl": "/rules/"
-  },"473": {
+  },"494": {
     "doc": "Rural Tax Collector",
     "title": "Rural Tax Collector",
     "content": "You’ve spent more time than you care on the roads of Deep Country. Squinting at obsolete currencies was your life. ",
     "url": "/chime/resources/failed-careers/rural-tax-collector/",
     
     "relUrl": "/resources/failed-careers/rural-tax-collector/"
-  },"474": {
+  },"495": {
     "doc": "Rural Tax Collector",
     "title": "Sample Names",
     "content": ". | Pearl | Eyp | Dewie | Heritance | . ",
     "url": "/chime/resources/failed-careers/rural-tax-collector/#sample-names",
     
     "relUrl": "/resources/failed-careers/rural-tax-collector/#sample-names"
-  },"475": {
+  },"496": {
     "doc": "Rural Tax Collector",
     "title": "You Start With:",
     "content": ". | Taxman’s Pistol (d6, extremely loud). | . ",
     "url": "/chime/resources/failed-careers/rural-tax-collector/#you-start-with",
     
     "relUrl": "/resources/failed-careers/rural-tax-collector/#you-start-with"
-  },"476": {
+  },"497": {
     "doc": "Rural Tax Collector",
     "title": "What Did The Tax Office Provide You With?",
     "content": "|   |   | . | £2 | Can of Beast Repellent (enough for 3 uses, a Specialist refills it for free). | . | £4 | An Ornate Baton (d6, strikes fear into tax-dodgers). | . | £6 | A Shaggy Dog (4HP, d6 Bite). | . | £8 | Ceremonial Armor (AP 1, Bulky). | . | £10 | A Mock Ferret (1HP, knows two songs). | . | £12 | A Book of Simple Country Jokes. | . ",
     "url": "/chime/resources/failed-careers/rural-tax-collector/#what-did-the-tax-office-provide-you-with",
     
     "relUrl": "/resources/failed-careers/rural-tax-collector/#what-did-the-tax-office-provide-you-with"
-  },"477": {
+  },"498": {
     "doc": "Rural Tax Collector",
     "title": "What Do You Hate Most About The City?",
     "content": "|   |   | . | 1HP | Unionised Workers: Take a Membership Card for the Anti-Union Coalition. | . | 2HP | Bureaucracy: Take a Portable Shredder. | . | 3HP | People In General: Take an Enemies List. | . | 4HP | Organised Religion: If you participate in a religious ceremony without complaining, you are Deprived for the remainder of the day. | . | 5HP | Modern Clothes: You are Deprived if you are fashionably dressed. | . | 6HP | Pigeons: They hate you back. | . ",
     "url": "/chime/resources/failed-careers/rural-tax-collector/#what-do-you-hate-most-about-the-city",
     
     "relUrl": "/resources/failed-careers/rural-tax-collector/#what-do-you-hate-most-about-the-city"
-  },"478": {
+  },"499": {
     "doc": "Sanctioned Executioner",
     "title": "Sanctioned Executioner",
     "content": "You’ve done your time on firing squads. Now you’re allowed to do a little freelance work. ",
     "url": "/chime/resources/failed-careers/sanctioned-executioner/",
     
     "relUrl": "/resources/failed-careers/sanctioned-executioner/"
-  },"479": {
+  },"500": {
     "doc": "Sanctioned Executioner",
     "title": "Sample Names",
     "content": ". | Helmut | Dina | Erich | Dalia | . ",
     "url": "/chime/resources/failed-careers/sanctioned-executioner/#sample-names",
     
     "relUrl": "/resources/failed-careers/sanctioned-executioner/#sample-names"
-  },"480": {
+  },"501": {
     "doc": "Sanctioned Executioner",
     "title": "You Start With:",
     "content": ". | Rifle (d8, Bulky). | Killing License (one person per day, non-transferable). | . ",
     "url": "/chime/resources/failed-careers/sanctioned-executioner/#you-start-with",
     
     "relUrl": "/resources/failed-careers/sanctioned-executioner/#you-start-with"
-  },"481": {
+  },"502": {
     "doc": "Sanctioned Executioner",
     "title": "How Do You Live With Yourself?",
     "content": "|   |   | . | £2 | Socializing. Take a Bottle of Gin. | . | £4 | Poetry. Take a Book of Angst Prose. | . | £6 | Reminiscence. Take a Locket with a picture of a loved one taken from you. | . | £8 | Numbness. Take an Artificial Heart in place of your own. | . | £10 | Music. Take a Tortured Violin. | . | £12 | Philanthropy. Charitable organizations know you as a generous donor. | . ",
     "url": "/chime/resources/failed-careers/sanctioned-executioner/#how-do-you-live-with-yourself",
     
     "relUrl": "/resources/failed-careers/sanctioned-executioner/#how-do-you-live-with-yourself"
-  },"482": {
+  },"503": {
     "doc": "Sanctioned Executioner",
     "title": "What Was Your Bonus For Good Service?",
     "content": "|   |   | . | 1HP | Smart Arm. Your rifle is also intelligent, communicating physically to whoever is holding it. It functions as a normal weapon and gives smart advice. Once per day it grants +d10 to an attack that particularly pleases it, but it can Impair attacks that displease it any time it likes. Roll 1d6 to find its personality: 1 Honorable, 2 Ambititous, 3 Bloodthirsty, 4 Curious, 5 Pacifist, 6 Bored. | . | 2HP | Rail Lens. Any missile fired through this lens (breaking it) accelerates to impossible speeds, causing d12 Blast Damage and tearing through structures. | . | 3HP | Star-Beacon A heavy tyre-sized metal beacon (requires two people to carry) with a matching pin-badge. Pushing the badge teleports the wearer back to the beacon. | . | 4HP | Time Tonic. Sends you out of sync with reality for around ten seconds. You can act as normal,but when the tonic wears off, time snaps back to the point before you drank and all actions are undone. One use, even after snapping back in time. | . | 5HP | Stick Eye. A glass eye on a stick that the holder can see through. | . | 6HP | Threatening Stave. Has no function, but glows and vibrates in a way that suggests it could be used for distributing extreme pain. | . ",
     "url": "/chime/resources/failed-careers/sanctioned-executioner/#what-was-your-bonus-for-good-service",
     
     "relUrl": "/resources/failed-careers/sanctioned-executioner/#what-was-your-bonus-for-good-service"
-  },"483": {
+  },"504": {
     "doc": "Science Mystic",
     "title": "Science Mystic",
     "content": "The past was nothing but lies. There is hidden truth in these modern ways. ",
     "url": "/chime/resources/failed-careers/science-mystic/",
     
     "relUrl": "/resources/failed-careers/science-mystic/"
-  },"484": {
+  },"505": {
     "doc": "Science Mystic",
     "title": "Sample Names",
     "content": ". | Brunder | Loeb | Formosa | Lyonelle | . ",
     "url": "/chime/resources/failed-careers/science-mystic/#sample-names",
     
     "relUrl": "/resources/failed-careers/science-mystic/#sample-names"
-  },"485": {
+  },"506": {
     "doc": "Science Mystic",
     "title": "You Start With:",
     "content": ". | Ceramic Staff (d6, Bulky, non-reactive to chemicals). | Glue. | Solvent. | . ",
     "url": "/chime/resources/failed-careers/science-mystic/#you-start-with",
     
     "relUrl": "/resources/failed-careers/science-mystic/#you-start-with"
-  },"486": {
+  },"507": {
     "doc": "Science Mystic",
     "title": "Where Is The Truth Hidden?",
     "content": "|   |   | . | £2 | In The Electric Lamps: Take a Multi-Setting Lamp. | . | £4 | In Ether-Induced Sleep: Take two Doses of Ether. | . | £6 | In Patterns of Corrosion: Take two Flasks of Acid. | . | £8 | In Magnetism: Take a Very Strong Magnet. | . | £10 | In Hidden Sounds: Take a Sound Amplifier (handheld, allows you to hear very faint sounds). | . | £12 | In Tension Formulae: Take a Variety of Springs. | . ",
     "url": "/chime/resources/failed-careers/science-mystic/#where-is-the-truth-hidden",
     
     "relUrl": "/resources/failed-careers/science-mystic/#where-is-the-truth-hidden"
-  },"487": {
+  },"508": {
     "doc": "Science Mystic",
     "title": "What Have You Foreseen?",
     "content": "|   |   | . | 1HP | Our Bodies Are Destined To Be Cast Aside: Take a Mechanical Hand. | . | 2HP | The End Is Nigh: Take a Bottle of Absinthe. | . | 3HP | Humanity Is Not In Control Of The City: Take an Othergauge (syringe that glows when filled with non-human blood). | . | 4HP | Our Eyes Cannot Be Trusted: Take a Blindfold. | . | 5HP | The Star Men Will Come For Us: Take a Star Symbol. | . | 6HP | There Is Power In Our Minds: Take a Useless Pink Crystal. | . ",
     "url": "/chime/resources/failed-careers/science-mystic/#what-have-you-foreseen",
     
     "relUrl": "/resources/failed-careers/science-mystic/#what-have-you-foreseen"
-  },"488": {
+  },"509": {
     "doc": "Session Summaries",
     "title": "Session Summaries",
     "content": " ",
     "url": "/chime/campaign-info/session-summaries/",
     
     "relUrl": "/campaign-info/session-summaries/"
-  },"489": {
+  },"510": {
     "doc": "Sky Trooper",
     "title": "Sky Trooper",
     "content": "Your training was so intense that the academy closed after graduation. Now there is no mission, but you still have your gear. ",
     "url": "/chime/resources/failed-careers/sky-trooper/",
     
     "relUrl": "/resources/failed-careers/sky-trooper/"
-  },"490": {
+  },"511": {
     "doc": "Sky Trooper",
     "title": "Sample Names",
     "content": ". | Teekay | Forth | Tooey | Wun | . ",
     "url": "/chime/resources/failed-careers/sky-trooper/#sample-names",
     
     "relUrl": "/resources/failed-careers/sky-trooper/#sample-names"
-  },"491": {
+  },"512": {
     "doc": "Sky Trooper",
     "title": "You Start With:",
     "content": ". | Cutlass (d6). | Glider-Wings (decent for gliding, unsuitable for flight). | Uniform. | . ",
     "url": "/chime/resources/failed-careers/sky-trooper/#you-start-with",
     
     "relUrl": "/resources/failed-careers/sky-trooper/#you-start-with"
-  },"492": {
+  },"513": {
     "doc": "Sky Trooper",
     "title": "How Cool Is Your Uniform?",
     "content": "|   |   | . | £2 | It has your Name in Rhinestones across the back. | . | £4 | It has Mirrored Panels. | . | £6 | It has Armor (AP 1) and a Masked Helmet. | . | £8 | It has an Ultra-Fancy Belt Buckle. | . | £10 | It has a Cape. | . | £12 | It has Tassels. | . ",
     "url": "/chime/resources/failed-careers/sky-trooper/#how-cool-is-your-uniform",
     
     "relUrl": "/resources/failed-careers/sky-trooper/#how-cool-is-your-uniform"
-  },"493": {
+  },"514": {
     "doc": "Sky Trooper",
     "title": "What’s In Your Hidden Pouch?",
     "content": "|   |   | . | 1HP | A Flash Bomb (dazzles anyone that doesn’t avert their eyes for one turn). | . | 2HP | Glow-Dust (spread over an item to cause it to glow brightly for an hour). | . | 3HP | A Pen that can fire a single shot (d6). | . | 4HP | A Poison Capsule. | . | 5HP | 1 Metre roll of Unbreakable Wire. | . | 6HP | A Very Loud Whistle. | . ",
     "url": "/chime/resources/failed-careers/sky-trooper/#whats-in-your-hidden-pouch",
     
     "relUrl": "/resources/failed-careers/sky-trooper/#whats-in-your-hidden-pouch"
-  },"494": {
+  },"515": {
     "doc": "Small Town Refugee",
     "title": "Small Town Refugee",
     "content": "Your Deep Country home was awful. Finally, the railway came, and you headed to The City. ",
     "url": "/chime/resources/failed-careers/small-town-refugee/",
     
     "relUrl": "/resources/failed-careers/small-town-refugee/"
-  },"495": {
+  },"516": {
     "doc": "Small Town Refugee",
     "title": "Sample Names",
     "content": ". | Vorgel | Brassica | Pastina | Katskeen | . ",
     "url": "/chime/resources/failed-careers/small-town-refugee/#sample-names",
     
     "relUrl": "/resources/failed-careers/small-town-refugee/#sample-names"
-  },"496": {
+  },"517": {
     "doc": "Small Town Refugee",
     "title": "You Start With:",
     "content": ". | Whittling Knife (d6). | Outdated Clothes. | Sandwich Box. | . ",
     "url": "/chime/resources/failed-careers/small-town-refugee/#you-start-with",
     
     "relUrl": "/resources/failed-careers/small-town-refugee/#you-start-with"
-  },"497": {
+  },"518": {
     "doc": "Small Town Refugee",
     "title": "What Was So Bad About Your Town?",
     "content": "|   |   | . | £2 | Bird Smell: Giant Birds preyed on your people. You spent a year in their nest and nothing can get the scent out. All birds see you as food. | . | £4 | Horse Addict: They onle ate horse, but now you can’t live without it. If you go a day without drinking horse milk or eating horse meat, you are Deprived. | . | £6 | Lost Dialect: It was just you and your immediate family, and you spoke your own dialect that’s barely understandable by everyone else. Get good at hand gestures and repeating yourself. | . | £8 | Pig Soul: The village church insisted you follow the governance of the town’s oldest pig. You can sort-of-communicate with pigs, but hold disdain for all other animals. | . | £10 | Yokel Magnet: Bearded warriors riding twisted man-steeds drove your entire town to flee to The City. You’ll keep bumping into other yokels from back home and they want to cling to you. | . | £12 | Human Cattle: You spent your life sat in fields, eating happily, unaware that the local monks were fattening you up to be eaten. Take a Can of Gruel. | . ",
     "url": "/chime/resources/failed-careers/small-town-refugee/#what-was-so-bad-about-your-town",
     
     "relUrl": "/resources/failed-careers/small-town-refugee/#what-was-so-bad-about-your-town"
-  },"498": {
+  },"519": {
     "doc": "Small Town Refugee",
     "title": "What’s Your Family Heirloom?",
     "content": "|   |   | . | 1HP | A Fighting Rooster (STR 5, 6HP, d4 Claws). | . | 2HP | Old Military Uniform. | . | 3HP | Lucky Frog (just a frog). | . | 4HP | Huge Marrow with wheelbarrow. | . | 5HP | Competition-winning Conker. | . | 6HP | Pumpkin carved into a very good likeness of a family member. | . ",
     "url": "/chime/resources/failed-careers/small-town-refugee/#whats-your-family-heirloom",
     
     "relUrl": "/resources/failed-careers/small-town-refugee/#whats-your-family-heirloom"
-  },"499": {
+  },"520": {
     "doc": "Squidbagger",
     "title": "Squidbagger",
     "content": "70% of The City’s products contain cephalapod-derived parts. According to these studies, you keep The City running. ",
     "url": "/chime/resources/failed-careers/squidbagger/",
     
     "relUrl": "/resources/failed-careers/squidbagger/"
-  },"500": {
+  },"521": {
     "doc": "Squidbagger",
     "title": "Sample Names",
     "content": ". | Otto | Seffee | Krayker | Polpene | . ",
     "url": "/chime/resources/failed-careers/squidbagger/#sample-names",
     
     "relUrl": "/resources/failed-careers/squidbagger/#sample-names"
-  },"501": {
+  },"522": {
     "doc": "Squidbagger",
     "title": "You Start With:",
     "content": ". | Squid Hook (d6, Bulky). | . ",
     "url": "/chime/resources/failed-careers/squidbagger/#you-start-with",
     
     "relUrl": "/resources/failed-careers/squidbagger/#you-start-with"
-  },"502": {
+  },"523": {
     "doc": "Squidbagger",
     "title": "What Always Accompanied You To Sea?",
     "content": "|   |   | . | £2 | A Cute But Violent Otter (4HP, d4 Bite). | . | £4 | A Sea-Frog (1HP, can croak a simple tune). | . | £6 | A Monkey-Crab (4HP, d6 Claws, excellent climber). | . | £8 | A Salt-Snake (2HP, d4 Bite and paralysis on Critical Damage). | . | £10 | A Friend-Urchin (1HP, irritating but harmless spines, hums comfortingly). | . | £12 | A Large but Pacifist Seagull (5HP). | . ",
     "url": "/chime/resources/failed-careers/squidbagger/#what-always-accompanied-you-to-sea",
     
     "relUrl": "/resources/failed-careers/squidbagger/#what-always-accompanied-you-to-sea"
-  },"503": {
+  },"524": {
     "doc": "Squidbagger",
     "title": "What Did You Always Want To Do Instead?",
     "content": "|   |   | . | 1HP | You Live For Squidbagging: Replace your Hook with a Prototype Cephalopole (d6, Bulky, +d8 against anything with tentacles). | . | 2HP | Be a Boxer: Take a Skipping Rope and Gloves. | . | 3HP | Be a Dentist: Take Pliers and Bottle of Ether. | . | 4HP | Be a Fortune Teller: Take a Deck of Cosmic Tarot, but your don’t really understand it. | . | 5HP | Fight in The War: Take a Fake Military Uniform and Rank. | . | 6HP | Be a Poet: Take a Book of Bad Sonnets. | . ",
     "url": "/chime/resources/failed-careers/squidbagger/#what-did-you-always-want-to-do-instead",
     
     "relUrl": "/resources/failed-careers/squidbagger/#what-did-you-always-want-to-do-instead"
-  },"504": {
+  },"525": {
     "doc": "Star Blessed",
     "title": "Star Blessed",
     "content": "You don’t just worship the Living Stars. One of them has gifted you. ",
     "url": "/chime/resources/failed-careers/star-blessed/",
     
     "relUrl": "/resources/failed-careers/star-blessed/"
-  },"505": {
+  },"526": {
     "doc": "Star Blessed",
     "title": "Sample Names",
     "content": ". | Pollux | Vega | Rigella | Hamal | . ",
     "url": "/chime/resources/failed-careers/star-blessed/#sample-names",
     
     "relUrl": "/resources/failed-careers/star-blessed/#sample-names"
-  },"506": {
+  },"527": {
     "doc": "Star Blessed",
     "title": "You Start With:",
     "content": ". | Mace (d6). | Ceremonial Headband. | . ",
     "url": "/chime/resources/failed-careers/star-blessed/#you-start-with",
     
     "relUrl": "/resources/failed-careers/star-blessed/#you-start-with"
-  },"507": {
+  },"528": {
     "doc": "Star Blessed",
     "title": "What Was Your Duty Within The Star-Blessed Union?",
     "content": "|   |   | . | £2 | Preacher: Take a Star Book. | . | £4 | Bell Ringer: You can climb robes really fast. | . | £6 | Sacrificial Executioner: Swap your Mace for an Executioner’s Bludgeon (d8, Bulky). | . | £8 | Observer: Take a Telescope and Flask of Chicken Broth. | . | £10 | Flagellant: Take a Whip (d6) and Lash Marks. | . | £12 | Cook: Take a Cleaver (d6) and Mass-Catering Certificate. | . ",
     "url": "/chime/resources/failed-careers/star-blessed/#what-was-your-duty-within-the-star-blessed-union",
     
     "relUrl": "/resources/failed-careers/star-blessed/#what-was-your-duty-within-the-star-blessed-union"
-  },"508": {
+  },"529": {
     "doc": "Star Blessed",
     "title": "What’s Your Star Gift?",
     "content": "|   |   | . | 1HP | Broken Basilisk Symbol: Two pieces of an Eye-Like Symbol Set in Lead. Anyone holding the pieces together while looking at it loses d20 CHA. | . | 2HP | Wild Tongue: You can talk with any living thing, but what they tell you might not make sense. | . | 3HP | Noble Tumor: This visible growth absorbs the next harmful effect to enter your body, whether poison, parasite, curse, or otherwise, before dropping off and turning to dust. | . | 4HP | Alien Bone: Looks like a Wishbone, but if broken sends out a psychic wave of pain to all within. 10m. (d20 CHA loss). | . | 5HP | Air-Sac: A membranous sac on your chest that you can inflate to 2m in diameter. Your lungs can draw on the air within, but remember the inflated sac floats. | . | 6HP | Saucer Burn: Tingles in the presence of artificial light. You can will yourself to levitate slowly towards the light. | . ",
     "url": "/chime/resources/failed-careers/star-blessed/#whats-your-star-gift",
     
     "relUrl": "/resources/failed-careers/star-blessed/#whats-your-star-gift"
-  },"509": {
+  },"530": {
     "doc": "Street Judge",
     "title": "Street Judge",
     "content": "The City has so many courts, the whole city is effectively legal ground. With questionable credentials, you dealt with street quarrels. ",
     "url": "/chime/resources/failed-careers/street-judge/",
     
     "relUrl": "/resources/failed-careers/street-judge/"
-  },"510": {
+  },"531": {
     "doc": "Street Judge",
     "title": "Sample Names",
     "content": ". | Flinch | Todor | Bogey | Flare | . ",
     "url": "/chime/resources/failed-careers/street-judge/#sample-names",
     
     "relUrl": "/resources/failed-careers/street-judge/#sample-names"
-  },"511": {
+  },"532": {
     "doc": "Street Judge",
     "title": "You Start With:",
     "content": ". | Martial-Gavel (d6). | Book of Laws (incomplete). | . ",
     "url": "/chime/resources/failed-careers/street-judge/#you-start-with",
     
     "relUrl": "/resources/failed-careers/street-judge/#you-start-with"
-  },"512": {
+  },"533": {
     "doc": "Street Judge",
     "title": "Why Do You No Longer Practice?",
     "content": "|   |   | . | £2 | Mushroom Binge: Take a bag of psychedelic mushrooms. | . | £4 | Notorious Drunk: Take a bottle of absinthe. | . | £6 | Took the Fall: A judge owes your a favor. | . | £8 | Disillusioned with the Law: Burn your Book of Laws and take a Blunderbuss (d6 Blast, short range). | . | £10 | Quietly Discharged: For filling up prisons too quickly. Take Ceremonial Judge Armor (AP 1, Bulky). | . | £12 | Caught Taking Bribes: Other judges hate you, some just for getting caught. | . ",
     "url": "/chime/resources/failed-careers/street-judge/#why-do-you-no-longer-practice",
     
     "relUrl": "/resources/failed-careers/street-judge/#why-do-you-no-longer-practice"
-  },"513": {
+  },"534": {
     "doc": "Street Judge",
     "title": "What Do You Always Have With You?",
     "content": "|   |   | . | 1HP | A symbolic but aggressive Hawk (3HP, d6 Claws). | . | 2HP | Your Loyal Scribe (1HP, STR 5, DEX 7, CHA 7, elderly, does nothing but scribe). | . | 3HP | Pop-Up Gallows with noose and hood. | . | 4HP | Smoke Bomb and a sense of showmanship. | . | 5HP | Prosthetic Leg with grasping talon. | . | 6HP | Bad Reputation. Anyone on the wrong side of the law knows and dislikes you. | . ",
     "url": "/chime/resources/failed-careers/street-judge/#what-do-you-always-have-with-you",
     
     "relUrl": "/resources/failed-careers/street-judge/#what-do-you-always-have-with-you"
-  },"514": {
+  },"535": {
     "doc": "Street Performer",
     "title": "Street Performer",
     "content": "Adored by few. Loathed by many. ",
     "url": "/chime/resources/failed-careers/street-performer/",
     
     "relUrl": "/resources/failed-careers/street-performer/"
-  },"515": {
+  },"536": {
     "doc": "Street Performer",
     "title": "Sample Names",
     "content": ". | Dabber | Eddien | Marstle | Muttonaro | . ",
     "url": "/chime/resources/failed-careers/street-performer/#sample-names",
     
     "relUrl": "/resources/failed-careers/street-performer/#sample-names"
-  },"516": {
+  },"537": {
     "doc": "Street Performer",
     "title": "You Start With:",
     "content": ". | Staff (d6, Bulky). | Floppy Cap. | . ",
     "url": "/chime/resources/failed-careers/street-performer/#you-start-with",
     
     "relUrl": "/resources/failed-careers/street-performer/#you-start-with"
-  },"517": {
+  },"538": {
     "doc": "Street Performer",
     "title": "What Was Your Act?",
     "content": "|   |   | . | £2 | Puppetry: Take a sad-looking puppet. | . | £4 | Dancing Monkey: Take a disloyal monkey (4HP, d4 Bite). | . | £6 | Magic Tricks: Take a Deck of Marked Cards. | . | £8 | Fire Dance: Take a Firebomb (d6, Ongoing). | . | £10 | Stilt Acrobatics: Take a Set of Telescopic Stilts. | . | £12 | Vocalisation: You can make very convincing animal noises. | . ",
     "url": "/chime/resources/failed-careers/street-performer/#what-was-your-act",
     
     "relUrl": "/resources/failed-careers/street-performer/#what-was-your-act"
-  },"518": {
+  },"539": {
     "doc": "Street Performer",
     "title": "What’s Your Claim To Fame?",
     "content": "|   |   | . | 1HP | You Impressed a Senior Borough Official. You have a Universal Pardon for one minor crime. | . | 2HP | A Distant Ancestor Invented This Act, so if you catch anyone else doing it they have to pay you £500. | . | 3HP | Your performance helped drum up support for a Political Movement. A band of revolutionaries owe you a favor. | . | 4HP | Your performance only really Works When You’re Drunk, so people ply you with drink to try and get you to perform. | . | 5HP | Your act has a Shocking Finale that always makes children cry. | . | 6HP | You’re Officially Banned from one Borough of The City (the next one you need to go visit). | . ",
     "url": "/chime/resources/failed-careers/street-performer/#whats-your-claim-to-fame",
     
     "relUrl": "/resources/failed-careers/street-performer/#whats-your-claim-to-fame"
-  },"519": {
+  },"540": {
     "doc": "Tactiliator / Tactiliatrix",
     "title": "Tactiliator / Tactiliatrix",
     "content": "The power of touch. ",
     "url": "/chime/resources/failed-careers/tactiliator/",
     
     "relUrl": "/resources/failed-careers/tactiliator/"
-  },"520": {
+  },"541": {
     "doc": "Tactiliator / Tactiliatrix",
     "title": "Sample Names",
     "content": ". | Semillion | Maxwald | Yuri | Fera | . ",
     "url": "/chime/resources/failed-careers/tactiliator/#sample-names",
     
     "relUrl": "/resources/failed-careers/tactiliator/#sample-names"
-  },"521": {
+  },"542": {
     "doc": "Tactiliator / Tactiliatrix",
     "title": "You Start With:",
     "content": ". | Velvet Gloves | Steel Gauntlets (d6+d6) | . ",
     "url": "/chime/resources/failed-careers/tactiliator/#you-start-with",
     
     "relUrl": "/resources/failed-careers/tactiliator/#you-start-with"
-  },"522": {
+  },"543": {
     "doc": "Tactiliator / Tactiliatrix",
     "title": "What Was Your Speciality?",
     "content": "|   |   | . | £2 | Erotic Author and Masseuse: While you are mostly seeking to usurp the last year’s best seller: 607 Breasts That I Have Touched with something more avant-garde, you also know the Dim Bak Massage which causes certain death after five paces. | . | £4 | Geotactiliator: You are hired to determine the quality of soils and suitability for construction. You gain a Mock Mouse in a Hard Hat, which builds mouse-sized buildings at tremendous-but-plausible speeds. Must be paid 12 New Pence every week. | . | £6 | Textile Consultant: Gain an Omnidress, given as a gift for a job well done. It can turn into any plausible dress. | . | £8 | Haptosynesthesian, a Touch-Addict: You carry a Texture Book, where each page is a different material. By stroking different pages, you can induce any natural sensation or mood, including sleep and short-term amnesia. Affects only you. | . | £10 | Psycho-Phrenology: Gain the ability to sense moral and mental qualities by feeling a person’s head. Actually a very mild touch-activated telepathy. | . | £12 | Podiology: Gain the ability to determine parentage, homeland, and cause of death by examing the soles of feet. | . ",
     "url": "/chime/resources/failed-careers/tactiliator/#what-was-your-speciality",
     
     "relUrl": "/resources/failed-careers/tactiliator/#what-was-your-speciality"
-  },"523": {
+  },"544": {
     "doc": "Tactiliator / Tactiliatrix",
     "title": "What’s The Greatest Thing You’ve Ever Touched?",
     "content": "|   |   | . | 1HP | The Bleached Bones of a Nameless Behemoth; Affixed atop The Tower Impenetrable: If you touch a limb, you can break the bone beneath. You can break necks the same way. | . | 2HP | The Bellies of a Hundred Newborn Baby Dolphins, Lined Up From Nose To Tail: You can swim twice as fast as normal. If you are naked and carrying nothing, you can swim as fast as a hawk can fly. | . | 3HP | The Hair of Vallister Vambraxis, The Famed Opera Singer: Your voice can shatter glass or crystal. Large objects may take several minutes. | . | 4HP | Shivvergrim, the Former Sharpest Sword In The World: You are missing the tip of your right index finger, but you can cut things with the nub as if with a razor. | . | 5HP | The Caustic Beasts That Slip and Gibber Beneath The Charnal Towers of Oomis: Your left arm is immune to fire and acid, but the rest of you is not. | . | 6HP | The Most Uncomfortable Chair In The World: By staring at someone, you can make them uncomfortable. Most people, at a minimum, go and seek a comfortable place to sit or lie down. Especially effective on those with arthritic joints of bad backs. | . ",
     "url": "/chime/resources/failed-careers/tactiliator/#whats-the-greatest-thing-youve-ever-touched",
     
     "relUrl": "/resources/failed-careers/tactiliator/#whats-the-greatest-thing-youve-ever-touched"
-  },"524": {
+  },"545": {
     "doc": "The City",
     "title": "The City",
     "content": ". | It’s the only city that matters. All others have failed. Too big to fall, too complicated to function. A mess of alleyways, legalese and crowds. You can find everything there. Nobody knows who’s in charge. | Modern things exist, but in old-fashioned, turn of the century style. Technology is unevenly distributed. If something can be made electric, somebody is doing it. | The City is populated by both Man and Mockery, animal creatures of felt, wood, and string given life-spark. They act as if they have human needs, but it is all imitated. It has been generations since they arrived, and now no-one bats an eye to their presence. They behave as if they’re on stage, addressing an imagined audience. At some times their sense of theater can border on precognition or omniscience. | Deep Country consists of the remnants of the old places, before The City became dominant. There are cities out there, but none of them reached Modernity. Few in The City cares what happens out there. Everyone in Deep Country has a history, but nobody is concerned about the future. They decline while The City grows. | The Underground sits just beneath reality, connecting The City to everything, and everything bleeds back into the Underground. It seems man-made, but warped, purposes exaggerated or inverted. There are Machines here, one with The Underground. They want to test you. | Several philosophies have become predominant as of late in The City: . | Spiritualists gaze to The Living Stars. They idolize what might live there, but there are infinite choices of who and what to worship up there. | Machinists seek shortcuts from The Machines in The Underground. | Humanists think humanity should be on top, whether romanticizing the simplicity of the past, or fetishizing modernity. | . | . ",
     "url": "/chime/campaign-info/the-city/",
     
     "relUrl": "/campaign-info/the-city/"
-  },"525": {
+  },"546": {
     "doc": "Travel Procedures",
     "title": "Wilderness Travel",
     "content": ". In this campaign, you’ll be navigating Hot Springs Island, which is made up of twenty-five Hexes, each 2 miles in diameter. Each hex contains 3 points of interest to discover and explore. These points are all physical locations that can be revisited, rather than one-time events or encounters. The Hot Springs Field Guide contains a log to keep track of which locations you’ve visited. ",
     "url": "/chime/rules/travel-rules/#wilderness-travel",
     
     "relUrl": "/rules/travel-rules/#wilderness-travel"
-  },"526": {
+  },"547": {
     "doc": "Travel Procedures",
     "title": "Time",
     "content": "In order to abstract time to the scale of overland travel, we divide a day into six 4-hour units of time, called Watches. Days are divided up into six 4-hour Watches (Dawn, Day, Day, Dusk, Night, Night). At Dawn on each day, the Weather is rolled. Then the Party successively decides how they want to spend each Watch in the day. Each of the following Actions takes 1 Watch: Navigation, Investigation, Regrouping. Weather . At the start of each day, the GM rolls for Weather. They roll a d6: . | On a 1-3, the weather is Favorable - clear skies and a slight breeze. | On a 4-5, the weather is Unfavorable - gusting winds, rain, sweltering heat, or sudden chills. Travel between Hexes takes either 2 Watches, or 1 Watch and each player in the Party takes one Fatigue. | On a 6, the weather is Terrible. Examples include thunderstorms, heavy rain, flash flooding or mudslides. Travel between Hexes takes 2 Watches and each Player in the Party takes one Fatigue. | If a 6 is rolled two days in a row, the weather becomes Catastrophic. Examples include Hurricanes, Blood Rain, or Ash Clouds. Travel becomes practically impossible. | . The dynamics of Time, Gear, and Skill apply to weather effects. Dedicated Gear relevant to the bad weather (e.g climbing equipment in mountains, or rain hoods during mild rain) or Skill relevant to the bad weather (e.g training in navigation or mountaineering) can mitigate the negative effects of bad weather. Navigation and Investigation of Hexes . Each Hex is populated with difficult to navigate terrain, such as mountains, jungle, and woods. The Party takes one Watch to either Navigate to an adjacent Hex, or to Investigate the current Hex to find new locations. After performing these actions, an Encounter is then determined, which occurs at some point of the Party’s journey. Then the Party arrives at a location, and may spend the rest of a Watch exploring that location. Navigation . To Navigate to an adjacent Hex, the Party chooses an adjacent Hex and, if known, a location within that Hex to travel to, then makes a Time, Gear &amp; Skill Check (the Party has Time if they have marked the location via a Check Maps Action during Regrouping, and Skill if they have already discovered the location they are travelling to, though gaining these by other measures is also possible). If the Party Succeeds, they arrive at their planned end destination. If they Fail, roll a d6: . | On a 1-3, the Party ends up back where they started. | On a 4, the Party veers left. | On a 5, the Party veers right. | On a 6, the Party arrives at their destination by sheer luck. | . Veering into a Hex populated by ocean results in the Party finding themselves on a nondescript stretch of beach. Investigation . To Investigate a Hex the Party currently occupies, the Party spends a Watch, then makes a Time, Gear, &amp; Skill Check (the Party has Time if they marked the location via a Check Maps Action during Regrouping). On a Success, the Party discovers a new location within the Hex. On a Failure, use a d6 to determine a surrounding Hex that the party veers into. If possible, the Party travels to the adjacent Hex, potentially discovering a new location there instead. Regrouping . Regrouping takes one Watch and allows each Character to individually choose from a variety of actions: . Check Maps . Choose a Hex on the Map and mark it. For the next 24 hours, when Navigating or Investigating this Hex, you will have Time on your Time, Gear, &amp; Skill Check to avoid getting lost. Forecast . Use magic or experience to forecast the weather. The GM rolls a d6: on a 1-2, they roll a random forecast on the weather table. On a 3-4, they roll tomorrow’s weather early, and relay this information. On a 5-6, they roll the day after next’s weather early, and relay this information. Boost Morale . Share a riveting tale, sing a song, or otherwise inspire. Everyone recovers 1 WIL, or 2 WIL if the performer has any relevant skills or background. Cook Food . Prepare food from gathered ingredients. Simple Meals require a fire, and Fancy Meals require a fire and Cooking Pot. Gathering . There are several types of Gathering: . | Hunting involves killing butchering animals that are risky to kill, and requires tools like bows or spears, and yields Raw Meat. You may come across more dangerous animals during Navigation and Investigation Encounters, which may yield more meat for less time investment, but comes at the risk of harm. | Foraging requires no tools and yields Fruit and Vegetables, and in addition, has a 1 in 6 chance of finding Wildcrafting materials. | Fishing requires tools like fishing rods or spears and yields Raw Fish. | . Yield depends on the terrain (quantified in # of Portions of food). Character explicitly skilled in an activity may upgrade the die roll by one tier, i.e. from 1 to d4 to d6 to d8. Up to three portions of any one ingredient may occupy an inventory slot. |   |   |   |   | . | Biome | Hunting | Foraging | Fishing | . | Village | 1 | 1 | d4 | . | Ruin | 1 | - | - | . | Mountainous Jungle | 1 | d4 | 1 | . | Volcano | 1 | - | - | . | Volcanic | 1 | 1 | - | . | Heavy Jungle | d4 | d6 | - | . | Light Jungle | d6 | d4 | 1 | . | Beach | d4 | 1 | d6 | . Wildcrafting . Wildcrafting allows one to craft healing salves, teas, and tonics, with ingredients found in the wild. Ingredients can be found while foraging and consist of mushrooms, mosses, plants, roots, bark, and saps. An ingredient’s rarity determines it’s Potency (1 for Common, 2 for Uncommon,and 4 for Rare). Furthermore, ingredients are defined by the type of region they are gathered from. Each recipe has a Potency that must be met by combining ingredients. Each recipe must contain at least 2 different ingredients, and some recipes have requirements for region. Recipes may be learned from sages, and other wood-wise types. Camping, Eating, and Sleeping . The Party may decide to set up camp for the day, choosing a number of Watches to camp for. Characters who camp for 2 Watches recover Fatigue. The Party may choose to take a free Regrouping Action, but this generates noise, and may bring undesirable attention to the Party’s camp. Characters must sleep for at least 1 Watch, or become Deprived of sleep. Characters who only camp for 1 Watch are not Deprived, but do not recover Fatigue from sleep. Characters must also must eat at least one portion of food a day to avoid becoming Deprived of food: . | Desperate Meals are only eaten when in dire need of food, such as raw meat and fish, snakes, treefrogs, rats, and so on. WIL Save to not puke it up. | Fresh Meals consist of foraged fruit and vegetables that are otherwise not prepared. | Simple Meals are ingredients that have seen some basic level of preparation, such as grilled meat and roasted vegetables. Restores 1 Fatigue. Requires a fire. | Fancy Meals are made from multiple prepared ingredients put together, such as boiled vegetables with grilled fish, or boar meat sandwiches. This restores all Fatigue. Requires Fire and a Cooking Pot (Bulky). | . ",
     "url": "/chime/rules/travel-rules/#time",
     
     "relUrl": "/rules/travel-rules/#time"
-  },"527": {
+  },"548": {
     "doc": "Travel Procedures",
     "title": "Wilderness Encounters",
     "content": "Terrain in Wilderness Encounters . Village . |   |   |   | . | d6 | Type | Effect | . | 1-3 | Meadow | Surprise unlikely; Distant viewing range. | . | 4-5 | Brushland | Bushes allow for easy hiding and surprise. | . | 6 | Tall Grass | Movement slowed; Limited viewing range. | . Ruin . |   |   |   | . | d6 | Type | Effect | . | 1-3 | Broken Walls | Cover hinders ranged attacks (-1 damage). | . | 4-5 | Rubble Field | Movement Slowed. | . | 6 | Crumbling Structure | Unstable Battlefield; loud impacts may create hazards. | . Beach . |   |   |   | . | d6 |   |   | . | 1-3 | Open Sand | Surprise unlikely; Distant viewing range. | . | 4-5 | Dunes | Plenty of cover; easy hiding; high ground improves ranged damage. | . | 6 | Surfline | Knee-deep water, crashing waves; movement slowed; loud surf hampers hearing. | . Volcano . |   |   |   | . | d6 | Type | Effect | . | 1-3 | Ash Slope | Loose footing and Ash Clouds; Near viewing range and Movement slowed. | . | 4-5 | Lava Vent | Dangerous heat and fissures nearby. | . | 6 | Active Flow | Lava or magma divides battlefield; extreme hazard on contact. | . Volcanic . |   |   |   | . | d6 | Type | Effect | . | 1-3 | Obsidian Flats | Open sightlines (Distant), but sharp terrain slows reckless movement. | . | 4-5 | Steam Vents | Bursts of steam create temporary concealment; visibility fluctuates between Near and Far. | . | 6 | Sulfur Pits | Hazardous fumes; disadvantage on CON Saves while nearby; footing unstable. | . Jungle . For each Jungle biome, roll on the Foliage Density. In Light Jungle or Mountainous Jungle roll d6, in Heavy Jungle roll 2d6. In Mountainous Jungle, also roll for Elevation. Foliage Density . |   |   |   | . | d6 | Type | Effect | . | 1-3 | Scattered Palms | Trees hinder ranged attacks (-1 Damage). | . | 4-5 | Dense Canopy | Ranged attacks are Impaired. | . | 6-7 | Thick Undergrowth | Movement slowed; disadvantage to DEX Saves; visibility limited to Near. | . | 8-9 | Boggy Ground | Disadvantage to DEX Saves. | . | 10-11 | Waist-High Bog | Hinders movement. All melee weapons without Reach are Impaired. | . | 12 | Sweltering Basin | As above, but humidity &amp; insects are exhausting. | . Mountainous Jungle . |   |   |   | . | 1d6 | Type | Effect | . | 1-3 | Gentle Slope | Ascending movement slowed; Descension quickened. Ranged damage from above Enhanced. | . | 4-5 | Steep Slope | As Gentle Slope, but all damage from above Enhanced, ranged damage from below Impaired. | . | 6 | Ravine | Location split by steep channel, stream, or chasm; crossing is hazardous or slow. | . ",
     "url": "/chime/rules/travel-rules/#wilderness-encounters",
     
     "relUrl": "/rules/travel-rules/#wilderness-encounters"
-  },"528": {
+  },"549": {
     "doc": "Travel Procedures",
     "title": "Travel Procedures",
     "content": " ",
     "url": "/chime/rules/travel-rules/",
     
     "relUrl": "/rules/travel-rules/"
-  },"529": {
+  },"550": {
     "doc": "Travelling Showperson",
     "title": "Travelling Showperson",
     "content": "Stunts and tricks are your game. You’ve got a final trick up your sleeve if you start to lose the crowd. ",
     "url": "/chime/resources/failed-careers/travelling-showperson/",
     
     "relUrl": "/resources/failed-careers/travelling-showperson/"
-  },"530": {
+  },"551": {
     "doc": "Travelling Showperson",
     "title": "Sample Names",
     "content": ". | Case | Olifanta | Archie | Wicket | . ",
     "url": "/chime/resources/failed-careers/travelling-showperson/#sample-names",
     
     "relUrl": "/resources/failed-careers/travelling-showperson/#sample-names"
-  },"531": {
+  },"552": {
     "doc": "Travelling Showperson",
     "title": "You Start With:",
     "content": ". | Hidden Knife (d6). | Stage Clothes. | . ",
     "url": "/chime/resources/failed-careers/travelling-showperson/#you-start-with",
     
     "relUrl": "/resources/failed-careers/travelling-showperson/#you-start-with"
-  },"532": {
+  },"553": {
     "doc": "Travelling Showperson",
     "title": "What’s Your Act?",
     "content": "|   |   | . | £2 | Trick-Shooting: Take a Long Pistol (d6). | . | £4 | Knife-Throwing: Take Throwing Knives (d6). | . | £6 | Contortionism: You’re double-jointed all over. | . | £8 | Gross-Out Body Horror: You do not feel pain. | . | £10 | Hypnotism: Take a pocket-watch. It’s all a ruse, you always used stooges. | . | £12 | Swallowing and Regurgitation: Eat anything you can plausibly swallow and regurgitate it at will. You’re still bound byu the physical limits of a human stomach. | . ",
     "url": "/chime/resources/failed-careers/travelling-showperson/#whats-your-act",
     
     "relUrl": "/resources/failed-careers/travelling-showperson/#whats-your-act"
-  },"533": {
+  },"554": {
     "doc": "Travelling Showperson",
     "title": "What’s Your Showstopper?",
     "content": "|   |   | . | 1HP | Space Folder - Create a gate between two flat surfaces that you can see. The gate closes if you pass through or break line of sight. | . | 2HP | Spider Skin - Climb surfaces as if you were a spider. | . | 3HP | Heat Ray - Useless as a conventional weapon, but can be focused on a stationary target to gradually increase its heat. One turn of focus warms, two turns burns / melts, and three turns reduces to ash. | . | 4HP | Mirror Engine - A perfect duplicate of you is formed. It acts independently, just like you, but cannot interact with anything physically. Lasts until dismissed or a new double is created. | . | 5HP | Bone Magnet - Attact or repel a single target that has a skeleton, unless they pass a STR Save. No effect on cartilage. | . | 6HP | Gallon Syringe - A tiny syringe that can draw up to a bath-sized amount of liquid. | . ",
     "url": "/chime/resources/failed-careers/travelling-showperson/#whats-your-showstopper",
     
     "relUrl": "/resources/failed-careers/travelling-showperson/#whats-your-showstopper"
-  },"534": {
+  },"555": {
     "doc": "Trench Conscript",
     "title": "Trench Conscript",
     "content": "You survived a trench battle with little to write home about. Except for the one thing you found in that strange tunnel. ",
     "url": "/chime/resources/failed-careers/trench-conscript/",
     
     "relUrl": "/resources/failed-careers/trench-conscript/"
-  },"535": {
+  },"556": {
     "doc": "Trench Conscript",
     "title": "Sample Names",
     "content": ". | Kariana | Jops | Galea | Jools | . ",
     "url": "/chime/resources/failed-careers/trench-conscript/#sample-names",
     
     "relUrl": "/resources/failed-careers/trench-conscript/#sample-names"
-  },"536": {
+  },"557": {
     "doc": "Trench Conscript",
     "title": "You Start With:",
     "content": ". | A Trench Gun (d6, Very Short Range). | A Shovel. | A Pack of Gum (Oxtail Flavored). | . ",
     "url": "/chime/resources/failed-careers/trench-conscript/#you-start-with",
     
     "relUrl": "/resources/failed-careers/trench-conscript/#you-start-with"
-  },"537": {
+  },"558": {
     "doc": "Trench Conscript",
     "title": "What Was Your Role in Your Unit?",
     "content": "|   |   | . | £2 | Engineer. Take three Trench Bombs (d8 BLAST), and Wire Cutters. | . | £4 | Recon. Take Paints and a Portable Canvas. | . | £6 | Heavy Section. Take Lead Vest and Helmet (1AP). | . | £8 | Chaplain. Take a Bottle of Military Strength Gin and a Holy Donkey Symbol. | . | £10 | Breacher. Take a Rocket (d10, one shot). | . | £12 | Officer. Take a Whistle and a Dress Uniform. | . ",
     "url": "/chime/resources/failed-careers/trench-conscript/#what-was-your-role-in-your-unit",
     
     "relUrl": "/resources/failed-careers/trench-conscript/#what-was-your-role-in-your-unit"
-  },"538": {
+  },"559": {
     "doc": "Trench Conscript",
     "title": "What Did You Find In That Tunnel?",
     "content": "|   |   | . | 1HP | Essence Extractor. Extract the consciousness of a pacified or willing being. It can be injected into a still-warm corpse. One use. | . | 2HP | Duplicator. A shoe-sized box. Put one thing in, get two copies. Both copies are hugely inferior to the original, which is destroyed. | . | 3HP | Hover Plate. Plaster-sized tray that freezes in space if you whistle a specific tune around ten seconds long. There’s a ten-second second tune to release it. It supports up to one person’s weight and can be forcibly released with a STR save. | . | 4HP | Bonding Dome. Any being that wears this head-device is bombarded with flashing images and emerges spluttering. They emotionally bond with the next being they see and dedicate their life to them until they next sleep. | . | 5HP | Phase-Mole. A tiny mammal that can phase into any material without disturbing it. It can talk, but it is extremely shy and only answers a question with one word before phasing into hiding in it’s master’s body. | . | 6HP | Haunted Egg. A stone egg that can be used as a crude weapon (d6). The last thing killed by the egg inhabits it as a ghostly voice, and answers questions to the best of its knowledge. It doesn’t have any more knowledge than it did in life, but anyone can understand it’s words. | . ",
     "url": "/chime/resources/failed-careers/trench-conscript/#what-did-you-find-in-that-tunnel",
     
     "relUrl": "/resources/failed-careers/trench-conscript/#what-did-you-find-in-that-tunnel"
-  },"539": {
+  },"560": {
     "doc": "Tuk-Tukker",
     "title": "Tuk-Tukker",
     "content": "“I’m not going over the water at this time of night” . ",
     "url": "/chime/resources/failed-careers/tuk-tukker/",
     
     "relUrl": "/resources/failed-careers/tuk-tukker/"
-  },"540": {
+  },"561": {
     "doc": "Tuk-Tukker",
     "title": "Sample Names",
     "content": ". | Arrite | Dusty | Guvna | Jobbinson | . ",
     "url": "/chime/resources/failed-careers/tuk-tukker/#sample-names",
     
     "relUrl": "/resources/failed-careers/tuk-tukker/#sample-names"
-  },"541": {
+  },"562": {
     "doc": "Tuk-Tukker",
     "title": "You Start With:",
     "content": ". | Broken Snooker Cue (d6). | City Map (outdated). | Tuk-Tuk. | Driving Gloves. | . ",
     "url": "/chime/resources/failed-careers/tuk-tukker/#you-start-with",
     
     "relUrl": "/resources/failed-careers/tuk-tukker/#you-start-with"
-  },"542": {
+  },"563": {
     "doc": "Tuk-Tukker",
     "title": "What’s Up With Your Tuk-Tuk?",
     "content": "|   |   | . | £2 | Fully Fuelled, licensed and now with extra bells added thank-you. | . | £4 | Neither Fuel, Nor License, but that doesn’t stop you. | . | £6 | Knackered. Can’t turn left. | . | £8 | Someone Threw Up In The Back and you can’t get the smell out. | . | £10 | Nicked. You’ve had to step down to a pedal rickshaw. | . | £12 | Confiscated By Bailiffs. You have a sedan chair instead. | . ",
     "url": "/chime/resources/failed-careers/tuk-tukker/#whats-up-with-your-tuk-tuk",
     
     "relUrl": "/resources/failed-careers/tuk-tukker/#whats-up-with-your-tuk-tuk"
-  },"543": {
+  },"564": {
     "doc": "Tuk-Tukker",
     "title": "Who’ve You Had In The Back, Though?",
     "content": "|   |   | . | 1HP | Super-Agent: Take a briefcase with Lock-Picks, Pistol (d6), Passport, Garotte (d6), Posh Club Membership, and Black Book of Hot Contacts. Can be set to explode (d10 Blast). | . | 2HP | Drunken Infrantry Lads on Leave: Take a Carbine (d6), Cavalry Sword (d6), Half a Dress Uniform and a Medal for Gallantry. | . | 3HP | Harried Ringmaster: Take a Top Hat, Tails, Hoop and Bosco the Trained Monkey (4HP, d4 Bite). | . | 4HP | Escort and Client: Left behind Prophylactics, ID Card, and Wedding Ring. | . | 5HP | Obscure Author: Left behind a Handwritten Sole Copy of Latest in Cult Children’s Series (worth £1000 to a very specific collector). | . | 6HP | Ordinary Customer: But they died in the back. They’re still there. | . ",
     "url": "/chime/resources/failed-careers/tuk-tukker/#whove-you-had-in-the-back-though",
     
     "relUrl": "/resources/failed-careers/tuk-tukker/#whove-you-had-in-the-back-though"
-  },"544": {
+  },"565": {
     "doc": "Tunnel Stray",
     "title": "Tunnel Stray",
     "content": "You wandered dark places for too long, tormented by Machines. You came out less than human. ",
     "url": "/chime/resources/failed-careers/tunnel-stray/",
     
     "relUrl": "/resources/failed-careers/tunnel-stray/"
-  },"545": {
+  },"566": {
     "doc": "Tunnel Stray",
     "title": "Sample Names",
     "content": ". | Veyron | Jeene | Ox | Mara | . ",
     "url": "/chime/resources/failed-careers/tunnel-stray/#sample-names",
     
     "relUrl": "/resources/failed-careers/tunnel-stray/#sample-names"
-  },"546": {
+  },"567": {
     "doc": "Tunnel Stray",
     "title": "You Start With:",
     "content": ". | Pasty Skin. | Flask of Gear-Oil. | Dagger (d6). | . ",
     "url": "/chime/resources/failed-careers/tunnel-stray/#you-start-with",
     
     "relUrl": "/resources/failed-careers/tunnel-stray/#you-start-with"
-  },"547": {
+  },"568": {
     "doc": "Tunnel Stray",
     "title": "What’s Wrong With You?",
     "content": "|   |   | . | £2 | Feral Appetite: Cooked food is poison to you. | . | £4 | Ear-Splitter: Your voice is awful. Everybody hates it. | . | £6 | Tar-Blooded: Your blood has turned black, sticky, and foul-smelling. | . | £8 | Night Terrors: You always scream in your sleep. | . | £10 | Slug-Skin: You secrete a thin layer of slime across your whole body. | . | £12 | Atonal: You are Deprived in the presence of tuneful music. | . ",
     "url": "/chime/resources/failed-careers/tunnel-stray/#whats-wrong-with-you",
     
     "relUrl": "/resources/failed-careers/tunnel-stray/#whats-wrong-with-you"
-  },"548": {
+  },"569": {
     "doc": "Tunnel Stray",
     "title": "Seriously, What Else Is Wrong With You?",
     "content": "|   |   | . | 1HP | Weird things in The Underground Just Let You Pass, if you don’t cause any fuss. | . | 2HP | You’re Double-Jointed in a disgusting way. | . | 3HP | Your saliva is Mildly Acidic enough to dissolve paper. | . | 4HP | Food Goes Bad if you possess it for more than a few minutes. | . | 5HP | Your Bones Make a Cracking Sound when you walk. | . | 6HP | You’ve had your Teeth Pulled Out. | . ",
     "url": "/chime/resources/failed-careers/tunnel-stray/#seriously-what-else-is-wrong-with-you",
     
     "relUrl": "/resources/failed-careers/tunnel-stray/#seriously-what-else-is-wrong-with-you"
-  },"549": {
+  },"570": {
     "doc": "Un-Revolutionary",
     "title": "Un-Revolutionary",
     "content": "Every day another revolution, another barricade. Civil flow design demands that somebody put things back in order. ",
     "url": "/chime/resources/failed-careers/un-revolutionary/",
     
     "relUrl": "/resources/failed-careers/un-revolutionary/"
-  },"550": {
+  },"571": {
     "doc": "Un-Revolutionary",
     "title": "Sample Names",
     "content": ". | Gav | Apollo | Joy | Cuffwhack | . ",
     "url": "/chime/resources/failed-careers/un-revolutionary/#sample-names",
     
     "relUrl": "/resources/failed-careers/un-revolutionary/#sample-names"
-  },"551": {
+  },"572": {
     "doc": "Un-Revolutionary",
     "title": "You Start With:",
     "content": ". | Five-Point Hat. | Broom. | . ",
     "url": "/chime/resources/failed-careers/un-revolutionary/#you-start-with",
     
     "relUrl": "/resources/failed-careers/un-revolutionary/#you-start-with"
-  },"552": {
+  },"573": {
     "doc": "Un-Revolutionary",
     "title": "What Did You Bring From Home?",
     "content": "|   |   | . | £2 | A bottle of Nectar Brew, bright yellow, lightly alcoholic, doubles as medium-strength glue. | . | £4 | Tin of Dust Snuff, enough for three doses. Causes a sneeze violent enough to expel any harmful substance from your body. | . | £6 | A spoiled Pet Rabbit (2HP). | . | £8 | Pack of Gum (Smoke Flavored) with a comical dispenser. | . | £10 | A Bright Green Parrot (3HP), knows a few anti-revolution phrases. | . | £12 | A Fantastic Sandwich in a Ridiculously Sturdy Lunchbox. | . ",
     "url": "/chime/resources/failed-careers/un-revolutionary/#what-did-you-bring-from-home",
     
     "relUrl": "/resources/failed-careers/un-revolutionary/#what-did-you-bring-from-home"
-  },"553": {
+  },"574": {
     "doc": "Un-Revolutionary",
     "title": "What Helped You Break Up Barricades?",
     "content": "|   |   | . | 1HP | Flamethrower (d6, Bulky, Blast). | . | 2HP | Breaching Rifle (d6, +d10 against structures, Bulky). | . | 3HP | 5 Proximity Mines (d8 Blast, fails to detonate on a 1). | . | 4HP | 3 Toxic Smoke Bombs (d6 Blast and smoke cloud, Ongoing damage every turn for anyone that stays within). | . | 5HP | 3 Spike Bombs (d8 Blast. Only activates when it is spiked into place. Very short fuse). | . | 6HP | 3 Safety Firebombs (d6 damage each round until extinguished. Has no effect on living tissue). | . ",
     "url": "/chime/resources/failed-careers/un-revolutionary/#what-helped-you-break-up-barricades",
     
     "relUrl": "/resources/failed-careers/un-revolutionary/#what-helped-you-break-up-barricades"
-  },"554": {
+  },"575": {
     "doc": "Under Laborer",
     "title": "Under Laborer",
     "content": "Construction work on The Underground continues. Despite its lack of regard for time and space. ",
     "url": "/chime/resources/failed-careers/under-laborer/",
     
     "relUrl": "/resources/failed-careers/under-laborer/"
-  },"555": {
+  },"576": {
     "doc": "Under Laborer",
     "title": "Sample Names",
     "content": ". | Cutver | Trunch | Bore | Ducton | . ",
     "url": "/chime/resources/failed-careers/under-laborer/#sample-names",
     
     "relUrl": "/resources/failed-careers/under-laborer/#sample-names"
-  },"556": {
+  },"577": {
     "doc": "Under Laborer",
     "title": "You Start With:",
     "content": ". | Hammer (d6). | Drill. | Gum (Coal Flavored). | . ",
     "url": "/chime/resources/failed-careers/under-laborer/#you-start-with",
     
     "relUrl": "/resources/failed-careers/under-laborer/#you-start-with"
-  },"557": {
+  },"578": {
     "doc": "Under Laborer",
     "title": "What Do You Know About The Underground?",
     "content": "|   |   | . | £2 | The Secret of Darkness: If you gaze into a dark passageway, you know what lies at the end of the darkness. | . | £4 | The Secret of Space: If a passageway leads to somewhere you have been before, you know immediately. | . | £6 | The Secret of Time: When underground, you can look around and see roughly what’s changed in the last hour. | . | £8 | The Secret of The Maze: You can sense a dead-end as soon as you enter a passageway that ends in one. | . | £10 | The Secret of Connection: If there is a quicker underground route between two points than the one you have planned, you know it. | . | £12 | The Secret of Cruelty: You can make a whistling noise that causes discomfort to underground vermin. | . ",
     "url": "/chime/resources/failed-careers/under-laborer/#what-do-you-know-about-the-underground",
     
     "relUrl": "/resources/failed-careers/under-laborer/#what-do-you-know-about-the-underground"
-  },"558": {
+  },"579": {
     "doc": "Under Laborer",
     "title": "Why Don’t You Like The Surface?",
     "content": "|   |   | . | 1HP | You are Extremely Ugly. | . | 2HP | You’re Faintly Magnetic, and you’re sick of showing it to people. | . | 3HP | You’re Sensitive to Sunlight. Take some Tinted Goggles, and your attacks are Impaired in daylight unless you wear them. | . | 4HP | You Hate Warm Food and cannot keep it down. | . | 5HP | You can only Speak Gibberish, but understand everyone else just fine. | . | 6HP | You have Severe Agoraphobia. You are Deprived whenever outdoors. | . ",
     "url": "/chime/resources/failed-careers/under-laborer/#why-dont-you-like-the-surface",
     
     "relUrl": "/resources/failed-careers/under-laborer/#why-dont-you-like-the-surface"
-  },"559": {
+  },"580": {
     "doc": "Underground Weirdo",
     "title": "Underground Weirdo",
     "content": "Born and raised in The Underground, below space and time. You’ve always been odd, and have gotten much worse. ",
     "url": "/chime/resources/failed-careers/underground-weirdo/",
     
     "relUrl": "/resources/failed-careers/underground-weirdo/"
-  },"560": {
+  },"581": {
     "doc": "Underground Weirdo",
     "title": "Sample Names",
     "content": ". | Eater | Scram | Pattie | Proutnay | . ",
     "url": "/chime/resources/failed-careers/underground-weirdo/#sample-names",
     
     "relUrl": "/resources/failed-careers/underground-weirdo/#sample-names"
-  },"561": {
+  },"582": {
     "doc": "Underground Weirdo",
     "title": "You Start With:",
     "content": ". | Club (d6). | . ",
     "url": "/chime/resources/failed-careers/underground-weirdo/#you-start-with",
     
     "relUrl": "/resources/failed-careers/underground-weirdo/#you-start-with"
-  },"562": {
+  },"583": {
     "doc": "Underground Weirdo",
     "title": "What Makes You Apear Inhuman?",
     "content": "|   |   | . | £2 | Slug-Head (your eye-stalks can see all around you). | . | £4 | Shaggy Fur All Over (with some fleas). | . | £6 | No Bones (supported by cartilage). | . | £8 | Fly Wings (clumsy flight). | . | £10 | Stubby Horns (+d6 when you charge). | . | £12 | Tiny Second Head (roll a separate d12 for WIL and give them a name). | . ",
     "url": "/chime/resources/failed-careers/underground-weirdo/#what-makes-you-apear-inhuman",
     
     "relUrl": "/resources/failed-careers/underground-weirdo/#what-makes-you-apear-inhuman"
-  },"563": {
+  },"584": {
     "doc": "Underground Weirdo",
     "title": "What Keeps You Human?",
     "content": "|   |   | . | 1HP | Your Pet: Take a Misshapen Dog-Thing (2HP, d4 Bite). | . | 2HP | Your Appreciation For Science: Take a Lens and Biology Book. | . | 3HP | Your Love of Theatre: Take a Costume that helps you pass for a normal person. | . | 4HP | Your Music: Take a Rusty Glockenspiel. | . | 5HP | Your Paperwork: Take a set of ‘Certified Human’ papers. | . | 6HP | Your Love of Fine Wine: You can identify practically any alcoholic drink blind. | . ",
     "url": "/chime/resources/failed-careers/underground-weirdo/#what-keeps-you-human",
     
     "relUrl": "/resources/failed-careers/underground-weirdo/#what-keeps-you-human"
-  },"564": {
+  },"585": {
     "doc": "Underwhaler",
     "title": "Underwhaler",
     "content": "The biggest catches are deep in water and in ground. One catch makes a fortune for the captain, but you got a pittance. ",
     "url": "/chime/resources/failed-careers/underwhaler/",
     
     "relUrl": "/resources/failed-careers/underwhaler/"
-  },"565": {
+  },"586": {
     "doc": "Underwhaler",
     "title": "Sample Names",
     "content": ". | Scrimshaw | Dork | Langus | Goose | . ",
     "url": "/chime/resources/failed-careers/underwhaler/#sample-names",
     
     "relUrl": "/resources/failed-careers/underwhaler/#sample-names"
-  },"566": {
+  },"587": {
     "doc": "Underwhaler",
     "title": "You Start With:",
     "content": ". | Speargun (d8, Bulky, spear must be retrieved). | Pack of Gum (Humpback Whale Flavored). | . ",
     "url": "/chime/resources/failed-careers/underwhaler/#you-start-with",
     
     "relUrl": "/resources/failed-careers/underwhaler/#you-start-with"
-  },"567": {
+  },"588": {
     "doc": "Underwhaler",
     "title": "How Did You Cope In The Darkness?",
     "content": "|   |   | . | £2 | Carrot Diet: You can see perfectly in the dark. | . | £4 | You Didn’t: Take a Dazzling but Explosive Lamp. | . | £6 | Music: You can whistle excellently. It’s comforting. | . | £8 | Lots of Smoking: Take a Pack of Cigars. | . | £10 | Lots of Alcohol: Take a Bottle of Naval Gin. | . | £12 | Being Extremely Prepared: Take a Whale-Bomb (d8 Blast, +d12 underwater). | . ",
     "url": "/chime/resources/failed-careers/underwhaler/#how-did-you-cope-in-the-darkness",
     
     "relUrl": "/resources/failed-careers/underwhaler/#how-did-you-cope-in-the-darkness"
-  },"568": {
+  },"589": {
     "doc": "Underwhaler",
     "title": "What Underwhale Product Did You Manage To Pocket?",
     "content": "|   |   | . | 1HP | Stinkincense - a pot of wax with a wick. When burned, sewage slowly drips over from the top of the jar. If left for an hour it burns out, but produces enough sewage to fill a large room. | . | 2HP | Animation Oil - When rubbed onto an object, it springs to life for the next hour as your loyal servant. One dose. | . | 3HP | Evacuation Syrup - Removes any ill effects the drinker is suffering from, including anything short of death, but flushes the body clean in every sense. One dose. | . | 4HP | Genesis Molasses - A tin of deep green treacle that causes lush vegetation to grow within minutes, no matter where it is spread. If eaten, the victim loses d6 STR and begins coughing up moss. One use. | . | 5HP | Cocoon Wax - Anything covered in this wax is sealed off in a cocoon. After 24 hours it bursts free as a winged, hostile version of its previous self. One use. | . | 6HP | Agony-Tendon - Causes instant agony when touched by bare skin (you have gloves). 10m in length when uncoiled. Not very effective as an outright weapon (d6). | . ",
     "url": "/chime/resources/failed-careers/underwhaler/#what-underwhale-product-did-you-manage-to-pocket",
     
     "relUrl": "/resources/failed-careers/underwhaler/#what-underwhale-product-did-you-manage-to-pocket"
-  },"569": {
+  },"590": {
     "doc": "Urbalist",
     "title": "Urbalist",
     "content": "The walls of The City have a language of their own. The right ones reveal secrets, with the help of your herbs. ",
     "url": "/chime/resources/failed-careers/urbalist/",
     
     "relUrl": "/resources/failed-careers/urbalist/"
-  },"570": {
+  },"591": {
     "doc": "Urbalist",
     "title": "Sample Names",
     "content": ". | Risper | Zipra | Tior | Haloper | . ",
     "url": "/chime/resources/failed-careers/urbalist/#sample-names",
     
     "relUrl": "/resources/failed-careers/urbalist/#sample-names"
-  },"571": {
+  },"592": {
     "doc": "Urbalist",
     "title": "You Start With:",
     "content": ". | Sabre (d6). | 3 doses of Hallucinogenic Herbs (£20 each to restock). | . ",
     "url": "/chime/resources/failed-careers/urbalist/#you-start-with",
     
     "relUrl": "/resources/failed-careers/urbalist/#you-start-with"
-  },"572": {
+  },"593": {
     "doc": "Urbalist",
     "title": "What Do The Walls Tell You When You’re Herbed Up?",
     "content": "|   |   | . | £2 | Lick a wall to learn its Original Purpose. | . | £4 | Listen closely to hear the name of the building’s Legal Owner. | . | £6 | Stroke the walls to sense the Nearest Exit. | . | £8 | Smell the walls to know the Last Thing that was Cooked in here. | . | £10 | Eat a small part of the wall to know if there is a Hidden Door (but not where). | . | £12 | Push some fragments of the wall into your ear to know a Trivial Fact about a being that call its place home (if any). | . ",
     "url": "/chime/resources/failed-careers/urbalist/#what-do-the-walls-tell-you-when-youre-herbed-up",
     
     "relUrl": "/resources/failed-careers/urbalist/#what-do-the-walls-tell-you-when-youre-herbed-up"
-  },"573": {
+  },"594": {
     "doc": "Urbalist",
     "title": "What Do The Floors Tell You When You’re Herbed Up?",
     "content": "|   |   | . | 1HP | Observe a candle’s shadow to learn the path of the Last Person to Walk By. | . | 2HP | Throw some dust to hear a few echoes from the most Recent Conversation here. | . | 3HP | Splash some water to see the best Path to a Destination you’re chanting. | . | 4HP | Spit on the floor to hear the name of the Person Who Thinks They’re In Charge. | . | 5HP | Sleep on the floor to dream about the Most Interesting Thing to happen here. | . | 6HP | Follow a trail of fleshly spilled blood to find something that Doesn’t Belong here. | . ",
     "url": "/chime/resources/failed-careers/urbalist/#what-do-the-floors-tell-you-when-youre-herbed-up",
     
     "relUrl": "/resources/failed-careers/urbalist/#what-do-the-floors-tell-you-when-youre-herbed-up"
-  },"574": {
+  },"595": {
     "doc": "Urban Safarist",
     "title": "Urban Safarist",
     "content": "The human condition makes for fascinating viewing. At least for those too rich to have worries. ",
     "url": "/chime/resources/failed-careers/urban-safarist/",
     
     "relUrl": "/resources/failed-careers/urban-safarist/"
-  },"575": {
+  },"596": {
     "doc": "Urban Safarist",
     "title": "Sample Names",
     "content": ". | Saction | Rightly | Gourd | Croton | . ",
     "url": "/chime/resources/failed-careers/urban-safarist/#sample-names",
     
     "relUrl": "/resources/failed-careers/urban-safarist/#sample-names"
-  },"576": {
+  },"597": {
     "doc": "Urban Safarist",
     "title": "You Start With:",
     "content": ". | Tall Hat. | . ",
     "url": "/chime/resources/failed-careers/urban-safarist/#you-start-with",
     
     "relUrl": "/resources/failed-careers/urban-safarist/#you-start-with"
-  },"577": {
+  },"598": {
     "doc": "Urban Safarist",
     "title": "What Keeps You Safe?",
     "content": "|   |   | . | £2 | A Sword Cane (d6, easily concealable). | . | £4 | A Wooden Stake (d6, adorned with useless symbols). | . | £6 | A Machete (d6, with a fake jungle story). | . | £8 | A Scrap Launcher (d8 Blast, Bulky, requires a Rest to reload). | . | £10 | A Startle-Gun (fires loud but blank shots). | . | £12 | A Scary but Cowardly Dog (6HP, d8 Maul). | . ",
     "url": "/chime/resources/failed-careers/urban-safarist/#what-keeps-you-safe",
     
     "relUrl": "/resources/failed-careers/urban-safarist/#what-keeps-you-safe"
-  },"578": {
+  },"599": {
     "doc": "Urban Safarist",
     "title": "What Gets You Into Hidden Places?",
     "content": "|   |   | . | 1HP | A knack for Picking Locks. | . | 2HP | A collection of Fake Identification Documents. | . | 3HP | You’re the Exact Double of somebody very powerful and influential. | . | 4HP | You know the Layout of The City perfectly, even as it changes. | . | 5HP | You were Raised In The Underground and have weird family down there, but you look remarkably normal. | . | 6HP | You have perfect Dark-Vision. | . ",
     "url": "/chime/resources/failed-careers/urban-safarist/#what-gets-you-into-hidden-places",
     
     "relUrl": "/resources/failed-careers/urban-safarist/#what-gets-you-into-hidden-places"
-  },"579": {
+  },"600": {
     "doc": "Urchin Pack",
     "title": "Urchin Pack",
     "content": "Clinging together is your only hope for survival. ",
     "url": "/chime/resources/failed-careers/urchin-pack/",
     
     "relUrl": "/resources/failed-careers/urchin-pack/"
-  },"580": {
+  },"601": {
     "doc": "Urchin Pack",
     "title": "Sample Names",
     "content": ". | Rudolf | Syrie | Edmund | Masie | . ",
     "url": "/chime/resources/failed-careers/urchin-pack/#sample-names",
     
     "relUrl": "/resources/failed-careers/urchin-pack/#sample-names"
-  },"581": {
+  },"602": {
     "doc": "Urchin Pack",
     "title": "You Start With:",
     "content": ". | Pocket-Knives (d6) | Rocks (d4). | . ",
     "url": "/chime/resources/failed-careers/urchin-pack/#you-start-with",
     
     "relUrl": "/resources/failed-careers/urchin-pack/#you-start-with"
-  },"582": {
+  },"603": {
     "doc": "Urchin Pack",
     "title": "What Binds You Together?",
     "content": "|   |   | . | £2 | Shared ownership of a Child’s Musket (d6, Bulky). | . | £4 | You’re Siblings. | . | £6 | Only survivors of an Orphanage Explosion. | . | £8 | A Psychic Link. | . | £10 | You all speak Urchinese, a language that only other urchins understand. | . | £12 | Literally Conjoined. | . ",
     "url": "/chime/resources/failed-careers/urchin-pack/#what-binds-you-together",
     
     "relUrl": "/resources/failed-careers/urchin-pack/#what-binds-you-together"
-  },"583": {
+  },"604": {
     "doc": "Urchin Pack",
     "title": "How Many Of You Are There?",
     "content": "|   |   | . | 1HP | Just the One Survivor, but you’ve gone slightly feral. You can dig through soft earth like a dog and smell fear like a wolf. | . | 2HP | Two, each with 1HP. Take a Long Coat. When you get on each other’s shoulders beneath it you can do a decent adult impression. | . | 3HP | Three, each with 1HP. Two refuse to speak to each other. | . | 4HP | Four of you, each with 1HP, and one is a dog. | . | 5HP | Five of you, each with 1HP and incredibly sickly. Automatically fail any STR Saves until there is only one urchin left standing. | . | 6HP | A Full Pack of Six, but so co-dependent that you act as one being. If you send one off to break off and act individually, they count as having 1HP and 3 in all Attributes. | . ",
     "url": "/chime/resources/failed-careers/urchin-pack/#how-many-of-you-are-there",
     
     "relUrl": "/resources/failed-careers/urchin-pack/#how-many-of-you-are-there"
-  },"584": {
+  },"605": {
     "doc": "Vault Cracker",
     "title": "Vault Cracker",
     "content": "Most vaults are old enough that nobody can agree who owns them. You’re just tidying up forgotten things. ",
     "url": "/chime/resources/failed-careers/vault-cracker/",
     
     "relUrl": "/resources/failed-careers/vault-cracker/"
-  },"585": {
+  },"606": {
     "doc": "Vault Cracker",
     "title": "Sample Names",
     "content": ". | Garrun | Fatimax | Ruffy | Stanbar | . ",
     "url": "/chime/resources/failed-careers/vault-cracker/#sample-names",
     
     "relUrl": "/resources/failed-careers/vault-cracker/#sample-names"
-  },"586": {
+  },"607": {
     "doc": "Vault Cracker",
     "title": "You Start With:",
     "content": ". | Shovel (d6, Bulky). | . ",
     "url": "/chime/resources/failed-careers/vault-cracker/#you-start-with",
     
     "relUrl": "/resources/failed-careers/vault-cracker/#you-start-with"
-  },"587": {
+  },"608": {
     "doc": "Vault Cracker",
     "title": "What Gets You In?",
     "content": "|   |   | . | £2 | A Key Flute that has a 1-in-6 chance of opening any lock you play to. If it fails once, it never works on that lock. | . | £4 | Take a Crowbar (d6). | . | £6 | Take three Mining Charges (d10 Blast, must be set in place and shot). | . | £8 | Take a Portable Ram. | . | £10 | Take a bent Coat Hanger. | . | £12 | Take a Breaching Rocket (d10 Blast, one shot). | . ",
     "url": "/chime/resources/failed-careers/vault-cracker/#what-gets-you-in",
     
     "relUrl": "/resources/failed-careers/vault-cracker/#what-gets-you-in"
-  },"588": {
+  },"609": {
     "doc": "Vault Cracker",
     "title": "What Did You Find?",
     "content": "|   |   | . | 1HP | Macro-Telescope - Effectively infinite zoom. | . | 2HP | Portable Raft - Carries four people, compresses down to briefcase size. | . | 3HP | Brace of Fancy Pistols - d8 each, but won’t fire if separated. | . | 4HP | Case of Poisons - One dose each of ingested, injected, and inhaled poisons. | . | 5HP | Cursed Music Box - Sounds awful to you, everyone else hears their favorite tune. | . | 6HP | Unlabelled Food Can - 50 / 50 chance of Cat Food (expired), or Pressurized Potato (explodes in a d8 Blast when exposed to air). | . ",
     "url": "/chime/resources/failed-careers/vault-cracker/#what-did-you-find",
     
     "relUrl": "/resources/failed-careers/vault-cracker/#what-did-you-find"
-  },"589": {
+  },"610": {
     "doc": "Verminator",
     "title": "Verminator",
     "content": "Every type of animal can be found in some corner of The City. When they were unwanted, you went to work. ",
     "url": "/chime/resources/failed-careers/verminator/",
     
     "relUrl": "/resources/failed-careers/verminator/"
-  },"590": {
+  },"611": {
     "doc": "Verminator",
     "title": "Sample Names",
     "content": ". | Jock | Malair | Rig | Eddey | . ",
     "url": "/chime/resources/failed-careers/verminator/#sample-names",
     
     "relUrl": "/resources/failed-careers/verminator/#sample-names"
-  },"591": {
+  },"612": {
     "doc": "Verminator",
     "title": "You Start With:",
     "content": ". | Gas-gun (d6 Blast, Bulky, only affects things that breathe). | Tox-Mask (protects from airborne toxins). | . ",
     "url": "/chime/resources/failed-careers/verminator/#you-start-with",
     
     "relUrl": "/resources/failed-careers/verminator/#you-start-with"
-  },"592": {
+  },"613": {
     "doc": "Verminator",
     "title": "What Specialist Gear Do You Have?",
     "content": "|   |   | . | £2 | Collapsible Ladder. Fits into your pocket. | . | £4 | Telescopic Pest-Hook. Comes with a range of attachments. | . | £6 | Sack of Mousetraps. Choose between Humane and Lethal. | . | £8 | Periscope. Rotates and Extends. | . | £10 | Protective Suit. Only effective against small vermin. | . | £12 | Multi-Setting Bird Call. Can attract or repel. | . ",
     "url": "/chime/resources/failed-careers/verminator/#what-specialist-gear-do-you-have",
     
     "relUrl": "/resources/failed-careers/verminator/#what-specialist-gear-do-you-have"
-  },"593": {
+  },"614": {
     "doc": "Verminator",
     "title": "What’s The One Creature You Couldn’t Kill? (They Now Accompany You)",
     "content": "|   |   | . | 1HP | Devourer. A football sized bug that curls up in your backpack. Can be woken once per day to eat its own size in organic material, no matter how inedible. | . | 2HP | Maggot Prince. A tiny maggot with a gold band marking. Flies and maggots vacate the area to make room for it, and anything that eats bugs is strongly drawn to try and eat it. | . | 3HP | Nightmare Moth Anyone but you sleeping in the same room as this moth suffers horrible nightmares. When they wake, the moth takes on the form of something from the nightmare. | . | 4HP | Terrormite. A big termite, pinned down in its box. Once released it burrows into the nearest living creature it can find, causing intense pain. Within a minute, the victim develops a tough outer skin (AP 1) and can spit acid (d6, Ongoing). This lasts for an hour until the victim coughs out d6 Terrormite Larva and returns to normal. | . | 5HP | Snake-Cat. A cloth toy with a snake body and cat head. If you’re confronted by a hostile snake, it transforms into a cat (4HP, d4 Claws). If you’re confronted by a hostile cat, it transforms into a snake (4HP, d6 Bite, d6 STR loss on CRITICAL DAMAGE). | . | 6HP | Large and Peaceful Dog. The only animal you can tolerate (6HP, d6 Bite in retaliation only). | . ",
     "url": "/chime/resources/failed-careers/verminator/#whats-the-one-creature-you-couldnt-kill-they-now-accompany-you",
     
     "relUrl": "/resources/failed-careers/verminator/#whats-the-one-creature-you-couldnt-kill-they-now-accompany-you"
-  },"594": {
+  },"615": {
     "doc": "Wall-Born",
     "title": "Wall-Born",
     "content": "The City has rings of walls all the way to its centre, wherever that is. You were both warden and resident. ",
     "url": "/chime/resources/failed-careers/wall-born/",
     
     "relUrl": "/resources/failed-careers/wall-born/"
-  },"595": {
+  },"616": {
     "doc": "Wall-Born",
     "title": "Sample Names",
     "content": ". | Corbel | Dog-Leg | Noggin | Plinth | . ",
     "url": "/chime/resources/failed-careers/wall-born/#sample-names",
     
     "relUrl": "/resources/failed-careers/wall-born/#sample-names"
-  },"596": {
+  },"617": {
     "doc": "Wall-Born",
     "title": "You Start With:",
     "content": ". | Baton (d6). | Grappling Hook. | Pack of Gum (Rust Flavored). | . ",
     "url": "/chime/resources/failed-careers/wall-born/#you-start-with",
     
     "relUrl": "/resources/failed-careers/wall-born/#you-start-with"
-  },"597": {
+  },"618": {
     "doc": "Wall-Born",
     "title": "What Was Your Job On The Walls?",
     "content": "|   |   | . | £2 | Grouter. Take a Trowel and Bucket of Grout. | . | £4 | Gutter Scraper. Take a Scraping Pole (d6). | . | £6 | Bird Scarer. Take a Fake Pistol (only fires blanks). | . | £8 | High Militia Guard. Take a Fancy Hat. | . | £10 | Nightwatch. Take a Spot-Lamp. | . | £12 | Militia Sargeant. Take a Fancy Hat with a Feather, a Loud Yell, and a Disgraced Record. | . ",
     "url": "/chime/resources/failed-careers/wall-born/#what-was-your-job-on-the-walls",
     
     "relUrl": "/resources/failed-careers/wall-born/#what-was-your-job-on-the-walls"
-  },"598": {
+  },"619": {
     "doc": "Wall-Born",
     "title": "What Did You Find Behind a Loose Brick?",
     "content": "|   |   | . | 1HP | Beastmode Formula. A liquid tonic that grants the drinker the properties of a specific animal for one minute. Examples are: Eyes of a Hawk, Nose of a Dog, Strength of a Bear. Three doses. | . | 2HP | Orphan’s Ruin. 6oz of Milky Drink. 1oz pacifies any unease, 2oz causes a deep sleep, 3oz eternal sleep. | . | 3HP | Stem-Stone Pebble that transforms into whatever non-living material it last touched. Currently the leather of your pouch. | . | 4HP | Plague Wart. A carefully extracted wart sealed in a jar. Anyone that touches it contracts a disgusting plague, losing d6 STR every hour. The victim’s touch immediately spreads the plague. There is no cure that you know of. | . | 5HP | Jerk Sprite. A statuette of dried meat. Whatever eats this acts like an utter jerk for the next hour, even to their most loved ones. | . | 6HP | Universal Pin. A hairpin that sticks into any surface, no matter the material. Causes no pain if stuck into flesh. | . ",
     "url": "/chime/resources/failed-careers/wall-born/#what-did-you-find-behind-a-loose-brick",
     
     "relUrl": "/resources/failed-careers/wall-born/#what-did-you-find-behind-a-loose-brick"
-  },"599": {
+  },"620": {
     "doc": "Wilderness Recluse",
     "title": "Wilderness Recluse",
     "content": "Modernity gets between us and our natural instincts. You’re here begrudgingly after a lifetime in the wilds of Deep Country. ",
     "url": "/chime/resources/failed-careers/wilderness-recluse/",
     
     "relUrl": "/resources/failed-careers/wilderness-recluse/"
-  },"600": {
+  },"621": {
     "doc": "Wilderness Recluse",
     "title": "Sample Names",
     "content": ". | Benson | Looper | Match | Urbroil | . ",
     "url": "/chime/resources/failed-careers/wilderness-recluse/#sample-names",
     
     "relUrl": "/resources/failed-careers/wilderness-recluse/#sample-names"
-  },"601": {
+  },"622": {
     "doc": "Wilderness Recluse",
     "title": "You Start With:",
     "content": ". | Ragged Clothes. | . ",
     "url": "/chime/resources/failed-careers/wilderness-recluse/#you-start-with",
     
     "relUrl": "/resources/failed-careers/wilderness-recluse/#you-start-with"
-  },"602": {
+  },"623": {
     "doc": "Wilderness Recluse",
     "title": "Where Did You Go?",
     "content": "|   |   | . | £2 | The Woods: Take a Bear Trap (d8 if sprung). | . | £4 | The Islands: Take a Portable Raft (Bulky). | . | £6 | The Swamp: Take a Peatbomb (d8 Blast, smelly). | . | £8 | The Desert: Take a Spyglass. | . | £10 | The Jungle: Take a Vial of Contact Poison (frog). | . | £12 | The Mountains: Take a Jar of Mountain Air (smells great). | . ",
     "url": "/chime/resources/failed-careers/wilderness-recluse/#where-did-you-go",
     
     "relUrl": "/resources/failed-careers/wilderness-recluse/#where-did-you-go"
-  },"603": {
+  },"624": {
     "doc": "Wilderness Recluse",
     "title": "What Helped You Survive?",
     "content": "|   |   | . | 1HP | Your old Crossbow (d6, Bulky), stolen from bandits. | . | 2HP | Your Sling (d6), which you used to kill a bear. | . | 3HP | Your Hunting Bow (d6), crafted by your mentor. | . | 4HP | Your Machete (d6), made from meteoric metal. | . | 5HP | An ornately carved Tree Branch (d6, Bulky). | . | 6HP | Your Spear (d6, Bulky), with a dinosaur-tooth tip. | . ",
     "url": "/chime/resources/failed-careers/wilderness-recluse/#what-helped-you-survive",
     
     "relUrl": "/resources/failed-careers/wilderness-recluse/#what-helped-you-survive"
-  },"604": {
+  },"625": {
     "doc": "Worthless Graduate",
     "title": "Worthless Graduate",
     "content": "You’ve spent a long time in colleges, arguing about words. Your career prospects are poor. ",
     "url": "/chime/resources/failed-careers/worthless-graduate/",
     
     "relUrl": "/resources/failed-careers/worthless-graduate/"
-  },"605": {
+  },"626": {
     "doc": "Worthless Graduate",
     "title": "Sample Names",
     "content": ". | Tolly | Langelle | Befloma | Tut | . ",
     "url": "/chime/resources/failed-careers/worthless-graduate/#sample-names",
     
     "relUrl": "/resources/failed-careers/worthless-graduate/#sample-names"
-  },"606": {
+  },"627": {
     "doc": "Worthless Graduate",
     "title": "You Start With:",
     "content": ". | Worthless Certificate | . ",
     "url": "/chime/resources/failed-careers/worthless-graduate/#you-start-with",
     
     "relUrl": "/resources/failed-careers/worthless-graduate/#you-start-with"
-  },"607": {
+  },"628": {
     "doc": "Worthless Graduate",
     "title": "What Was Your Subject?",
     "content": "|   |   | . | £2 | Theoretical Economics: Bankers hate you. | . | £4 | Occult Medicine: You can ‘order off-menu’ when you visit a surgeon. | . | £6 | Urban Philosophy: You can justify anything weird in The City. | . | £8 | Animal Ethics: You know animals true feelings by watching their behavior. | . | £10 | Emulsification Studies: You know what will happen when any two liquids are mixed. | . | £12 | Technological Arts: You can see the beauty in any piece of machinery. | . ",
     "url": "/chime/resources/failed-careers/worthless-graduate/#what-was-your-subject",
     
     "relUrl": "/resources/failed-careers/worthless-graduate/#what-was-your-subject"
-  },"608": {
+  },"629": {
     "doc": "Worthless Graduate",
     "title": "What Was Your Favorite Extra-Curricular Activity?",
     "content": "|   |   | . | 1HP | Chopping Logs: Take a Long Axe (d8, Bulky). | . | 2HP | Target Shooting: Take a Rifle (d8, Bulky). | . | 3HP | Rock Climbing: Take two Climbing Picks (d6+d6). | . | 4HP | Whittling: Take a Knife (d6). | . | 5HP | Crocodile Hunting: Take a Hand-Spear (d6). | . | 6HP | Canal Punting: Take a Pole (d6, Bulky). | . ",
