@@ -7,6 +7,9 @@
 <loc>http://localhost:4000/chime/campaign-info/non-player-characters/Bisk/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/chime/campaign-info/non-player-characters/Wrey/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/chime/resources/failed-careers/academic-debater/</loc>
 </url>
 <url>
@@ -418,6 +421,9 @@
 <loc>http://localhost:4000/chime/campaign-info/session-summaries/session-7/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/chime/campaign-info/session-summaries/session-8a/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/chime/campaign-info/session-summaries/</loc>
 </url>
 <url>
@@ -437,6 +443,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/chime/resources/failed-careers/squidbagger/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/chime/campaign-info/non-player-characters/sssa/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/chime/resources/failed-careers/star-blessed/</loc>
