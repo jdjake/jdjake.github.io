@@ -7,9 +7,6 @@
 <loc>http://localhost:4000/chime/campaign-info/non-player-characters/Bisk/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/chime/campaign-info/non-player-characters/Wrey/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/chime/resources/failed-careers/academic-debater/</loc>
 </url>
 <url>
@@ -71,6 +68,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/chime/rules/character-creation/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/chime/campaign-info/non-player-characters/charlie/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/chime/resources/failed-careers/civic-butler/</loc>
@@ -221,6 +221,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/chime/campaign-info/non-player-characters/jenny/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/chime/campaign-info/non-player-characters/joni/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/chime/campaign-info/non-player-characters/jus/</loc>
@@ -524,6 +527,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/chime/resources/failed-careers/worthless-graduate/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/chime/campaign-info/non-player-characters/wrey/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/chime/resources/CharacterSheet-AlphaVersion.pdf</loc>
