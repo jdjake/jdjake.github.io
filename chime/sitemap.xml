@@ -349,6 +349,9 @@
 <loc>http://localhost:4000/chime/resources/random-traits/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/chime/campaign-info/non-player-characters/ray/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/chime/resources/relationship-archetypes/</loc>
 </url>
 <url>
@@ -527,9 +530,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/chime/resources/failed-careers/worthless-graduate/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/chime/campaign-info/non-player-characters/wrey/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/chime/resources/CharacterSheet-AlphaVersion.pdf</loc>
