@@ -13,6 +13,9 @@
 <loc>http://localhost:4000/dolmenwood/rules/core-rules/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/dolmenwood/resources/factions-and-powers/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/dolmenwood/scripts/heartseed/</loc>
 </url>
 <url>
@@ -20,6 +23,15 @@
 </url>
 <url>
 <loc>http://localhost:4000/dolmenwood/resources/kindred/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/dolmenwood/resources/languages/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/dolmenwood/resources/regions-of-dolmenwood/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/dolmenwood/resources/religions/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/dolmenwood/resources/</loc>
