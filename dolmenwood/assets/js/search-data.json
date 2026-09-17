@@ -1,688 +1,842 @@
 {"0": {
+    "doc": "Campaign Info",
+    "title": "Campaign Info",
+    "content": " ",
+    "url": "/dolmenwood/campaign-info/",
+    
+    "relUrl": "/campaign-info/"
+  },"1": {
     "doc": "Character Creation",
     "title": "Character Creation",
     "content": ". | Roll Ability Scores: Roll 3d6 for each, in order: Strength, Intelligence, Wisdom, Dexterity, Constitution, and Charisma. | Choose a Kindred: Select a Kindred. Note that Elves, Grimalkins, and Woodgrues cannot be Clerics or Friars, as they have no spiritual connection to the deities of mortals. | Choose a Class: Select a Class. | Adjust Ability Scores: If you wish, you may raise your Prime Abilities, corresponding to the class you picked, by lowering other ability scores. For every 2 points by which a score is lowered, 1 point may be added to a prime ability. No ability may be lowered below 9 or raised above 13 by this method. | Note Ability Modifiers: Now your character’s ability scores have been determined, make a note of any associated bonuses or penalties. |   |   |   |   |   |   |   |   | . | Ability Score | 3 | 4-5 | 6-8 | 9-12 | 13-15 | 16-17 | 18 | . | Modifier | -3 | -2 | -1 | 0 | +1 | +2 | +3 | . | Note Kindred and Class Traits: Record any special traits possessed by your character as a result of their Kindred and Class, including Attack Bonuses, Save Targets, Skill Targets, and Languages Spoken. | Roll Hit Points: Determine your character’s Hit Points by rolling the die for the chosen Class and adding your Constitution Modifier. | Roll Equipment: All Characters start play with Common Clothes, a Backpack (containing 2 Preserved Rations, a Waterskin, and a Tinder Box), and a Belt containing 3d6 gold pieces. In addition, certain Classes may have additional weapons, armor, and special items. Finally, you may choose or roll up to 4 items from the Adventuring Items table, and roll for an odd, slightly magical trinket corresponding to your character’s Kindred. | Note Armor Class: Your character’s armor class (AC) is determined by the armor they wear, and their Dexterity modifier. Some Kindreds and Classes also grant a bonus to AC. | Note Speed: Your character’s speed is based on the amount of equipment carried. | Choose Alignment: Determine your character’s Alignment. Clerics and Friars may not be Chaotic. | Note Level and XP: Your character begins play at Level 1 with 0 XP. | Name and Details: Choose a name for your character. Your may use the tables listed under your character’s Kindred for inspiration. Optionally, select or roll for a background and any extra details associated with your character’s Kindred. | . You are now ready for adventure! . ",
     "url": "/dolmenwood/rules/character-creation/",
     
     "relUrl": "/rules/character-creation/"
-  },"1": {
+  },"2": {
     "doc": "Classes",
     "title": "Classes",
     "content": ". | Classes . | Bards | Cleric | Enchanter | Fighter | Friar | Hunter | Knight | Magician | Thief | . | . ",
     "url": "/dolmenwood/resources/classes/",
     
     "relUrl": "/resources/classes/"
-  },"2": {
+  },"3": {
     "doc": "Classes",
     "title": "Bards",
     "content": "Musicians and poets drawn to a life of wandering and adventure. Their Prime Abilities are Charisma and Dexterity. Their Hit Die is a d6. As they level, they become better at Listening. They also have three additional Bardic skills: Decipher Documents allows them to get the gist of non-magical texts in a language they do not speak, Legerdemain allows them to perform sleight of hand tricks, and Monster Lore allows them to identify monsters and their basic powers and vulnerabilities based on their appearances in Myth and Folklore. Once per turn, Bards can play music to Counter Charm, giving allies immunity to magical effects based on music and song, and +2 to Saving Throws against Fairy Magic. Once per day per level, Bards may Enchant creatures to Fascinate them, causing them to devote utter attention to the bards song, and follow them while the Bard plays their song. ",
     "url": "/dolmenwood/resources/classes/#bards",
     
     "relUrl": "/resources/classes/#bards"
-  },"3": {
+  },"4": {
     "doc": "Classes",
     "title": "Cleric",
     "content": "Holy warriors in the service of the Pluritine Church. Their Prime Ability is Wisdom. Their Hit Die is a d6. They must be Lawful or Neutral in Alignment, and follow the Tenets of their Holy Order or fall from grace. They may Detect Holy Magic Items by touching the item, and concentrating for a Turn, cast Holy Magic channeled through a Holy Symbol, and Turn Undead once per Turn, attempting to drive off the Undead through the might of the One True God. ",
     "url": "/dolmenwood/resources/classes/#cleric",
     
     "relUrl": "/resources/classes/#cleric"
-  },"4": {
+  },"5": {
     "doc": "Classes",
     "title": "Enchanter",
     "content": "Wanderers who wield Fairy Magic. Their Prime Abilities are Charisma and Intelligence. Their Hit Die is a d6. Enchanters have an additional Skill, Detect Magic, which enables them to detect subtle resonances woven into an enchanted object by touching and concentrating on the object for a period of time. They are granted the use of Fairy Runes, the secret sigils of the Fairy Rulers, as well as a minor magical talents known as a Glamours. However, by allying themselves with the godless world of Fairy, they are Resistant to Divine Aid. ",
     "url": "/dolmenwood/resources/classes/#enchanter",
     
     "relUrl": "/resources/classes/#enchanter"
-  },"5": {
+  },"6": {
     "doc": "Classes",
     "title": "Fighter",
     "content": "Mercenaries, Soldiers, and Ruffians, experienced in combat and warfare. Their Prime Abilities are Strength. Their Hit Die is a d8. They possess Combat Talents which grant them exceptional abilities in melee and ranged combat. ",
     "url": "/dolmenwood/resources/classes/#fighter",
     
     "relUrl": "/resources/classes/#fighter"
-  },"6": {
+  },"7": {
     "doc": "Classes",
     "title": "Friar",
     "content": "Wandering Ascetics spreading the Gospel of the Pluritine Church. They are only loosely affiliated with The Church and exist outside the strict religious hierarchy of the Clergy, thus beloved by the common folk, whom they often aid when The Church does not. Their Prime Abilities are Intelligence and Wisdom. They have a Hit Die of d4. They must be Lawful or Neutral in Alignment. A Divine Blessing gives them an Armour of Faith, giving them a bonus to AC. They have a Skill target of 5 for Survival when Foraging. They are efficient in the use of Medicinal Herbs, can cast holy Magic, and can Turn Undead once per Turn. However, they have taken a monastic vow of Poverty, and must donate excess wealth to worthy causes (not other PCs), and dress in a simple habit and cut their hair in tonsure. ",
     "url": "/dolmenwood/resources/classes/#friar",
     
     "relUrl": "/resources/classes/#friar"
-  },"7": {
+  },"8": {
     "doc": "Classes",
     "title": "Hunter",
     "content": "Expert trackers, stalkers, and killers, at home in the wild woods. Their Prime Ability is Constitution and Dexterity, and they have a Hit Die of d8. A Hunter may forge a bond with an Animal Companion. As Hunters level, they improve their Survival Skill, and have three additional skills: Alertness, which prevents them from being Surprised, Stalking, which allows them to remain undetected in the light brush of the wilds, and Tracking, which allows a Hunter to find tracks and follow them. They gain a +1 Attack Bonus to Missile Attacks, and may take Trophies from creatures they have hunted and use them as lucky charms. They are Wayfinders that are less likely to find their way when lost. ",
     "url": "/dolmenwood/resources/classes/#hunter",
     
     "relUrl": "/resources/classes/#hunter"
-  },"8": {
+  },"9": {
     "doc": "Classes",
     "title": "Knight",
     "content": "Warriors who serve a noble, doing their bidding and upholding their honor. They serve a Liege, one of the eight Lower Houses of The Dolmenwood. Their Prime Abilities are Charisma and Strength, and have a Hit Die of d8. They are expert Horseman, easily assessing steeds and gaining a +1 Bonus to Attack while Mounted. They are Monster Slayers, gaining a +2 Bonus to Attack against Large creatures. They have Strength of Will, gaining a +2 Bonus to Saving Throws against fear-based effects. ",
     "url": "/dolmenwood/resources/classes/#knight",
     
     "relUrl": "/resources/classes/#knight"
-  },"9": {
+  },"10": {
     "doc": "Classes",
     "title": "Magician",
     "content": "Connoisseurs of secret arcane lore. They hone innate sparks of magical sensitivity through years of arduous study, imprinting patterns of magical energy into their mind (a process known as memorizing a spell) to be unleashed at a later date. Their Prime Ability is Intelligence, and they have a Hit Die of d4. A Magician starts with a single Spellbook which gives them three Arcane Spells, but may only cast one a day. They have an additional skill, Detect Magic, which enables them to detect subtle resonances woven into an enchanted object, place, or creature, through touch and concentration for a Turn. ",
     "url": "/dolmenwood/resources/classes/#magician",
     
     "relUrl": "/resources/classes/#magician"
-  },"10": {
+  },"11": {
     "doc": "Classes",
     "title": "Thief",
     "content": "Rogues who live by skills of deception and stealth. Their Prime Ability is Dexterity and their Hit Die is a d4. Thieves are proficient in Backstabbing, dealing deadly blows when attacking from behind with a dagger. They are masters of various useful skills. As they level, improve their Listen and Search skills. And Thieves also have five additional Skills: Climb Wall allows them to climb vertical sheer surfaces with only minimal handholds without specialized equipment, Decipher Document allows them to get the gist of non-magical texts in a language they do not speak, Disarm Mechanism allows them to disarm complex, clockwork-like traps and mechanisms using Thieves Tools, Legerdemain allows them to perform sleight of hand tricks, Pick Lock allows them to open a lock without a key using Thieves Tools, and Stealth allows them to make a Stealth Check to remain undetected when shadows are the only cover. ",
     "url": "/dolmenwood/resources/classes/#thief",
     
     "relUrl": "/resources/classes/#thief"
-  },"11": {
+  },"12": {
     "doc": "Core Rules",
     "title": "Core Rules",
     "content": ". | The Basic Game Procedure | Resolution Systems . | Skill Checks | Ability Checks | Saving Throws | Attack Rolls | Luck Check | Example Resolutions | . | Encounter Procedures | Combat Procedures | House Rules . | Death and Dismemberment . | Early Retirement Table . | Example: Farmer | Example: Monk | Example: Criminal | Example: Beggar | . | . | Camping Minigame . | Setup Activities . | Preparing the Campsite | Search for Natural Shelter | Care for Animals | Starting a Fire | Gathering Firewood | Fellowship | . | Nighttime Encounters | A New Day | . | Alternate Alignment System . | Law | Chaos | Neutrality | . | . | . ",
     "url": "/dolmenwood/rules/core-rules/",
     
     "relUrl": "/rules/core-rules/"
-  },"12": {
+  },"13": {
     "doc": "Core Rules",
     "title": "The Basic Game Procedure",
     "content": ". | The Referee Describes the situation, depicting the environment, characters, hazards, and objects present, and noting any smells, sounds, or other features. | The players ask Questions to clarify description elements. | The players put themselves in their characters shoes, discussing what to do, and then Declaring Actions they wish to perform. This can be anything imaginable, from speaking to characters present, interacting with the environment, or using a special capability granted to them by their Kindred or Class. The Referee clarifies potential risk involved with such actions. Each Character may perform a different action, though it usually beneficial for a Party to stick together and act in concert with one another. | The Referee Judges the potential results of the proposed action. Specific game rules may apply, and an appropriate Resolution System may apply, or the Referee will come up with a ruling based on the specific situation. The Referee presents the odds to a player, making the likelihood of success and failure and potential risks clear. The player may then alter their approach, or come up with alternate plans to tip the odds in their favor. | The action is Resolved, potentially involving some kind of dice roll. Then Time Passes, depending on the action taken. Time is normally divided into discrete segments called Rounds (10 Seconds) and Turns (10 minutes). In hazardous environments, a Wandering Monster roll may be made to determine if the Party encounters something by chance. | . ",
     "url": "/dolmenwood/rules/core-rules/#the-basic-game-procedure",
     
     "relUrl": "/rules/core-rules/#the-basic-game-procedure"
-  },"13": {
+  },"14": {
     "doc": "Core Rules",
     "title": "Resolution Systems",
     "content": " ",
     "url": "/dolmenwood/rules/core-rules/#resolution-systems",
     
     "relUrl": "/rules/core-rules/#resolution-systems"
-  },"14": {
+  },"15": {
     "doc": "Core Rules",
     "title": "Skill Checks",
     "content": "Some actions require passing a Skill Check to succeed. All adventurers can use the Listen, Search, and Survival skills. Some classes grant the use of additional, specialized skills. To make a Skill Check, roll a d6, and add any situational modifiers. If the roll equals or exceeds the character’s Skill Target, they succeed in the Skill Check, and the action they carry out succeeds. A natural 1 always fails and a natural 6 always succeeds. ",
     "url": "/dolmenwood/rules/core-rules/#skill-checks",
     
     "relUrl": "/rules/core-rules/#skill-checks"
-  },"15": {
+  },"16": {
     "doc": "Core Rules",
     "title": "Ability Checks",
     "content": "An Ability Check represents a test of a character’s physical or mental aptitudes (one of their Ability Scores) rather than a particular learned skill. Roll a d6 and add the Ability Modifier of the relevant Ability. If the result equals or exceeds a target number of 4, the check succeeds. A natural 1 always fails and a natural 6 always succeeds. ",
     "url": "/dolmenwood/rules/core-rules/#ability-checks",
     
     "relUrl": "/rules/core-rules/#ability-checks"
-  },"16": {
+  },"17": {
     "doc": "Core Rules",
     "title": "Saving Throws",
     "content": "Certain dangerous or detrimental effects call for a Saving Throw, or Save, which is a roll to determine whether a character avoids the effect. There are 5 Save Categories, each for a different type of hazard. Roll a d20 and add applicable modifiers. If the result equals or exceeds the character’s Save Target for the relevant Save Category, the Saving Throw Succeeds. Doom are effects that instantly kill or inflict ongoing physical malignancies, such as poison, disease, and death magic. Ray are effects coming from rapidly moving, directional effects, such as lightning bolts. Hold are effects that hinder or prevent movement, such as paralysis or falling rocks that may crush or pin characters. Blast are effects that fill a wide area, such as explosions. Spell applies to potent, directly targeted effects, such as arcane or holy spells. In situation not covered by the rules, the Referee should run down the categories listed above, choosing the first that fits the effect in question. If an effect does not fit in any category, default to Doom. ",
     "url": "/dolmenwood/rules/core-rules/#saving-throws",
     
     "relUrl": "/rules/core-rules/#saving-throws"
-  },"17": {
+  },"18": {
     "doc": "Core Rules",
     "title": "Attack Rolls",
     "content": "This roll is used to determine whether an attacker lands a blow on an opponent. Roll a d20 and add any applicable modifiers (your Attack bonus, as well as your Strength Modifier for Melee Attacks, and Dexterity Modifier for Ranged Attacks). If you beat or exceed the defender’s Armor Class, you succeed. ",
     "url": "/dolmenwood/rules/core-rules/#attack-rolls",
     
     "relUrl": "/rules/core-rules/#attack-rolls"
-  },"18": {
+  },"19": {
     "doc": "Core Rules",
     "title": "Luck Check",
     "content": "Used when the outcome of a situation depends on pure chance. The Referee proposes a chance of success, and a relevant dice is rolled to determine if the Luck Check succeeds. ",
     "url": "/dolmenwood/rules/core-rules/#luck-check",
     
     "relUrl": "/rules/core-rules/#luck-check"
-  },"19": {
+  },"20": {
     "doc": "Core Rules",
     "title": "Example Resolutions",
     "content": ". | If players wish to make a reasonable climb (e.g. climbing a tree) in a non-pressured situation, no Check may be required. In more difficult or tense situations, a Dexterity Ability Check may be required to succeed, with a Failure resulting in the Character falling halfway through making the climb. | A stuck door that is unlocked but so obstructed that it cannot be opened without force may be shoulder barged with a successful Strength Ability Check. The Referee should probably warn the player if this will produce a loud noise, which may attract attention to the Party. Similarly, a Locked door may be broken open with an axe or crowbar with a successful Strength Ability Check. Alternatively a Locked Door may be picked by a thief using a Pick Lock Skill Check, or open via a magic spell (likely with no Check required). | When two groups approach one another, there is a chance one or the other will be unaware of the other’s presence. This is handled with a Surprise Roll, which is a Luck Check for each group, with odds depending on the vigilence of the other party. | . ",
     "url": "/dolmenwood/rules/core-rules/#example-resolutions",
     
     "relUrl": "/rules/core-rules/#example-resolutions"
-  },"20": {
+  },"21": {
     "doc": "Core Rules",
     "title": "Encounter Procedures",
     "content": "Encounter Procedures apply when adventurers meet strangers, foes, or monsters in the wild. | The Referee determines the Awareness of each party of one another. This applies if a group is making a lot of noise, or carrying a light in the dark. | The Referee rolls for Surprise, if one party is not aware of the other. The standard chance of being surprised is 2-6, but may be modified in certain situations. | The Referee determines the Distance between the two groups when encountered. | The Referee determines the Initiative, i.e. which side acts first. Each side rolls a d6, the highest roll determining whom goes first. | Both Sides declare their intended Actions. If one side decides to start attacking the other side, begin following Combat Procedures. If one side wishes to avoid the encounter, it may attempt to Flee the encounter. A side may attempt to Parley with the other, and provided combat has not been initiated, a Charisma bonus may determine a Monster or NPC Reaction to the party. | . ",
     "url": "/dolmenwood/rules/core-rules/#encounter-procedures",
     
     "relUrl": "/rules/core-rules/#encounter-procedures"
-  },"21": {
+  },"22": {
     "doc": "Core Rules",
     "title": "Combat Procedures",
     "content": ". | Both sides declare their Intended Actions. The intention to cast a spell must be declared, because the spell is disrupted if the caster loses initiative and is harmed. The intention to flee from melee must be declared, for opponents that win initiative against a fleeing combatant are able to attack their opponents with a bonus. | Each side rolls d6 to determine Initiative, who acts first. | Each side, in order, moves and attacks. Combatants may not move while casting spells. | The Referee makes a Morale Check for NPCs, if applicable. | . ",
     "url": "/dolmenwood/rules/core-rules/#combat-procedures",
     
     "relUrl": "/rules/core-rules/#combat-procedures"
-  },"22": {
+  },"23": {
     "doc": "Core Rules",
     "title": "House Rules",
     "content": " ",
     "url": "/dolmenwood/rules/core-rules/#house-rules",
     
     "relUrl": "/rules/core-rules/#house-rules"
-  },"23": {
+  },"24": {
     "doc": "Core Rules",
     "title": "Death and Dismemberment",
     "content": "HP are an abstract measurement representing your character’s ability not to get hit, or at least not to get hit seriously. A PC reduced to 0 HP can still function normally. Any damage dealt in excess of HP is Lethal Damage. Players dealt Lethal Damage make a Death and Dismemberment Roll. Lethal Damage normally kills non-player characters, but large, vicious, or tenacious creatures may make Death and Dismemberment Rolls as well. To make a Death and Dismemberment, roll 1d12, then add the amount of Lethal Damage your character has taken, and your character’s current number of injuries, to determine a number X. Consult the following table, using the column that best represents the injury your character has taken. If it is not narratively clear, roll 1d6 to determine the location of a lethal injury. |   |   |   |   |   |   |   |   |   | . | Roll | 1 Arm | 2 Leg | 3-4 Torso | 5-6 Head | Acid / Fire | Cold / Frost | Lightning | Magic | . | 1+ | Disabled X Days | Disabled X Days | Cracked Ribs X Days | Concussed X Days | Burned X Days | Frostbite X Days | Burned X Days | Anathema X Days | . | 11+ | Mangled | Mangled | Crushed | Skullcracked | Blind | Frozen | Deaf | Marked | . | 16+ | X-15 Fatal Wounds | X-15 Fatal Wounds | X-15 Fatal Wounds | X-15 Fatal Wounds | X-15 Fatal Wounds | X-15 Fatal Wounds | X-15 Fatal Wounds | X-15 Fatal Wounds | . If a PC recieves a Fatal Wound, they have 3 rounds to clear all their Fatal Wounds, or they die. PCs with Fatal Wounds are unconscious. This does not mean they are quiet or asleep (e.g. they can be screaming their head off), but it means they cannot take conscious actions. No hopping away, nothing helpful, useful, or sensible. A player can attempt to remove a Fatal Wound at the end of their turn by rolling a 1 on a d6. An adjacent ally can attempt to remove a Fatal Wound by spending their turn doctoring the wounded PC and then rolling under half their Intelligence (potentially boosted with narratively appropriate equipment). Up to two allies can help at once, but no more (although they might lend bonuses to the roll), and only two Fatal Wounds can be removed per round by doctoring, no matter how many allies are present. Magical healing removes 1 Fatal Wound per 2 points of HP it would normally restore. The goal of this table is to make characters less fragile, while still heavily penalizing getting injured. If your HP is zero, and you could retreat, and you didn’t, then the consequences are on your head. They also make retirement more tmepting. If your PC survives to reach Level 5, they can retire to safety. They get to escape the Death and Dismemberment Table, the Early Retirement Table, and the whims of fate forever. That’s the risk-reward balance. Risk injury to get money. Get money to avoid risking injury, possibly forever. Or risk it some more to possibly, maybe, become a legend. | Anathema: Cannot benefit from magical healing or helpful magic. | Blind: Unable to see. Disadvantage to attack rolls and Advantage to those attacking you. | Burned: Cannot wear armor (it is excruciatingly painful). Afterwards, gain an Interesting Scar. | Cracked Ribs: The PC’s maximum HP is reduced by the PC’s level. | Crushed: Make Save. If they fail, roll on the table below. If they pass, they gain an Interesting Scar: (1) Permanently lose 1 Strength (2) Permanently lose 1 Dexterity (3) Permanently lose 1 Constitution (4) Crushed Throat. Cannot speak louder than a whisper (5) Crushed Guts. Constitution is 4 for the purposes of holding your breath. Can swim; can’t dive. (6) Broken Spine. Paralyzed from the neck down. Save to recover after 1d6 days. If failed, Save again after 1d6 weeks. If both Saves are failed, the PC is permanently paralyzed. | Concussed: TODO. | Deaf: Cannot hear. | Disabled A injured limb becomes unusable. A Disabled arm cannot hold anything. A Disabled leg cannot support the PC’s weight; they fall prone, and their movement speed is halved. A PC with two Disabled legs but two working arms can crawl at 1/20th their normal movement speed. | Frostbite: The PC’s Dexterity becomes 4 for the purposes of delicate tasks (card tricks, lockpicking, tying shoelaces) Fingertips, ears, and nose go black and may fall off. | Frozen: Save. If passed, lose d6 digits of fingers or feet (randomly chosen using d20). Lost digits are still attached, but will snap off or melt away. If failed, roll d6: (1) Lose 2d6 digits (2) lose all but one digit (3) lose both hands (4) lose both feet (5) lose both hands, feet, and nose (6) Lose both hands, feet, nose, and eyes (become Blind). | Mangled: Save. If failed, lose a Limb. It is permanently Disabled. If pass, Save again. On a success, gain an Interesting Scar. If fail, lose a digit. | Marked: Save. If Failed, any magical attack against the PC does double damage, applies a -4 penalty to Save, or has a suitably nasty enhanced effect, like cursing their bloodline or stealing all their memories. If they pass, any magical attack against the PC automatically deals 1 extra damage or has a minor extra effect, like setting their hair on fire or cursing their dog. They also gain an Interesting Scar, usually known as a Curse Mark. | Skullcracked: Save. If Failed, roll on the table below. If they pass, they gain an Interesting Scar (1) Permanently lose 1 Intelligence. (2) Permanently lose 1 Wisdom (3) Permanently lose 1 Charisma (4) Left eye lost. -1 to ranged attacks. If both eyes lost, Blind. (5) Right eye lost. -1 to ranged attacked. If both eyes lost, Blind. (6) Coma. Save to recover after 1d6 days. If failed, Save again after 1d6 weeks. If both Saves are failed, the PC is permanently unconscious. | . An Interesting Scar is a mangled, gnarled thing, a worm of flesh buried under the skin. A gouge. Flesh warped and bent, like paint scraped before it fully dried. The player must describe their PC’s Interesting Scar. It provides a +2 bonus to Charisma when interacting with people who appreciate scars (barbarians, deep-cave salamanders, suitors attracted to danger, poets), but provides a -2 bonus to Charisma where narratively important. They can also be used to identify you. Scars can trump other scars. Generally, if comparing scars, it’s wise to start with the least interesting and work your way up. If anyone has a else more interesting scar (as judged by the table or a roll-off), they get the +2 bonus. Use the HD of the creature that inflicted the scar as a guide for which scars are more impressive. Alternatively, lie. Early Retirement Table . At level 5, you can retire your PC to safety. This means I won’t torment them any more. If they can afford it, they can buy a or rent some land, set up a shop, teach at a wizard college, or beg in the gutter. They won’t affect the plot anymore, but the plot won’t specifically affect them. General disasters (fire, plagues, war, demonic invasions) will still affect their lives, but they are safe from almost anything else. Feel free to organize your character’s retirement ahead of time. You can try and buy a castle, a tavern, or a political position. If a player does not want to play a PC any more, but they haven’t reached Level 5 yet, create a Early Retirement Table for that PC. The character is no longer playable, but still exists in the world. Whenever it feels relevant, roll on the Early Retirement Table, and interpret the result to see what that character has gotten up to. Example: Farmer . Tito the Toadling lost a leg and a toe. He wasn’t dead, exactly, but an Assassin with a missing leg and a strong distrust of the rest of the party isn’t fun to play any more. Tito retired early. They can still work the field, barely. So they swear fealty to a House Mulbreck, and are given a plot of land, hut and a long list of demands. Here’s Tito’s Early Retirement Table: . |   |   | . | Roll | Result | . | 1 | Prosperity. Extra food, good weather, or good luck. | . | 2 | Rumour. May have 1 interesting rumour for the PCs. | . | 3-7 | Stability. Just on the edge of starvation. | . | 8 | Inconvenience. A leak in the roof, a rat in the grain, a cracked tooth. | . | 9 | Demands. Taxed to the point of madness, worked to the point of collapse. No actual effect other than stress and frustration. | . | 10 | Dire Peril. Starvation looms. | . Example: Monk . Almost anyone can leave the secular life and become a Monk. It can be a hard life, full of labour, prayers, and deprivation. Your crimes are forgiven. Only the most prosperous order would accept a completely crippled initiate, but the ability to read and write is always valued. In disordered times, monks and nuns might be no better than idle and debauched laymen. At the very least, a veneer of religious devotion is required. |   |   | . | Roll | Result | . | 1 | Tranquility. The PCs hear a distant rumour of their former companion. They are doing well. | . | 3-9 | Isolation. No word of the ex-PC one way or the other. | . | 10 | Danger. The PCs hear a distant rumour that their friend’s order is threatened by war, plague, famine, or disorder. | . Example: Criminal . No one can live outside the law forever. This option is open to anyone, but it’s a risk. |   |   | . | Roll | Result | . | 1 | Escape. Stole enough to start again. The ex-PC vanishes. One day, in a distant land, they might see their old companions and nod slyly. | . | 2-6 | Edge of Starvation. No change, but the outlook is bleak. | . | 7-8 | Caught. Imprisoned and accused. Might be released, might be tortured, might be forgotten. | . | 9-10 | Executed. Or exiled, which is more or less the same thing when your money and goods have been confiscated. | . Example: Beggar . Should an ex-PC be so cursed, mangled, mentally damaged, or dangerous as to make any other option unsuitable, they might be forced to live on the streets of a town or city. If the PCs send their friend money, or otherwise see to their well-being, the GM can reroll on the table and pick a better result. |   |   | . | Roll | Result | . | 1 | Head Above Water. Food, a warm corner, a position in the local hierarchy of beggars, the favour of the local Church. Might even lead to some minor position out of the rain. | . | 2 | Minor Improvement. New pants, a hat, a few more coins than last week. | . | 3-6 | Edge of Starvation. No change. | . | 7 | Lost. No one has heard from the ex-PC for some time. They might emerge later, or they might be forgotten forever. | . | 8 | New Injury. Cold, disease, knife-fighting, trampled by a horse, kicked by a knight, poked by an urchin. | . | 9 | Crime. Accused, tried, locked in the stocks, beaten, robbed, cast out again. | . | 10 | Death. By disease, an accident, in a brawl, or by their accumulated injuries. | . ",
     "url": "/dolmenwood/rules/core-rules/#death-and-dismemberment",
     
     "relUrl": "/rules/core-rules/#death-and-dismemberment"
-  },"24": {
+  },"25": {
     "doc": "Core Rules",
     "title": "Camping Minigame",
     "content": "When ending a travel day in the wilderness, the Party must set up camp for the night. Each member of the party may take one of the following Setup activities. For each travel point spent, each member may take an additional activity. Setup Activities . Preparing the Campsite . At least one PC must spend time clearing the ground, removing brush and small rocks, then setting up tents and bedrolls. Search for Natural Shelter . If not carrying tents, a PC may spend time attempting to search for a natural place in which to take shelter, i.e. a small cave, a thick grove of trees, a tangled mass of vegetation. Weather that impairs visibility gives a disadvantage to this roll. |   |   | . | Biome | Chance | . | Hills | 3/6 | . | Forest | 2/6 | . | Plains / Meadow | 1/6 | . | Swamp / Bog | 0/6 | . Success grants the PCs Natural Shelter for the purpose of getting a good night’s sleep. Care for Animals . Parties with hounds, mounts, or pack animals require at least one PC devoted to feeeding them, removing saddles and gear, grooming them, and caring for them before settling in for the night. This task also secures vehicles. Starting a Fire . At least one PC must spend time building a fire circle, preparing the tinder, and protecting the new flame as it grows in strength. If there are strong winds, another PC is required to assist in this task. This task requires fire-making tools or magic. If those tools are absent, no fire will be produced regardless of how much wood is gathered. Gathering Firewood . Multiple PCs can be assigned to firewood duty. Each rolls 1d6 to determine how much wood they gather. If the ground is damp, add a -1 modifier. For precipitation, add a -2 modifier. For heavy precipiation, add a -4 modifier. In open terrain, apply a -2 to each result. Fellowship . If a fire is created and at least one firewood is gathered, an idle PC can be assigned to fellowship. They prepare a warm meal, entertain, and comfort the others. Each PC has a 4 in 6 chance to remove a level of exhaustion if there is a successful fellowship. Automatic success if beverages and pipeleaf are used. Nighttime Encounters . Once the camp is set up, the GM rolls 1d6 to determine if a nighttime encounter occurs. On a result of 1: . | Roll for Encounter Distance. The Encountered creature appears 2d6 x 30’ from camp. This distance is halved if 0-4 firewood is gathered, and doubled if 12+ firewood is gathered. The GM informs the party that something is moving around in the dark. | Roll for surprise. If 0-4 firewood is gathered, the Encountered creature gets -1 to their result. If 12+ firewood is gathered, both get +1 to their result. If a hound or mounts are present, add +1 to the party’s result. | Roll for Encounter type. If 0-4 Firewood is gathered, roll for a No Fire Encounter. If 5+ Firewood is gathered, roll for a Fire Encounter . | Roll for a Reaction. If the encountered creature is not immediately hostile, a randomly chosen PC makes a reaction roll. They were the party member on watch at the time of the encounter. | . A New Day . Tally up Travel Point bonuses and penalties: . |   |   | . | Lack of Bedroll or Tent / Natural Shelter | -1 Travel Points Today | . | 0-4 Firewood Gathered | Winter (-2), Autumn or Spring (-1), Summer (-0) Travel Points Today | . | 12+ Firewood Gathered | +1 Travel Points Today | . Once tallied up, if there is a Travel Point penalty, everyone gains a level of Exhaustion. If there is no Travel Point penalty, everyone heals 1HP. If there is a Travel Point bonus, everyone heals 2HP. In addition, if a Nighttime Encounter occurred, Spell Preparation has a 1 in 6 chance of failure (per spell). ",
     "url": "/dolmenwood/rules/core-rules/#camping-minigame",
     
     "relUrl": "/rules/core-rules/#camping-minigame"
-  },"25": {
+  },"26": {
     "doc": "Core Rules",
     "title": "Alternate Alignment System",
     "content": "Law and Chaos are diametrical cosmic forces in the universe. The tension between Law and Chaos give rise to the very threads from which gods, fairy, mortals, and reality itself is woven. Law is frequently associated with ‘Goodness’, Chaos with ‘Evil’, but these are generalizations, not rules. Neither are truly benevolent or malevolent. All beings have an Alignment which represents a character’s orientation on the cosmic scale, the ratios of the cosmic threads from which a person’s soul is woven. In practice, there are infinite ways by which a being’s soul may be tied to the universe, as many ways as there are styles to braid the cosmic threads together. But for the purposes of game mechanics, beings are categorized under one of three alignments: Law, Neutrality, or Chaos. Alignments have nothing to do with a character’s allegiances, personality, or morality; whether or not a character with either of these alignments is actively engaged in the Cosmic Struggle, their souls are marked with a cosmic affiliation nonetheless. Animals and other creatures of lesser sentience tend to be neutral, but not always. Characters of Neutral Alignment are also embodiments of Law and Chaos, but these exist in a more balanced state within the character’s being than those of Lawful or Chaotic alignment. Neutrality is not a cosmic force in the universe. Player characters are free to select whichever Alignment they choose, though Clerics must be Lawful, and Friars cannot be Chaotic. GM’s should not use Alignment as a tool to police the behavior of aligned characters. But there are powerful beings and institutions within The Dolmenwood with the ability to do so, as they entwine fates, drawing aligned characters to their banner’s cause. Because Alignments represent fundamental forces of the universe, a character’s Alignment may predicate very real mechanical effects and consequences as they interact with the magic, monsters, and more powerful beings within The Dolmenwood. Law . Law is the force of order, stability, and harmony, but also stagnation, imprisonment, and fascism. The Cosmic Struggle of Law is to ensure the events of the world inevitably march on their flawless, unchanging plans towards the ultimate, irrefutable truth of the universe. As time moves on, all distraction and resistance to this plan will falter, until everything will be in its perfect state forevermore, without alteration or the possibility of possibilities. Those who are Lawful in Alignment are part of this inevitable destiny, awash on the turbulent seas of fate, but often have little knowledge of what that destiny is and what their role will be in fulfilling it. So those that pursue the Cosmic Struggle of Law are forever looking for signs and omens to show them their proper way. Chaos . Chaos is the force of change and freedom, but also destruction, indifference, and lawlessness. Chaos is the howling maelstrom beyond the veil of shadows and existence. It bends and tears the fabric of the universe; it destroys all that seeks to be permanent. It allows great miracles as reality alters at the whim of those that can call upon the eldritch forces, and it causes great catastrophe as beings we call demons (and far, far worse) rip into our reality and lay waste to all. Everything that is made will be unmade. Nothing exists, and nothing can ever exist, not in a way that the cosmos can ever recognize. Those who pursue the Cosmic Struggle of Chaos consider the world in terms of ebbing and flowing energy, of eternal tides washing away the sand castles that great kings and mighty gods build for themselves. To be Chaotically Aligned is to be an attractor to higher beings and cosmic forces in need of pawns in the pursuit of needless goals. Many who are aligned with Chaos desperately wish they were not. Neutrality . To be Neutral is merely to exist between the forces of Law and Chaos. Most beings in the universe are born with Neutral Alignment, and remain so unless drastic measures (often unwittingly followed) realign the cosmic threads of their existence. In the real world, every human being that has ever existed has had Neutral Alignment; Law and Chaos are fantastical supernatural forces unlike any of us have experienced in our mundane lives. Examples of the most Lawfully Aligned characters are those deeply bound with the concept of fate, whether they are fulfilling a predetermined destiny or attempting to escape it. Such figures include Luke Skywalker, King Arthur, Paul Atreides, Buffy the Vampire Slayer, or The Antichrist. The most Chaotically Aligned characters are granted supernatural powers to change the world as they will it, or characters which always seem to run into destruction or misfortune. Examples of Chaotic characters include Superman, most wizards, and almost all of The Muppets. ",
     "url": "/dolmenwood/rules/core-rules/#alternate-alignment-system",
     
     "relUrl": "/rules/core-rules/#alternate-alignment-system"
-  },"26": {
+  },"27": {
     "doc": "Factions and Powers",
     "title": "Factions and Powers",
     "content": ". | Major Factions . | The Duchy of Brackenwold | The Pluritine Church | The Cold Prince | The Nag-Lord | The Drune | The Witches | Ygraine the Sorceress | . | Noble Houses of The Dolmenwood . | House Brackenwold | House Guillefer | House Harrowmoor | House Hogwarsh | House Malbleat | House Mulbreck | House Murkin | House Nodlock | House Ramius | . | . ",
     "url": "/dolmenwood/resources/factions-and-powers/",
     
     "relUrl": "/resources/factions-and-powers/"
-  },"27": {
+  },"28": {
     "doc": "Factions and Powers",
     "title": "Major Factions",
     "content": "This list is not exhaustive, but covers the major factions operating in Dolmenwood, i.e. factions that any dweller of the Wood would know about. ",
     "url": "/dolmenwood/resources/factions-and-powers/#major-factions",
     
     "relUrl": "/resources/factions-and-powers/#major-factions"
-  },"28": {
+  },"29": {
     "doc": "Factions and Powers",
     "title": "The Duchy of Brackenwold",
     "content": "Ruling from the supposedly impregnable Castle Brackenwold on the south-eastern verge of the Dolmenwood, the Dukes of Brackenwold trace their line back to the earliest settlers in the region. All mortal folk within the Wood, from the humblest beggar to the highest lord, pay fealty to the duke. The whole forest is his property. ",
     "url": "/dolmenwood/resources/factions-and-powers/#the-duchy-of-brackenwold",
     
     "relUrl": "/resources/factions-and-powers/#the-duchy-of-brackenwold"
-  },"29": {
+  },"30": {
     "doc": "Factions and Powers",
     "title": "The Pluritine Church",
     "content": "The monotheistic Pluritine Church dominates the Dolmenwood and the mortal lands beyond. While it holds much political clout, the Church is of late diminished in Dolmenwood. Many shrines and chapels that once saw regular worship have fallen into ruin and been reclaimed by the forest. Some within the Church seek to rediscover and re-sanctify these lost shrines. ",
     "url": "/dolmenwood/resources/factions-and-powers/#the-pluritine-church",
     
     "relUrl": "/resources/factions-and-powers/#the-pluritine-church"
-  },"30": {
+  },"31": {
     "doc": "Factions and Powers",
     "title": "The Cold Prince",
     "content": "Where mortals now reign, great fairy nobles once held court. The entirety of Dolmenwood was once the domain of a cruel elf lord known as the Cold Prince, lord of winter eternal, who ruled from the palace of Hoarblight Keep overlooking the great Lake Longmere. When humans began to settle the wild glades a great war between fairy and mortal ensued. Mortals eventually prevailed and the Cold Prince was banished to his domain in Fairy. Fearful tales of his return to Dolmenwood and his icy wrath weave a common thread through the folklore of those who dwell within his erstwhile domain. ",
     "url": "/dolmenwood/resources/factions-and-powers/#the-cold-prince",
     
     "relUrl": "/resources/factions-and-powers/#the-cold-prince"
-  },"31": {
+  },"32": {
     "doc": "Factions and Powers",
     "title": "The Nag-Lord",
     "content": "A wicked, trickster figure of local folklore, said to keep unholy court in the twisted northern woods, known as the Nag-Wood, where his armies of corrupted breggles and other creatures of Chaos lair. The Nag-Lord is known in folktales as the “King of the Wood,” and is portrayed as being part man, part unicorn, with nine legs (nine being regarded as an especially accursed number). ",
     "url": "/dolmenwood/resources/factions-and-powers/#the-nag-lord",
     
     "relUrl": "/resources/factions-and-powers/#the-nag-lord"
-  },"32": {
+  },"33": {
     "doc": "Factions and Powers",
     "title": "The Drune",
     "content": "A cabal of sorcerers who roam the Wood, cloaked in black. They claim the magical energies of Dolmenwood and what gods they worship is a matter of conjecture, for they guard their secrets with their lives. In the eyes of the Church they are heathens to be eradicated, for it is said they deal in devil worship and human sacrifice. Kidnap by the Drune is among the greatest fears of the simple folk of Dolmenwood, who refer to the cult as “the Hooded Men,” fearing to speak the word “Drune.” . ",
     "url": "/dolmenwood/resources/factions-and-powers/#the-drune",
     
     "relUrl": "/resources/factions-and-powers/#the-drune"
-  },"33": {
+  },"34": {
     "doc": "Factions and Powers",
     "title": "The Witches",
     "content": "Mortal women who worship ancient deities in the forbidden depths of Dolmenwood. Their aims are obscure, but it is known that they gather beneath the moon to work their magic. In folklore, witches are portrayed as depraved practitioners of human sacrifice, treacherous wielders of hex and illusion, and ministers of potent cures and charms. ",
     "url": "/dolmenwood/resources/factions-and-powers/#the-witches",
     
     "relUrl": "/resources/factions-and-powers/#the-witches"
-  },"34": {
+  },"35": {
     "doc": "Factions and Powers",
     "title": "Ygraine the Sorceress",
     "content": "A reclusive figure said to be the most powerful magician in Dolmenwood, Ygraine dwells in the many-tiered Chateau Mauvesse, overlooking the black waters of the Dark Mirror in the north-eastern Dolmenwood. It is rumoured that her explorations of otherworldly realms have brought her into contact with the Cold Prince and that she now works her magic to release him from exile. ",
     "url": "/dolmenwood/resources/factions-and-powers/#ygraine-the-sorceress",
     
     "relUrl": "/resources/factions-and-powers/#ygraine-the-sorceress"
-  },"35": {
+  },"36": {
     "doc": "Factions and Powers",
     "title": "Noble Houses of The Dolmenwood",
     "content": " ",
     "url": "/dolmenwood/resources/factions-and-powers/#noble-houses-of-the-dolmenwood",
     
     "relUrl": "/resources/factions-and-powers/#noble-houses-of-the-dolmenwood"
-  },"36": {
+  },"37": {
     "doc": "Factions and Powers",
     "title": "House Brackenwold",
     "content": ". Domain: The Duchy of Brackenwold, encompassing the whole of Dolmenwood (at least notionally) as well as a large region to the south of the Dolmenwood. The domains of all other listed noble houses fall within the duchy. Seat: Castle Brackenwold, upon the south-eastern verge of Dolmenwood. Head: Duke Thespian III of Brackenwold. A troubled man who, it is said, would prefer to spend his days hunting rather than presiding over a great realm. It is known that the duke harbours a deep hatred of the Drune and a growing fear of the Nag-Lord. ",
     "url": "/dolmenwood/resources/factions-and-powers/#house-brackenwold",
     
     "relUrl": "/resources/factions-and-powers/#house-brackenwold"
-  },"37": {
+  },"38": {
     "doc": "Factions and Powers",
     "title": "House Guillefer",
     "content": ". Domain: A region of forest on either side of the Lochsbreth Road, in north-eastern Dolmenwood, encompassing the villages of Blackeswell, Meagre’s Reach, and Odd. Seat: The Hall of Sleep, located at the north-eastern end of the Groaning Loch. Head: The nobles of this house share rulership on a sporadically rotating basis. The current ruler, Edwin Guillefer, is a poet and harpist, and is said to be a friend of Ygraine the sorceress. He remains untroubled by the waxing of the Nag-Lord’s influence in the region, to the consternation of his neighbour, the Lady Harrowmoor. ",
     "url": "/dolmenwood/resources/factions-and-powers/#house-guillefer",
     
     "relUrl": "/resources/factions-and-powers/#house-guillefer"
-  },"38": {
+  },"39": {
     "doc": "Factions and Powers",
     "title": "House Harrowmoor",
     "content": ". Domain: A broad region of forest at the heart of Dolmenwood, stretching from the town of Prigwort in the east to the shores of Lake Longmere in the west. Seat: Harrowmoor Keep, located on the southerly cliffs of the Groaning Loch. Head: Lady Theatrice Harrowmoor. A famed intellect and expert on matters historical, Lady Harrowmoor is cool-headed but not cold-hearted. Of late, she has taken more direct involvement in the affairs of Prigwort, bolstering the town guard against the growing presence of crookhorn ruffians in the area. ",
     "url": "/dolmenwood/resources/factions-and-powers/#house-harrowmoor",
     
     "relUrl": "/resources/factions-and-powers/#house-harrowmoor"
-  },"39": {
+  },"40": {
     "doc": "Factions and Powers",
     "title": "House Hogwarsh",
     "content": ". Domain: The Barony of the High Wold, encompassing the long-settled south-western corner of Dolmenwood and the rustic pastures to the south. The domains of houses Malbleat, Murkin, Nodlock, and Ramius fall within the barony. Seat: High-Hankle, located in the central plains of the High Wold, in the south-east of Dolmenwood. Head: Baron Sagewine Hogwarsh. Inherited the lordship of the High Wold as a callow youth. Now in his thirties, Hogwarsh is known for his lax attitude to the law, being more interested in wine and debauchery than in the maintenance of order. ",
     "url": "/dolmenwood/resources/factions-and-powers/#house-hogwarsh",
     
     "relUrl": "/resources/factions-and-powers/#house-hogwarsh"
-  },"40": {
+  },"41": {
     "doc": "Factions and Powers",
     "title": "House Malbleat",
     "content": ". Domain: The eastern portion of the High Wold region in the south-east of Dolmenwood, encompassing the towns of Lankshorn and Dreg. Seat: Redwraith Manor, located in the woods four miles north of Lankshorn. Head: Lord Gryphius Malbleat, longhorn breggle. A refined aesthete known for his cruelty and his bitter enmity toward his elder half-brother, Lord Ramius. ",
     "url": "/dolmenwood/resources/factions-and-powers/#house-malbleat",
     
     "relUrl": "/resources/factions-and-powers/#house-malbleat"
-  },"41": {
+  },"42": {
     "doc": "Factions and Powers",
     "title": "House Mulbreck",
     "content": ". Domain: The woods and meadows of southern Dolmenwood, east of the River Hameth, encompassing the Woodcutters’ Encampment. Seat: Bogwitt Manor, located in the south-eastern corner of Dolmenwood. Head: Lady Pulsephine Mulbreck. A reclusive lady who seldom sets foot outside of her manor and permits no guests to enter. It is said that she remains in mourning over the death of her husband a decade past. ",
     "url": "/dolmenwood/resources/factions-and-powers/#house-mulbreck",
     
     "relUrl": "/resources/factions-and-powers/#house-mulbreck"
-  },"42": {
+  },"43": {
     "doc": "Factions and Powers",
     "title": "House Murkin",
     "content": ". Domain: The rugged, little-travelled lands west of Dolmenwood, within the Barony of the High Wold, bounded by the marshes of the Northern Scratch. Seat: Kolstoke Keep, located on the western edge of Dolmenwood. Head: Lord Simeone Murkin, a boorish and cruel-tempered man of mixed Breggle and Human parentage. Murkin’s only passions are conquest and military dominance. ",
     "url": "/dolmenwood/resources/factions-and-powers/#house-murkin",
     
     "relUrl": "/resources/factions-and-powers/#house-murkin"
-  },"43": {
+  },"44": {
     "doc": "Factions and Powers",
     "title": "House Nodlock",
     "content": ". Domain: A small pocket of pasture and woodland at the far south-western tip of Dolmenwood, within the Barony of the High Wold. Seat: Nodding Castle, located on the south-western edge of Dolmenwood. Head: Lord Harald Nodlock. A slovenly man renowned for his love of wine (at all hours of the day), his volatile mood, and his proclivity for spontaneously meting out justice. Nodlock is said to be a lackey of his neighbour, Lord Ramius. ",
     "url": "/dolmenwood/resources/factions-and-powers/#house-nodlock",
     
     "relUrl": "/resources/factions-and-powers/#house-nodlock"
-  },"44": {
+  },"45": {
     "doc": "Factions and Powers",
     "title": "House Ramius",
     "content": ". Domain: The western deeps of Dolmenwood and a small portion of the grasslands upon its south-western verge, within the Barony of the High Wold. Seat: Castle Everdusk, located two miles into the woods in the High Wold region in the south-east of Dolmenwood. Head: Lord Shadgore Ramius, longhorn breggle. A brilliant mind, known for his subtle strategies and far-reaching ambition. Resents the meddling Baron Hogwarsh for granting his younger half-brother, Lord Malbleat, dominion over much of the High Wold. ",
     "url": "/dolmenwood/resources/factions-and-powers/#house-ramius",
     
     "relUrl": "/resources/factions-and-powers/#house-ramius"
-  },"45": {
+  },"46": {
     "doc": "Heartseed",
     "title": "Heartseed",
     "content": " ",
     "url": "/dolmenwood/scripts/heartseed/",
     
     "relUrl": "/scripts/heartseed/"
-  },"46": {
+  },"47": {
+    "doc": "Hildrup (Kasturi)",
+    "title": "Hildrup Elbowgen (Hilda)",
+    "content": "|   |   | . | Player | Kasturi | . | Kindred | Breggle | . | Class | Bard | . | Alignment | Neutral | . | Description | Hilda is 24 years old, 5’ 9”, and weights around 150lbs, with tan, shaggy fur and a distinctive pair of horns; one bent and the other perfectly straight. She has a shaggy chin-beard. Though Hilda often carries themselves with a cultivated, aristocratic air, their actual demeanor tends to be somewhat careless, half-hearted, and lackadaisical. She was a gravedigger before she took to the life of a travelling bard. She typically dresses in long skirts and a cloak, which she often uses to cover her face; while travelling in Fairy she ate from a goblin’s mushroom pouch, which caused her eyes to shrivel up like raisins, and for new eyes to grow on the palms of her hands. | . ",
+    "url": "/dolmenwood/campaign-info/player-characters/hilda/#hildrup-elbowgen-hilda",
+    
+    "relUrl": "/campaign-info/player-characters/hilda/#hildrup-elbowgen-hilda"
+  },"48": {
+    "doc": "Hildrup (Kasturi)",
+    "title": "Hildrup (Kasturi)",
+    "content": " ",
+    "url": "/dolmenwood/campaign-info/player-characters/hilda/",
+    
+    "relUrl": "/campaign-info/player-characters/hilda/"
+  },"49": {
     "doc": "Home",
     "title": "Home",
     "content": "Dolmenwood? Well, let me tell ye, everything you ever heard about the Wood is true and everything you ever heard is false. Dreams and fairies walk between standing stones and dancing trees, slipping in and out of the mortal world as easily as you or I slip through an open door. It’s right pretty though. Dare I say, beautiful even. All manner of enchantment lingers beneath its boughs. It’ll capture your heart if ye let it. And that sounds as lovely as a song until you realise the Wood’ll never, ever give it back without paying the proper cost.” . Dolmenwood is a game about exploring the beguiling realm of Dolmenwood - a swathe swathe of tangled woods, fungus-encrusted glades, and foetid marsh on the wild borders of civilisation: . | Explore the wild places of the Wood, travelling through bramble-choked dells, fungal forests, and accursed bogland, bedding down among root and bracken amid the nocturnal babbling of strange beasts. | Unearth treasure hoards in forgotten fairy ruins, haunted manors, dripping caverns, crystal grottoes, unhallowed barrow mounds, and abandoned delvings. | Confront fell beasts, roving fungal monstrosities, terrible wyrms, tricksome fairies, and restless spirits of the long deceased. | Recover saintly relics and shrines lost in the befuddling tangle of the Wood, gaining the favour of the Church by returning them to civilisation. | Forage for weird fungi and herbs in the untrod depths of the woods, many with useful magical powers — and many that can be sold for profit. | Strike against Chaos, defending civilisation from the encroaching forces of the wicked, half-unicorn Nag-Lord who lurks in the corrupted northern woods. | Unravel secrets of deep magic, charting the obelisks, dolmens, and ley lines littered throughout Dolmenwood — but beware the sinister Drune cult that wards them. | Seek the counsel of witches or the sinister Hag, wielders of magic that can heal, hex, or divine the future. Meddle in the affairs of nobility, allying with a noble house in its intrigues and power plays in the courts of High-Hankle and Castle Brackenwold. | Journey along fairy roads, ancient magical paths bordering on the ageless world of Fairy that allow travel throughout Dolmenwood — and perchance to realms beyond. | Return to the homely hearth to share tales of peril with quaint locals over a mug of ale and a well-stoked pipe. | . ",
     "url": "/dolmenwood/",
     
     "relUrl": "/"
-  },"47": {
+  },"50": {
     "doc": "Kindred",
     "title": "Kindred",
     "content": ". | Kindred . | Mortals . | Human | Breggle | Mosslings | . | Fairies . | Elves | Grimalkin | . | Demi-Fey . | Woodgrue | . | . | . Kindred are sentient folk divided into three types: Mortal, Fairy, or Demi-Fey. There are six playable options. ",
     "url": "/dolmenwood/resources/kindred/",
     
     "relUrl": "/resources/kindred/"
-  },"48": {
+  },"51": {
     "doc": "Kindred",
     "title": "Mortals",
     "content": "Kindred from the mortal world. They suffer from Mortality, with a lifespan counted in decades, and suffer from all manner of diseases and ailments. All but a select few mortals have No Innate Magic, and most are mistrustful of magic, viewing it as perilous and unnatural. Most mortals are Religious, worshiping deities, exalted heroes, ancestors, and spirits, and those who dedicate themselves to the service of a religion may receive blessings in the form of holy spells. They cluster together in large towns in The Dolmenwood for safety. Human . As is the way in the wider world beyond The Forest, Humans are found throughout The Dolmenwood. Most humans are adherents to the Pluritine Church, the dominant religion in Dolmenwood, and the official religion of the Duchy of Brackenwold. The Church worships a nameless, male god, referred to as The One True God. Daily practice focuses on venerating Saints, exalted people who performed miraculous deeds on behalf of the Church, now said to be intermediaries between Mortals and God. They believe naming or depicting God is heresy, that sentient life is sacred and must be protected and nurtured, that free will is fundamental yet evil deeds must be punished (in life and through eternal damnation in hell), and that God created the world of Fairy to demonstrate the folly of life without faith and salvation. The old religions worshiping the Old Gods of The Wood have mostly been swept away, yet remnants of the worship of the old gods live on in folklore and tradition. For instance, many humans believe consuming mead and ale is a means of communion with greater powers, hearkening back to the worship of The Green Man, god of feast, ale, revelry, and hunting. Rumors say the witches of Dolmenwood still worship the Old Gods in secret. Human adventurers are commonly found among all Classes. Yet rare is the human with enough connection to Fairy to become an Enchanter. Mechanically, Humans tend to be more Decisive than other Kindred (humans act first on a tied initiative roll), exhibit Leadership more naturally than others (the loyalty rating of Retainers is increased by 1), and are Quick To Learn (+10% to XP Earned). Breggle . A proud, thick-furred, stubborn Folk, sometimes called Goatfolk (or Hregl in their own tongue). Once the sole masters of the fertile hills and meadows of the High Wold in the Southwest Dolmenwood, the ancient Breggle noble houses rule alongside humans, swearing fealty to the Dukes of Brackenwold. Breggles often live alongside humans, in towns and hamlets and cities, sometimes intermarrying. In human towns, Breggle are treated with respect and caution, as the power of the Longhorn noble houses is known and feared. They saw that the horns of a Breggle grow as they earn wealth and renown, and the length of a Breggles horn indicates their social class: the shorthorns form the working class, and the longhorns the noble class. Theoretically, a wealthy shorthorn’s horns may grow to the size of a longhorn, but acceptance in the ruling class is another matter. As subjects of Duke Brackenwold, Breggles are nominally adherents to the Pluritine Church. True devotion is rare, however, as Breggles tend to offer up prayers to esteemed ancestors from their long history, a practice they call Aud frengd Hlerr, roughly translating to ‘Praising the Ancestors’. Aud frengd Hlerr teaches that the worlds of Mortal and Fairy are but testing grounds, and those that honor their families gather in an afterlife of eternal feasting, whereas those that lead craven and spiritless lives enter a dismal realm of torment, where there souls are annihilated by gnawing worms. Breggle adventurers are most commonly fighters, knights, or magicians. They seldom seek membership of the Pluritine Church as clerics or friars, and only very rare individuals have enough connection with Fairy to become Enchanters. Mechanically, Breggle are Furry (+1 AC when unarmored or wearing light armor), and have Horns (which they can use to make attacks with). Longhorns may use their Intense Gaze to force humans and Shorthorns into submission. Mosslings . Mosslings are a gnarled and woody Shortfolk native to Dolmenwood, gathering in small, isolated communities in the dark, dank forests of The Dolmenwood, burrowing their homes into the damp earth or inhabiting natural caves. They are stocky, pudgy, with green, yellow, or brown skin, textured like wrinkled bark and patched with mold. Mosslings become wiser and more plant-like as they age. After death, even their bones rot away to mold. Their body decays to a rich compost within a year. Mossling adventurers are commonly Fighters or Hunters. They are only occasionally accepted into the ranks of Dolmenwood nobility as Knights, seldom seek membership in the Pluritine Church as Clerics or Friars, and rarely possess enough connection with Fairy to become Enchanters. Mechanically, Mosslings have a Skill Target of 5 for Survival when Foraging, and are Resilient, having a +4 Bonus to Saving Throws against fungal spores or poisons, and a +2 bonus to all other Saving Throws. As a Mossling ages, their dank, fertile flesh picks up seeds and spores germinating into Symbiotic Flesh, which gives them a new trait at each level. Mosslings also know a carefully guarded, quasi-magical craft called a knack. ",
     "url": "/dolmenwood/resources/kindred/#mortals",
     
     "relUrl": "/resources/kindred/#mortals"
-  },"49": {
+  },"52": {
     "doc": "Kindred",
     "title": "Fairies",
     "content": "Kindred from the realm of Fairy. Fairies are Immortal; they do not age, suffer from non-magical disease, or die naturally, though they may be killed. They are Innately Magical, natives of a world where mortal logic holds no sway. Unless disguised, Fairies are Unearthly; animals are invariably unnerved, and most Mortals will have never met a fairy, and perceive them with awe, fear, and caution. Fairies are Non-Religious; Fairies have no gods, and have no spiritual connection to mortal gods. Instead Fairy societies have myriad cosmologies and philosophies of living. Fairies are wracked with passions deeper than Mortals can fathom. They can be at once wise with measure and petty as children, with an unwavering devotion to their personal whims. As the basest of all metals, the rarefied bodies of Fairies are burned by the touch of Cold Iron (Pure Iron), and suffer additional damage when hit by weapons made from such weapons. The touch of silver is repulsive to Fairies, instantly bringing on a queasiness of the stomach. They are Highly Resistant to Magic, gaining a +2 Magic Resistance. Most Fairies never venture into the mortal world, but the more romantic, obsessive, or adventurous may gain a taste for the place. Fairy PCs have chosen to come to the mortal world, and Players should consider their reason for departure when creating Fairy characters (for example, in exile, fleeing some peril, or simply wishing for a new start). Elves . As humans dominate the Mortal World, Elves do so in Fairy, forging vast kingdoms, subjugating others under their rule, and delving deeply into the secrets of magic. Elves are physically similar to humans but vary widely in apperance, with features such as pointed ears, small horns, or star shaped pupils. It is always possible to identify an elf for they carry an air of unearthliness about them (unless disguised by magic). Many kinds of elves in the boundless reaches of Fairy: the Pale-Elves of The Lightless Realms, the dark skinned, the Crystal-Rimed Elves of The Cloud Palaces, and the cold-hearted Frost-Elves who serve the wicked Prince of Winter, among countless others. Elves enjoy being addressed by curious epithets hinting at their True Names in the tongue of Fairy (which they never reveal to Mortals). Elves who frequent Dolmenwood sometimes take on a nickname (a shortened version of their epithet) or a Mortal name, for convenience. Elves who wander into the Mortal World may be fascinated with Mortal Kindred, with their short, spirited lifespans and inevitable aging and death. Some elves view Mortal company as peculiar and entertaining, while others earnestly seek to comprehend the Mortal mindset. Elves tend to be on good terms with other Demi-Fey and Fairies. Elves are commonly Enchanters, Fighters, Hunters, or Magicians. It is rare for an Elf to be accepted into the Dolmenwood nobility as a Knight. Elves cannot be Clerics or Fighters as they have no spiritual connection with Mortal Gods. Mechanically, Elves have a Skill Target of 5 for Listen and Search. They possess a minor magical talent known as a Glamour. They possess an Unearthly Beauty which gives them +2 to Charisma when interacting with Mortals. Grimalkin . Shape-shifting, Cat-Fairies renowned for their Illusion Magic and love of eating rats. They originate in the Fairy realm of Catland, ruled by the fearsome Queen Abyssinia, the Queen of All Cats. Normally, Grimalkin take Estray Form, appearing as a humanoid cat, wearing clothing, speaking, and walking upright. In Chester Form, a Grimalkin resembles a normal cat in all aspects, though perhaps a little fatter; they can understand language, but only respond in yowls and meows. In Wilder Form, a Grimalkin is difficult to perceive, appearing only as a gleaming pair of deranged, predatory eyes. In this form they are at their most Primal and Fey, indiscriminately attacking friend and foe. Grimalkins who wander in the Mortal World tend to become jealous and furtive among their own kind, so tend to prefer the company of other Kindred. They mostly regard the earnest undertakings of Mortals as comical and absurd. They are greeted with curiosity and wonder in human settlements, perhaps due to Human’s affection for domestic cats. Grimalkin are commonly bards, enchanters, hunters, or thieves. It is rare for a Grimalkin to be accepted into the ranks of Dolmenwood Nobility to become a Knight. Grimalkin cannot be Clerics or Friars as they have no spiritual connection with Mortal Gods. Mechanically, Grimalkin are Small, and must wear armor tailored to their small size, and cannot wield Large weapons, but gain a +2 to AC in melee with large creatures. They can Hunt Rats to gain HP. They possess a minor magical talent known as a Glamour. They have a Skill Target of 5 for Listen. They can spend a round to Shapeshift into Chester Form freely, and into Wilder Form once per day. ",
     "url": "/dolmenwood/resources/kindred/#fairies",
     
     "relUrl": "/resources/kindred/#fairies"
-  },"50": {
+  },"53": {
     "doc": "Kindred",
     "title": "Demi-Fey",
     "content": "Kindred with origin in the realm of Fairy that have taken up permanent residence in the mortal world. Over generations, exposure to the mortal world has changed the Demi-Fey. They are Mortal, but with a lifespan of centuries. They have Remnants of Magic, diminished by long exposure to the mortal world. Demi-Fey are Superstitious. They have no spiritual connection to mortal Gods, instead accumulating odd beliefs and lore since arriving in the mortal world and derived from esteemed fairy ancestors. Demi-Fey retain their ancestor’s vulnerability to Cold Iron, but have grown accustomed to silver. Woodgrue . Woodgrues are capricious, bat-faced goblins who, many generations ago, forsook their ancestral home in Fairy and migrated to the dells of the Mortal World. They have massive, flapping ears and soft, downy fur upon their heads and chests, while the rest of their body appears like that of a human child. Woodgrues live a nomadic lifestyle, wandering Dolmenwood alone or in small groups, following where their whims and nose lead. They love wild dancing and cacophonous music. The magic of Fairy lingers in the music of Woodgrues, for their songs can enchant folk to frolic into the deep woods. Woodgrues delight in using this magic for mischief and high jinks. While mischievous and rascally, Woodgrues only cause serious harm if slighted. In human settlements, Woodgrues may be met with caution, as folks are aware of their rambunctious nature. However, it is known that barring Woodgrues entry would likely only lead to greater misfortune. Woodgrue adventurers are commonly bards, magicians, or thieves. It is rare for a Woodgrue to be accepted into the ranks of the Dolmenwood nobility as a knight. Woodgrues cannot be clerics or friars as they have no spiritual connection with the deities of mortals. Mechanically, Woodgrues are Small, and must wear armor tailored to their small size, and cannot wield Large weapons, but gain a +2 to AC in melee with large creatures. They are Compelled to Jubilate; if witnessing a celebration they are utterly compelled with every fiber of their being to partake (they may resist with a Save Versus Spell, but feel drained and downtrodden for the length of the engagement). Once per day, a Woodgrue may play an enchanted Mad Revelry on a wind instrument while hooting and dancing terribly, with various results. A Woodgrue can see in the darkness up to 60’, viewing the world as if glowing with a faint moonlight (fine detail cannot be perceived). And Woodgrues have a Skill Target of 5 for Listen. ",
     "url": "/dolmenwood/resources/kindred/#demi-fey",
     
     "relUrl": "/resources/kindred/#demi-fey"
-  },"51": {
+  },"54": {
+    "doc": "Lan (Kai)",
+    "title": "Lan",
+    "content": "|   |   | . | Player | Kai | . | Kindred | Human | . | Class | Enchanter | . | Alignment | Chaotic | . | Description | Lan is 40 years old, with patchy, scraggly hair, an elegant neck, and a scattering of freckles across his face. He speaks with a cackling voice, and has a miserly persona. A prominant scar runs (TODO: WHERE?). Wears a smoking jacket and slacks. Desires to explore Fairy, and believes Talking Beasts are plotting an uprising in Dolmenwood. | . ",
+    "url": "/dolmenwood/campaign-info/player-characters/lan/#lan",
+    
+    "relUrl": "/campaign-info/player-characters/lan/#lan"
+  },"55": {
+    "doc": "Lan (Kai)",
+    "title": "Lan (Kai)",
+    "content": " ",
+    "url": "/dolmenwood/campaign-info/player-characters/lan/",
+    
+    "relUrl": "/campaign-info/player-characters/lan/"
+  },"56": {
     "doc": "Languages",
     "title": "Languages",
     "content": ". | The Common Tongue . | Woldish | Old Woldish | . | Breggle Tongues . | Caprice | Gaffe | . | The Scriptural Tongue . | Liturgic | . | Fairy Tongues . | The Immortal Tongue of Fairy | High Elfish | Mewl | Sylvan | Dwelve | . | The Mossling Tongue . | Mulch | . | Drunic Tongues . | Drunic | Old Drunic | . | . ",
     "url": "/dolmenwood/resources/languages/",
     
     "relUrl": "/resources/languages/"
-  },"52": {
+  },"57": {
     "doc": "Languages",
     "title": "The Common Tongue",
     "content": " ",
     "url": "/dolmenwood/resources/languages/#the-common-tongue",
     
     "relUrl": "/resources/languages/#the-common-tongue"
-  },"53": {
+  },"58": {
     "doc": "Languages",
     "title": "Woldish",
     "content": "The language spoken by virtually all sentient creatures in Dolmenwood. Woldish is a dialect of the common tongue that is spoken in the wider world beyond the Wood. ",
     "url": "/dolmenwood/resources/languages/#woldish",
     
     "relUrl": "/resources/languages/#woldish"
-  },"54": {
+  },"59": {
     "doc": "Languages",
     "title": "Old Woldish",
     "content": "The language of the folk who entered Dolmenwood and founded the Kingdom (now Duchy) of Brackenwold. Although Old Woldish is no longer spoken, its study is common among the well-educated. ",
     "url": "/dolmenwood/resources/languages/#old-woldish",
     
     "relUrl": "/resources/languages/#old-woldish"
-  },"55": {
+  },"60": {
     "doc": "Languages",
     "title": "Breggle Tongues",
     "content": " ",
     "url": "/dolmenwood/resources/languages/#breggle-tongues",
     
     "relUrl": "/resources/languages/#breggle-tongues"
-  },"56": {
+  },"61": {
     "doc": "Languages",
     "title": "Caprice",
     "content": "A language evolved among the breggle aristocracy of the High Wold, encompassing greatly simplified elements of the High Elfish tongue melded with the more eloquent components of Gaffe. A large canon of literature exists in this language, written at times in an abridged form of the High Elfish script and at times in the Woldish script. Caprice is in common use and easily learned. ",
     "url": "/dolmenwood/resources/languages/#caprice",
     
     "relUrl": "/resources/languages/#caprice"
-  },"57": {
+  },"62": {
     "doc": "Languages",
     "title": "Gaffe",
     "content": "The native tongue of lower ranking breggles: a melodic language of bleats and gurgles. Gaffe includes many words derived from Woldish and, though it is of utterly different origin, shares a small number of words with the Sylvan language. Gaffe is in common use and easily learned. ",
     "url": "/dolmenwood/resources/languages/#gaffe",
     
     "relUrl": "/resources/languages/#gaffe"
-  },"58": {
+  },"63": {
     "doc": "Languages",
     "title": "The Scriptural Tongue",
     "content": " ",
     "url": "/dolmenwood/resources/languages/#the-scriptural-tongue",
     
     "relUrl": "/resources/languages/#the-scriptural-tongue"
-  },"59": {
+  },"64": {
     "doc": "Languages",
     "title": "Liturgic",
     "content": "The holy language of the Pluritine Church, used extensively in scripture and sermon. The origins of Liturgic lie in a land far removed from Dolmenwood, but its usage is now common throughout many lands due to the expansions of the Church. It is a purely scriptural language and is seldom spoken outside of sermons. Liturgic is in common use and easily learned. Fairies and demi-fey, as they have no spiritual connection with the deities of mortals, are unable to learn Liturgic and find its tones unpleasant. ",
     "url": "/dolmenwood/resources/languages/#liturgic",
     
     "relUrl": "/resources/languages/#liturgic"
-  },"60": {
+  },"65": {
     "doc": "Languages",
     "title": "Fairy Tongues",
     "content": " ",
     "url": "/dolmenwood/resources/languages/#fairy-tongues",
     
     "relUrl": "/resources/languages/#fairy-tongues"
-  },"61": {
+  },"66": {
     "doc": "Languages",
     "title": "The Immortal Tongue of Fairy",
     "content": "The language of the most elevated denizens of the Fairy world—those ancient beings said to be older than the mortal world itself. The immortal tongue is of such primal potency that all sentient beings understand its honeyed tones. However, only under the most incredibly portentous circumstances may a mortal expect to hear this speech. The most ancient of fairy folk are little more than legend, and their language is practically mythical. No mortal or lesser fairy may speak the undying tongue, and those who attempt to study its treasury of words are beset by hex and misfortune. ",
     "url": "/dolmenwood/resources/languages/#the-immortal-tongue-of-fairy",
     
     "relUrl": "/resources/languages/#the-immortal-tongue-of-fairy"
-  },"62": {
+  },"67": {
     "doc": "Languages",
     "title": "High Elfish",
     "content": "The language of the fairy nobility (for example, the Cold Prince and his retinue) is a derivative of the Immortal Tongue of Fairy. The predilection of fairy nobles for the outlandishly baroque is reflected in the convoluted grammar and voluminous lexicon. Mortal scholars view High Elfish as the most fiendishly complex language ever devised. Due to its intricacy, this tongue is virtually impossible for non-fairies to learn. Even fairies of the lower castes find it impenetrable. ",
     "url": "/dolmenwood/resources/languages/#high-elfish",
     
     "relUrl": "/resources/languages/#high-elfish"
-  },"63": {
+  },"68": {
     "doc": "Languages",
     "title": "Mewl",
     "content": "The secret language of the grimalkins and other cat-like fairies. Mundane cats can also converse in this tongue (often to their surprise!), if addressed, and prove eloquent conversationalists. Cat fairies take grave offence at others (especially mortals!) studying their language and go to great lengths to prevent knowledge of its sprawling vocabulary and subtle variations of yowl from propagating. ",
     "url": "/dolmenwood/resources/languages/#mewl",
     
     "relUrl": "/resources/languages/#mewl"
-  },"64": {
+  },"69": {
     "doc": "Languages",
     "title": "Sylvan",
     "content": "The common speech of the fairies and demi-fey of Dolmenwood, believed to be distantly derived from the Immortal Tongue of Fairy. Sylvan is in common use and easily learned. ",
     "url": "/dolmenwood/resources/languages/#sylvan",
     
     "relUrl": "/resources/languages/#sylvan"
-  },"65": {
+  },"70": {
     "doc": "Languages",
     "title": "Dwelve",
     "content": "%he common speech of fairies and demi-fey that dwell in the underworld beneath Dolmenwood, as well as those with whom they trade. Distantly related to High Elfish. Dwelve is not commonly spoken by surface dwellers, but is easily learned by those with the desire. ",
     "url": "/dolmenwood/resources/languages/#dwelve",
     
     "relUrl": "/resources/languages/#dwelve"
-  },"66": {
+  },"71": {
     "doc": "Languages",
     "title": "The Mossling Tongue",
     "content": " ",
     "url": "/dolmenwood/resources/languages/#the-mossling-tongue",
     
     "relUrl": "/resources/languages/#the-mossling-tongue"
-  },"67": {
+  },"72": {
     "doc": "Languages",
     "title": "Mulch",
     "content": "An obscure tongue spoken by mosslings and some sentient species of plants and fungi. The squelching, grinding sounds of which Mulch consists are notoriously difficult for other Kindreds to reproduce, though a handful of sages have made rudimentary studies of the language. ",
     "url": "/dolmenwood/resources/languages/#mulch",
     
     "relUrl": "/resources/languages/#mulch"
-  },"68": {
+  },"73": {
     "doc": "Languages",
     "title": "Drunic Tongues",
     "content": " ",
     "url": "/dolmenwood/resources/languages/#drunic-tongues",
     
     "relUrl": "/resources/languages/#drunic-tongues"
-  },"69": {
+  },"74": {
     "doc": "Languages",
     "title": "Drunic",
     "content": "The language used for everyday communication among the Drune, as well as in ritual, scripture, and historical records. Numerous are the standing stones in Dolmenwood which are inscribed with runes of the Drunic tongue. Drunic and its intricate script are a closely guarded secret of the Drune. ",
     "url": "/dolmenwood/resources/languages/#drunic",
     
     "relUrl": "/resources/languages/#drunic"
-  },"70": {
+  },"75": {
     "doc": "Languages",
     "title": "Old Drunic",
     "content": "The sacred tongue of the ancestors of the Drune — an esoteric language of great antiquity, only found in the most ancient records in the hidden vaults of the Drune. Old Drunic is virtually lost. Only the most erudite Drune sages have any knowledge of it. ",
     "url": "/dolmenwood/resources/languages/#old-drunic",
     
     "relUrl": "/resources/languages/#old-drunic"
-  },"71": {
+  },"76": {
+    "doc": "Non Player Characters",
+    "title": "Non Player Characters",
+    "content": " ",
+    "url": "/dolmenwood/campaign-info/non-player-characters/",
+    
+    "relUrl": "/campaign-info/non-player-characters/"
+  },"77": {
+    "doc": "Player Characters",
+    "title": "Player Characters",
+    "content": " ",
+    "url": "/dolmenwood/campaign-info/player-characters/",
+    
+    "relUrl": "/campaign-info/player-characters/"
+  },"78": {
     "doc": "Random Tables",
     "title": "Random Tables",
     "content": " ",
     "url": "/dolmenwood/random-tables/",
     
     "relUrl": "/random-tables/"
-  },"72": {
+  },"79": {
     "doc": "Random Tables",
     "title": "\n\tEncounter Type:\n",
     "content": "Day Encounter on Road Day Encounter in Wilds Night Encounter around Large Fire Night Encounter with Small Fire . ",
     "url": "/dolmenwood/random-tables/",
     
     "relUrl": "/random-tables/"
-  },"73": {
+  },"80": {
     "doc": "Random Tables",
     "title": "\n\tRegion:\n",
     "content": "Aldweald Aquatic Dwelmfurgh Fever Marsh Hag's Addle High Wold Mulchgrove Nagwood Northern Scrathc Table Downs Tithelands . Generate . ",
     "url": "/dolmenwood/random-tables/",
     
     "relUrl": "/random-tables/"
-  },"74": {
+  },"81": {
     "doc": "Regions of the Dolmenwood",
     "title": "Regions of Dolmenwood",
-    "content": ". | Castle Brackenwold | Dreg and Shantywood Isle | Fort Vulgar | Hag’s Addle | High-Hankle | The High Wold | Lake Longmere | Lankshorn | Mulchgrove | The Nagwood | Prigwort | The Ruined Abbey of St Clewyd | The Witching Ring | The Woodcutter’s Encampment | . ",
+    "content": ". | Aldweald . | The Ruined Abbey of St Clewyd | Prigwort | . | Dwelmfurgh . | Fort Vulgar | Lake Longmere | The Witching Ring | . | Fever Marsh | Hag’s Addle . | The Woodcutter’s Encampment | . | The High Wold . | Dreg and Shantywood Isle | High-Hankle | Lankshorn | . | Mulchgrove | The Nagwood | Northern Scratch | The Table Downs | The Tithelands . | Castle Brackenwold | . | Valley of the Wise Beasts | . ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#regions-of-dolmenwood",
     
     "relUrl": "/resources/regions-of-dolmenwood/#regions-of-dolmenwood"
-  },"75": {
-    "doc": "Regions of the Dolmenwood",
-    "title": "Castle Brackenwold",
-    "content": "The seat of the Duchy of Brackenwold and ancestral home of the nobility of the line, Castle Brackenwold perches upon a high hill with a city stretched at its feet. Alongside the mighty ducal garrison is a great cathedral – the seat of The Church’s power in Dolmenwood. ",
-    "url": "/dolmenwood/resources/regions-of-dolmenwood/#castle-brackenwold",
-    
-    "relUrl": "/resources/regions-of-dolmenwood/#castle-brackenwold"
-  },"76": {
-    "doc": "Regions of the Dolmenwood",
-    "title": "Dreg and Shantywood Isle",
-    "content": "A port and fishing village beside the River Hameth. Dreg has a seedy reputation as a haunt for thieves, gamblers, and rascals of all stripes, only worsened by its proximity to Shantywood Isle, a notorious port of ill-repute. Dreg is also famed for its fine bog-swine sausages. ",
-    "url": "/dolmenwood/resources/regions-of-dolmenwood/#dreg-and-shantywood-isle",
-    
-    "relUrl": "/resources/regions-of-dolmenwood/#dreg-and-shantywood-isle"
-  },"77": {
-    "doc": "Regions of the Dolmenwood",
-    "title": "Fort Vulgar",
-    "content": "A crude keep overlooking a port at the northern end of Lake Longmere. Fort Vulgar is ruled by Sir Osric the Gaunt, a vassal of the Duke of Brackenwold who is responsible for the taxation of all traffic via the port. ",
-    "url": "/dolmenwood/resources/regions-of-dolmenwood/#fort-vulgar",
-    
-    "relUrl": "/resources/regions-of-dolmenwood/#fort-vulgar"
-  },"78": {
-    "doc": "Regions of the Dolmenwood",
-    "title": "Hag’s Addle",
-    "content": "A shunned region of mazy swampland around the banks of the River Hameth, haunted by the sinister Hag. It is said that she glimpses into the past and future and resurrects the dead, but the price she demands in return is perilous. ",
-    "url": "/dolmenwood/resources/regions-of-dolmenwood/#hags-addle",
-    
-    "relUrl": "/resources/regions-of-dolmenwood/#hags-addle"
-  },"79": {
-    "doc": "Regions of the Dolmenwood",
-    "title": "High-Hankle",
-    "content": "The second largest town in Dolmenwood (after Castle Brackenwold), High-Hankle is the ancient capital of the High Wold region, now reputed for revelry, carousing, and debauchery of every flavour. At its centre stands the imposing Castle Perigonne, home of the Baron Hogwarsh. ",
-    "url": "/dolmenwood/resources/regions-of-dolmenwood/#high-hankle",
-    
-    "relUrl": "/resources/regions-of-dolmenwood/#high-hankle"
-  },"80": {
-    "doc": "Regions of the Dolmenwood",
-    "title": "The High Wold",
-    "content": "A barony encompassing the south-western corner of Dolmenwood, ruled in tandem by breggle and human noble houses. The barony has become wild of late under the lax rule of Baron Hogwarsh: highwaymen hunt the roads and charlatans peddle questionable wares. ",
-    "url": "/dolmenwood/resources/regions-of-dolmenwood/#the-high-wold",
-    
-    "relUrl": "/resources/regions-of-dolmenwood/#the-high-wold"
-  },"81": {
-    "doc": "Regions of the Dolmenwood",
-    "title": "Lake Longmere",
-    "content": "The great Lake Longmere, at the centre of Dolmenwood, is twelve miles broad at its widest point. No ships ply its waters, and locals speak fearfully of lake monsters. ",
-    "url": "/dolmenwood/resources/regions-of-dolmenwood/#lake-longmere",
-    
-    "relUrl": "/resources/regions-of-dolmenwood/#lake-longmere"
   },"82": {
     "doc": "Regions of the Dolmenwood",
-    "title": "Lankshorn",
-    "content": "The market town of Lankshorn, ruled by the breggle aristocracy, lies within a bowshot of the forest’s border. In Lankshorn, the traditions of the civilised south meld with the quaint, superstitious ways of Dolmenwood. ",
-    "url": "/dolmenwood/resources/regions-of-dolmenwood/#lankshorn",
+    "title": "Aldweald",
+    "content": "The heartland of the Dolmenwood, and it’s isolated eastern reaches (with the exception of the fungal forest of Mulchgrove). The Aldweald is the most settled region of the Dolmenwood, with well-maintained roads. Yet stepping but a short distance from the structures of human civiliation brings one in contact with the wilder weird. Tricksome fairies dwell in glades, weird ley energies crisscross the region, and witches are said to congregate in secret to worship their obscure gods. ",
+    "url": "/dolmenwood/resources/regions-of-dolmenwood/#aldweald",
     
-    "relUrl": "/resources/regions-of-dolmenwood/#lankshorn"
+    "relUrl": "/resources/regions-of-dolmenwood/#aldweald"
   },"83": {
-    "doc": "Regions of the Dolmenwood",
-    "title": "Mulchgrove",
-    "content": "The central region of the Wood is a dank lowland riddled with fungal forests, treacherous bogs, and twisted willow-woods. The region is little traversed save by sentient fungal monstrosities and the native mosslings, at home amongst the dew-kissed fungi and moulds. ",
-    "url": "/dolmenwood/resources/regions-of-dolmenwood/#mulchgrove",
-    
-    "relUrl": "/resources/regions-of-dolmenwood/#mulchgrove"
-  },"84": {
-    "doc": "Regions of the Dolmenwood",
-    "title": "The Nagwood",
-    "content": "The northern woods, corrupted by the presence of the court of the wicked Nag-Lord and his foul armies. None of sound mind venture within this twisted region of evil. ",
-    "url": "/dolmenwood/resources/regions-of-dolmenwood/#the-nagwood",
-    
-    "relUrl": "/resources/regions-of-dolmenwood/#the-nagwood"
-  },"85": {
-    "doc": "Regions of the Dolmenwood",
-    "title": "Prigwort",
-    "content": "The market town of Prigwort is the largest settlement beneath the forest’s eaves. Famed for its breweries and distilleries, Prigwort is ruled by a council known as the Brewmasters. Connoisseurs across the land covet the fine spirits of Prigwort. ",
-    "url": "/dolmenwood/resources/regions-of-dolmenwood/#prigwort",
-    
-    "relUrl": "/resources/regions-of-dolmenwood/#prigwort"
-  },"86": {
     "doc": "Regions of the Dolmenwood",
     "title": "The Ruined Abbey of St Clewyd",
     "content": "East of Lake Longmere, in the depths of Dolmenwood, a great monastery was founded of old. The abbey has lain in ruins for a century following a nocturnal assault of unknown provenance. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#the-ruined-abbey-of-st-clewyd",
     
     "relUrl": "/resources/regions-of-dolmenwood/#the-ruined-abbey-of-st-clewyd"
+  },"84": {
+    "doc": "Regions of the Dolmenwood",
+    "title": "Prigwort",
+    "content": "The market town of Prigwort is the largest settlement beneath the forest’s eaves. Famed for its breweries and distilleries, Prigwort is ruled by a council known as the Brewmasters. Connoisseurs across the land covet the fine spirits of Prigwort. ",
+    "url": "/dolmenwood/resources/regions-of-dolmenwood/#prigwort",
+    
+    "relUrl": "/resources/regions-of-dolmenwood/#prigwort"
+  },"85": {
+    "doc": "Regions of the Dolmenwood",
+    "title": "Dwelmfurgh",
+    "content": "The western reaches of the Dolmenwood. A rocky highland of treacherous slopes, rocky outcroppings, and fast running rivers and falls, cascading down to Lake Longmere. Demarcated by a vast ring of standing stones called The Witching Ring. ",
+    "url": "/dolmenwood/resources/regions-of-dolmenwood/#dwelmfurgh",
+    
+    "relUrl": "/resources/regions-of-dolmenwood/#dwelmfurgh"
+  },"86": {
+    "doc": "Regions of the Dolmenwood",
+    "title": "Fort Vulgar",
+    "content": "A crude keep overlooking a port at the northern end of Lake Longmere. Fort Vulgar is ruled by Sir Osric the Gaunt, a vassal of the Duke of Brackenwold who is responsible for the taxation of all traffic via the port. ",
+    "url": "/dolmenwood/resources/regions-of-dolmenwood/#fort-vulgar",
+    
+    "relUrl": "/resources/regions-of-dolmenwood/#fort-vulgar"
   },"87": {
     "doc": "Regions of the Dolmenwood",
+    "title": "Lake Longmere",
+    "content": "The great Lake Longmere, at the centre of Dolmenwood, is twelve miles broad at its widest point. No ships ply its waters, and locals speak fearfully of lake monsters. ",
+    "url": "/dolmenwood/resources/regions-of-dolmenwood/#lake-longmere",
+    
+    "relUrl": "/resources/regions-of-dolmenwood/#lake-longmere"
+  },"88": {
+    "doc": "Regions of the Dolmenwood",
     "title": "The Witching Ring",
-    "content": "In the western reaches of Dolmenwood is found a vast ring of frost-rimed stones, erected by the ancients for purpose long forgotten. The folk of Dolmenwood name them the “Summerstones” and the great ring which they inscribe the “Witching Ring.” . ",
+    "content": "In the western reaches of Dolmenwood is found a vast ring of frost-rimed stones, erected by the ancients for purpose long forgotten. The folk of Dolmenwood name them the “Summerstones” and the great ring which they inscribe the “Witching Ring”. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#the-witching-ring",
     
     "relUrl": "/resources/regions-of-dolmenwood/#the-witching-ring"
-  },"88": {
+  },"89": {
+    "doc": "Regions of the Dolmenwood",
+    "title": "Fever Marsh",
+    "content": "A lowland pocket of cold, stagnant marsh at the foot of the Table Downs, with remnants of earthworks and burial mounds attesting to ancient habitation. ",
+    "url": "/dolmenwood/resources/regions-of-dolmenwood/#fever-marsh",
+    
+    "relUrl": "/resources/regions-of-dolmenwood/#fever-marsh"
+  },"90": {
+    "doc": "Regions of the Dolmenwood",
+    "title": "Hag’s Addle",
+    "content": "A maze of swampland that clogs the banks of the river Hameth which flows from Lake Longmere. Shunned due to the natural hazards of the stinking marsh, but also of tales of the sinister Hag who haunts its sodden expanse. The foolhardy or desperate sometimes seek consultation with the Hag, as she has the power to see into the past and future and to raise the dead, though the price she demands in return is perilous. Nonetheless, the rich soil of the swampland is rich with magical herbs which tempt those to venture in the treacherous bog. ",
+    "url": "/dolmenwood/resources/regions-of-dolmenwood/#hags-addle",
+    
+    "relUrl": "/resources/regions-of-dolmenwood/#hags-addle"
+  },"91": {
     "doc": "Regions of the Dolmenwood",
     "title": "The Woodcutter’s Encampment",
     "content": "Once a mere woodcutters’ camp, the village is now a thriving trade community. The locals practice unusual arts of woodcraft and are said to show no fear of the Drune. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#the-woodcutters-encampment",
     
     "relUrl": "/resources/regions-of-dolmenwood/#the-woodcutters-encampment"
-  },"89": {
+  },"92": {
+    "doc": "Regions of the Dolmenwood",
+    "title": "The High Wold",
+    "content": "A barony encompassing the south-western corner of Dolmenwood, ruled in tandem by breggle and human noble houses. The barony has become wild of late under the lax rule of Baron Hogwarsh: highwaymen hunt the roads and charlatans peddle questionable wares. ",
+    "url": "/dolmenwood/resources/regions-of-dolmenwood/#the-high-wold",
+    
+    "relUrl": "/resources/regions-of-dolmenwood/#the-high-wold"
+  },"93": {
+    "doc": "Regions of the Dolmenwood",
+    "title": "Dreg and Shantywood Isle",
+    "content": "A port and fishing village beside the River Hameth. Dreg has a seedy reputation as a haunt for thieves, gamblers, and rascals of all stripes, only worsened by its proximity to Shantywood Isle, a notorious port of ill-repute. Dreg is also famed for its fine bog-swine sausages. ",
+    "url": "/dolmenwood/resources/regions-of-dolmenwood/#dreg-and-shantywood-isle",
+    
+    "relUrl": "/resources/regions-of-dolmenwood/#dreg-and-shantywood-isle"
+  },"94": {
+    "doc": "Regions of the Dolmenwood",
+    "title": "High-Hankle",
+    "content": "The second largest town in Dolmenwood (after Castle Brackenwold), High-Hankle is the ancient capital of the High Wold region, now reputed for revelry, carousing, and debauchery of every flavour. At its centre stands the imposing Castle Perigonne, home of the Baron Hogwarsh. ",
+    "url": "/dolmenwood/resources/regions-of-dolmenwood/#high-hankle",
+    
+    "relUrl": "/resources/regions-of-dolmenwood/#high-hankle"
+  },"95": {
+    "doc": "Regions of the Dolmenwood",
+    "title": "Lankshorn",
+    "content": "The market town of Lankshorn, ruled by the breggle aristocracy, lies within a bowshot of the forest’s border. In Lankshorn, the traditions of the civilised south meld with the quaint, superstitious ways of Dolmenwood. ",
+    "url": "/dolmenwood/resources/regions-of-dolmenwood/#lankshorn",
+    
+    "relUrl": "/resources/regions-of-dolmenwood/#lankshorn"
+  },"96": {
+    "doc": "Regions of the Dolmenwood",
+    "title": "Mulchgrove",
+    "content": "The central region of the Wood is a dank lowland riddled with fungal forests, treacherous bogs, and twisted willow-woods. The region is little traversed save by sentient fungal monstrosities and the native mosslings, at home amongst the dew-kissed fungi and moulds. ",
+    "url": "/dolmenwood/resources/regions-of-dolmenwood/#mulchgrove",
+    
+    "relUrl": "/resources/regions-of-dolmenwood/#mulchgrove"
+  },"97": {
+    "doc": "Regions of the Dolmenwood",
+    "title": "The Nagwood",
+    "content": "The northern woods, corrupted by the presence of the court of the wicked Nag-Lord and his foul armies. None of sound mind venture within this twisted region of evil. ",
+    "url": "/dolmenwood/resources/regions-of-dolmenwood/#the-nagwood",
+    
+    "relUrl": "/resources/regions-of-dolmenwood/#the-nagwood"
+  },"98": {
+    "doc": "Regions of the Dolmenwood",
+    "title": "Northern Scratch",
+    "content": "The trees of the Dolmenwood dwindle to the northwest, giving way to a disputed region of windswept fen and bog. Travellers shun this pathless, treacherous region. It is home only to marsh lanterns, banshees, trolls, and other monsters. ",
+    "url": "/dolmenwood/resources/regions-of-dolmenwood/#northern-scratch",
+    
+    "relUrl": "/resources/regions-of-dolmenwood/#northern-scratch"
+  },"99": {
+    "doc": "Regions of the Dolmenwood",
+    "title": "The Table Downs",
+    "content": "A range of high, windswept hills in the northern edge of the Dolmenwood. They say long dead hamlets, farms, and fortresses huddle in the valleys of these hills. All now stand abandoned. Only phantoms and the incessant moaning of the wind now break the stillness of this place. Travellers may walk the old roads that cross the hilltops, if they dare disturb the silence of the Downs. ",
+    "url": "/dolmenwood/resources/regions-of-dolmenwood/#the-table-downs",
+    
+    "relUrl": "/resources/regions-of-dolmenwood/#the-table-downs"
+  },"100": {
+    "doc": "Regions of the Dolmenwood",
+    "title": "The Tithelands",
+    "content": "A rolling expanse of bountiful farmland in the Southeast edge of the wood. Wholly within the realm of human dominion, under the eye of Castle Brackenwold, which looms on a high hill on the verge of the forest. The weird of the Dolmenwood ends here. ",
+    "url": "/dolmenwood/resources/regions-of-dolmenwood/#the-tithelands",
+    
+    "relUrl": "/resources/regions-of-dolmenwood/#the-tithelands"
+  },"101": {
+    "doc": "Regions of the Dolmenwood",
+    "title": "Castle Brackenwold",
+    "content": "The seat of the Duchy of Brackenwold and ancestral home of the nobility of the line, Castle Brackenwold perches upon a high hill with a city stretched at its feet. Alongside the mighty ducal garrison is a great cathedral – the seat of The Church’s power in Dolmenwood. ",
+    "url": "/dolmenwood/resources/regions-of-dolmenwood/#castle-brackenwold",
+    
+    "relUrl": "/resources/regions-of-dolmenwood/#castle-brackenwold"
+  },"102": {
+    "doc": "Regions of the Dolmenwood",
+    "title": "Valley of the Wise Beasts",
+    "content": "A tranquil, well-ordered, long valley in the north-central Dolmenwood. Uninhabited by humans, but home to many a sentient soul. ",
+    "url": "/dolmenwood/resources/regions-of-dolmenwood/#valley-of-the-wise-beasts",
+    
+    "relUrl": "/resources/regions-of-dolmenwood/#valley-of-the-wise-beasts"
+  },"103": {
     "doc": "Regions of the Dolmenwood",
     "title": "Regions of the Dolmenwood",
     "content": " ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/",
     
     "relUrl": "/resources/regions-of-dolmenwood/"
-  },"90": {
+  },"104": {
     "doc": "Religions",
     "title": "Religions of Dolmenwood",
     "content": ". | Pluritine Church | Aud Frengd Hlerr | Mogba | Gwyrae | . ",
     "url": "/dolmenwood/resources/religions/#religions-of-dolmenwood",
     
     "relUrl": "/resources/religions/#religions-of-dolmenwood"
-  },"91": {
+  },"105": {
     "doc": "Religions",
     "title": "Pluritine Church",
     "content": ". The dominant religion in The Dolmenwood, the official religion of the Duchy of Brackenwold. Most Humans are adherents. Their deity is nameless and male, referred to as “the One True God”. God’s true name is regarded as ineffable. Daily practice focuses on venerating the host of saints - exalted people who performed mighty and miraculous deeds in the service of the Church, now said to act as intermediaries between mortals and God. Origin: The Pluritine Church originated 1,600 years ago, in a land far from Dolmenwood, when the five prophets (Ogrimund, Hogrish, Elidine, Lacrimyde, and These) received a vision of the cosmos and the struggle of all living beings. The prophets travelled the world to spread word of their vision - that the gods of all religions are falsely named aspects of One True God, who should not be named or depicted. After 17 years of proselytising, the prophets ascended to heaven without knowing mortal death. Cosmology: The Church teaches that God created the mortal world, the paradisical realm of heaven, and the accursed realm of hell. He populated the mortal world with humans, other mortal Kindreds, and animals. He created angels to serve Him in heaven and devils to torment the damned in hell. Lastly, God created the world of Fairy to demonstrate the folly of life without faith and salvation. Tenets: Depiction or naming of God is heresy. Sentient life is sacred and must be protected and nurtured. Evil deeds are to be punished, but free will is fundamental. Each individual must be free to choose a life of evil (and eternal damnation in hell) or good (and eternal reward in heaven). Practices: Daily prayer to a patron saint. Weekly visits to church for communal prayer (traditionally on Sunning). Pilgrimage to cathedrals or holy sites. Holy Symbols: A circle with five rays descending from it, representing God and the five prophets. This symbol is known as the Chapes. Symbols of the three clerical orders and effigies of individual saints are also common. Holy Texts: The most holy text—known as the Pragmaphon - recounts the visions, lives, and apocalyptic prophecies of the five prophets. Lesser bodies of text also exist around most of the saints, recounting their deeds and teachings. Membership: The Church has a strict hierarchy of priesthood (Archbishops, Bishops, Commanders, Abbots / Archdeacons, Vicars, and Curates). Clerics and friars serve the Church in wild and dangerous lands. Relationships: While all Kindreds are welcomed into the faith, most adherents and officials are humans. The Pluritine Church, prevalent in many human domains beyond Dolmenwood, is a monotheistic, evangelistic religion that seeks to convert all to its faith. While usually undertaken with compassion, this urge to convert others has historically led to conflict (sometimes bloody) with other religions and nations. This, in turn, has led to the persecution of adherents of the Pluritine Church in certain lands. ",
     "url": "/dolmenwood/resources/religions/#pluritine-church",
     
     "relUrl": "/resources/religions/#pluritine-church"
-  },"92": {
+  },"106": {
     "doc": "Religions",
     "title": "Aud Frengd Hlerr",
     "content": ". The system of ancestor worship practiced among breggles. The name roughly translates as “praising the ancestors”. Believers follow no deities. Instead a multitude of ancestors are venerated, ranging from personal family members to great heroes of myth. The semi-mythical ancestor Hraigl is commonly revered, as mother of the longhorn noble houses. Origin: The practice of revering ancestors originates in the Passions of Ghrygaile—the tale of an ancient breggle warrior-chieftain who attributed his glory in battle to the aid of his ancestors, who fought by his side. Cosmology: Aud frengd Hlerr teaches that the world (this includes Fairy) is a testing ground. Individuals who prosper and honour their families gather in an afterlife of eternal feasting, along with their ancestors. Those who lead craven or spiritless lives enter a dismal realm of torment where their souls are annihilated by gnawing worms. Tenets: Honouring and furthering the position of ones family is utmost. Personal misdeeds can be redeemed by sufficient propitiation of the ancestors. Practices: Daily prayer to ancestors. Occasional sacrifices of valuables to ancestors. Pilgrimages to the graves of venerated ancestors. Holy Symbols: A ring of horns, often those of honoured ancestors. Holy Texts: The Hlerrllaindr—a set of books recounting the deeds of the most esteemed breggles. Membership: Most breggles practice Aud frengd Hlerr. There is no formal priesthood. Relationships: Breggles regard Aud frengd Hlerr as a philosophy of living, rather than a religion per se. It is not contradictory to also follow another religion, for example the Pluritine Church. The cosmology of Aud frengd Hlerr is broadly compatible with that of the Church. ",
     "url": "/dolmenwood/resources/religions/#aud-frengd-hlerr",
     
     "relUrl": "/resources/religions/#aud-frengd-hlerr"
-  },"93": {
+  },"107": {
     "doc": "Religions",
     "title": "Mogba",
     "content": ". The traditional religious practices of the mosslings of Dolmenwood, called Mogba in their own language (meaning something like “holy decay”). Believe in a multitude of deities of the deep forest and fecund underworld. Each settlement has its own local deity, and many homes have their own god of the cauldron, trough, or compost heap. All are regarded as inhabiting the mortal world as divine siblings, part of a pantheon. Some of the most widely known deities are Mbombre (the clay god), Blosquom (fungal god of the village of Orbswallow), and Splobgra (the worm god). Origin: Mogba goes back to the unrecorded mists of time in Dolmenwood. Mossling mythology does not speak of a founder of the religion. Cosmology: Visions sent by the Mogba deities reveal that the world sits atop a cosmic puffball on the back of a toad named Hwogra. At the end of time, the puffball will explode, releasing the spores of the next cosmic cycle. Tenets: The cycles of nature are sacrosanct, especially those around ageing, death, and decay into the soil. Individuals are but temporary manifestations of the whims of the soil. The unfathomable mystery of life is to be savoured. Practices: Psychedelic communion with the Mogba deities. Questing to consult with mould oracles. Fertilising sacred plants with the compost of beloved ancestors. Holy symbols: A toadstool with one or more eyes. Holy texts: The evolving body of myths and legends known as Hwogm is primarily passed down orally, but the mould oracles do maintain written copies of various vintages. Membership: Mould oracles act as hermit-priests and spiritual guides. Otherwise, there is no formal religious structure. Relationships: Mogba is virtually unknown to other Kindreds and the religion has nothing to say on the subject of the religions of other folk. ",
     "url": "/dolmenwood/resources/religions/#mogba",
     
     "relUrl": "/resources/religions/#mogba"
-  },"94": {
+  },"108": {
     "doc": "Religions",
     "title": "Gwyrae",
     "content": ". The old religion of the Human folk of Dolmenwood, before the arrival of the Pluritine Church (around 1,200 years ago) largely swept it away. Gwyrae is an Old Woldish word meaning “sacred glade”. Believe in a pantheon of Wood Gods, of greater and lesser importance. They are regarded as manifestations of the spirit of Dolmenwood. Origin: Lost to time. Cosmology: Mostly lost to time. Remnants of Gwyrae mythology can be found in local folk belief in Dolmenwood. For example, locals still speak of a “world tree” on which all known realms of existence are placed, with Fairy as the tree’s root. Belief in reincarnation into plants or animals also lingers in folklore. Tenets: Lost to time. Practices: Lost to time. A number of folk practices in Dolmenwood can perhaps be traced back to Gwyrae: for example, the belief in a state of merry inebriation as a means of communion with greater powers. Holy Symbols: The symbol of the Green Man - a cruciform oak -can still be spied carved on old buildings or in graveyards that were appropriated by the Pluritine Church. In ancient times, adherents would wear cruciform or Y-shaped pendants of oak wood or root, but such symbols are seldom seen in the present day. Holy Texts: None known. Membership: It is said that the witches of Dolmenwood still worship the old gods in secret. Relationships: The Pluritine Church suppresses any remnants of Gwyrae. Otherwise, as a virtually dead religion, it has little contact with other faiths or folk. ",
     "url": "/dolmenwood/resources/religions/#gwyrae",
     
     "relUrl": "/resources/religions/#gwyrae"
-  },"95": {
+  },"109": {
     "doc": "Religions",
     "title": "Religions",
     "content": " ",
     "url": "/dolmenwood/resources/religions/",
     
     "relUrl": "/resources/religions/"
-  },"96": {
+  },"110": {
     "doc": "Resources",
     "title": "Resources",
     "content": " ",
     "url": "/dolmenwood/resources/",
     
     "relUrl": "/resources/"
-  },"97": {
+  },"111": {
     "doc": "Rules",
     "title": "Rules",
     "content": " ",
     "url": "/dolmenwood/rules/",
     
     "relUrl": "/rules/"
+  },"112": {
+    "doc": "Schmold (Vlad)",
+    "title": "Schmold",
+    "content": "|   |   | . | Player | Vlad | . | Kindred | Mossling | . | Class | Hunter | . | Alignment | TODO | . | Description | TODO. Wants to meld with The Fungal Mind. | . ",
+    "url": "/dolmenwood/campaign-info/player-characters/schmold/#schmold",
+    
+    "relUrl": "/campaign-info/player-characters/schmold/#schmold"
+  },"113": {
+    "doc": "Schmold (Vlad)",
+    "title": "Schmold (Vlad)",
+    "content": " ",
+    "url": "/dolmenwood/campaign-info/player-characters/schmold/",
+    
+    "relUrl": "/campaign-info/player-characters/schmold/"
+  },"114": {
+    "doc": "Session 1",
+    "title": "Session 1",
+    "content": "16th September, 2026 . ",
+    "url": "/dolmenwood/campaign-info/session-summaries/session-1/",
+    
+    "relUrl": "/campaign-info/session-summaries/session-1/"
+  },"115": {
+    "doc": "Session 1",
+    "title": "Players",
+    "content": ". | Ben (Playing Lord Mogglin) | Jaco (Playing Nokko) | Joe (Playing Hank Do-Good) | Kai (Playing Lan) | Kasturi (Playing Hilda) | Vlad (Playing Schmold) | . Total XP: 220XP (Exploration) + 6XP (Encounters) + 0XP (Treasure) . ",
+    "url": "/dolmenwood/campaign-info/session-summaries/session-1/#players",
+    
+    "relUrl": "/campaign-info/session-summaries/session-1/#players"
+  },"116": {
+    "doc": "Session 1",
+    "title": "Summary",
+    "content": " ",
+    "url": "/dolmenwood/campaign-info/session-summaries/session-1/#summary",
+    
+    "relUrl": "/campaign-info/session-summaries/session-1/#summary"
+  },"117": {
+    "doc": "Session 1",
+    "title": "Moot, The 4th of Redwyrme (Feast of St. Elephantine the scribe)",
+    "content": "Weather is Balmy and Clement . | Met in the wide halls of The Spawning Salmon, a squat, converted warehouse in the rought port-town of Dreg, along the river Hameth. It’s the prime gambling establishment in Dreg. The Bard’s in the group performed, while the other members of the group gambled. | One of the Vague’s sons (a human family), Arda, has gone missing. He’d spent several nights last week visiting Droomen Knoll, an old ruined Fairy fort North, on the border’s of Hag’s Addle along the Hameth, where he’d head enchanting music. The Vagues worry Arda has been kidnapped by fairies. They’ll give 200 gold for the safe return of Arda. | Word is among the gamblers at the Spawning Salmon that crookhorns have been snooping around to the North. | . | Travelled north along the river. | Surprised by a Boar, clearing out swampland to make a den. The Boar became territorial, and the party attacked. The party slayed the Boar and took it’s tusks for trophies and bacon for dinner. But not before the Boar charged into Schmold, cracking a rib (it will take 8 days to heal). | Cleared out the Boar’s Den to make a shelter for the evening, but when the mists came in across the Hameth the night got pretty chilly without bedrolls. | . ",
+    "url": "/dolmenwood/campaign-info/session-summaries/session-1/#moot-the-4th-of-redwyrme-feast-of-st-elephantine-the-scribe",
+    
+    "relUrl": "/campaign-info/session-summaries/session-1/#moot-the-4th-of-redwyrme-feast-of-st-elephantine-the-scribe"
+  },"118": {
+    "doc": "Session 1",
+    "title": "Frisk, The 5th of Redwyrme",
+    "content": "Weather is Cloudy and Misty . | We arrived at Droomen Knoll. We confirmed the rumors of snooping Crookhorns, four of which were camped, drunk and playing raucous music, in the fort, while another watched from the one remaining tower standing above the fort. | The Crookhorns were wary of us, so we left our belongings by the archway entrance (aside from the bard’s instruments) to show we meaned them no harm. | One of the drunken Crookhorn’s let slip that they’d seen a boy around the Fort, though the other was quick to shut them up when they revealed this information. | We enchanted two of the four Crookhorns with Bardic Song. Hopefully | . | Meanwhile, while the party was conversing with the Crookhorns, Schmold snuck around the side of the Fort. He tried to inspect the tracks coming from the fort’s trance, to see if he could identify a boy’s footprint, but the tracks were pretty heavily tracked of late, and so he wasn’t able to distinguish particular footprints in the mud. | Failing this, he snuck around the back of the Fort, peering in from one of the collapsed towers. | . | . ",
+    "url": "/dolmenwood/campaign-info/session-summaries/session-1/#frisk-the-5th-of-redwyrme",
+    
+    "relUrl": "/campaign-info/session-summaries/session-1/#frisk-the-5th-of-redwyrme"
+  },"119": {
+    "doc": "Session Summaries",
+    "title": "Session Summaries",
+    "content": " ",
+    "url": "/dolmenwood/campaign-info/session-summaries/",
+    
+    "relUrl": "/campaign-info/session-summaries/"
   }
 }
