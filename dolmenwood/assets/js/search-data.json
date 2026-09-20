@@ -876,46 +876,53 @@
   },"125": {
     "doc": "Session 1",
     "title": "Players",
-    "content": ". | Ben (Playing Lord Mogglin) | Jaco (Playing Nokko) | Joe (Playing Hank Do-Good) | Kai (Playing Lan) | Kasturi (Playing Hilda) | Vlad (Playing Schmold) | . Total XP: 220XP (Exploration) + 6XP (Encounters) + 0XP (Treasure) . ",
+    "content": ". | Ben (Playing Lord Mogglin) | Jaco (Playing Nokko) | Joe (Playing Hank Do-Good) | Kai (Playing Lan) | Kasturi (Playing Hilda) | Vlad (Playing Schmold) | . ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-1/#players",
     
     "relUrl": "/campaign-info/session-summaries/session-1/#players"
   },"126": {
+    "doc": "Session 1",
+    "title": "XP Earned:",
+    "content": "220 XP (Exploration) + 6 XP (Encounters) + 0 XP (Treasure) = 226 XP Each . ",
+    "url": "/dolmenwood/campaign-info/session-summaries/session-1/#xp-earned",
+    
+    "relUrl": "/campaign-info/session-summaries/session-1/#xp-earned"
+  },"127": {
     "doc": "Session 1",
     "title": "Summary",
     "content": " ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-1/#summary",
     
     "relUrl": "/campaign-info/session-summaries/session-1/#summary"
-  },"127": {
+  },"128": {
     "doc": "Session 1",
     "title": "Moot, The 4th of Redwyrme (Feast of St. Elephantine the scribe)",
     "content": "Weather is Balmy and Clement . | Met in the wide halls of The Spawning Salmon, a squat, converted warehouse in the rough port-town of Dreg, along the river Hameth. It’s the prime gambling establishment in Dreg. The Bard’s in the group performed, while the other members of the group gambled. | One of the Vague’s sons (a human family), Arda, has gone missing. He’d spent several nights last week visiting Droomen Knoll, an old ruined Fairy fort North, on the border’s of Hag’s Addle along the Hameth, where he’d head enchanting music. The Vagues worry Arda has been kidnapped by fairies. They’ll give 200 gold for the safe return of Arda. | Word is among the gamblers at the Spawning Salmon that crookhorns have been snooping around to the North. | . | Travelled north along the river. | Surprised by a Boar, clearing out swampland to make a den. The Boar became territorial, and the party attacked. The party slayed the Boar and took it’s tusks for trophies and bacon for dinner. But not before the Boar charged into Schmold, cracking a rib (it will take 8 days to heal). | Cleared out the Boar’s Den to make a shelter for the evening, but when the mists came in across the Hameth the night got pretty chilly without bedrolls. | . ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-1/#moot-the-4th-of-redwyrme-feast-of-st-elephantine-the-scribe",
     
     "relUrl": "/campaign-info/session-summaries/session-1/#moot-the-4th-of-redwyrme-feast-of-st-elephantine-the-scribe"
-  },"128": {
+  },"129": {
     "doc": "Session 1",
     "title": "Frisk, The 5th of Redwyrme",
     "content": "Weather is Cloudy and Misty . | We arrived at Droomen Knoll. We confirmed the rumors of snooping Crookhorns, four of which were camped, drunk and playing raucous music, in the fort, while another watched from the one remaining tower standing above the fort. | The Crookhorns were wary of us, so we left our belongings by the archway entrance (aside from the bard’s instruments) to show we meaned them no harm. | One of the drunken Crookhorn’s let slip that they’d seen a boy around the Fort, though the other was quick to shut them up when they revealed this information. | We enchanted two of the four Crookhorns with Bardic Song. Hopefully | . | Meanwhile, while the party was conversing with the Crookhorns, Schmold snuck around the side of the Fort. He tried to inspect the tracks coming from the fort’s trance, to see if he could identify a boy’s footprint, but the tracks were pretty heavily tracked of late, and so he wasn’t able to distinguish particular footprints in the mud. | Failing this, he snuck around the back of the Fort, peering in from one of the collapsed towers. | . | . ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-1/#frisk-the-5th-of-redwyrme",
     
     "relUrl": "/campaign-info/session-summaries/session-1/#frisk-the-5th-of-redwyrme"
-  },"129": {
+  },"130": {
     "doc": "Session Summaries",
     "title": "Session Summaries",
     "content": " ",
     "url": "/dolmenwood/campaign-info/session-summaries/",
     
     "relUrl": "/campaign-info/session-summaries/"
-  },"130": {
+  },"131": {
     "doc": "Squander Fortune",
     "title": "Squander a Fortune",
     "content": "Hank the Human Bard wants to earn a fortune to squander. ",
     "url": "/dolmenwood/campaign-info/campaign-goals/squander-fortune/#squander-a-fortune",
     
     "relUrl": "/campaign-info/campaign-goals/squander-fortune/#squander-a-fortune"
-  },"131": {
+  },"132": {
     "doc": "Squander Fortune",
     "title": "Squander Fortune",
     "content": " ",
