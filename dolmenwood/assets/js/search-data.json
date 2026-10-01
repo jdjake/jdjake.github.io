@@ -650,426 +650,461 @@
     
     "relUrl": "/campaign-info/non-player-characters/"
   },"93": {
+    "doc": "Non Player Characters",
+    "title": "Mortals",
+    "content": ". | Arda Vague | Mother | Tekwell Onehorn | . ",
+    "url": "/dolmenwood/campaign-info/non-player-characters/#mortals",
+    
+    "relUrl": "/campaign-info/non-player-characters/#mortals"
+  },"94": {
+    "doc": "Non Player Characters",
+    "title": "Nobles",
+    "content": ". | Javier Thistlewhistle | Madame Shantywood | . ",
+    "url": "/dolmenwood/campaign-info/non-player-characters/#nobles",
+    
+    "relUrl": "/campaign-info/non-player-characters/#nobles"
+  },"95": {
+    "doc": "Non Player Characters",
+    "title": "The Church",
+    "content": ". | Reverend Mother Hadlewreath | Brother Rodger Hogbeard | . ",
+    "url": "/dolmenwood/campaign-info/non-player-characters/#the-church",
+    
+    "relUrl": "/campaign-info/non-player-characters/#the-church"
+  },"96": {
+    "doc": "Non Player Characters",
+    "title": "Frost Elves",
+    "content": ". | Famine-Whistles-Whither | Prince Mallowheart | . ",
+    "url": "/dolmenwood/campaign-info/non-player-characters/#frost-elves",
+    
+    "relUrl": "/campaign-info/non-player-characters/#frost-elves"
+  },"97": {
+    "doc": "Non Player Characters",
+    "title": "Minions of the Nag Lord",
+    "content": ". | Grerta | . ",
+    "url": "/dolmenwood/campaign-info/non-player-characters/#minions-of-the-nag-lord",
+    
+    "relUrl": "/campaign-info/non-player-characters/#minions-of-the-nag-lord"
+  },"98": {
     "doc": "Player Characters",
     "title": "Player Characters",
     "content": " ",
     "url": "/dolmenwood/campaign-info/player-characters/",
     
     "relUrl": "/campaign-info/player-characters/"
-  },"94": {
+  },"99": {
     "doc": "Prince Mallowheart",
     "title": "Prince Mallowheart",
     "content": "Estranged half brother to The Cold Prince, also known as Prince Seven-Past-Noon. Tales speak of his decadence, cruelty, and capriciousness. Known to dress in richly furred robes and a crown of iron thorns and diamonds. Unlike the Cold Prince, Prince Mallowheart was not banished to isolation in Frigia in distant Fairy, and ocasionally a traveller will share tales of encountering his sadistic knights and amoral courtiers on the road. ",
     "url": "/dolmenwood/campaign-info/non-player-characters/prince-mallowheart/",
     
     "relUrl": "/campaign-info/non-player-characters/prince-mallowheart/"
-  },"95": {
+  },"100": {
     "doc": "Random Tables",
     "title": "Random Tables",
     "content": " ",
     "url": "/dolmenwood/random-tables/",
     
     "relUrl": "/random-tables/"
-  },"96": {
+  },"101": {
     "doc": "Random Tables",
     "title": "\n\tEncounter Type:\n",
     "content": "Day Encounter on Road Day Encounter in Wilds Night Encounter around Large Fire Night Encounter with Small Fire . ",
     "url": "/dolmenwood/random-tables/",
     
     "relUrl": "/random-tables/"
-  },"97": {
+  },"102": {
     "doc": "Random Tables",
     "title": "\n\tRegion:\n",
     "content": "Aldweald Aquatic Dwelmfurgh Fever Marsh Hag's Addle High Wold Mulchgrove Nagwood Northern Scrathc Table Downs Tithelands . Generate . ",
     "url": "/dolmenwood/random-tables/",
     
     "relUrl": "/random-tables/"
-  },"98": {
+  },"103": {
     "doc": "Regions of the Dolmenwood",
     "title": "Regions of Dolmenwood",
     "content": ". | Aldweald . | The Ruined Abbey of St Clewyd | Prigwort | . | Dwelmfurgh . | Fort Vulgar | Lake Longmere | The Witching Ring | . | Fever Marsh | Hag’s Addle . | The Woodcutter’s Encampment | . | The High Wold . | Dreg and Shantywood Isle | High-Hankle | Lankshorn | . | Mulchgrove | The Nagwood | Northern Scratch | The Table Downs | The Tithelands . | Castle Brackenwold | . | Valley of the Wise Beasts | . ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#regions-of-dolmenwood",
     
     "relUrl": "/resources/regions-of-dolmenwood/#regions-of-dolmenwood"
-  },"99": {
+  },"104": {
     "doc": "Regions of the Dolmenwood",
     "title": "Aldweald",
     "content": "The heartland of the Dolmenwood, and it’s isolated eastern reaches (with the exception of the fungal forest of Mulchgrove). The Aldweald is the most settled region of the Dolmenwood, with well-maintained roads. Yet stepping but a short distance from the structures of human civiliation brings one in contact with the wilder weird. Tricksome fairies dwell in glades, weird ley energies crisscross the region, and witches are said to congregate in secret to worship their obscure gods. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#aldweald",
     
     "relUrl": "/resources/regions-of-dolmenwood/#aldweald"
-  },"100": {
+  },"105": {
     "doc": "Regions of the Dolmenwood",
     "title": "The Ruined Abbey of St Clewyd",
     "content": "East of Lake Longmere, in the depths of Dolmenwood, a great monastery was founded of old. The abbey has lain in ruins for a century following a nocturnal assault of unknown provenance. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#the-ruined-abbey-of-st-clewyd",
     
     "relUrl": "/resources/regions-of-dolmenwood/#the-ruined-abbey-of-st-clewyd"
-  },"101": {
+  },"106": {
     "doc": "Regions of the Dolmenwood",
     "title": "Prigwort",
     "content": "The market town of Prigwort is the largest settlement beneath the forest’s eaves. Famed for its breweries and distilleries, Prigwort is ruled by a council known as the Brewmasters. Connoisseurs across the land covet the fine spirits of Prigwort. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#prigwort",
     
     "relUrl": "/resources/regions-of-dolmenwood/#prigwort"
-  },"102": {
+  },"107": {
     "doc": "Regions of the Dolmenwood",
     "title": "Dwelmfurgh",
     "content": "The western reaches of the Dolmenwood. A rocky highland of treacherous slopes, rocky outcroppings, and fast running rivers and falls, cascading down to Lake Longmere. Demarcated by a vast ring of standing stones called The Witching Ring. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#dwelmfurgh",
     
     "relUrl": "/resources/regions-of-dolmenwood/#dwelmfurgh"
-  },"103": {
+  },"108": {
     "doc": "Regions of the Dolmenwood",
     "title": "Fort Vulgar",
     "content": "A crude keep overlooking a port at the northern end of Lake Longmere. Fort Vulgar is ruled by Sir Osric the Gaunt, a vassal of the Duke of Brackenwold who is responsible for the taxation of all traffic via the port. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#fort-vulgar",
     
     "relUrl": "/resources/regions-of-dolmenwood/#fort-vulgar"
-  },"104": {
+  },"109": {
     "doc": "Regions of the Dolmenwood",
     "title": "Lake Longmere",
     "content": "The great Lake Longmere, at the centre of Dolmenwood, is twelve miles broad at its widest point. No ships ply its waters, and locals speak fearfully of lake monsters. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#lake-longmere",
     
     "relUrl": "/resources/regions-of-dolmenwood/#lake-longmere"
-  },"105": {
+  },"110": {
     "doc": "Regions of the Dolmenwood",
     "title": "The Witching Ring",
     "content": "In the western reaches of Dolmenwood is found a vast ring of frost-rimed stones, erected by the ancients for purpose long forgotten. The folk of Dolmenwood name them the “Summerstones” and the great ring which they inscribe the “Witching Ring”. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#the-witching-ring",
     
     "relUrl": "/resources/regions-of-dolmenwood/#the-witching-ring"
-  },"106": {
+  },"111": {
     "doc": "Regions of the Dolmenwood",
     "title": "Fever Marsh",
     "content": "A lowland pocket of cold, stagnant marsh at the foot of the Table Downs, with remnants of earthworks and burial mounds attesting to ancient habitation. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#fever-marsh",
     
     "relUrl": "/resources/regions-of-dolmenwood/#fever-marsh"
-  },"107": {
+  },"112": {
     "doc": "Regions of the Dolmenwood",
     "title": "Hag’s Addle",
     "content": "A maze of swampland that clogs the banks of the river Hameth which flows from Lake Longmere. Shunned due to the natural hazards of the stinking marsh, but also of tales of the sinister Hag who haunts its sodden expanse. The foolhardy or desperate sometimes seek consultation with the Hag, as she has the power to see into the past and future and to raise the dead, though the price she demands in return is perilous. Nonetheless, the rich soil of the swampland is rich with magical herbs which tempt those to venture in the treacherous bog. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#hags-addle",
     
     "relUrl": "/resources/regions-of-dolmenwood/#hags-addle"
-  },"108": {
+  },"113": {
     "doc": "Regions of the Dolmenwood",
     "title": "The Woodcutter’s Encampment",
     "content": "Once a mere woodcutters’ camp, the village is now a thriving trade community. The locals practice unusual arts of woodcraft and are said to show no fear of the Drune. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#the-woodcutters-encampment",
     
     "relUrl": "/resources/regions-of-dolmenwood/#the-woodcutters-encampment"
-  },"109": {
+  },"114": {
     "doc": "Regions of the Dolmenwood",
     "title": "The High Wold",
     "content": "A barony encompassing the south-western corner of Dolmenwood, ruled in tandem by breggle and human noble houses. The barony has become wild of late under the lax rule of Baron Hogwarsh: highwaymen hunt the roads and charlatans peddle questionable wares. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#the-high-wold",
     
     "relUrl": "/resources/regions-of-dolmenwood/#the-high-wold"
-  },"110": {
+  },"115": {
     "doc": "Regions of the Dolmenwood",
     "title": "Dreg and Shantywood Isle",
     "content": "A port and fishing village beside the River Hameth. Dreg has a seedy reputation as a haunt for thieves, gamblers, and rascals of all stripes, only worsened by its proximity to Shantywood Isle, a notorious port of ill-repute. Dreg is also famed for its fine bog-swine sausages. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#dreg-and-shantywood-isle",
     
     "relUrl": "/resources/regions-of-dolmenwood/#dreg-and-shantywood-isle"
-  },"111": {
+  },"116": {
     "doc": "Regions of the Dolmenwood",
     "title": "High-Hankle",
     "content": "The second largest town in Dolmenwood (after Castle Brackenwold), High-Hankle is the ancient capital of the High Wold region, now reputed for revelry, carousing, and debauchery of every flavour. At its centre stands the imposing Castle Perigonne, home of the Baron Hogwarsh. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#high-hankle",
     
     "relUrl": "/resources/regions-of-dolmenwood/#high-hankle"
-  },"112": {
+  },"117": {
     "doc": "Regions of the Dolmenwood",
     "title": "Lankshorn",
     "content": "The market town of Lankshorn, ruled by the breggle aristocracy, lies within a bowshot of the forest’s border. In Lankshorn, the traditions of the civilised south meld with the quaint, superstitious ways of Dolmenwood. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#lankshorn",
     
     "relUrl": "/resources/regions-of-dolmenwood/#lankshorn"
-  },"113": {
+  },"118": {
     "doc": "Regions of the Dolmenwood",
     "title": "Mulchgrove",
     "content": "The central region of the Wood is a dank lowland riddled with fungal forests, treacherous bogs, and twisted willow-woods. The region is little traversed save by sentient fungal monstrosities and the native mosslings, at home amongst the dew-kissed fungi and moulds. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#mulchgrove",
     
     "relUrl": "/resources/regions-of-dolmenwood/#mulchgrove"
-  },"114": {
+  },"119": {
     "doc": "Regions of the Dolmenwood",
     "title": "The Nagwood",
     "content": "The northern woods, corrupted by the presence of the court of the wicked Nag-Lord and his foul armies. None of sound mind venture within this twisted region of evil. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#the-nagwood",
     
     "relUrl": "/resources/regions-of-dolmenwood/#the-nagwood"
-  },"115": {
+  },"120": {
     "doc": "Regions of the Dolmenwood",
     "title": "Northern Scratch",
     "content": "The trees of the Dolmenwood dwindle to the northwest, giving way to a disputed region of windswept fen and bog. Travellers shun this pathless, treacherous region. It is home only to marsh lanterns, banshees, trolls, and other monsters. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#northern-scratch",
     
     "relUrl": "/resources/regions-of-dolmenwood/#northern-scratch"
-  },"116": {
+  },"121": {
     "doc": "Regions of the Dolmenwood",
     "title": "The Table Downs",
     "content": "A range of high, windswept hills in the northern edge of the Dolmenwood. They say long dead hamlets, farms, and fortresses huddle in the valleys of these hills. All now stand abandoned. Only phantoms and the incessant moaning of the wind now break the stillness of this place. Travellers may walk the old roads that cross the hilltops, if they dare disturb the silence of the Downs. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#the-table-downs",
     
     "relUrl": "/resources/regions-of-dolmenwood/#the-table-downs"
-  },"117": {
+  },"122": {
     "doc": "Regions of the Dolmenwood",
     "title": "The Tithelands",
     "content": "A rolling expanse of bountiful farmland in the Southeast edge of the wood. Wholly within the realm of human dominion, under the eye of Castle Brackenwold, which looms on a high hill on the verge of the forest. The weird of the Dolmenwood ends here. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#the-tithelands",
     
     "relUrl": "/resources/regions-of-dolmenwood/#the-tithelands"
-  },"118": {
+  },"123": {
     "doc": "Regions of the Dolmenwood",
     "title": "Castle Brackenwold",
     "content": "The seat of the Duchy of Brackenwold and ancestral home of the nobility of the line, Castle Brackenwold perches upon a high hill with a city stretched at its feet. Alongside the mighty ducal garrison is a great cathedral – the seat of The Church’s power in Dolmenwood. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#castle-brackenwold",
     
     "relUrl": "/resources/regions-of-dolmenwood/#castle-brackenwold"
-  },"119": {
+  },"124": {
     "doc": "Regions of the Dolmenwood",
     "title": "Valley of the Wise Beasts",
     "content": "A tranquil, well-ordered, long valley in the north-central Dolmenwood. Uninhabited by humans, but home to many a sentient soul. ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/#valley-of-the-wise-beasts",
     
     "relUrl": "/resources/regions-of-dolmenwood/#valley-of-the-wise-beasts"
-  },"120": {
+  },"125": {
     "doc": "Regions of the Dolmenwood",
     "title": "Regions of the Dolmenwood",
     "content": " ",
     "url": "/dolmenwood/resources/regions-of-dolmenwood/",
     
     "relUrl": "/resources/regions-of-dolmenwood/"
-  },"121": {
+  },"126": {
     "doc": "Religions",
     "title": "Religions of Dolmenwood",
     "content": ". | Pluritine Church | Aud Frengd Hlerr | Mogba | Gwyrae | . ",
     "url": "/dolmenwood/resources/religions/#religions-of-dolmenwood",
     
     "relUrl": "/resources/religions/#religions-of-dolmenwood"
-  },"122": {
+  },"127": {
     "doc": "Religions",
     "title": "Pluritine Church",
     "content": ". The dominant religion in The Dolmenwood, the official religion of the Duchy of Brackenwold. Most Humans are adherents. Their deity is nameless and male, referred to as “the One True God”. God’s true name is regarded as ineffable. Daily practice focuses on venerating the host of saints - exalted people who performed mighty and miraculous deeds in the service of the Church, now said to act as intermediaries between mortals and God. Origin: The Pluritine Church originated 1,600 years ago, in a land far from Dolmenwood, when the five prophets (Ogrimund, Hogrish, Elidine, Lacrimyde, and These) received a vision of the cosmos and the struggle of all living beings. The prophets travelled the world to spread word of their vision - that the gods of all religions are falsely named aspects of One True God, who should not be named or depicted. After 17 years of proselytising, the prophets ascended to heaven without knowing mortal death. Cosmology: The Church teaches that God created the mortal world, the paradisical realm of heaven, and the accursed realm of hell. He populated the mortal world with humans, other mortal Kindreds, and animals. He created angels to serve Him in heaven and devils to torment the damned in hell. Lastly, God created the world of Fairy to demonstrate the folly of life without faith and salvation. Tenets: Depiction or naming of God is heresy. Sentient life is sacred and must be protected and nurtured. Evil deeds are to be punished, but free will is fundamental. Each individual must be free to choose a life of evil (and eternal damnation in hell) or good (and eternal reward in heaven). Practices: Daily prayer to a patron saint. Weekly visits to church for communal prayer (traditionally on Sunning). Pilgrimage to cathedrals or holy sites. Holy Symbols: A circle with five rays descending from it, representing God and the five prophets. This symbol is known as the Chapes. Symbols of the three clerical orders and effigies of individual saints are also common. Holy Texts: The most holy text—known as the Pragmaphon - recounts the visions, lives, and apocalyptic prophecies of the five prophets. Lesser bodies of text also exist around most of the saints, recounting their deeds and teachings. Membership: The Church has a strict hierarchy of priesthood (Archbishops, Bishops, Commanders, Abbots / Archdeacons, Vicars, and Curates). Clerics and friars serve the Church in wild and dangerous lands. Relationships: While all Kindreds are welcomed into the faith, most adherents and officials are humans. The Pluritine Church, prevalent in many human domains beyond Dolmenwood, is a monotheistic, evangelistic religion that seeks to convert all to its faith. While usually undertaken with compassion, this urge to convert others has historically led to conflict (sometimes bloody) with other religions and nations. This, in turn, has led to the persecution of adherents of the Pluritine Church in certain lands. ",
     "url": "/dolmenwood/resources/religions/#pluritine-church",
     
     "relUrl": "/resources/religions/#pluritine-church"
-  },"123": {
+  },"128": {
     "doc": "Religions",
     "title": "Aud Frengd Hlerr",
     "content": ". The system of ancestor worship practiced among breggles. The name roughly translates as “praising the ancestors”. Believers follow no deities. Instead a multitude of ancestors are venerated, ranging from personal family members to great heroes of myth. The semi-mythical ancestor Hraigl is commonly revered, as mother of the longhorn noble houses. Origin: The practice of revering ancestors originates in the Passions of Ghrygaile—the tale of an ancient breggle warrior-chieftain who attributed his glory in battle to the aid of his ancestors, who fought by his side. Cosmology: Aud frengd Hlerr teaches that the world (this includes Fairy) is a testing ground. Individuals who prosper and honour their families gather in an afterlife of eternal feasting, along with their ancestors. Those who lead craven or spiritless lives enter a dismal realm of torment where their souls are annihilated by gnawing worms. Tenets: Honouring and furthering the position of ones family is utmost. Personal misdeeds can be redeemed by sufficient propitiation of the ancestors. Practices: Daily prayer to ancestors. Occasional sacrifices of valuables to ancestors. Pilgrimages to the graves of venerated ancestors. Holy Symbols: A ring of horns, often those of honoured ancestors. Holy Texts: The Hlerrllaindr—a set of books recounting the deeds of the most esteemed breggles. Membership: Most breggles practice Aud frengd Hlerr. There is no formal priesthood. Relationships: Breggles regard Aud frengd Hlerr as a philosophy of living, rather than a religion per se. It is not contradictory to also follow another religion, for example the Pluritine Church. The cosmology of Aud frengd Hlerr is broadly compatible with that of the Church. ",
     "url": "/dolmenwood/resources/religions/#aud-frengd-hlerr",
     
     "relUrl": "/resources/religions/#aud-frengd-hlerr"
-  },"124": {
+  },"129": {
     "doc": "Religions",
     "title": "Mogba",
     "content": ". The traditional religious practices of the mosslings of Dolmenwood, called Mogba in their own language (meaning something like “holy decay”). Believe in a multitude of deities of the deep forest and fecund underworld. Each settlement has its own local deity, and many homes have their own god of the cauldron, trough, or compost heap. All are regarded as inhabiting the mortal world as divine siblings, part of a pantheon. Some of the most widely known deities are Mbombre (the clay god), Blosquom (fungal god of the village of Orbswallow), and Splobgra (the worm god). Origin: Mogba goes back to the unrecorded mists of time in Dolmenwood. Mossling mythology does not speak of a founder of the religion. Cosmology: Visions sent by the Mogba deities reveal that the world sits atop a cosmic puffball on the back of a toad named Hwogra. At the end of time, the puffball will explode, releasing the spores of the next cosmic cycle. Tenets: The cycles of nature are sacrosanct, especially those around ageing, death, and decay into the soil. Individuals are but temporary manifestations of the whims of the soil. The unfathomable mystery of life is to be savoured. Practices: Psychedelic communion with the Mogba deities. Questing to consult with mould oracles. Fertilising sacred plants with the compost of beloved ancestors. Holy symbols: A toadstool with one or more eyes. Holy texts: The evolving body of myths and legends known as Hwogm is primarily passed down orally, but the mould oracles do maintain written copies of various vintages. Membership: Mould oracles act as hermit-priests and spiritual guides. Otherwise, there is no formal religious structure. Relationships: Mogba is virtually unknown to other Kindreds and the religion has nothing to say on the subject of the religions of other folk. ",
     "url": "/dolmenwood/resources/religions/#mogba",
     
     "relUrl": "/resources/religions/#mogba"
-  },"125": {
+  },"130": {
     "doc": "Religions",
     "title": "Gwyrae",
     "content": ". The old religion of the Human folk of Dolmenwood, before the arrival of the Pluritine Church (around 1,200 years ago) largely swept it away. Gwyrae is an Old Woldish word meaning “sacred glade”. Believe in a pantheon of Wood Gods, of greater and lesser importance. They are regarded as manifestations of the spirit of Dolmenwood. Origin: Lost to time. Cosmology: Mostly lost to time. Remnants of Gwyrae mythology can be found in local folk belief in Dolmenwood. For example, locals still speak of a “world tree” on which all known realms of existence are placed, with Fairy as the tree’s root. Belief in reincarnation into plants or animals also lingers in folklore. Tenets: Lost to time. Practices: Lost to time. A number of folk practices in Dolmenwood can perhaps be traced back to Gwyrae: for example, the belief in a state of merry inebriation as a means of communion with greater powers. Holy Symbols: The symbol of the Green Man - a cruciform oak -can still be spied carved on old buildings or in graveyards that were appropriated by the Pluritine Church. In ancient times, adherents would wear cruciform or Y-shaped pendants of oak wood or root, but such symbols are seldom seen in the present day. Holy Texts: None known. Membership: It is said that the witches of Dolmenwood still worship the old gods in secret. Relationships: The Pluritine Church suppresses any remnants of Gwyrae. Otherwise, as a virtually dead religion, it has little contact with other faiths or folk. ",
     "url": "/dolmenwood/resources/religions/#gwyrae",
     
     "relUrl": "/resources/religions/#gwyrae"
-  },"126": {
+  },"131": {
     "doc": "Religions",
     "title": "Religions",
     "content": " ",
     "url": "/dolmenwood/resources/religions/",
     
     "relUrl": "/resources/religions/"
-  },"127": {
+  },"132": {
     "doc": "Resources",
     "title": "Resources",
     "content": " ",
     "url": "/dolmenwood/resources/",
     
     "relUrl": "/resources/"
-  },"128": {
+  },"133": {
     "doc": "Reverend Mother Hadlewreath",
     "title": "Reverend Mother Hadlewreath",
     "content": "An elderly, flabby human woman with fluffy white hair and a scratched monocle. Vicar of Dreg. Wants to be left in peace, and for the unrest in Dreg to end. Does not like Brother Hogbeard. ",
     "url": "/dolmenwood/campaign-info/non-player-characters/reverend-mother/",
     
     "relUrl": "/campaign-info/non-player-characters/reverend-mother/"
-  },"129": {
+  },"134": {
     "doc": "Brother Rodger Hogbeard",
     "title": "Brother Rodger Hogbeard",
     "content": "A plump, red-faced human man in his fifties, with bushy beard and eyebrows. Dressed in the hessian robes and tonsure of a friar, with a Chapes swinging from a chain around his neck. Came to Dreg five years ago, to aid the poor, but has become the leader of a band of religious vigilantes who dispense justice in the town. Burned Lan alive, in an attempt to cleanse him of Crookhorn corruption. Claims it didn’t work because of Lan’s sins. ",
     "url": "/dolmenwood/campaign-info/non-player-characters/rodger-hogbeard/",
     
     "relUrl": "/campaign-info/non-player-characters/rodger-hogbeard/"
-  },"130": {
+  },"135": {
     "doc": "Rules",
     "title": "Rules",
     "content": " ",
     "url": "/dolmenwood/rules/",
     
     "relUrl": "/rules/"
-  },"131": {
+  },"136": {
     "doc": "Schmold (Vlad)",
     "title": "Schmold",
     "content": "|   |   | . | Player | Vlad | . | Kindred | Mossling | . | Class | Hunter | . | Alignment | TODO | . | Description | TODO. Wants to meld with The Fungal Mind. | . ",
     "url": "/dolmenwood/campaign-info/player-characters/schmold/#schmold",
     
     "relUrl": "/campaign-info/player-characters/schmold/#schmold"
-  },"132": {
+  },"137": {
     "doc": "Schmold (Vlad)",
     "title": "Schmold (Vlad)",
     "content": " ",
     "url": "/dolmenwood/campaign-info/player-characters/schmold/",
     
     "relUrl": "/campaign-info/player-characters/schmold/"
-  },"133": {
+  },"138": {
     "doc": "Session 1",
     "title": "Session 1",
     "content": "16th September, 2026 . ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-1/",
     
     "relUrl": "/campaign-info/session-summaries/session-1/"
-  },"134": {
+  },"139": {
     "doc": "Session 1",
     "title": "Players",
     "content": ". | Ben (Playing Lord Mogglin) | Jaco (Playing Nokko) | Joe (Playing Hank Do-Good) | Kai (Playing Lan) | Kasturi (Playing Hilda) | Vlad (Playing Schmold) | . ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-1/#players",
     
     "relUrl": "/campaign-info/session-summaries/session-1/#players"
-  },"135": {
+  },"140": {
     "doc": "Session 1",
     "title": "XP Earned:",
     "content": "220 XP (Exploration) 6 XP (Encounters) 0 XP (Treasure) . 226 XP Each . ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-1/#xp-earned",
     
     "relUrl": "/campaign-info/session-summaries/session-1/#xp-earned"
-  },"136": {
+  },"141": {
     "doc": "Session 1",
     "title": "Summary",
     "content": " ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-1/#summary",
     
     "relUrl": "/campaign-info/session-summaries/session-1/#summary"
-  },"137": {
+  },"142": {
     "doc": "Session 1",
     "title": "Moot, The 4th of Reedwyrme (Feast of St. Elephantine the scribe)",
     "content": "Weather is Balmy and Clement . | Met in the wide halls of The Spawning Salmon, a squat, converted warehouse in the rough port-town of Dreg, along the wide, shallow river Hameth. It’s the prime gambling establishment in Dreg. The bard’s performed, while the other members of the group gambled. | Gamblers talked about the Vague family’s problems, a human family from Dreg. One of their sons, Arda, has gone missing. He’d spent several nights last week visiting Droomen Knoll, an old ruined Fairy fort to the north, on the border’s of Hag’s Addle along the Hameth, where he’d heard enchanting music. The Vagues worry Arda has been kidnapped by fairies. They’ll give two hundred gold for Arda’s safe return. | Word among the gamblers is that Crookhorns have been snooping around to the north of late, corrupted Breggle that serve the Nag Lord. | . | Travelled north along the shores of the Hameth. | Surprised by a boar, clearing out nearby swampland to make a den in preparation for winter. The boar became territorial, and the party attacked before it could charge. | The boar was slain, its tusks taken for trophies, and bacon for dinner. But not before the boar charged into Schmold, cracking a rib (it will take eight days for this to heal). | Cleared out the boar’s den to make shelter for the night. Yet when the mists came in across the Hameth the night got pretty chilly without bedrolls. | . | . ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-1/#moot-the-4th-of-reedwyrme-feast-of-st-elephantine-the-scribe",
     
     "relUrl": "/campaign-info/session-summaries/session-1/#moot-the-4th-of-reedwyrme-feast-of-st-elephantine-the-scribe"
-  },"138": {
+  },"143": {
     "doc": "Session 1",
     "title": "Frisk, The 5th of Reedwyrme",
     "content": "Weather is Cloudy and Misty . | Arrived at Droomen Knoll, confirming the rumours of snooping Crookhorns. Four were camped inside the ruined fort, drunk and playing raucous music, accompanying an eerie piping from below. Another watched from the fort’s sole remaining tower. | The Crookhorns were wary of us, so we left our belongings by the entrance archway, keeping only the bards’ instruments, to show that we meant them no harm. | One of the drunken Crookhorn’s let slip that they’d seen a boy around the Fort, though the other was quick to shut them up when they revealed this information. Suspicious… | Two of the four Crookhorns were enchanted with bardic song. | . | While the party kept the Crookhorns occupied, Schmold slipped around the side of the fort. He examined the tracks leading from the entrance, hoping to find a boy’s footprints, but the mud had been heavily trampled and he could distinguish nothing. | Failing this, he crept around the back of the fort and peered inside through the rubble of one of fort’s collapsed towers, observing the party charming the Crookhorns. | . | . ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-1/#frisk-the-5th-of-reedwyrme",
     
     "relUrl": "/campaign-info/session-summaries/session-1/#frisk-the-5th-of-reedwyrme"
-  },"139": {
+  },"144": {
     "doc": "Session 2",
     "title": "Session 2",
     "content": "23rd September, 2026 . ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-2/",
     
     "relUrl": "/campaign-info/session-summaries/session-2/"
-  },"140": {
+  },"145": {
     "doc": "Session 2",
     "title": "Players",
     "content": ". | Ben (Playing Lord Mogglin) | Jaco (Playing Nokko) | Joe (Playing Hilda) | Kai (Playing Lan) | Mungo (Playing Sprigrot) | Ross (Playing ?) | . ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-2/#players",
     
     "relUrl": "/campaign-info/session-summaries/session-2/#players"
-  },"141": {
+  },"146": {
     "doc": "Session 2",
     "title": "XP Earned:",
     "content": "458 XP (Exploration) 38 XP (Encounters) 516 XP (Treasure) . 1012 XP Each . ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-2/#xp-earned",
     
     "relUrl": "/campaign-info/session-summaries/session-2/#xp-earned"
-  },"142": {
+  },"147": {
     "doc": "Session 2",
     "title": "Summary",
     "content": " ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-2/#summary",
     
     "relUrl": "/campaign-info/session-summaries/session-2/#summary"
-  },"143": {
+  },"148": {
     "doc": "Session 2",
     "title": "Frisk, The 5th of Reedwyrme",
     "content": "Weather is Cloudy and Misty . | The search through Droomen Knoll for Arda Vague and the source of the eerie pipe music that lured him to the old Fairy Fort continued. | In the Fort’s Courtyard, Lord Mogglin and Hilda enchanted two drunken Crookhorns with bardic song, convincing them their companions had robbed them. A brawl erupted, giving the party an opening to recover their belongings from under the Fort’s gatehouse. | Nokko and Hilda subdued the remaining Crookhorns with Mogglin’s twine, but Hilda took a vicious goring, that would soon infect her with The Dreaded Goat Froth. | . | Lord Mogglin charmed Grerta, a Crookhorn stationed in the lookout tower, into helping them search the keep’s dungeons. | Grerta led Mogglin, Sprigrot, and ? snuck past a ragged, two-headed, purple-wattled cockerel guarding the main entrance to the den of Grobnott, the head of the Crookhorn gang stationed at the Fort, heading for the side-entrance to Grobnott’s den around the corner. Grerta knew this was where Arda was being kept captive. | . | The party discovered a frosted-sundial, several cells, and the source of the eerie music: Famine-Whistles-Whither, a thin, ragged Frost-Elf with tangled thistledown-like hair and twisted, claw-like fingernails. He played panpipes carved from the bones of rats he’d caught in his cell with the hope of attracting curious mortals to free him from his cell. | A powerful magical seal barred his cell, blue flames shimmering whenever anyone touched it. Famine-Whistles-Whither promised treasure and friendship if the party freed him and helped him ‘Find Mallowheart’s Mercy’. | The party learned that Prince Mallowheart, half-brother of the Cold Prince, had once ruled Droomen Knoll. He’d come with courtiers to feast and make merry. Frost-covered murals in another room depicted these courtiers: . | Prince Seven-Past-Noon: A tall, bitter nobleman, face blackened with frostbite and wearing a crown of thorns and diamonds. | Lady Silver-So-Mirrored: slender, playing a harp shaped like a teardrop-headed angel. | Sir Dawn-Never-Blooms: a tall knight in frost-clad armor and a beard of icicles. | Lord Slumber-Bone: a portly man with wide eyes and a merry expression. | Whisper-of-Candlelight: a statuesque woman with longsword and shield. | Famine-Whistles-Whither: a slender man with thistledown hair, playing a silver flute. A trio of blood-red hounds snapped at his heels. | . | Famine-Whistles-Whither confessed he was once Mallowheart’s fool. He fell from the Prince’s favor after baking the Prince’s hunting hounds into a pie and feeding them to him as a joke. The prince locked him away here to be forgotten. | Not wanting to deal with the fairy’s shenanigans if freed, the party decided not to free him. Famine-Whistles-Whither damned them, promising vengeance once freed. | . | Grerta slipped into the dungeon chamber where Grobnott held Arda. She retrieved Arda without alerting him. Grobnott lay deep in a drugged trance, inhaling rotting smoke from yellow, greasy candles that surrounded him. Arda seemed heavily drugged himself. | Grobnott awoke and pursued the party into the courtyard. Lan hurled the guarding cockerel at him, prompting the creature to release a horrible fart in fear, which left Grobnott keeled over in pain, vomiting. The party bound him temporarily with twine, while Nokko climbed the tower and pushed a cracked Merlon on top of him, crushing Grobnott and the cockerel. | In Grobnott’s den, the party found a scrawled note in Gaffe instructing someone to contact Rodger Burl in Dreg regarding spies within the constabulary. | . | Another chamber in the dungeon contained a nest of raven-like birds with long, sharp beaks. They flew from the chamber in fear of Lord Mogglin. A blood-drained corpse lay in their nest, wearing a torc decorated with golden-owl motifs (Drunic symbols), and pocketed with an orange crystal. | Picking up the crystal, Nokko had a vision of a slime-coated stag skeleton twitching in a circle of trilithons, accompanied by a grim voice: Ill omens at the Whything Stones. Winter cometh. | . | . | The party began their journey back to Dreg. Southeast of Droomen Knoll, the party discovered a rickety willow stilt-house in the marshes belonging to Tekwell, an elderly Longhorn with dirty fur, sickly yellow eyes, and a single horn protruding from beneath a wide-brimmed straw hat, the other broken off. | Tekwell fishes up strange debris washed up from the boats and barges that travel down the Hameth, trading between Dreg, the Woodcutter’s Encampment, and the southern lands outside of the Dolmenwood, brought up by the ship-conveyor at the Falls of Nyf. He only had fish to sell at the moment, but he welcomed the party to return later, when he might have found a more interesting catch. | Tekwell warned the party about the Hag, who wanders the swamps: “Fools try and reason with the Hag for magical aid, but the price she demands in exchange for her help is far too steep.” | . | Hilda and Lan have caught The Dreaded Goat Froth, Hilda from the gore-wound she took fighting the Crookhorns, and Lan from sleeping in the Crookhorn’s flea infested bedrolls. They’ll lose a point of Wisdom or Intelligence each day until either is reduced to 2, at which point they enter an uncontrollably violent frenzy. | In the morning, Lord Mogglin told Grerta to run at full speed into the swamp, hoping she’d be completely lost by the time she broke free of Mogglin’s enchantment. | . ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-2/#frisk-the-5th-of-reedwyrme",
     
     "relUrl": "/campaign-info/session-summaries/session-2/#frisk-the-5th-of-reedwyrme"
-  },"144": {
+  },"149": {
     "doc": "Session 3",
     "title": "Session 3",
     "content": "30th September, 2026 . ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-3/",
     
     "relUrl": "/campaign-info/session-summaries/session-3/"
-  },"145": {
+  },"150": {
     "doc": "Session 3",
     "title": "Players",
     "content": ". | Ben (Playing Lord Mogglin) | Jaco (Playing Nokko) | Kai (Playing Lan and Sir Garfunkel) | Mungo (Playing Sprigrot) | . ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-3/#players",
     
     "relUrl": "/campaign-info/session-summaries/session-3/#players"
-  },"146": {
+  },"151": {
     "doc": "Session 3",
     "title": "XP Earned:",
     "content": "660 XP (Exploration) 70 XP (Encounters) 100 XP (Treasure) . 830 XP Each . ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-3/#xp-earned",
     
     "relUrl": "/campaign-info/session-summaries/session-3/#xp-earned"
-  },"147": {
+  },"152": {
     "doc": "Session 3",
     "title": "Summary",
     "content": " ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-3/#summary",
     
     "relUrl": "/campaign-info/session-summaries/session-3/#summary"
-  },"148": {
+  },"153": {
     "doc": "Session 3",
     "title": "Eggfast, The 6th of Reedwyrme",
     "content": "Weather is Clement and Balmy . | The party travelled along the Hameth riverbanks from Tekwell’s Stilt House to Dreg. | Along the way, Arda revealed that he had visited the Fort several times to visit Famines-Whistlers-Whither before the Crookhorns captured him, suggesting they had only recently taken up residence there. | On the journey back to Dreg, Lan, who grew up in Dreg, told the party about how Dreg had always been a pretty seedy place, but recently has become more violent and dangerous. Brother Rodger Hogbeard, a friar, has taken to patrolling the town with religious vigilantes to dispense retributive justice on sinners. | Arrived back in Dreg at night, returning Arda to his parents, who offered a reward for the group’s help. | That evening, Lord Mogglin, Nokko, and Lan crossed the river by candlelit boat to Chateau Shantywood, a grand manor on an island in the middle of the Hameth. | Mogglin attempted to persuade Madame Shantywood, the Chateau’s frank and self-assured proprietor, to let him perform a play. When she refused, he swaggered over to the Chateau’s Ballroom, charmed a guard into securing the stage from the performing child minstrel, dimming the lights. He performed an elaborate love story between a pair of Frost-Elf and Human men, with gratuitous sexual scenes. Upon finishing, he turned invisible, effectively vanishing from the scene. The Minstrel resumed his performance, but Mogglin had taken most of the energy from the room with his disappearance. | Madame Shantywood confronted Mogglin in his chambers afterwards. She was unmoved by the spectacle, not directly mad at Mogglin, but firing the guard he charmed. Mogglin tried to hire her as a retainer the following morning as she boarded a boat with her belongings back to Dreg, but she had realized he had charmed her and flatly refused. | . | Sprigrot spent the evening sampling Dreg’s famous bog-swine sausages while inquiring about Brother Hogbeard. A vendor revealed that the Reverend Mother wanted the friar driven from town. Sprigrot then retired to the communal beds at The Spawning Salmon. | . | . ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-3/#eggfast-the-6th-of-reedwyrme",
     
     "relUrl": "/campaign-info/session-summaries/session-3/#eggfast-the-6th-of-reedwyrme"
-  },"149": {
+  },"154": {
     "doc": "Session 3",
     "title": "Sunning, the 7th of Reedwyrme",
     "content": "Weather is Clear and Chilly . | Met back up in town, and headed to Church of St. Wick to see if the Reverend Mother could help with Lan and Hilda’s affliction. | The Church was built on a pier on the Hameth, mouldering, battered, and poorly maintained. The Reverend Mother seemed more interested in her books than helping out the public. She just wants to be left in peace and for Dreg to return to the quiet seediness it had been before Brother Hogbeard arrived in town. It doesn’t seem like St. Wick’s miracles could help. | St. Wick the Venerable worked as a bargeman, ferrying passengers across a great lake and entertaining them with religious parables along the way. When a belligerent knight became angered and impaled Wick upon his lance, the saint-to-be removed himself from the weapon’s shaft and continued preaching, the wound miraculously healed. His miracles can heal great wounds, but not treat disease. | The Mother told the party that St. Pastery’s that they may have better luck in Prigwort. St. Pastery was a vicar turned mendicant. Refused entry to the castle of an ailing Prince Wallobringe during an outbreak of plague, St. Pastery blessed the hands of all butchers and cow-herders within a ten mile radius, ensuring that all meat brought to the ailing prince restoring him to health despite his refusal to admit Pastery. | The Mother told the party that Brother Hogbeard arrived in town five years ago, looking to help the poor and needy. But he’s recently succumbed to madness, turning to firebrand justice, cleansing the sinner with the zealots he’s attracted from the townsfolk. | . | Travelled to the Fish Market, where Brother Hogbeard and his followers patrolled, preaching. The Fishmongers mostly continued hawking their wares, hoping not to be confronted by Hogbeard. | Lan pleaded his case to Hogbeard. Hogbeard, with crazed, unblinking eyes, told Lan that sin can only be cleansed with fire. Lan, perhaps slightly addled by the Goat Froth, convinced him to setting a great fire. The Zealots took wood from an unlucky Fishmonger’s stall, using it to build a great bonfire. Lan was tied to the top, and burned alive. Hogbeard declared that, if Lan was a true believer, he would not have burned, taking this as proof of Lan’s sins. | . | Found Lord Javier Thistlewhistle, a member of the Brackenwold court, arriving at the Port of Dreg from Chateau Shantywood, and preparing to make leave on his pleasure barge to the Woodcutter’s Encampment, where he would take a carriage along the Camp Road to Castle Brackenwold. Thoroughly impressed by Mogglin’s performance, Thistlewhistle invited the party to join him on the barge Mist, and someday entertain him at Court. | After disembarking at the Camp, Thistlewhistle ordered the boat’s driver, Otis, to take the party north to Fog’s lake, where the party hoped to disembark and head to Prigwort. Otis wasn’t very comfortable about heading to Fog Lake, it being rumored to be haunting by bog-owls and drunic magic, but followed Thistlewhistle’s ordered. | Along the river, the party came across a small tributary leading to a network of grottoes 120’ away from the Hameth. Perched atop a rock above this grotto, a man in staff and robes conversed with a Yickerwill, a 6’ flying creature, with legs like caterpillars and faces like moths, and icy, fluttering wings. Seeing the boat pass, the Yickerwill flew at great speed. Fortunately, Mogglin charmed the Yickerwill, preventing it from attacking the party. The robed man seemed annoyed at his conversation being interrupted, but slunk away into the woods. | The Party arrived at Fog Lake, and waded onto the misty shores. On the shore, a man in courtly breeches and powdered wig sat crosslegged, cooking down a pan of noxious crystal sludge. He quickly fled upon seeing the Yickerwill, allowing the party to steal his belongings. Sprigrot communed with the roots of a nearby willow, who revealed that the man was cooking up drugs harvested from crystals in a nearby cave. | . | The Party headed north, finding the road West to Prigwort, along with a thatched cottage in a glade just a mile off the road. Too tired to travel further that day, they knocked on the cottage door, hoping for shelter. A small child greeted them, calling for her mother. ‘Mother’ greeted the party, a plump, middle-aged woman. She was pleasant to the party, and welcomed them to sleep in the glade, and to partake in her baking. But she could not allow them to sleep in her home, protective of her twelve daughters, and of their baking recipes. | The party taunted her with the charmed Yickerwill, forcing her to kill it. She cast a magic spell that turned the Yickerwill to gingerbread, which she quickly smashed with her rolling pin after the party refused to help in killing the creature. Annoyed at the party’s lack of help, Mother told the group to clear off. | . | The party were forced to camp out in the woods away from the glade, but didn’t manage to secure enough firewood to last them through the night. In the witching hour, while Sir Garfunkel was on watch, something glimmered in the distance; a campfire across a grove of trees, the piercing glow of wild animal eyes, and two knights in glittering, frost-rimed armor… | . ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-3/#sunning-the-7th-of-reedwyrme",
     
     "relUrl": "/campaign-info/session-summaries/session-3/#sunning-the-7th-of-reedwyrme"
-  },"150": {
+  },"155": {
     "doc": "Session Summaries",
     "title": "Session Summaries",
     "content": " ",
     "url": "/dolmenwood/campaign-info/session-summaries/",
     
     "relUrl": "/campaign-info/session-summaries/"
-  },"151": {
+  },"156": {
     "doc": "Squander Fortune",
     "title": "Squander a Fortune",
     "content": "Hank the Human Bard wants to earn a fortune to squander. ",
     "url": "/dolmenwood/campaign-info/campaign-goals/squander-fortune/#squander-a-fortune",
     
     "relUrl": "/campaign-info/campaign-goals/squander-fortune/#squander-a-fortune"
-  },"152": {
+  },"157": {
     "doc": "Squander Fortune",
     "title": "Squander Fortune",
     "content": " ",
     "url": "/dolmenwood/campaign-info/campaign-goals/squander-fortune/",
     
     "relUrl": "/campaign-info/campaign-goals/squander-fortune/"
-  },"153": {
+  },"158": {
     "doc": "Tekwell Onehorn",
     "title": "Tekwell Onehorn",
     "content": "An elderly Longhorn with dirty fur, sickly yellow eyes, and a single horn protruding from beneath a wide-brimmed straw hat, the other broken off. Lives in a stilt house on the borders of Hags-Addle, where he fishes up strange debris washed up from the boats and barges that travel down the Hameth, and sells what he finds to passers by. ",
