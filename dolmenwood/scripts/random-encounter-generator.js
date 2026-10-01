@@ -549,7 +549,7 @@ function generateCreature(type, region) {
     console.log(genre);
 
     encounter = encounter_and_number[0];
-    lair_chance = encounter_and_number[2];
+    lair_chance = encounter_and_number[3];
     total = 0
     for (i = 0; i < encounter_and_number[1]; i++) {
         total += rollDie(encounter_and_number[2]);
@@ -570,17 +570,18 @@ function generateResult() {
     const total = creature_and_total[1];
     const lair_chance = creature_and_total[2];
 
+    console.log("Lair Chance");
     console.log(lair_chance);
 
     if (Math.random() <= lair_chance) {
         in_lair = ""
     } else { in_lair = "Not " }
 
-    if (rollDie(3) >= 2) {
+    if (rollDie(3) <= 2) {
         encounter_surprised = "";
     } else { encounter_surprised = "Not " }
 
-    if (rollDie(3) >= 2) {
+    if (rollDie(3) <= 2) {
         party_surprised = "";
     } else { party_surprised = "Not " }
 
