@@ -289,6 +289,9 @@
 <loc>http://localhost:4000/chime/resources/martel-basics/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/chime/resources/martel-good/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/chime/resources/martel-rarities/</loc>
 </url>
 <url>
@@ -448,6 +451,9 @@
 <loc>http://localhost:4000/chime/campaign-info/session-summaries/session-14/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/chime/campaign-info/session-summaries/session-15/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/chime/campaign-info/session-summaries/session-1a/</loc>
 </url>
 <url>
@@ -593,6 +599,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/chime/campaign-info/rumors/week-2/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/chime/campaign-info/rumors/week-3/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/chime/campaign-info/non-player-characters/wild-eye/</loc>
