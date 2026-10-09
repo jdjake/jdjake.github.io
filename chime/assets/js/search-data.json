@@ -5321,7 +5321,7 @@
   },"760": {
     "doc": "Travel Procedures",
     "title": "Travel Equipment",
-    "content": "Certain equipment helps navigate terrain: . | A Compass gives you Skill when navigating to terrain that has been marked by a Check Maps action. | A Spyglass allows one to mark multiple hexes by a Check Maps action, provided that action is taken from a high vantage point. | . Such equipment also exists within the fictional world, and can thus be used for many other purposes which make sense within the fiction. A Spyglass can be used to burn ants on a sunny day, and a Compass can be given as a gift to earn another person’s trust. ",
+    "content": "Certain equipment helps navigate terrain: . | A Compass gives you Skill when navigating to terrain that has been marked by a Check Maps action. | A Spyglass allows one to mark three hexes with a single Check Maps action, provided that action is taken from a high vantage point. | . Such equipment also exists within the fictional world, and can thus be used for many other purposes which make sense within the fiction; a Spyglass can be used to burn ants on a sunny day, and a Compass can be given as a gift to earn another person’s trust. ",
     "url": "/chime/rules/travel-rules/#travel-equipment",
     
     "relUrl": "/rules/travel-rules/#travel-equipment"
