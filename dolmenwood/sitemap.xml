@@ -7,6 +7,9 @@
 <loc>http://localhost:4000/dolmenwood/campaign-info/non-player-characters/arda-vague/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/dolmenwood/campaign-info/non-player-characters/austache-jongle/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/dolmenwood/campaign-info/campaign-goals/bard-world-tour/</loc>
 </url>
 <url>
@@ -19,6 +22,9 @@
 <loc>http://localhost:4000/dolmenwood/campaign-info/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/dolmenwood/campaign-info/non-player-characters/captain-hogwash/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/dolmenwood/rules/character-creation/</loc>
 </url>
 <url>
@@ -26,6 +32,12 @@
 </url>
 <url>
 <loc>http://localhost:4000/dolmenwood/rules/core-rules/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/dolmenwood/campaign-info/non-player-characters/deboriah-rootwylde/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/dolmenwood/campaign-info/non-player-characters/edgard-wyrmspittle/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/dolmenwood/campaign-info/campaign-goals/explore-fairy/</loc>
@@ -70,6 +82,9 @@
 <loc>http://localhost:4000/dolmenwood/campaign-info/player-characters/mogglin/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/dolmenwood/campaign-info/non-player-characters/mostlemyre-drouge/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/dolmenwood/campaign-info/non-player-characters/mother/</loc>
 </url>
 <url>
@@ -77,6 +92,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/dolmenwood/campaign-info/non-player-characters/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/dolmenwood/campaign-info/non-player-characters/otis/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/dolmenwood/campaign-info/player-characters/</loc>
@@ -97,7 +115,10 @@
 <loc>http://localhost:4000/dolmenwood/resources/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/dolmenwood/campaign-info/non-player-characters/reverend-mother/</loc>
+<loc>http://localhost:4000/dolmenwood/campaign-info/non-player-characters/reverand-mother-hadlewreath/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/dolmenwood/campaign-info/non-player-characters/reverand-mother-smunk/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/dolmenwood/campaign-info/non-player-characters/rodger-hogbeard/</loc>
@@ -125,6 +146,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/dolmenwood/campaign-info/session-summaries/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/dolmenwood/campaign-info/non-player-characters/sprewdiman-kneeve/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/dolmenwood/campaign-info/campaign-goals/squander-fortune/</loc>
