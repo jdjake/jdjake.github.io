@@ -127,7 +127,7 @@
   },"18": {
     "doc": "Core Rules",
     "title": "Core Rules",
-    "content": ". | The Basic Game Procedure | Resolution Systems . | Skill Checks | Ability Checks | Saving Throws | Attack Rolls | Luck Check | Example Resolutions | . | Encounter Procedures | Combat Procedures | House Rules . | Death and Dismemberment . | Early Retirement Table . | Example: Farmer | Example: Monk | Example: Criminal | Example: Beggar | . | . | Camping Minigame . | Setup Activities . | Preparing the Campsite | Search for Natural Shelter | Care for Animals | Starting a Fire | Gathering Firewood | Fellowship | . | Nighttime Encounters | A New Day | . | Alternate Alignment System . | Law | Chaos | Neutrality | . | . | . ",
+    "content": ". | The Basic Game Procedure | Resolution Systems . | Skill Checks | Ability Checks | Saving Throws | Attack Rolls | Luck Check | Example Resolutions | . | Encounter Procedures | Combat Procedures | House Rules . | Death and Dismemberment . | Early Retirement Table . | Example: Farmer | Example: Monk | Example: Criminal | Example: Beggar | . | . | Camping Minigame . | Setup Activities . | Preparing the Campsite | Search for Natural Shelter | Care for Animals | Starting a Fire | Gathering Firewood | Fellowship | . | Nighttime Encounters | A New Day | . | Alternate Alignment System . | Law . | True Names | . | Chaos . | Selling Your Soul | . | Neutrality | . | . | . ",
     "url": "/dolmenwood/rules/core-rules/",
     
     "relUrl": "/rules/core-rules/"
@@ -225,14 +225,14 @@
   },"32": {
     "doc": "Core Rules",
     "title": "Alternate Alignment System",
-    "content": "Law and Chaos are diametrical cosmic forces in the universe. The tension between Law and Chaos give rise to the very threads from which gods, fairy, mortals, and reality itself is woven. Law is frequently associated with ‘Goodness’, Chaos with ‘Evil’, but these are generalizations, not rules. Neither are truly benevolent or malevolent. All beings have an Alignment which represents a character’s orientation on the cosmic scale, the ratios of the cosmic threads from which a person’s soul is woven. In practice, there are infinite ways by which a being’s soul may be tied to the universe, as many ways as there are styles to braid the cosmic threads together. But for the purposes of game mechanics, beings are categorized under one of three alignments: Law, Neutrality, or Chaos. Alignments have nothing to do with a character’s allegiances, personality, or morality; whether or not a character with either of these alignments is actively engaged in the Cosmic Struggle, their souls are marked with a cosmic affiliation nonetheless. Animals and other creatures of lesser sentience tend to be neutral, but not always. Characters of Neutral Alignment are also embodiments of Law and Chaos, but these exist in a more balanced state within the character’s being than those of Lawful or Chaotic alignment. Neutrality is not a cosmic force in the universe. Player characters are free to select whichever Alignment they choose, though Clerics must be Lawful, and Friars cannot be Chaotic. GM’s should not use Alignment as a tool to police the behavior of aligned characters. But there are powerful beings and institutions within The Dolmenwood with the ability to do so, as they entwine fates, drawing aligned characters to their banner’s cause. Because Alignments represent fundamental forces of the universe, a character’s Alignment may predicate very real mechanical effects and consequences as they interact with the magic, monsters, and more powerful beings within The Dolmenwood. Law . Law is the force of order, stability, and harmony, but also stagnation, imprisonment, and fascism. The Cosmic Struggle of Law is to ensure the events of the world inevitably march on their flawless, unchanging plans towards the ultimate, irrefutable truth of the universe. As time moves on, all distraction and resistance to this plan will falter, until everything will be in its perfect state forevermore, without alteration or the possibility of possibilities. Those who are Lawful in Alignment are part of this inevitable destiny, awash on the turbulent seas of fate, but often have little knowledge of what that destiny is and what their role will be in fulfilling it. So those that pursue the Cosmic Struggle of Law are forever looking for signs and omens to show them their proper way. Chaos . Chaos is the force of change and freedom, but also destruction, indifference, and lawlessness. Chaos is the howling maelstrom beyond the veil of shadows and existence. It bends and tears the fabric of the universe; it destroys all that seeks to be permanent. It allows great miracles as reality alters at the whim of those that can call upon the eldritch forces, and it causes great catastrophe as beings we call demons (and far, far worse) rip into our reality and lay waste to all. Everything that is made will be unmade. Nothing exists, and nothing can ever exist, not in a way that the cosmos can ever recognize. Those who pursue the Cosmic Struggle of Chaos consider the world in terms of ebbing and flowing energy, of eternal tides washing away the sand castles that great kings and mighty gods build for themselves. To be Chaotically Aligned is to be an attractor to higher beings and cosmic forces in need of pawns in the pursuit of needless goals. Many who are aligned with Chaos desperately wish they were not. Neutrality . To be Neutral is merely to exist between the forces of Law and Chaos. Most beings in the universe are born with Neutral Alignment, and remain so unless drastic measures (often unwittingly followed) realign the cosmic threads of their existence. In the real world, every human being that has ever existed has had Neutral Alignment; Law and Chaos are fantastical supernatural forces unlike any of us have experienced in our mundane lives. Examples of the most Lawfully Aligned characters are those deeply bound with the concept of fate, whether they are fulfilling a predetermined destiny or attempting to escape it. Such figures include Luke Skywalker, King Arthur, Paul Atreides, Buffy the Vampire Slayer, or The Antichrist. The most Chaotically Aligned characters are granted supernatural powers to change the world as they will it, or characters which always seem to run into destruction or misfortune. Examples of Chaotic characters include Superman, most wizards, and almost all of The Muppets. ",
+    "content": "Law and Chaos are diametrical cosmic forces in the universe. The tension between Law and Chaos give rise to the very threads from which gods, fairy, mortals, and reality itself is woven. Law is frequently associated with ‘Goodness’, Chaos with ‘Evil’, but these are generalizations, not rules. Neither are truly benevolent or malevolent. All beings have an Alignment which represents a character’s orientation on the cosmic scale, the ratios of the cosmic threads from which a person’s soul is woven. In practice, there are infinite ways by which a being’s soul may be tied to the universe, as many ways as there are styles to braid the cosmic threads together. But for the purposes of game mechanics, beings are categorized under one of three alignments: Law, Neutrality, or Chaos. Alignments have nothing to do with a character’s allegiances, personality, or morality; whether or not a character with either of these alignments is actively engaged in the Cosmic Struggle, their souls are marked with a cosmic affiliation nonetheless. Animals and other creatures of lesser sentience tend to be neutral, but not always. Characters of Neutral Alignment are also embodiments of Law and Chaos, but these exist in a more balanced state within the character’s being than those of Lawful or Chaotic alignment. Neutrality is not a cosmic force in the universe. Player characters are free to select whichever Alignment they choose, though Clerics must be Lawful, and Friars cannot be Chaotic. GM’s should not use Alignment as a tool to police the behavior of aligned characters. But there are powerful beings and institutions within The Dolmenwood with the ability to do so, as they entwine fates, drawing aligned characters to their banner’s cause. Because Alignments represent fundamental forces of the universe, a character’s Alignment may predicate very real mechanical effects and consequences as they interact with the magic, monsters, and more powerful beings within The Dolmenwood. Law . Law is the force of order, stability, and harmony, but also stagnation, imprisonment, and fascism. The Cosmic Struggle of Law is to ensure the events of the world inevitably march on their flawless, unchanging plans towards the ultimate, irrefutable truth of the universe. As time moves on, all distraction and resistance to this plan will falter, until everything will be in its perfect state forevermore, without alteration or the possibility of possibilities. Those who are Lawful in Alignment are part of this inevitable destiny, awash on the turbulent seas of fate, but often have little knowledge of what that destiny is and what their role will be in fulfilling it. So those that pursue the Cosmic Struggle of Law are forever looking for signs and omens to show them their proper way. True Names . Lawful PCs have a close connection to the True Names of the world, and can conjure their powers. Every creature has a True Name, completely unique to them, which describes a central truth of their character. Each True Name is a declarative sentence, 1d6+2 words in length. For instance, Rumpelstiltskin’s True Name is “I always drive a hard bargain”. Fragments of an individuals True Name may be discoverable by undertaking research in restricted tomes of dusty libraries, the wisdom of distant sages, and the archeology of ancient peoples. Elven characters often have names that serve as highly cryptic clues to their True Names. If you know a portion of a creature’s True Name, you can attempt to guess the full name, preferably with pizazz: “RUMPELSTILTSKIN, I COMMAND THEE!”. If your guess is wrong, the target learns a word of your True Name. Once a True Name is known, you can summon or command the target. Each requires a Save vs. Spells, with a failure indicating that the target learns a word of your True Name. Summoning causes the individual to teleport to you instantly. A Command requires the target to do as you require. If the command is unrelated to an individual’s True Name, then the True Name sharpens, and they add an extra d6 words to their True Name to limit, qualify, or restrct the True Name. For instance, Rumpelstiltskin’s True Name may sharpen to “I Always Drive A Hard Bargain For A Damsel In Distress”. Chaos . Chaos is the force of change and freedom, but also destruction, indifference, and lawlessness. Chaos is the howling maelstrom beyond the veil of shadows and existence. It bends and tears the fabric of the universe; it destroys all that seeks to be permanent. It allows great miracles as reality alters at the whim of those that can call upon the eldritch forces, and it causes great catastrophe as beings we call demons (and far, far worse) rip into our reality and lay waste to all. Everything that is made will be unmade. Nothing exists, and nothing can ever exist, not in a way that the cosmos can ever recognize. Those who pursue the Cosmic Struggle of Chaos consider the world in terms of ebbing and flowing energy, of eternal tides washing away the sand castles that great kings and mighty gods build for themselves. To be Chaotically Aligned is to be an attractor to higher beings and cosmic forces in need of pawns in the pursuit of their wanton goals. Many who are aligned with Chaos desperately wish they were not, for they suffer endless temptations from those that seek to use them for their own ends. Selling Your Soul . Chaotic PCs possess a malleable soul, which can be sold, quartered, to the forces of Chaos at dire cost. In dire circumstances, PCs may attempt contact with the Chaotic forces, represented by drawing a Major Arcana card. The player makes a Wisdom check to attempt contact with one of the Chaotic forces. Upon a failed check, the player may still establish contact with one Chaotic force - Hell is always listening… . Upon making contact, negotiations with the Chaotic force begin. The player makes a request, the scale of which determining the amount of the soul they may have to offer up as payment. As a deity claims more and more of a PCs soul, they gain increasing ownership and control over the body that houses it. Each force of Chaos has its own nature, expectations, and desires, which are imposed upon its vessel; each portion of a soul sold imposes a vow on the PC. Should they break this vow, the force of Chaos will exact a punishment upon them. Chaotic individuals are trapped in the endless maelstrom of existence, reincarnated again and again to perpetuate the eternal struggle of the multiverse. When a Chaotic character dies, and any portions of that character’s soul are possessed by Hell, the player must pass a Wisdom check, or be forever trapped within a deepest Hell of their worst imagining. Elsewise, the player and GM work together to envision what the character is reincarnated into in their next life. This new incarnation should reflect the character’s deeds, ambitions, strengths, and flaws, as well as the ideals of any other forces of Chaos to which a PC has pledged their souls to. Neutrality . To be Neutral is merely to exist between the forces of Law and Chaos. Most beings in the universe are born with Neutral Alignment, and remain so unless drastic measures (often unwittingly followed) realign the cosmic threads of their existence. ",
     "url": "/dolmenwood/rules/core-rules/#alternate-alignment-system",
     
     "relUrl": "/rules/core-rules/#alternate-alignment-system"
   },"33": {
     "doc": "Deboriah Rootwylde",
     "title": "Deboriah Rootwylde",
-    "content": "A teenager, scrawny, heavyset, oily haired, and square-faced. A cleric of the Order of St. Sedge the Unblemished. Hired to adventure alongside the party. Desires to recover the shrines of the lost saints through the Dolmenwood, to find relics in the long despoiled abbey of St. Clewyd. ",
+    "content": "A teenager, scrawny, heavyset, oily-haired, and square-faced. A cleric of the Order of St. Sedge the Unblemished. Hired to adventure alongside the party. Desires to recover the shrines of the lost saints through the Dolmenwood, to find relics in the long despoiled abbey of St. Clewyd. ",
     "url": "/dolmenwood/campaign-info/non-player-characters/deboriah-rootwylde/",
     
     "relUrl": "/campaign-info/non-player-characters/deboriah-rootwylde/"
@@ -1086,7 +1086,7 @@
   },"155": {
     "doc": "Session 2",
     "title": "Players",
-    "content": ". | Ben (Playing Lord Mogglin) | Jaco (Playing Nokko) | Joe (Playing Hilda) | Kai (Playing Lan) | Mungo (Playing Sprigrot) | Ross (Playing ?) | . ",
+    "content": ". | Ben (Playing Lord Mogglin) | Jaco (Playing Nokko) | Joe (Playing Hilda) | Kai (Playing Lan) | Mungo (Playing Sprigrot) | Ross (Playing Moggle Goldtooth) | . ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-2/#players",
     
     "relUrl": "/campaign-info/session-summaries/session-2/#players"
@@ -1163,7 +1163,7 @@
   },"166": {
     "doc": "Session 4",
     "title": "Players",
-    "content": ". | Ben (Playing Lord Mogglin) | Illaria (Playing ?) | Jaco (Playing Nokko) | Kai (Playing Ser Garfunkel) | Ross (Playing ?) | Mungo (Playing Sprigrot) | . ",
+    "content": ". | Ben (Playing Lord Mogglin) | Illaria (Playing ?) | Jaco (Playing Nokko) | Kai (Playing Ser Garfunkel) | Ross (Playing Moggle Goldtooth) | Mungo (Playing Sprigrot) | . ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-4/#players",
     
     "relUrl": "/campaign-info/session-summaries/session-4/#players"
@@ -1205,7 +1205,7 @@
   },"172": {
     "doc": "Session 5",
     "title": "Players",
-    "content": ". | Ben (Playing Lord Mogglin) | Daz (Playing ?) | Jaco (Playing Nokko) | Kai (Playing Ser Garfunkel) | Ross (Playing ?) | Mungo (Playing Sprigrot) | . ",
+    "content": ". | Ben (Playing Lord Mogglin) | Daz (Playing ?) | Jaco (Playing Nokko) | Kai (Playing Ser Garfunkel) | Ross (Playing Moggle Goldtooth) | Mungo (Playing Sprigrot) | . ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-5/#players",
     
     "relUrl": "/campaign-info/session-summaries/session-5/#players"
@@ -1226,7 +1226,7 @@
   },"175": {
     "doc": "Session 5",
     "title": "Frisk the 12th of Reedwyrme",
-    "content": "Weather is Cloudy and Misty . | While the town rested to Prigwort, the party became aware of the Bounder’s, a gang of local youths who don’t take kindly to strangers, on grounds that they might be spies for the Nag-Lord who dwells in the Woods to the North. | The group decided to get involved. While Nokko and Lord Mogglin performed for an evening, the rest of the group kept an eye out for the gang around town. They found a small group of Bounders, lead by a pudgy, blonde-bearded man named Austache, roughing up a group of Breggle travellers passing through the town. | Lord Mogglin attempted to enchant Austache, but failed. Not taking to being charmed, the group became aggressive to the party, giving the Breggle travellers time to escape. Garfunkel and Sprigrot managed to intimidate the group with their magical swords, then Nokko enchanted the group with a song. The Bounder’s followed Nokko to the Gaol in town, got them to confess to their crimes (they even killed some folks!). They were then locked up for the night. | . | . ",
+    "content": "Weather is Cloudy and Misty . | Hired Debboriah the Cleric to adventure with the party. She’s eager to adventure, though straightlaced. | While the town rested to Prigwort, the party became aware of the Bounder’s, a gang of local youths who don’t take kindly to strangers, on grounds that they might be spies for the Nag-Lord who dwells in the Woods to the North. | The group decided to get involved. While Nokko and Lord Mogglin performed for an evening, the rest of the group kept an eye out for the gang around town. They found a small group of Bounders, lead by a pudgy, blonde-bearded man named Austache, roughing up a group of Breggle travellers passing through the town. | Lord Mogglin attempted to enchant Austache, but failed. Not taking to being charmed, the group became aggressive to the party, giving the Breggle travellers time to escape. Garfunkel and Sprigrot managed to intimidate the group with their magical swords, then Nokko enchanted the group with a song. The Bounder’s followed Nokko to the Gaol in town, got them to confess to their crimes (they even killed some folks!). They were then locked up for the night. | . | . ",
     "url": "/dolmenwood/campaign-info/session-summaries/session-5/#frisk-the-12th-of-reedwyrme",
     
     "relUrl": "/campaign-info/session-summaries/session-5/#frisk-the-12th-of-reedwyrme"
@@ -1238,34 +1238,76 @@
     
     "relUrl": "/campaign-info/session-summaries/session-5/#eggfast-the-13th-of-reedwyrme"
   },"177": {
+    "doc": "Session 6",
+    "title": "Session 6",
+    "content": "21st October, 2026 . ",
+    "url": "/dolmenwood/campaign-info/session-summaries/session-6/",
+    
+    "relUrl": "/campaign-info/session-summaries/session-6/"
+  },"178": {
+    "doc": "Session 6",
+    "title": "Players",
+    "content": ". | Carina (Playing Schmold Fernhead) | Joe (Playing Hank Do-Good) | Jaco (Playing Nokko) | Kai (Playing Ser Garfunkel) | Mungo (Playing Sprigrot) | Gary (Playing Supper-Before-Noon) | . ",
+    "url": "/dolmenwood/campaign-info/session-summaries/session-6/#players",
+    
+    "relUrl": "/campaign-info/session-summaries/session-6/#players"
+  },"179": {
+    "doc": "Session 6",
+    "title": "XP Earned:",
+    "content": "505 XP (Exploration) 59 XP (Encounters) . 564 XP Each . ",
+    "url": "/dolmenwood/campaign-info/session-summaries/session-6/#xp-earned",
+    
+    "relUrl": "/campaign-info/session-summaries/session-6/#xp-earned"
+  },"180": {
+    "doc": "Session 6",
+    "title": "Summary",
+    "content": " ",
+    "url": "/dolmenwood/campaign-info/session-summaries/session-6/#summary",
+    
+    "relUrl": "/campaign-info/session-summaries/session-6/#summary"
+  },"181": {
+    "doc": "Session 6",
+    "title": "Sunning the 14th of Reedwyrme",
+    "content": "Weather is Drizzly and Damp . | Investigated the glowing green cave in Hex 1108. We called out to announce our arrival to anyone in the cave. A grumpy voice responded. She didn’t want to be disturbed, and threatened to curse us if we came near. | We went in anyway. The cave had several chambers, the ground squelching mud, with dim, green candle-light positioned around. In the second chamber, a witch brewed a cauldron over a fire, amidst various supplies: drying herbs and pickle jars. Her name was Bragwen Hoad. | She threatened us, but when she heard we needed help with Ser Garfunkel’s curse (and especially when she heard about our suspicions of the Mother Baker outside Prigwort), she warmed up to us considerably. | The Mother Baker (her daughters in particular) had stolen her wand, and if we retrieved it, she’d cure Ser Garfunkel of his curse. We made deal to return her wand, in exchange for clearing a curse, and potentially to make an ally that can help with Nokko’s sentient pig. | . | We began travelling back to the Mother Baker to retrieve Bragwen’s wand. At night, while the rest prepared camp, Supper-Before-Noon hunted the delicious sugary flesh-slime of the Dolmenwood Honey Badger. But their arrow missed, and the badgers escaped. | . ",
+    "url": "/dolmenwood/campaign-info/session-summaries/session-6/#sunning-the-14th-of-reedwyrme",
+    
+    "relUrl": "/campaign-info/session-summaries/session-6/#sunning-the-14th-of-reedwyrme"
+  },"182": {
+    "doc": "Session 6",
+    "title": "Colly the 15th of Reedwyrme",
+    "content": "Weather is Frosty and Chill . | We returned to the Baker’s House outside Prigwort. Nokko and Hank knocked on the front door, hoping to distract Mother while Ser Garfunkel, disguised as a cat, snuck round the back of the house. Mother was not pleased to see Nokko again. And when Schmold and Supper-Before-Noon knocked again to further distract, Mother warned them to leave immediately to avoid trouble. | In the back belched a 60’ pool of yeasty, frothing dough. Six gingerbread men with vacant icing grins on their faces mindlessly stirred the pool, ocasionally wheelbarrowing dough to deliver into the kitchen. They payed no attention to Garfunkel, and when they delivered dough into the kitchen, he snuck past. | In the kitchen, the daughters worked dough, delivering baking to an enormous brick oven. Shelves brimmed with baking, spices, and flour. Garfunkel attempted to sneak past, but the daughters saw the cat, and crowded around to have a stroke. | The two bards Nokko and Hank took position at each sides of the front entrance and began playing a tune. Mother told the daughters to head to their rooms for safety, opened the door, and swung her rolling pin, ordering the Gingerbread Men from the back to attack. Four more half-formed men emerged from the pool to attack the two bards. | Meanwhile, Ser Garfunkel slunk up to the front door, and talked to several cats that lounged in the rafters of the foyer. They weren’t willing to help Garfunkel take down their owner - they had a comfortable life here. | Supper-Before-Noon shot Mother, causing her to close the door and retreat, directly into the face of Ser Garfunkel, transforming back into humanoid form. | Before Ser Garfunkel could attack, Mother cast a spell, encasing Ser Garfunkel in magical pastry. Mother began dragging him towards the oven. | The others attempted to fight off the Gingerbread Men, but they proved too tough. Several party members were severely injured. Leaving Debbie for dead, the group retreated to the pool, hoping to distract the Gingerbread Men while Sprigrot dealt with Mother. | . | . ",
+    "url": "/dolmenwood/campaign-info/session-summaries/session-6/#colly-the-15th-of-reedwyrme",
+    
+    "relUrl": "/campaign-info/session-summaries/session-6/#colly-the-15th-of-reedwyrme"
+  },"183": {
     "doc": "Session Summaries",
     "title": "Session Summaries",
     "content": " ",
     "url": "/dolmenwood/campaign-info/session-summaries/",
     
     "relUrl": "/campaign-info/session-summaries/"
-  },"178": {
+  },"184": {
     "doc": "Sprewdiman Kneeve",
     "title": "Sprewdiman Kneeve",
     "content": "Vain, insipid, and rat-faced, with a powdered wig and brass-knobbed walking cane. Kneeve is an expert in all matters musical, and programmes the performances at the Wrinkled Medlar in Prigwort. Rumoured to be a virtuoso violinist, though rarely performs because of stage fright. ",
     "url": "/dolmenwood/campaign-info/non-player-characters/sprewdiman-kneeve/",
     
     "relUrl": "/campaign-info/non-player-characters/sprewdiman-kneeve/"
-  },"179": {
+  },"185": {
     "doc": "Squander Fortune",
     "title": "Squander a Fortune",
     "content": "Hank the Human Bard wants to earn a fortune to squander. ",
     "url": "/dolmenwood/campaign-info/campaign-goals/squander-fortune/#squander-a-fortune",
     
     "relUrl": "/campaign-info/campaign-goals/squander-fortune/#squander-a-fortune"
-  },"180": {
+  },"186": {
     "doc": "Squander Fortune",
     "title": "Squander Fortune",
     "content": " ",
     "url": "/dolmenwood/campaign-info/campaign-goals/squander-fortune/",
     
     "relUrl": "/campaign-info/campaign-goals/squander-fortune/"
-  },"181": {
+  },"187": {
     "doc": "Tekwell Onehorn",
     "title": "Tekwell Onehorn",
     "content": "An elderly Longhorn with dirty fur, sickly yellow eyes, and a single horn protruding from beneath a wide-brimmed straw hat, the other broken off. Lives in a stilt house on the borders of Hags-Addle, where he fishes up strange debris washed up from the boats and barges that travel down the Hameth, and sells what he finds to passers by. ",
