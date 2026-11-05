@@ -52,6 +52,9 @@
 <loc>http://localhost:4000/dolmenwood/campaign-info/non-player-characters/grerta/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/dolmenwood/campaign-info/non-player-characters/grphius-malbleat/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/dolmenwood/campaign-info/player-characters/hank/</loc>
 </url>
 <url>
@@ -130,6 +133,9 @@
 <loc>http://localhost:4000/dolmenwood/rules/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/dolmenwood/campaign-info/non-player-characters/sagewine-hogwarsh/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/dolmenwood/campaign-info/player-characters/schmold/</loc>
 </url>
 <url>
@@ -158,6 +164,12 @@
 </url>
 <url>
 <loc>http://localhost:4000/dolmenwood/campaign-info/session-summaries/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/dolmenwood/campaign-info/non-player-characters/shadgore-ramius/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/dolmenwood/campaign-info/non-player-characters/simeone-murkin/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/dolmenwood/campaign-info/non-player-characters/sprewdiman-kneeve/</loc>
